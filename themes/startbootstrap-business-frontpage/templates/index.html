@@ -1,0 +1,20 @@
+{% extends "base.html" %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ SITEDESCRIPTION }}">
+    <meta name="keywords" content="{{ SITEKEYWORDS }}">
+    <meta name="author" content="{{ AUTHOR }}">
+{% endblock %}
+
+{% block heading_title %}{{ SITENAME }}{% endblock %}
+
+{% block content %}
+		<section>
+			<div class="container">
+{%   for article in articles_page.object_list %}
+				<h3><a href="/{{ article.url }}">{{ article.title }}</a></h3>
+{{ article.summary }}
+{%   endfor %}
+			</div>
+		</section>
+{% endblock %}

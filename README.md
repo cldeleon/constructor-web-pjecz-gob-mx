@@ -1,2 +1,3 @@
-# constructor-web-pjecz-gob-mx
-Constructor del sitio web del PJECZ para usarse con Pelican
+# Constructor Web del sitio pjecz.gob.mx
+
+Archivos y directorios que por medio de [Pelican](https://blog.getpelican.com/) construyen el sitio web del [Poder Judicial del Estado de Coahuila de Zaragoza](https://www.pjecz.gob.mx).

@@ -1,0 +1,19 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ page.summary|striptags }}">
+    <meta name="keywords" content="{{ [page.tags|join(', '), page.category]|join(', ') }}">
+    <meta name="author" content="{{ page.author.name }}">
+{% endblock %}
+
+{% block heading_title %}{{ page.title }}{% endblock %}
+
+{% block content %}
+		<article>
+			<div class="container">
+{{ page.content }}
+			</div>
+		</article>
+{% endblock %}

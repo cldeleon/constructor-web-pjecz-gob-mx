@@ -1,0 +1,45 @@
+<!doctype html>
+<html lang="es">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <meta name="generator" content="Pelican Static Site Generator, Powered by Python">
+{% block meta_tags %}{% endblock %}
+    <title>{% block title %}{% endblock %}</title>
+    <link rel="shortcut icon" type="image/x-icon" href="/favicon.ico">
+    <link rel="icon" href="/theme/images/icon-hires.png" sizes="192x192">
+    <link rel="icon" href="/theme/images/icon-normal.png" sizes="128x128">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon.png">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-76x76.png" sizes="76x76">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-120x120.png" sizes="120x120">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-152x152.png" sizes="152x152">
+    <link rel="apple-touch-icon" href="/theme/images/apple-touch-icon-180x180.png" sizes="180x180">
+{% if FEED_ALL_RSS %}
+    <link rel="alternate" href="/{{ FEED_ALL_RSS }}" type="application/rss+xml" title="{{ SITENAME }} Full RSS Feed" />
+{% endif %}
+	<link rel="stylesheet" href="/theme/vendor/bootstrap/css/bootstrap.min.css">
+	<link rel="stylesheet" href="/theme/css/business-frontpage.css">
+{% if USE_REMOTE_SERVICES %}
+{%   include 'google-analytics.html' %}
+{% endif %}
+</head>
+<body>
+{% include 'navigation.html' %}
+	<main>
+        <header class="bg-primary py-5 mb-5">
+            <div class="container h-100">
+                <div class="row h-100 align-items-center">
+                    <div class="col-lg-12">
+                        <h1 class="display-4 text-white mt-5 mb-2">{% block heading_title %}{% endblock %}</h1>
+                        <p class="lead mb-5 text-white-50">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Non possimus ab labore provident mollitia. Id assumenda voluptate earum corporis facere quibusdam quisquam iste ipsa cumque unde nisi, totam quas ipsam.</p>
+                    </div>
+                </div>
+            </div>
+        </header>
+{% block content %}{% endblock %}
+	</main>
+{% include 'footer.html' %}
+	<script src="/theme/vendor/jquery/jquery.min.js"></script>
+	<script src="/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
