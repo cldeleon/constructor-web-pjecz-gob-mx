@@ -5,8 +5,11 @@ from __future__ import unicode_literals
 # Tema
 THEME = 'themes/startbootstrap-business-frontpage'
 
-# Sitio web
+# Para desarrollo, los vinculos son relativos
 SITEURL = ''
+RELATIVE_URLS = True
+
+# Metadatos de todo el sitio web
 SITENAME = 'Poder Judicial del Estado de Coahuila de Zaragoza'
 SITELOGO = 'theme/images/pjecz.png'
 SITEDESCRIPTION = 'Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza'
@@ -26,16 +29,19 @@ ARTICLE_PATHS = [
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
+    'poder-judicial',
     'transparencia',
     ]
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
+    'boletines-judiciales',
+    'comunicados',
+    'poder-judicial',
+    'transparencia',
     'favicon.ico',
     'robots.txt',
-    'comunicados',
-    'transparencia',
     ]
 
 # El nombre del directorio es la categoría: comunicados
@@ -53,14 +59,11 @@ ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}/index.html'
 DEFAULT_LANG = 'es'
 TIMEZONE = 'America/Monterrey'
 
-# Para desarrollo, los vinculos son relativos
-RELATIVE_URLS = True
-
 # Para desarrollo, se desactiva la paginacion
 DEFAULT_PAGINATION = False
 
 # Para desarrollo, no hay cargas desde Internet
-USE_REMOTE_SERVICES = False
+USE_REMOTE_SERVICES = True
 
 # Para desarrollo se desactiva la generacion de feeds
 FEED_ALL_ATOM = None

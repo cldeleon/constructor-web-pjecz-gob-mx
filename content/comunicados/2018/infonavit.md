@@ -11,9 +11,9 @@ Saltillo, Coahuila de Zaragoza, miércoles 19 de diciembre de 2018
 
 Con el propósito de aclarar la información que se ha difundido por diversos medios de comunicación y redes sociales, referente a la presunta participación de jueces de primera instancia en materia civil, pertenecientes al Poder Judicial del Estado de Coahuila de Zaragoza en la tramitación irregular de juicios vinculados a demandas presentadas por el Instituto del Fondo Nacional de la Vivienda para los Trabajadores (INFONAVIT), las y los integrantes del Consejo de la Judicatura de este Poder público, acordamos emitir el siguiente:
 
-## COMUNICADO
+### COMUNICADO
 
-## A LA OPINIÓN PÚBLICA
+#### A LA OPINIÓN PÚBLICA
 
 **Primero.** Una vez que se tuvo noticia de las posibles irregularidades en la tramitación de los mencionados juicios este Consejo aprobó el inicio de una investigación. Luego de diversas diligencias se ordenó la realización de visitas extraordinarias a todos los juzgados civiles en el Estado.
 
@@ -25,7 +25,7 @@ Con el propósito de aclarar la información que se ha difundido por diversos me
 
 **Quinto.** Quienes fungimos como Consejeros de la Judicatura expresamos nuestro total repudio a cualquier práctica que sea contraria al Derecho y, más aún, si ésta es atribuible a una o un juzgador que, valiéndose de sus conocimientos y de su cargo se conduzca deshonestamente o participe en un hecho de corrupción. Por ello y ante las presuntas irregularidades detectadas en algunos juzgados civiles aprobamos las investigaciones que habremos de llevar hasta sus últimas consecuencias.
 
-### Atentamente, Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza
+#### Atentamente, Consejo de la Judicatura del Poder Judicial del Estado de Coahuila de Zaragoza
 
 * Magistrada Miriam Cárdenas Cantú - Consejera Presidenta
 * Lic. Román Alberto Cepeda González - Consejero designado por el Poder Ejecutivo del Estado

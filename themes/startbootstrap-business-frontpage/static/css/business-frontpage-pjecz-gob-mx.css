@@ -1,0 +1,44 @@
+/*
+ * Poder Judicial del Estado de Coahuila de Zaragoza
+ * Dirección de Informática
+ *
+ * CSS Business Frontpage para pjecz.gob.mx
+ */
+
+/*
+	Colores
+	3f2e32 vino   413134
+	99814a bronce
+ */
+
+/* Global */
+a,
+a:focus,
+a:visited { color: #281d21; }
+a:active,
+a:hover   { color: #3f2e32; }
+main      { min-height: 512px; }
+
+/* Heading */
+.pjecz-navbar { background-color: #3f2e32 !important; }
+.pjecz-header {
+	background-color: #99814a;
+}
+.pjecz-header-lustitia {
+	background-color: #3f2e32;
+	background-image: url('/theme/images/lustitia-background-1024x768.jpg');
+	background-size: cover;
+	background-repeat: no-repeat;
+}
+
+/* Footer */
+.pjecz-footer {
+	background-color: #191f2f !important;
+	color: #87888C;
+	font-size: 0.8em;
+}
+.pjecz-footer a,
+.pjecz-footer a:focus,
+.pjecz-footer a:visited { color: #717379; }
+.pjecz-footer a:active,
+.pjecz-footer a:hover   { color: #ffffff; }
