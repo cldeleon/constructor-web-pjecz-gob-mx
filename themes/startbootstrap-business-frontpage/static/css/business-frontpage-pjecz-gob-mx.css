@@ -29,6 +29,7 @@ main      { min-height: 512px; }
 	background-image: url('/theme/images/lustitia-background-1024x768.jpg');
 	background-size: cover;
 	background-repeat: no-repeat;
+	min-height: 280px;
 }
 
 /* Footer */

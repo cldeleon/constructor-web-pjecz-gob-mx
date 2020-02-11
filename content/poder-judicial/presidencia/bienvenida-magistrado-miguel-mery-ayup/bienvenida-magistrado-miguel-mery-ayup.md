@@ -1,8 +1,8 @@
-Title: Poder Judicial - Bienvenida
-Slug: bienvenida-magistrado-miguel-mery-ayup
-Summary: Poder Judicial - Bienvenida
-URL: poder-judicial/bienvenida-magistrado-miguel-mery-ayup/
-Save_As: poder-judicial/bienvenida-magistrado-miguel-mery-ayup/index.html
+Title: Bienvenida
+Slug: poder-judicial-presidencia-bienvenida-magistrado-miguel-mery-ayup
+Summary: Pendiente.
+URL: poder-judicial/presidencia/bienvenida-magistrado-miguel-mery-ayup/
+Save_As: poder-judicial/presidencia/bienvenida-magistrado-miguel-mery-ayup/index.html
 Date: 2020-02-11 09:12
 Modified: 2020-02-11 09:12
 
