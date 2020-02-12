@@ -1,6 +1,7 @@
 Title: Poder Judicial
 Slug: poder-judicial
 Summary: Pendiente.
+Tags: Poder Judicial
 URL: poder-judicial/
 Save_As: poder-judicial/index.html
 Date: 2020-02-11 09:10
@@ -17,7 +18,7 @@ Modified: 2020-02-11 09:10
 
 * [Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup](presidencia/bienvenida-magistrado-miguel-mery-ayup/)
 * [Atribuciones de la Presidencia](presidencia/atribuciones/)
-* [Mensajes y Ponencias](presidencia/mensajes-ponencias/)
+* [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](presidencia/mensajes-ponencias/)
 * [Organigrama](presidencia/organigrama/)
 * [Directorio de la Presidencia del Tribunal Superior de Justicia](presidencia/directorio/)
 * [Unidad de Derechos Humanos e Igualdad de Género](presidencia/derechos-humanos/)

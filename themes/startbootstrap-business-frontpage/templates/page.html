@@ -4,15 +4,24 @@
 
 {% block meta_tags %}
     <meta name="description" content="{{ page.summary|striptags }}">
-    <meta name="keywords" content="{{ [page.tags|join(', '), page.category]|join(', ') }}">
+    <meta name="keywords" content="{{ page.tags|join(', ') }}">
     <meta name="author" content="{{ page.author.name }}">
 {% endblock %}
 
-{% block heading_title %}{{ page.title }}{% endblock %}
-
 {% block content %}
 		<article>
-			<div class="container">
+	        <header class="pjecz-header pb-3 mb-5">
+	            <div class="pjecz-header-lustitia pt-2 pb-5">
+	                <div class="container h-100">
+	                    <div class="row h-100 align-items-center">
+	                        <div class="col-lg-12">
+	                            <h1 class="display-4 text-white mt-5 mb-2">{{ page.title }}</h1>
+	                        </div>
+	                    </div>
+	                </div>
+	            </div>
+	        </header>
+			<div class="container mb-4">
 {{ page.content }}
 			</div>
 		</article>

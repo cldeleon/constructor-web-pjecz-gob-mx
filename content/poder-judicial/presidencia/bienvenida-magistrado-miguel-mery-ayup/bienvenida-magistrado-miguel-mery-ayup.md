@@ -1,16 +1,17 @@
-Title: Bienvenida
+Title: Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup
 Slug: poder-judicial-presidencia-bienvenida-magistrado-miguel-mery-ayup
 Summary: Pendiente.
+Tags: Poder Judicial, Presidencia
 URL: poder-judicial/presidencia/bienvenida-magistrado-miguel-mery-ayup/
 Save_As: poder-judicial/presidencia/bienvenida-magistrado-miguel-mery-ayup/index.html
 Date: 2020-02-11 09:12
 Modified: 2020-02-11 09:12
-
+Author: Miguel Felipe Mery Ayup
 
 
 <img class="img-fluid" src="poder-judicial.jpg" alt="Poder Judicial">
 
-**Bienvenidas y bienvenidos al sitio del Poder Judicial del Estado de Coahuila de Zaragoza.**
+#### Bienvenidas y bienvenidos al sitio del Poder Judicial del Estado de Coahuila de Zaragoza.
 
 En el Poder Judicial somos los responsables de impartir justicia en el estado, de dirimir diferencias entre particulares, de conciliar, y de promover con el ejemplo una cultura de la legalidad y justicia cotidiana.
 
@@ -32,6 +33,5 @@ Asumimos la honestidad y la imparcialidad como valores intrínsecos a nuestra fu
 
 Reciban un cordial saludo y con ello la certeza de que este Tribunal tiene la puerta abierta para juntos lograr un estado con Justicia y Legalidad.
 
-### Magistrado Miguel Felipe Mery Ayup
-
-Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza
+<h4 class="text-center">Magistrado Miguel Felipe Mery Ayup</h4>
+<h6 class="text-center">Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza</h6>
