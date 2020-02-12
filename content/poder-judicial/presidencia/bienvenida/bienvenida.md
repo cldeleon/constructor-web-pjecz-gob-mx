@@ -1,5 +1,5 @@
 Title: Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup
-Slug: poder-judicial-presidencia-bienvenida-magistrado-miguel-mery-ayup
+Slug: poder-judicial-presidencia-bienvenida
 Summary: Pendiente.
 Tags: Poder Judicial, Presidencia
 URL: poder-judicial/presidencia/bienvenida-magistrado-miguel-mery-ayup/

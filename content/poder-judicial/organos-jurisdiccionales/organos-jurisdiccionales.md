@@ -9,8 +9,8 @@ Modified: 2020-02-11 10:00
 
 
 
-#### [Pleno del Tribunal Superior de Justicia](pleno-tribunal-superior-justica/)
+### [Pleno del Tribunal Superior de Justicia](pleno-tribunal-superior-justica/)
 
-#### [Secretaría General de Acuerdos del Pleno](secretaria-general-acuerdos-pleno/)
+### [Secretaría General de Acuerdos del Pleno](secretaria-general-acuerdos-pleno/)
 
-#### [Tribunal Constitucional](tribunal-constitucional/)
+### [Tribunal Constitucional](tribunal-constitucional/)

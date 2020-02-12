@@ -7,20 +7,37 @@ Date: 2020-02-11 09:10
 Modified: 2020-02-11 09:10
 
 
-#### [Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup](bienvenida-magistrado-miguel-mery-ayup/)
+### [Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup](bienvenida/)
 
-#### [Atribuciones de la Presidencia](atribuciones/)
+### [Atribuciones de la Presidencia](atribuciones/)
 
-#### [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](mensajes-ponencias/)
+### [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](mensajes-ponencias/)
 
-#### [Organigrama](organigrama/)
+### [Organigrama](organigrama/)
 
-#### [Directorio de la Presidencia del Tribunal Superior de Justicia](directorio/)
+### [Directorio](directorio/)
 
-#### [Unidad de Derechos Humanos e Igualdad de Género](derechos-humanos/)
+### [Unidad de Derechos Humanos e Igualdad de Género](derechos-humanos/)
 
-#### [Auditoría Interna](auditoria-interna/)
+* [Directorio](derechos-humanos/directorio/)
+* [Organigrama](derechos-humanos/organigrama/)
+* [Marco Normativo](derechos-humanos/normatividad/)
+* [Actividades](derechos-humanos/actividades/)
 
-#### [Archivo General](archivo-general/)
+### [Secretaría Técnica y Transparencia](secretaria-tecnica-transparencia/)
 
-#### [Secretaría Técnica y Transparencia](secretaria-tecnica-transparencia/)
+* [Directorio](secretaria-tecnica-transparencia/directorio/)
+* [Organigrama](secretaria-tecnica-transparencia/organigrama/)
+* [Reglamento Interior](secretaria-tecnica-transparencia/reglamento-interior/)
+
+### [Auditoría Interna](auditoria-interna/)
+
+* [Directorio](auditoria-interna/directorio/)
+* [Organigrama](auditoria-interna/organigrama/)
+* [Marco Normativo](auditoria-interna/normatividad/)
+
+### [Archivo General](archivo-general/)
+
+* [Directorio](archivo-general/directorio/)
+* [Organigrama](archivo-general/organigrama/)
+* [Reglamento Interior](archivo-general/reglamento-interior/)

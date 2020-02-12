@@ -21,16 +21,16 @@
 	<link rel="stylesheet" href="/theme/css/business-frontpage.css">
     <link rel="stylesheet" href="/theme/css/business-frontpage-pjecz-gob-mx.css">
 {% if USE_REMOTE_SERVICES %}
+    <!-- Google fonts -->
+    <link href="https://fonts.googleapis.com/css?family=EB+Garamond:500|Roboto&display=swap" rel="stylesheet">
     <!-- Font Awesome CDN -->
     <script src="https://use.fontawesome.com/af111b85f5.js"></script>
-{% include 'google-analytics.html' %}
+{%     include 'google-analytics.html' %}
 {% endif %}
 </head>
 <body>
 {% include 'navigation.html' %}
-	<main>
 {% block content %}{% endblock %}
-	</main>
 {% include 'footer.html' %}
 	<script src="/theme/vendor/jquery/jquery.min.js"></script>
 	<script src="/theme/vendor/bootstrap/js/bootstrap.bundle.min.js"></script>
