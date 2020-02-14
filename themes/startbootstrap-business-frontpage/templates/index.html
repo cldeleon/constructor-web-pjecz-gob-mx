@@ -1,5 +1,7 @@
 {% extends "base.html" %}
 
+{% block title %}{{ SITENAME }}{% endblock %}
+
 {% block meta_tags %}
     <meta name="description" content="{{ SITEDESCRIPTION }}">
     <meta name="keywords" content="{{ SITEKEYWORDS }}">
@@ -26,7 +28,7 @@
 		<section id="list">
 			<div class="container pt-4 pb-2">
 {% for article in articles_page.object_list %}
-				<h3><a href="/{{ article.url }}">{{ article.title }}</a></h3>
+				<h3><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h3>
 {{ article.summary }}
 {% endfor %}
 			</div>

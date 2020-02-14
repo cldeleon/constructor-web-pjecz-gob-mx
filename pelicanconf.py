@@ -81,7 +81,7 @@ TRANSLATION_FEED_RSS = None
 DELETE_OUTPUT_DIRECTORY = True
 
 # NO BORRAR de output los siguientes directorios y archivos
-# OUTPUT_RETENTION = ['.git', '.gitignore']
+OUTPUT_RETENTION = ['.git', '.gitignore']
 
 # Para desarrollo descactivar el caché
 LOAD_CONTENT_CACHE = False

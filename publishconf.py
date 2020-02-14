@@ -11,7 +11,7 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Para producción los URLs son absolutos
-SITEURL = 'https://www.pjecz.gob.mx/'
+SITEURL = 'https://pjecz.github.io/beta'
 RELATIVE_URLS = False
 
 # Para producción habilitar dependencias de otros servidores en Internet

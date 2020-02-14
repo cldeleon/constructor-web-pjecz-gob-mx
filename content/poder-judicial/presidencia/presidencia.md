@@ -7,11 +7,11 @@ Date: 2020-02-11 09:10
 Modified: 2020-02-11 09:10
 
 
-### [Mensaje de Bienvenida del Magistrado Miguel Felipe Mery Ayup](bienvenida/)
-
-### [Atribuciones de la Presidencia](atribuciones/)
+### [Mensaje de Bienvenida del Magistrado Presidente Miguel Felipe Mery Ayup](bienvenida/)
 
 ### [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](mensajes-ponencias/)
+
+### [Atribuciones de la Presidencia](atribuciones/)
 
 ### [Organigrama](organigrama/)
 

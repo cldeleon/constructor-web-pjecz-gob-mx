@@ -11,6 +11,13 @@ Modified: 2020-02-11 10:00
 
 ### [Pleno del Tribunal Superior de Justicia](pleno-tribunal-superior-justica/)
 
+* [Atribuciones](pleno-tribunal-superior-justica/atribuciones/)
+* [Convocatorias](pleno-tribunal-superior-justica/convocatorias/)
+* [Organigrama](pleno-tribunal-superior-justica/organigrama/)
+
 ### [Secretaría General de Acuerdos del Pleno](secretaria-general-acuerdos-pleno/)
+
+* [Directorio](secretaria-general-acuerdos-pleno/directorio/)
+* [Organigrama](secretaria-general-acuerdos-pleno/organigrama/)
 
 ### [Tribunal Constitucional](tribunal-constitucional/)

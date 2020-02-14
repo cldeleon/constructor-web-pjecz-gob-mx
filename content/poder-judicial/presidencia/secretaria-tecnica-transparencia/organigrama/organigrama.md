@@ -8,4 +8,10 @@ Date: 2020-02-11 10:12
 Modified: 2020-02-11 10:12
 
 
-Pendiente.
+<img class="img-fluid" src="organigrama-00.png">
+
+<img class="img-fluid" src="organigrama-01.png">
+
+### Descargar
+
+* Organigrama de la Secretaría Técnica y Transparencia
