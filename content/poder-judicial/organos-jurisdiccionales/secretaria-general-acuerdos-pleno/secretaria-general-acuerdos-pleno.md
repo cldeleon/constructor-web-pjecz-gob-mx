@@ -8,8 +8,8 @@ Date: 2020-02-11 10:00
 Modified: 2020-02-11 10:00
 
 
-### Directorio
+### [Directorio](directorio/)
 
-### Organigrama
+### [Organigrama](organigrama/)
 
-### OTRO
+### [¿Cómo registrar su título ante el Tribunal Superior de Justicia?](registro-titulos/)

@@ -9,15 +9,23 @@ Modified: 2020-02-11 10:00
 
 
 
-### [Pleno del Tribunal Superior de Justicia](pleno-tribunal-superior-justica/)
+### [Pleno del Tribunal Superior de Justicia](pleno-tribunal-superior-justicia/)
 
-* [Atribuciones](pleno-tribunal-superior-justica/atribuciones/)
-* [Convocatorias](pleno-tribunal-superior-justica/convocatorias/)
-* [Organigrama](pleno-tribunal-superior-justica/organigrama/)
+* [Organigrama](pleno-tribunal-superior-justicia/organigrama/)
+* [Atribuciones](pleno-tribunal-superior-justicia/atribuciones/)
+* [Convocatorias](pleno-tribunal-superior-justicia/convocatorias/)
 
 ### [Secretaría General de Acuerdos del Pleno](secretaria-general-acuerdos-pleno/)
 
 * [Directorio](secretaria-general-acuerdos-pleno/directorio/)
 * [Organigrama](secretaria-general-acuerdos-pleno/organigrama/)
+* [¿Cómo registrar su título ante el Tribunal Superior de Justicia?](secretaria-general-acuerdos-pleno/registro-titulos/)
+
+### [Sala Colegiada Civil y Familiar](sala-colegiada-civil-familiar/)
+
+* [Directorio](sala-colegiada-civil-familiar/directorio/)
+* [Presidencia de la Sala](sala-colegiada-civil-familiar/presidencia/)
+* [Organigrama](sala-colegiada-civil-familiar/organigrama/)
+* [Atribuciones](sala-colegiada-civil-familiar/atribuciones/)
 
 ### [Tribunal Constitucional](tribunal-constitucional/)

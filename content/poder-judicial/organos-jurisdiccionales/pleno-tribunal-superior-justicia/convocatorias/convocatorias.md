@@ -2,8 +2,8 @@ Title: Convocatorias del Pleno del Tribunal Superior de Justicia
 Slug: poder-judicial-organos-jurisdiccionales-pleno-tribunal-superior-justicia-convocatorias
 Summary: Pendiente.
 Tags: Poder Judicial, Órganos Jurisdiccionales,
-URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/convocatorias/
-Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/convocatorias/index.html
+URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/convocatorias/
+Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/convocatorias/index.html
 Date: 2020-02-13 11:00
 Modified: 2020-02-13 11:00
 

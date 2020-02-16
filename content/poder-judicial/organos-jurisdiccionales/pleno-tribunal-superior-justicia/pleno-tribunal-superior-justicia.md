@@ -2,8 +2,8 @@ Title: Pleno del Tribunal Superior de Justicia
 Slug: poder-judicial-organos-jurisdiccionales-pleno-tribunal-superior-justicia
 Summary: Pendiente.
 Tags: Poder Judicial, Órganos Jurisdiccionales
-URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/
-Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/index.html
+URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/
+Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/index.html
 Date: 2020-02-11 10:00
 Modified: 2020-02-11 10:00
 
@@ -16,4 +16,4 @@ El Pleno del Tribunal Superior de Justicia es el órgano supremo del Poder Judic
 
 ### [Convocatorias](convocatorias/)
 
-* [Convocatoria para la integración a la Lista de Auxiliares de la Administración de Justicia del Tribunal Superior de Justicia, de Interpretes de Lenguas se Señas Mexicanas](2018-02-23/)
+* [Convocatoria para la integración a la Lista de Auxiliares de la Administración de Justicia del Tribunal Superior de Justicia, de Interpretes de Lenguas se Señas Mexicanas](convocatorias/2018-02-23/)

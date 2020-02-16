@@ -2,8 +2,8 @@ Title: Atribuciones del Pleno del Tribunal Superior de Justicia
 Slug: poder-judicial-organos-jurisdiccionales-pleno-tribunal-superior-justicia-atribuciones
 Summary: Pendiente.
 Tags: Poder Judicial, Órganos Jurisdiccionales,
-URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/atribuciones/
-Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/atribuciones/index.html
+URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/atribuciones/
+Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/atribuciones/index.html
 Date: 2020-02-13 11:00
 Modified: 2020-02-13 11:00
 

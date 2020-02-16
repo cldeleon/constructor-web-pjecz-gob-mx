@@ -2,8 +2,8 @@ Title: Organigrama del Pleno del Tribunal Superior de Justicia
 Slug: poder-judicial-organos-jurisdiccionales-pleno-tribunal-superior-justicia-organigrama
 Summary: Pendiente.
 Tags: Poder Judicial, Órganos Jurisdiccionales,
-URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/organigrama/
-Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justica/organigrama/index.html
+URL: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/organigrama/
+Save_As: poder-judicial/organos-jurisdiccionales/pleno-tribunal-superior-justicia/organigrama/index.html
 Date: 2020-02-13 11:00
 Modified: 2020-02-13 11:00
 
@@ -18,4 +18,4 @@ Modified: 2020-02-13 11:00
 
 ### Descargar
 
-* [Organigrama del Pleno del Tribunal Superior de Justicia](#)
+* Organigrama del Pleno del Tribunal Superior de Justicia
