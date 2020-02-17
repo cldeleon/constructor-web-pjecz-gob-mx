@@ -22,7 +22,9 @@
             </div>
         </header>
 {% if output_file == 'index.html' %}
+{%     include 'start-page-welcome.html' %}
 {%     include 'start-page-featured.html' %}
+{%     include 'start-page-links.html' %}
 {% endif %}
 		<!-- Listado de articulos -->
 		<section id="list">

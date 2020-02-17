@@ -14,4 +14,4 @@ Modified: 2020-02-17 11:22
 
 ### Descargar
 
-* Organigrama de la Sala Colegiada Penal
+* Organigrama de la Auditoría Interna
