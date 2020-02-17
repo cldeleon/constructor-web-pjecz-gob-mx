@@ -31,3 +31,21 @@ Modified: 2020-02-11 09:10
 * [Sala Colegiada Civil y Familiar](organos-jurisdiccionales/sala-colegiada-civil-familiar/)
 * [Sala Colegiada Penal](organos-jurisdiccionales/sala-colegiada-penal/)
 * [Sala Regional de Torreón](organos-jurisdiccionales/sala-regional-torreon/)
+* Tribunales Especializados
+* Tribunales Distritales
+* Juzgados
+* Central de Actuarios
+
+### Órganos No Jurisdiccionales
+
+* Centro de Medios Alternos de Solución de Controversias
+* Centro de Evaluación Psicosocial
+* Instituto de Especialización Judicial
+* Instituto Estatal de Defensoría Pública
+* Oficialías de Partes
+* Visitaduría Jurídica General
+
+### Órganos Administrativos
+
+* Oficialía Mayor
+* Unidad Jurídica

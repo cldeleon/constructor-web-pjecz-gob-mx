@@ -29,6 +29,7 @@ ARTICLE_PATHS = [
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
+    'consejo-judicatura',
     'poder-judicial',
     'transparencia',
     ]
@@ -37,6 +38,7 @@ PAGE_PATHS = [
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
     'boletines-judiciales',
+    'consejo-judicatura',
     'comunicados',
     'poder-judicial',
     'transparencia',
