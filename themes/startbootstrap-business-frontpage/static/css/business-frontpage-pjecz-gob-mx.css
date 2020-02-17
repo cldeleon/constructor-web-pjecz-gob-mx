@@ -30,6 +30,8 @@ article    { min-height: 800px; }
 /* Start page */
 #featured            { background-color: #e0e0e0; }
 .pjecz-featured-card { background-color: #e0e0e0; border: none; }
+#links               { background-color: #f0f0f0; }
+#links p             { font-size: 0.8em; color: #808080; }
 #list                { background-color: #ffffff; }
 
 /* Footer */
