@@ -21,6 +21,8 @@ Modified: 2020-02-11 10:00
 * [Organigrama](secretaria-general-acuerdos-pleno/organigrama/)
 * [¿Cómo registrar su título ante el Tribunal Superior de Justicia?](secretaria-general-acuerdos-pleno/registro-titulos/)
 
+### [Tribunal Constitucional](tribunal-constitucional/)
+
 ### [Sala Colegiada Civil y Familiar](sala-colegiada-civil-familiar/)
 
 * [Directorio](sala-colegiada-civil-familiar/directorio/)
@@ -28,4 +30,17 @@ Modified: 2020-02-11 10:00
 * [Organigrama](sala-colegiada-civil-familiar/organigrama/)
 * [Atribuciones](sala-colegiada-civil-familiar/atribuciones/)
 
-### [Tribunal Constitucional](tribunal-constitucional/)
+### [Sala Colegiada Penal](sala-colegiada-penal/)
+
+* [Presidencia de la Sala](sala-colegiada-penal/presidencia/)
+* [Organigrama](sala-colegiada-penal/organigrama/)
+* [Directorio](sala-colegiada-penal/directorio/)
+* [Atribuciones](sala-colegiada-penal/atribuciones/)
+* [Sentencias](sala-colegiada-penal/sentencias/)
+
+### [Sala Regional de Torreón](sala-regional-torreon/)
+
+* [Presidencia de la Sala](sala-regional-torreon/presidencia/)
+* [Organigrama](sala-regional-torreon/organigrama/)
+* [Directorio](sala-regional-torreon/directorio/)
+* [Atribuciones](sala-regional-torreon/atribuciones/)
