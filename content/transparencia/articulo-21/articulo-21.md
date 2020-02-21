@@ -1,10 +1,11 @@
 Title: Transparencia - Artículo 21
-Slug: articulo-21
-Summary: Transparencia - Artículo 21
+Slug: transparencia-articulo-21
+Summary: Pendiente
+Tags: Transparencia
 URL: transparencia/articulo-21/
 Save_As: transparencia/articulo-21/index.html
-Date: 2020-02-10 08:32
-Modified: 2020-02-10 08:32
+Date: 2020-02-21 16:09
+Modified: 2020-02-21 16:09
 
 
 ### RESPONSABLE
@@ -21,55 +22,55 @@ Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Jus
 
 ### Fracciones
 
-* [I: Estructura orgánica](fraccion-01-estructura-organica/)
-* II: Marco normativo
-* III: Directorio de servidores públicos
-* IV: Nombramientos, comisiones y licencias
-* V: Remuneración mensual por puesto
-* VI: Declaración patrimonial
-* VII: Viáticos y gastos de representación
-* VIII: Perfil de puestos y currículum vitae
-* IX: Convenios de colaboración y Contratos
-* X: Condiciones generales de trabajo
-* XI: Planes, programas o proyectos con indicadores de gestión
-* XII: Servicios y trámites
-* XIII: Mecanismo de solicitudes, opiniones, quejas, denuncias o sugerencias
-* XIV: Mecanismo de participación ciudadana
-* XV: Programas de subsidio
-* XVI: Beneficiarios de los programas de subsidio
-* XVII: Padrón de beneficiarios de programas sociales
-* XVIII: Listado de personas que reciben recursos públicos
-* XIX: Instituciones de beneficencia
-* XX: Presupuesto asignado
-* XXI: Calendarización de reuniones públicas
-* XXII: Unidad de Transparencia
-* XXIII: Catálogos documentales de archivos
-* XXIV: Solicitudes de información y respuestas
-* XXV: Balances y estados financieros
-* XXVI: Deuda pública
-* XXVII: Auditorías practicadas y concluidas
-* XXVIII: Padrón de proveedores
-* XXIX: Inspectores y visitadores
-* XXX: Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación
-* XXXI: Agenda mensual
-* XXXII: Actas de entrega-recepción
-* XXXIII: Georreferenciación de obras públicas
-* XXXIV: Índices de información reservada
-* XXXV: Guía simple de archivos
-* XXXVI: Concesiones, Licencias, Permisos y Autorizaciones
-* XXXVII: Concesiones de transporte público
-* XXXVIII: Entrega de recursos públicos
-* XXXIX: Sistemas pensionarios
-* XL: Informe anual de actividades
-* XLI: Estadísticas sobre los ingresos
-* XLII: Información desclasificada
-* XLIII: Preguntas frecuentes y sus respuestas
-* XLIV: Catálogo de información adicional
-* XLV: Informe sobre acciones realizadas durante contingencias
-* XLVI: Aportaciones a municipios en emergencia o desastre
-* XLVII: Listado de servidores públicos sancionados
-* XLVIII: Listado del parque vehicular
-* XLIX: Información catastral
-* L: Proceso catastral de valuación
-* LI: Mecanismos que midan el impacto ambiental, social, demográfico y económico para el desarrollo de planes o proyectos
-* LII: Otra información
+1. [Estructura Orgánica](f01-estructura-organica/)
+2. [Marco Normativo](f02-marco-normativo/)
+3. [Directorio de Servidores Públicos](f03-directorio/)
+4. [Nombramientos, Comisiones y Licencias](f04-nombramientos-comisiones-licencias/)
+5. [Remuneración Mensual por Puesto](f05-remuneracion-mensual-puesto/)
+6. [Declaración Patrimonial](f06-declaracion-patrimonial/)
+7. [Viáticos y Gastos de Representación](f07-viaticos-gastos-representacion/)
+8. [Perfil de Puestos y Currículum Vitae](f08-perfil-puestos-curriculum-vitae/)
+9. [Convenios de Colaboración y Contratos](f09-convenios-colaboracion-contratos/)
+10. [Condiciones Generales de Trabajo](f10-condiciones-generales-trabajo/)
+11. [Planes, Programas o Proyectos con Indicadores de Gestión](f11-planes-programas-proyectos-indicadores-gestion/)
+12. [Servicios y Trámites](f12-servicios-tramites/)
+13. [Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias](f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/)
+14. [Mecanismo de Participación Ciudadana](f14-mecanismo-participacion-ciudadana/)
+15. [Programas de Subsidio](f15-programas-subsidio/)
+16. [Beneficiarios de los Programas de Subsidio](f16-beneficiarios-programas-subsidio/)
+17. [Padrón de Beneficiarios de Programas Sociales](f17-padron-beneficiarios-programas-sociales/)
+18. [Listado de Personas que Reciben Recursos Públicos](f18-listado-personas-reciben-recursos-publicos/)
+19. [Instituciones de Beneficiencia](f19-instituciones-beneficencia/)
+20. [Presupuesto Asignado](f20-presupuesto-asignado/)
+21. [Calendariación de Reuniones Públicas](f21-calendarizacion-reuniones-publicas/)
+22. [Unidad de Transparencia](f22-unidad-transparencia/)
+23. [Catálogos Documentales de Archivos](f23-catalogos-documentales-archivos/)
+24. [Solicitudes de Información y Respuestas](f24-solicitudes-informacion-respuestas/)
+25. [Balances y Estados Financieros](f25-balances-estados-financieros/)
+26. [Deuda Pública](f26-deuda-publica/)
+27. [Auditorías Practicadas y Concluídas](f27-auditorias-practicadas-concluidas/)
+28. [Padrón de Provedores](f28-padron-proveedores/)
+29. [Inspectores y Visitadores](f29-inspectores-visitadores/)
+30. [Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación](f30-convocatorias-concurso-licitaciones/)
+31. [Agenda Mensual](f31-agenda-mensual/)
+32. [Actas de Entrega-Recepción](f32-actas-entrega-recepcion/)
+33. [Georreferenciación de Obras Públicas](f33-georreferenciacion-obras-publicas/)
+34. [Índices de Información Reservada](f34-indices-informacion-reservada/)
+35. [Guía Simple de Archivos](f35-guia-simple-archivos/)
+36. [Concesiones, Licencias, Permisos y Autorizaciones](f36-concesiones-licencias-permisos-autorizaciones/)
+37. [Concesiones de Transporte Público](f37-concesiones-transporte-publico/)
+38. [Entrega de Recursos Públicos](f38-entrega-recursos-publicos/)
+39. [Sistemas Pensionarios](f39-sistemas-pensionarios/)
+40. [Informe Anual de Actividades](f40-informe-anual-actividades/)
+41. [Estadísticas sobre los Ingresos](f41-estadisticas-sobre-ingresos/)
+42. [Información Desclasificada](f42-informacion-desclasificada/)
+43. [Preguntas Frecuentes y sus Respuestas](f43-preguntas-frecuentes-respuestas/)
+44. [Catálogo de Información Adicional](f44-catalogo-informacion-adicional/)
+45. [Informe sobre Acciones Realizadas durante Contingencias](f45-informe-acciones-realizadas-durante-contingencias/)
+46. [Aportaciones a Municipios en Emergencia o Desastre](f46-aportaciones-municipios-emergencia-desastre/)
+47. [Listado de Servidores Públicos Sancionados](f47-sanciones-servidores-publicos/)
+48. [Listado del Parque Vehicular](f48-listado-parque-vehicular/)
+49. [Información Catastral](f49-informacion-catastral/)
+50. [Proceso Catastral de Valuación](f50-proceso-catastral-valuacion/)
+51. [Mecanismos que midan el impacto ambiental, social, demográfico y económico](f51-mecanismos-midan-impacto-ambiental-social-demografico-economico/)
+52. [Otra Información](f52-otra-informacion/)
