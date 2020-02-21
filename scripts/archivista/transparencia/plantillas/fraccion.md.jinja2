@@ -1,0 +1,17 @@
+Title: {{ title }}
+Slug: {{ slug }}
+Summary: {{ summary }}
+Tags: {{ tags }}
+URL: {{ url }}
+Save_As: {{ save_as }}
+Date: {{ date }}
+Modified: {{ modified }}
+
+
+{% if descargables|length > 1 %}
+{% for descargable in descargables %}
+* [{{ descargable }}]({{ descargable }})
+{% endfor %}
+{% else %}
+Pendiente.
+{% endif %}
