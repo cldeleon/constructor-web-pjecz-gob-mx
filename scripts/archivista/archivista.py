@@ -20,6 +20,7 @@ def sobreescribir_archivo(ruta, contenido):
         file.write(contenido)
     click.echo(f'- Guardado {ruta}')
 
+
 class Config(object):
 
     def __init__(self):

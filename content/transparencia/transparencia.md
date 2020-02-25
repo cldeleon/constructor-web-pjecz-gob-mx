@@ -12,11 +12,11 @@ Modified: 2020-02-21 16:09
 
 Conforme a la Ley Estatal
 
-* Artículo 18
-* Artículo 20
+* [Artículo 18](articulo-18/)
+* [Artículo 20](articulo-20/)
 * [Artículo 21](articulo-21/)
-* Artículo 22
-* Artículo 27
+* [Artículo 22](articulo-22/)
+* [Artículo 27](articulo-27/)
 
 ###  Solicitud de Acceso a la Información
 
