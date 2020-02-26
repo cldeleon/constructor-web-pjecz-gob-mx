@@ -20,4 +20,4 @@ El sujeto obligado deberá difundir, dentro del primer mes de cada año, un cale
 
 * Calendario de Actualización de IPO artículo 21
 
-* Calenario de Actualización de IPO artículo 27
+* Calendario de Actualización de IPO artículo 27

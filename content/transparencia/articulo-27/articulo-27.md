@@ -17,7 +17,8 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 10 de enero del 2020
 
 Además de lo señalado en el artículo 73 de la Ley General y el artículo 21 del presente ordenamiento, por conducto del Tribunal Superior de Justicia del Estado, deberá publicar la siguiente información:
-Numerales
+
+### Numerales
 
 1. Estructura jurisdiccional y administrativa
 2. Funciones de las unidades Jurisdiccionales y Administrativas
