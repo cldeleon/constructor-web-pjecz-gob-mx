@@ -1,4 +1,7 @@
-articulo,numero,fraccion,title,summary,tags
+rama,ordinal,pagina,titulo,resumen,etiquetas
+articulo-18,0,articulo-18,Artículo 18,Pendiente,Transparencia
+articulo-20,0,articulo-20,Artículo 20,Pendiente,Transparencia
+articulo-21,0,articulo-21,Artículo 21,Pendiente,Transparencia
 articulo-21,1,f01-estructura-organica,Estructura Orgánica,Pendiente,Transparencia
 articulo-21,2,f02-marco-normativo,Marco Normativo,Pendiente,Transparencia
 articulo-21,3,f03-directorio,Directorio de Servidores Públicos,Pendiente,Transparencia
@@ -51,3 +54,28 @@ articulo-21,49,f49-informacion-catastral,Información Catastral,Pendiente,Transp
 articulo-21,50,f50-proceso-catastral-valuacion,Proceso Catastral de Valuación,Pendiente,Transparencia
 articulo-21,51,f51-mecanismos-midan-impacto-ambiental-social-demografico-economico,"Mecanismos que midan el impacto ambiental, social, demográfico y económico",Pendiente,Transparencia
 articulo-21,52,f52-otra-informacion,Otra Información,Pendiente,Transparencia
+articulo-22,0,articulo-22,Artículo 22,Pendiente,Transparencia
+articulo-27,0,articulo-27,Artículo 27,Pendiente,Transparencia
+articulo-27,1,f01-estructura-jurisdiccional-administrativa,Estructura jurisdiccional y administrativa,Pendiente,Transparencia
+articulo-27,2,f02-funciones-unidades-jurisdiccionales-administrativas,Funciones de las unidades Jurisdiccionales y Administrativas,Pendiente,Transparencia
+articulo-27,3,f03-directorio,Directorio de los Órganos Jurisdiccionales y Administrativos,Pendiente,Transparencia
+articulo-27,4,f04-presupuesto-asignado,Presupuesto Asignado,Pendiente,Transparencia
+articulo-27,5,f05-fondo-mejoramiento-administracion-justicia,Fondo para el Mejoramiento de la Administración Justicia,Pendiente,Transparencia
+articulo-27,6,f06-asuntos-iniciados-tramite-concluidos,"Asuntos iniciados, en trámite y concluidos",Pendiente,Transparencia
+articulo-27,7,f07-listas-acuerdos,Listas de acuerdos,Pendiente,Transparencia
+articulo-27,8,f08-agenda-audiencias,Agenda de audiencias,Pendiente,Transparencia
+articulo-27,9,f09-sentencias-causado-ejecutoria,Sentencias que hayan causado ejecutoria,Pendiente,Transparencia
+articulo-27,10,f10-actas-visitas-inspeccion,Actas de las visitas de inspección,Pendiente,Transparencia
+articulo-27,11,f11-calendario-dias-inhabiles,Calendario de días inhábiles,Pendiente,Transparencia
+articulo-27,12,f12-ubicacion-expedientes,Ubicación de los expedientes,Pendiente,Transparencia
+articulo-27,13,f13-formatos-procedimientos,Formatos de procedimientos,Pendiente,Transparencia
+articulo-27,14,f14-estadisticas-amparos,Estadísticas de amparos,Pendiente,Transparencia
+articulo-27,15,f15-programas-cursos-consejo-judicatura,Programas y cursos del Consejo de la Judicatura,Pendiente,Transparencia
+articulo-27,16,f16-procedimientos-justicia-constitucional,Procedimientos de justicia constitucional,Pendiente,Transparencia
+articulo-27,17,f17-glosa-debate,Glosa de debate,Pendiente,Transparencia
+articulo-27,18,f18-sanciones-disciplinarias,Sanciones disciplinarias impuestas a los integrantes del Poder Judicial,Pendiente,Transparencia
+articulo-27,19,f19-tesis-aisladas,Tesis aisladas,Pendiente,Transparencia
+articulo-27,20,f20-lista-peritos,Lista de peritos,Pendiente,Transparencia
+articulo-27,21,f21-sistema-pensionario,Sistema pensionario,Pendiente,Transparencia
+articulo-27,22,f22-otrainformacion,Otra Información,Pendiente,Transparencia
+articulo-27,23,f23-seleccion-jueces-magistrados,Selección de jueces y magistrados,Pendiente,Transparencia

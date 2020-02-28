@@ -12,11 +12,9 @@ Modified: {{ modified }}
 
 Conforme a la Ley Estatal
 
-* Artículo 18
-* Artículo 20
-* [Artículo 21](articulo-21/)
-* Artículo 22
-* Artículo 27
+{% for articulo in articulos %}
+* [{{ articulo.titulo }}]({{ articulo.pagina }}/)
+{% endfor %}
 
 ###  Solicitud de Acceso a la Información
 
