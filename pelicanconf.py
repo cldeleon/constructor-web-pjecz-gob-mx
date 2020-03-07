@@ -46,26 +46,21 @@ STATIC_PATHS = [
     'robots.txt',
     ]
 
-# El nombre del directorio es la categoría: comunicados
+# NO usar el directorio como la categoria
 USE_FOLDER_AS_CATEGORY = False
 
 # Los artículos van en directorios por /categoria/YYYY/slug/
 ARTICLE_URL = '{category}/{date:%Y}/{slug}/'
 ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}/index.html'
 
-# Las páginas fijas deben definir su URL y Save_As
+# En cada pagina debe haber metadatos url y save_as
+# por lo que no necesitamos esto
 #PAGE_URL = 'directorio/directorio/'
 #PAGE_SAVE_AS = 'directorio/directorio/index.html'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
 TIMEZONE = 'America/Monterrey'
-
-# Para desarrollo, se desactiva la paginacion
-DEFAULT_PAGINATION = False
-
-# Para desarrollo, no hay cargas desde Internet
-USE_REMOTE_SERVICES = True
 
 # Para desarrollo se desactiva la generacion de feeds
 FEED_ALL_ATOM = None
@@ -79,11 +74,17 @@ TAG_FEED_RSS = None
 TRANSLATION_FEED_ATOM = None
 TRANSLATION_FEED_RSS = None
 
-# Para desarrollo BORRAR todo el directorio de salida
-DELETE_OUTPUT_DIRECTORY = True
-
 # NO BORRAR de output los siguientes directorios y archivos
 OUTPUT_RETENTION = ['.git', '.gitignore']
 
-# Para desarrollo descactivar el caché
+# Para desarrollo DESACTIVAR la paginacion
+DEFAULT_PAGINATION = False
+
+# Para desarrollo BORRAR todo el directorio de salida
+DELETE_OUTPUT_DIRECTORY = True
+
+# Para desarrollo DESACTIVAR el caché
 LOAD_CONTENT_CACHE = False
+
+# Para desarrollo NO hay cargas desde Internet
+USE_REMOTE_SERVICES = False

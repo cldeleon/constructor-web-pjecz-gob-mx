@@ -14,9 +14,6 @@ from pelicanconf import *
 SITEURL = 'https://pjecz.github.io/beta'
 RELATIVE_URLS = False
 
-# Para producción habilitar dependencias de otros servidores en Internet
-USE_REMOTE_SERVICES = True
-
 # Para producción se activa la generacion de feeds
 FEED_DOMAIN = SITEURL
 FEED_ALL_ATOM = 'feeds/all.atom.xml'
@@ -61,7 +58,10 @@ SITEMAP = {
 }
 
 # Para producción NO BORRAR todo el directorio de salida
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Para producción activar el caché
 LOAD_CONTENT_CACHE = True
+
+# Para producción SI hay cargas desde Internet
+USE_REMOTE_SERVICES = True

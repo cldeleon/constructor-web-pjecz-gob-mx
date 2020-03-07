@@ -8,10 +8,10 @@ Date: {{ date }}
 Modified: {{ modified }}
 
 
-{% if descargables|length > 1 %}
+{{ introduccion }}
+
 {% for descargable in descargables %}
 * [{{ descargable }}]({{ descargable }})
 {% endfor %}
-{% else %}
-Pendiente.
-{% endif %}
+
+{{ final }}

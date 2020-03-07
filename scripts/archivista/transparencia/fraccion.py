@@ -1,32 +1,33 @@
+import csv
 import os
 from datetime import datetime
-from transparencia.plantillas import env
 
 
 class Fraccion(object):
 
-    def __init__(self, rama, ordinal, pagina, titulo, resumen, etiquetas):
+    def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas):
+        self.articulo = articulo
         self.rama = rama
-        self.ordinal = ordinal
+        self.ordinal = int(ordinal)
         self.pagina = pagina
         self.titulo = titulo
         self.resumen = resumen
         self.etiquetas = etiquetas
-        self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
+        # Listar archivos con los contenidos y descargables
+        self.insumos = []
+        self.input_path = '{}/F{} {}'.format(self.articulo.input_path, ordinal.zfill(2), self.titulo)
+        if os.path.exists(self.input_path):
+            with os.scandir(self.input_path) as scan:
+                for item in scan:
+                    if not item.name.startswith('.') and item.is_file():
+                        self.insumos.append(item.name)
+        self.insumos.sort()
 
     def destino(self):
         return(f'transparencia/{self.rama}/{self.pagina}/{self.pagina}.md')
 
-    def contenido(self, descargables=[]):
-        descargables = []
-        ruta = f'transparencia/{self.rama}/{self.pagina}/'
-        if os.path.exists(os.path.dirname(ruta)):
-            archivos = [f for f in os.listdir(ruta) if os.path.isfile(os.path.join(ruta, f))]
-            for archivo in archivos:
-                nombre, extension = os.path.splitext(archivo)
-                if extension in [ '.doc', '.docx', '.pdf', '.ppt', '.pptx', '.xls', '.xlsx', '.zip' ]:
-                    descargables.append(archivo)
-        plantilla = env.get_template('fraccion.md.jinja2')
+    def contenido(self):
+        plantilla = self.articulo.transparencia.plantillas_env.get_template('fraccion.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
             slug = f'transparencia-{self.rama}-{self.pagina}',
@@ -36,8 +37,11 @@ class Fraccion(object):
             save_as = f'transparencia/{self.rama}/{self.pagina}/index.html',
             date = self.creado,
             modified = self.modificado,
-            descargables = descargables,
+            descargables = [],
             ))
 
     def __repr__(self):
-        return(f'{self.destino()}, {self.titulo}')
+        if len(self.insumos) > 0:
+            return('    {}: {}'.format(self.titulo, ', '.join(self.insumos)))
+        else:
+            return('')

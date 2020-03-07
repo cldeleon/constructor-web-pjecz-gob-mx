@@ -1,24 +1,36 @@
 import csv
+import os
 from datetime import datetime
-from transparencia.plantillas import env
 from transparencia.articulo import Articulo
 
 
 class Transparencia(object):
 
-    def __init__(self, entrada_csv):
+    def __init__(self, input_path, output_path, metadatos_csv, plantillas_env):
+        self.input_path = input_path
+        self.output_path = output_path
+        self.metadatos_csv = metadatos_csv
+        self.plantillas_env = plantillas_env
         self.titulo = 'Transparencia'
         self.resumen = 'Pendiente'
         self.etiquetas = 'Transparencia'
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
+        # Listar archivos con los contenidos y descargables
+        self.insumos = []
+        with os.scandir(self.input_path) as scan:
+            for item in scan:
+                if not item.name.startswith('.') and item.is_file():
+                    self.insumos.append(item.name)
+        self.insumos.sort()
+        # Alimentar articulos
         self.articulos = []
         alimentados = []
-        with open(entrada_csv) as puntero:
+        with open(self.metadatos_csv) as puntero:
             lector = csv.DictReader(puntero)
             for renglon in lector:
                 if renglon['rama'] not in alimentados:
                     self.articulos.append(Articulo(
-                        entrada_csv = entrada_csv,
+                        transparencia = self,
                         rama = renglon['rama'],
                         pagina = renglon['pagina'],
                         titulo = renglon['titulo'],
@@ -31,7 +43,7 @@ class Transparencia(object):
         return('transparencia/transparencia.md')
 
     def contenido(self):
-        plantilla = env.get_template('transparencia.md.jinja2')
+        plantilla = self.plantillas_env.get_template('transparencia.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
             slug = 'transparencia',
@@ -45,8 +57,12 @@ class Transparencia(object):
             ))
 
     def __repr__(self):
-        salida = []
-        salida.append(f'{self.destino()}, {self.titulo}')
-        for articulo in self.articulos:
-            salida.append(str(articulo))
-        return('\n'.join(salida))
+        if len(self.insumos) > 0:
+            salida = []
+            salida.append('{}: {}'.format(self.titulo, ', '.join(self.insumos)))
+            for articulo in self.articulos:
+                if str(articulo) != '':
+                    salida.append(str(articulo))
+            return('\n'.join(salida))
+        else:
+            return('')

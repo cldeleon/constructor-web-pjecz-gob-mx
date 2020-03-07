@@ -8,22 +8,10 @@ Date: {{ date }}
 Modified: {{ modified }}
 
 
-### I. Información Pública de Oficio
-
-Conforme a la Ley Estatal
+{{ introduccion }}
 
 {% for articulo in articulos %}
 * [{{ articulo.titulo }}]({{ articulo.pagina }}/)
 {% endfor %}
 
-###  Solicitud de Acceso a la Información
-
-* Procedimiento para presentar una Solicitud de Acceso a la Información
-* Formato para realizar Solicitud
-* Plataforma Nacional de Transparencia
-
-###  Derechos ARCO
-
-* ¿Qué son los Derechos ARCO?
-* Formato para la solicitud de derechos ARCO
-* ¿Qué es la protección de Datos Personales?
+{{ final }}
