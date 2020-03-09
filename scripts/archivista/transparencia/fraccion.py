@@ -3,6 +3,14 @@ import os
 from datetime import datetime
 
 
+def scantree(path):
+    for entry in os.scandir(path):
+        if entry.is_dir(follow_symlinks=False):
+            yield from scantree(entry.path)
+        else:
+            yield entry
+
+
 class Fraccion(object):
 
     def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas):
@@ -17,10 +25,8 @@ class Fraccion(object):
         self.insumos = []
         self.input_path = '{}/F{} {}'.format(self.articulo.input_path, ordinal.zfill(2), self.titulo)
         if os.path.exists(self.input_path):
-            with os.scandir(self.input_path) as scan:
-                for item in scan:
-                    if not item.name.startswith('.') and item.is_file():
-                        self.insumos.append(item.name)
+            for entry in scantree(self.input_path):
+                self.insumos.append(entry.name)
         self.insumos.sort()
 
     def destino(self):
