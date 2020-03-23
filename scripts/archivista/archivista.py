@@ -5,25 +5,25 @@ from jinja2 import Environment, FileSystemLoader
 from pathlib import Path
 from transparencia.transparencia import Transparencia
 
-home_path = str(Path.home())
-pelican_path = f'{home_path}/VirtualEnv/Pelican'
-nextcloud_path = f'{home_path}/Nextcloud/Sitios Web/pjecz.gob.mx'
+home_ruta = str(Path.home())
+pelican_ruta = f'{home_ruta}/VirtualEnv/Pelican'
+nextcloud_ruta = f'{home_ruta}/Nextcloud/Sitios Web/pjecz.gob.mx'
 
-transparencia_input_path = f'{nextcloud_path}/Transparencia'
-transparencia_output_path = f'{home_path}/VirtualEnv/Pelican/guivaloz-pjecz.gob.mx/content/transparencia'
-transparencia_plantillas_path = f'{pelican_path}/scripts/archivista/transparencia/plantillas'
-transparencia_metadatos_csv = f'{pelican_path}/scripts/archivista/transparencia/transparencia.csv'
+transparencia_insumos_ruta = f'{nextcloud_ruta}/Transparencia'
+transparencia_salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/guivaloz-pjecz.gob.mx/content'
+transparencia_metadatos_csv = f'{pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'
+transparencia_plantillas_ruta = f'{pelican_ruta}/scripts/archivista/transparencia/plantillas'
 
-def actualizar_archivo(ruta, contenido):
-    if not os.path.exists(os.path.dirname(ruta)):
-        os.makedirs(os.path.dirname(ruta))
-    with open(ruta, 'w') as file:
+def actualizar_archivo(destino, contenido):
+    if not os.path.exists(os.path.dirname(destino)):
+        os.makedirs(os.path.dirname(destino))
+    with open(destino, 'w') as file:
         file.write(contenido)
 
-def sobreescribir_archivo(ruta, contenido):
-    if not os.path.exists(os.path.dirname(ruta)):
-        os.makedirs(os.path.dirname(ruta))
-    with open(ruta, 'w') as file:
+def sobreescribir_archivo(destino, contenido):
+    if not os.path.exists(os.path.dirname(destino)):
+        os.makedirs(os.path.dirname(destino))
+    with open(destino, 'w') as file:
         file.write(contenido)
 
 
@@ -37,29 +37,29 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 
 
 @click.group()
-@click.option('--input-path', default=transparencia_input_path, type=str, help='Ruta a Nextcloud con insumos.')
-@click.option('--output-path', default=transparencia_output_path, type=str, help='Ruta a Pelican de contenidos.')
+@click.option('--insumos-ruta', default=transparencia_insumos_ruta, type=str, help='Ruta a los insumos en Nextcloud.')
+@click.option('--salida-ruta', default=transparencia_salida_ruta, type=str, help='Ruta de salida a Pelican.')
 @click.option('--metadatos-csv', default=transparencia_metadatos_csv, type=str, help='Archivo CSV con metadatos')
 @pass_config
-def cli(config, input_path, output_path, metadatos_csv):
+def cli(config, insumos_ruta, salida_ruta, metadatos_csv):
     click.echo('Hola, ¡soy Archivista!')
-    config.input_path = input_path
-    config.output_path = output_path
+    config.insumos_ruta = insumos_ruta
+    config.salida_ruta = salida_ruta
     config.metadatos_csv = metadatos_csv
-    if not os.path.exists(config.input_path):
-        sys.exit('Error: No existe la ruta a Nextcloud.')
-    click.echo(f'  Ruta a Nextcloud con insumos: {config.input_path}')
-    if not os.path.exists(config.output_path):
-        sys.exit('Error: No existe la ruta a contenidos de Pelican.')
-    click.echo(f'  Ruta a Pelican de contenidos: {config.output_path}')
+    if not os.path.exists(config.insumos_ruta):
+        sys.exit('Error: No existe la ruta a los insumos en Nextcloud.')
+    click.echo(f'  Ruta a Nextcloud con insumos: {config.insumos_ruta}')
+    if not os.path.exists(config.salida_ruta):
+        sys.exit('Error: No existe la ruta de salida a Pelican.')
+    click.echo(f'  Ruta a Pelican de contenidos: {config.salida_ruta}')
     if not os.path.exists(config.metadatos_csv):
         sys.exit('Error: No existe el archivo CSV con los metadatos.')
     click.echo(f'  Archivo CSV con metadatos:    {config.metadatos_csv}')
-    if not os.path.exists(transparencia_plantillas_path):
+    if not os.path.exists(transparencia_plantillas_ruta):
         sys.exit('Error: No existe la ruta a las plantillas.')
-    click.echo(f'  Ruta a las plantillas:        {transparencia_plantillas_path}')
+    click.echo(f'  Ruta a las plantillas:        {transparencia_plantillas_ruta}')
     config.plantillas_env = Environment(
-        loader=FileSystemLoader(transparencia_plantillas_path),
+        loader=FileSystemLoader(transparencia_plantillas_ruta),
         trim_blocks=True,
         lstrip_blocks=True,
         )
@@ -70,8 +70,8 @@ def mostrar(config):
     """ Mostrar en pantalla directorios y archivos que puede crear """
     click.echo('Voy a mostrar...')
     transparencia = Transparencia(
-        input_path=config.input_path,
-        output_path='',
+        insumos_ruta=config.insumos_ruta,
+        salida_ruta='',
         metadatos_csv=config.metadatos_csv,
         plantillas_env=config.plantillas_env,
         )
@@ -82,6 +82,20 @@ def mostrar(config):
 def crear(config):
     """ Crear directorios y archivos """
     click.echo('Voy a crear...')
+    transparencia = Transparencia(
+        insumos_ruta=config.insumos_ruta,
+        salida_ruta=config.salida_ruta,
+        metadatos_csv=config.metadatos_csv,
+        plantillas_env=config.plantillas_env,
+        )
+    sobreescribir_archivo(f'{config.salida_ruta}/{transparencia.destino}', transparencia.contenido())
+    click.echo(f'  {transparencia.destino}')
+    for articulo in transparencia.articulos:
+        sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido())
+        click.echo(f'  {articulo.destino}')
+        for fraccion in articulo.fracciones:
+            sobreescribir_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido())
+            click.echo(f'  {fraccion.destino}')
 
 @cli.command()
 @pass_config
