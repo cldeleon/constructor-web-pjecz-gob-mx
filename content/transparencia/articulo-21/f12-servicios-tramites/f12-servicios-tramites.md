@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f12-servicios-tramites/
 Save_As: transparencia/articulo-21/f12-servicios-tramites/index.html
-Date: 2020-03-22 21:08
-Modified: 2020-03-22 21:08
+Date: 2020-03-26 19:05
+Modified: 2020-03-26 19:05
 
 
 ### RESPONSABLE
@@ -26,5 +26,9 @@ Un listado con los servicios que ofrece, que incluya los trámites, tiempos de r
 * [Requisitos para ingresar a la lista de Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-21/fraccion-21-xii-servicios-y-tramites/lista-de-auxiliares-de-la-administracion-de-justicia/)
 
 
+### Descargas
 
-### Sin final
+* [Prueba 1](#)
+* [Prueba 2](#)
+* [Prueba 3](#)
+

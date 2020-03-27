@@ -8,10 +8,7 @@ Date: {{ date }}
 Modified: {{ modified }}
 
 
-{{ introduccion }}
-
-{% for fraccion in fracciones %}
-{{ fraccion.ordinal }}. [{{ fraccion.titulo }}]({{ fraccion.pagina }}/)
+{% for seccion in secciones %}
+{{ seccion.contenido() }}
 {% endfor %}
 
-{{ final }}

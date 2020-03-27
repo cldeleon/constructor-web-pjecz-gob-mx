@@ -1,6 +1,7 @@
 import csv
 import os
 from datetime import datetime
+from transparencia.base import Base
 from transparencia.seccion import Seccion
 
 
@@ -12,49 +13,38 @@ def scantree(path):
             yield entry
 
 
-class Fraccion(object):
+class Fraccion(Base):
+    """ Coordina una rama de Fracción """
 
     def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas):
         self.articulo = articulo
-        self.rama = rama
         self.ordinal = ordinal
-        self.pagina = pagina
         self.titulo = titulo
+        secciones_comienzan_con = 'F{} {}'.format(self.ordinal.zfill(2), self.titulo)
+        insumos_ruta = f'{self.articulo.insumos_ruta}/{secciones_comienzan_con}'
+        super().__init__(insumos_ruta, secciones_comienzan_con)
+        self.rama = rama
+        self.pagina = pagina
         self.resumen = resumen
         self.etiquetas = etiquetas
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
-        self.secciones_comienzan_con = 'F{} {}'.format(self.ordinal.zfill(2), self.titulo)
-        self.insumos_ruta = f'{self.articulo.insumos_ruta}/{self.secciones_comienzan_con}'
         self.destino = f'transparencia/{self.rama}/{self.pagina}/{self.pagina}.md'
-        self.insumos = []
-        self.secciones = []
-        self.alimentado = False
 
     def alimentar(self):
+        super().alimentar()
         if self.alimentado == False:
-            # Alimentar insumos
-            if os.path.exists(self.insumos_ruta):
-                for entry in scantree(self.insumos_ruta):
-                    self.insumos.append(entry.name)
-            self.insumos.sort()
-            # Alimentar secciones
-            for insumo in self.insumos:
-                if insumo.endswith('.md') and insumo.startswith(self.secciones_comienzan_con):
-                    self.secciones.append(Seccion(self.insumos_ruta, insumo))
             # Levantar bandera
             self.alimentado = True
 
     def contenido(self):
-        if self.alimentado == False:
-            self.alimentar()
-        if len(self.secciones) > 0:
-            introducciones = []
-            for seccion in self.secciones:
-                introducciones.append(seccion.contenido())
-            introduccion = '\n'.join(introducciones)
-        else:
-            introduccion = '### Sin introducción'
-        final = '### Sin final'
+        super().contenido()
+        # Agregar el listado de vínculos a las descargas
+        lineas = []
+        lineas.append(f'* [Prueba 1](#)')
+        lineas.append(f'* [Prueba 2](#)')
+        lineas.append(f'* [Prueba 3](#)')
+        self.secciones.append(Seccion('Descargas', '\n'.join(lineas)))
+        # Entregar contenido
         plantilla = self.articulo.transparencia.plantillas_env.get_template('fraccion.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
@@ -65,9 +55,7 @@ class Fraccion(object):
             save_as = f'transparencia/{self.rama}/{self.pagina}/index.html',
             date = self.creado,
             modified = self.modificado,
-            introduccion = introduccion,
-            descargables = [],
-            final = final,
+            secciones = self.secciones,
             ))
 
     def __repr__(self):

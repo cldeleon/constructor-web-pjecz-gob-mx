@@ -2,13 +2,15 @@ import csv
 import os
 from datetime import datetime
 from transparencia.articulo import Articulo
+from transparencia.base import Base
 from transparencia.seccion import Seccion
 
 
-class Transparencia(object):
+class Transparencia(Base):
+    """ Coordina la rama de Transparencia, que tiene varios Artículos """
 
     def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env):
-        self.insumos_ruta = insumos_ruta
+        super().__init__(insumos_ruta, 'Transparencia')
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env
@@ -16,25 +18,12 @@ class Transparencia(object):
         self.resumen = 'Pendiente'
         self.etiquetas = 'Transparencia'
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
-        self.secciones_comienzan_con = 'Transparencia'
         self.destino = 'transparencia/transparencia.md'
-        self.insumos = []
-        self.secciones = []
         self.articulos = []
-        self.alimentado = False
 
     def alimentar(self):
+        super().alimentar()
         if self.alimentado == False:
-            # Alimentar insumos
-            with os.scandir(self.insumos_ruta) as scan:
-                for item in scan:
-                    if not item.name.startswith('.') and item.is_file():
-                        self.insumos.append(item.name)
-            self.insumos.sort()
-            # Alimentar secciones
-            for insumo in self.insumos:
-                if insumo.endswith('.md') and insumo.startswith(self.secciones_comienzan_con):
-                    self.secciones.append(Seccion(self.insumos_ruta, insumo))
             # Alimentar articulos
             alimentados = []
             with open(self.metadatos_csv) as puntero:
@@ -57,16 +46,13 @@ class Transparencia(object):
             self.alimentado = True
 
     def contenido(self):
-        if self.alimentado == False:
-            self.alimentar()
-        if len(self.secciones) > 0:
-            introducciones = []
-            for seccion in self.secciones:
-                introducciones.append(seccion.contenido())
-            introduccion = '\n'.join(introducciones)
-        else:
-            introduccion = '### Sin introducción'
-        final = '### Sin final'
+        super().contenido()
+        # Agregar el listado de vínculos a los artículos
+        lineas = []
+        for articulo in self.articulos:
+            lineas.append(f'* [{articulo.titulo}]({articulo.pagina}/)')
+        self.secciones.append(Seccion('Artículos', '\n'.join(lineas)))
+        # Entregar contenido
         plantilla = self.plantillas_env.get_template('transparencia.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
@@ -77,9 +63,7 @@ class Transparencia(object):
             save_as = 'transparencia/index.html',
             date = self.creado,
             modified = self.modificado,
-            introduccion = introduccion,
-            articulos = self.articulos,
-            final = final,
+            secciones = self.secciones,
             ))
 
     def __repr__(self):

@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f01-estructura-organica/
 Save_As: transparencia/articulo-21/f01-estructura-organica/index.html
-Date: 2020-03-22 21:08
-Modified: 2020-03-22 21:08
+Date: 2020-03-26 19:05
+Modified: 2020-03-26 19:05
 
 
 El Poder Judicial del Estado de Coahuila cuenta con una estructura orgánica integrada por órganos jurisdiccionales, no jurisdiccionales y administrativos.
@@ -35,5 +35,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.
 
 
+### Descargas
 
-### Sin final
+* [Prueba 1](#)
+* [Prueba 2](#)
+* [Prueba 3](#)
+

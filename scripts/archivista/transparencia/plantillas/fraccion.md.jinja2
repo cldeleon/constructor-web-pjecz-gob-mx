@@ -8,10 +8,7 @@ Date: {{ date }}
 Modified: {{ modified }}
 
 
-{{ introduccion }}
-
-{% for descargable in descargables %}
-* [{{ descargable }}]({{ descargable }})
+{% for seccion in secciones %}
+{{ seccion.contenido() }}
 {% endfor %}
 
-{{ final }}

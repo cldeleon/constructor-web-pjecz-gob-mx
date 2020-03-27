@@ -100,8 +100,22 @@ def crear(config):
 @cli.command()
 @pass_config
 def actualizar(config):
-    """ Actualizar los contenidos con los archivos descargables """
+    """ Actualizar directorios y archivos """
     click.echo('Voya a actualizar...')
+    transparencia = Transparencia(
+        insumos_ruta=config.insumos_ruta,
+        salida_ruta=config.salida_ruta,
+        metadatos_csv=config.metadatos_csv,
+        plantillas_env=config.plantillas_env,
+        )
+    actualizar_archivo(f'{config.salida_ruta}/{transparencia.destino}', transparencia.contenido())
+    click.echo(f'  {transparencia.destino}')
+    for articulo in transparencia.articulos:
+        actualizar_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido())
+        click.echo(f'  {articulo.destino}')
+        for fraccion in articulo.fracciones:
+            actualizar_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido())
+            click.echo(f'  {fraccion.destino}')
 
 cli.add_command(mostrar)
 cli.add_command(crear)
