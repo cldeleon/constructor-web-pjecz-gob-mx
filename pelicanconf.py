@@ -3,7 +3,8 @@
 from __future__ import unicode_literals
 
 # Tema
-THEME = 'themes/startbootstrap-business-frontpage'
+#THEME = 'themes/startbootstrap-business-frontpage'
+THEME = 'themes/pjecz-2020-04'
 
 # Para desarrollo, los vinculos son relativos
 SITEURL = ''

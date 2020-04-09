@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ SITEDESCRIPTION }}">
+    <meta name="keywords" content="{{ SITEKEYWORDS }}">
+    <meta name="author" content="{{ AUTHOR }}">
+{% endblock %}
+
+{% block content %}
+    <!-- Contenido -->
+	<main>
+{% if output_file == 'index.html' %}
+{%     include 'inicial-cabecera.html' %}
+{%     include 'inicial-destacados.html' %}
+{% endif %}
+        <!-- Inicial Novedades -->
+		<section id="novedades">
+			<div class="container pt-4 pb-2">
+                <h3 class="text-center">Comunicados</h3>
+{% for article in articles_page.object_list %}
+				<h4><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h4>
+{{ article.summary }}
+{% endfor %}
+			</div>
+		</section>
+{% if output_file == 'index.html' %}
+{%     include 'inicial-recomendaciones.html' %}
+{%     include 'inicial-sitios-interes.html' %}
+{% endif %}
+	</main>
+{% endblock %}
