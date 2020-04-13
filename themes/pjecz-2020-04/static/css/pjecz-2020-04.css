@@ -7,9 +7,9 @@
 
 /* Global */
 body {
-    font-family: 'Lato', sans-serif; font-weight: 300;
+    font-family: 'Lato', sans-serif; font-weight: 300; line-height: 1.3em;
     background-color: #ffffff;
-    padding-top: 80px; /* Altura de Navegacion */
+    padding-top: 80px; /* Altura de navegación */
 }
 
 /* Encabezados */
@@ -24,9 +24,24 @@ h6 { font-family: 'Saira', sans-serif; font-weight: 400; font-size: 1.0em; margi
 p          { font-size: 1.0em; padding: 0.4em 0; }
 blockquote { font-size: 1.2em; font-style: italic; padding: 1.2em; }
 
+/* Enlaces */
+a         { color: #083755; text-decoration: none; }
+a:focus,
+a:hover   { color: #00568d; text-decoration: underline; }
+a:active,
+a:visited { color: #083755; text-decoration: none; }
+
 /* Estructuras */
+header  { min-height: 100px; }
 main    { min-height: 800px; }
 article { min-height: 800px; }
+footer  { min-height: 200px; }
+
+/* Título */
+header {
+    font-family: 'Lato', sans-serif; font-weight: 300;
+    background-color: #e3e1e4;
+}
 
 /* Navegación */
 #navegacion {
@@ -52,7 +67,6 @@ article { min-height: 800px; }
 
 /* Footer */
 footer {
-    min-height: 200px;
     font-family: 'Saira', sans-serif; font-weight: 400;
     color: #ffffff;
     background-color: #4f5e61;
@@ -60,6 +74,7 @@ footer {
 footer h3        { color: #859497; }
 footer h4        { color: #859497; }
 footer h5        { color: #859497; }
+footer ul li     { color: #777777; padding: 0.2em 0; }
 footer a         { color: #dddddd; }
 footer a:focus,
 footer a:hover   { color: #ffffff; }

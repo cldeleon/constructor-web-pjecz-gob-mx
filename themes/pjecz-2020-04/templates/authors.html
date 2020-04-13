@@ -2,13 +2,26 @@
 
 {% block title %}Autores - {{ SITENAME }}{% endblock %}
 
-{% block heading_title %}Autores{% endblock %}
+{% block header %}
+    <!-- Encabezado -->
+    <header class="py-2">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-lg-12">
+                    <h1 class="display-4 mt-5 mb-2">Autores</h1>
+                </div>
+            </div>
+        </div>
+    </header>
+{% endblock %}
 
 {% block content %}
-                <h1>Autores</h1>
-                <ul>
+    <!-- Contenido -->
+    <main>
+        <ul>
 {% for author, articles in authors|sort %}
-                    <li><a href="/{{ author.url }}">{{ author }}</a> ({{ articles|count }})</li>
+            <li><a href="/{{ author.url }}">{{ author }}</a> ({{ articles|count }})</li>
 {% endfor %}
-                </ul>
+        </ul>
+    </main>
 {% endblock %}
