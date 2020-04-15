@@ -24,8 +24,7 @@ PATH = 'content'
 
 # Directorios que tienen los articulos
 ARTICLE_PATHS = [
-    'boletines-judiciales',
-    'comunicados',
+    'acuerdos',
     ]
 
 # Directorios que tienen páginas fijas, no artículos

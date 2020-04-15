@@ -11,7 +11,8 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Para producción los URLs son absolutos
-SITEURL = 'https://pjecz.github.io/beta'
+SITEURL = 'https://pjecz.gob.mx'
+SITELOGO = 'https://pjecz.gob.mx/theme/images/pjecz.png'
 RELATIVE_URLS = False
 
 # Para producción se activa la generacion de feeds

@@ -49,15 +49,16 @@
     <!-- Contenido -->
     <main>
 {% if output_file == 'index.html' %}
-{%     include 'inicial-cabecera.html' %}
-{%     include 'inicial-destacados.html' %}
+{#     include 'inicial-cabecera.html' #}
+{#     include 'inicial-destacados.html' #}
+{%     include 'inicial-en-construccion.html' %}
         <!-- Inicial Novedades -->
         <section id="novedades">
             <div class="container pt-4 pb-2">
                 <div class="row">
                     <div class="col-md-6">
-                        <h3 class="text-center">Twitter</h3>
-                        <img class="img-fluid" data-src="holder.js/100px600">
+                        <h3 class="text-center">Red Social Twitter</h3>
+                        <a class="twitter-timeline" data-height="800" href="https://twitter.com/PJCoah?ref_src=twsrc%5Etfw">Tweets by PJCoah</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
                     </div>
                     <div class="col-md-6">
                         <h3 class="text-center">Noticias y eventos</h3>
@@ -69,7 +70,7 @@
                 </div>
             </div>
         </section>
-{%     include 'inicial-recomendaciones.html' %}
+{#     include 'inicial-recomendaciones.html' #}
 {%     include 'inicial-sitios-interes.html' %}
 {% else %}
         <h3 class="text-center">Noticias y eventos</h3>

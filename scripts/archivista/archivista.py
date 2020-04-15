@@ -6,11 +6,11 @@ from pathlib import Path
 from transparencia.transparencia import Transparencia
 
 home_ruta = str(Path.home())
-pelican_ruta = f'{home_ruta}/VirtualEnv/Pelican'
+pelican_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx'
 nextcloud_ruta = f'{home_ruta}/Nextcloud/Sitios Web/pjecz.gob.mx'
 
 transparencia_insumos_ruta = f'{nextcloud_ruta}/Transparencia'
-transparencia_salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/guivaloz-pjecz.gob.mx/content'
+transparencia_salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx/content'
 transparencia_metadatos_csv = f'{pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'
 transparencia_plantillas_ruta = f'{pelican_ruta}/scripts/archivista/transparencia/plantillas'
 
@@ -47,16 +47,16 @@ def cli(config, insumos_ruta, salida_ruta, metadatos_csv):
     config.salida_ruta = salida_ruta
     config.metadatos_csv = metadatos_csv
     if not os.path.exists(config.insumos_ruta):
-        sys.exit('Error: No existe la ruta a los insumos en Nextcloud.')
+        sys.exit(f'Error: No existe la ruta a los insumos en Nextcloud {config.insumos_ruta}')
     click.echo(f'  Ruta a Nextcloud con insumos: {config.insumos_ruta}')
     if not os.path.exists(config.salida_ruta):
-        sys.exit('Error: No existe la ruta de salida a Pelican.')
+        sys.exit(f'Error: No existe la ruta de salida a Pelican {config.salida_ruta}')
     click.echo(f'  Ruta a Pelican de contenidos: {config.salida_ruta}')
     if not os.path.exists(config.metadatos_csv):
-        sys.exit('Error: No existe el archivo CSV con los metadatos.')
+        sys.exit(f'Error: No existe el archivo CSV con los metadatos {config.metadatos_csv}')
     click.echo(f'  Archivo CSV con metadatos:    {config.metadatos_csv}')
     if not os.path.exists(transparencia_plantillas_ruta):
-        sys.exit('Error: No existe la ruta a las plantillas.')
+        sys.exit(f'Error: No existe la ruta a las plantillas {transparencia_plantillas_ruta}')
     click.echo(f'  Ruta a las plantillas:        {transparencia_plantillas_ruta}')
     config.plantillas_env = Environment(
         loader=FileSystemLoader(transparencia_plantillas_ruta),
