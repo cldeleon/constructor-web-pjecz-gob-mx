@@ -25,6 +25,7 @@ PATH = 'content'
 # Directorios que tienen los articulos
 ARTICLE_PATHS = [
     'acuerdos',
+    'sesiones',
     ]
 
 # Directorios que tienen páginas fijas, no artículos
@@ -37,11 +38,11 @@ PAGE_PATHS = [
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
-    'boletines-judiciales',
+    'acuerdos',
     'consejo-judicatura',
-    'comunicados',
     'poder-judicial',
     'transparencia',
+    'sesiones',
     'favicon.ico',
     'robots.txt',
     ]

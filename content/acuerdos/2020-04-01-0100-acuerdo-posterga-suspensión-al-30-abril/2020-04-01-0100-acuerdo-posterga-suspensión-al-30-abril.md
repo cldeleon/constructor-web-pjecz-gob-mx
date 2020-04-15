@@ -2,7 +2,7 @@ Title: Acuerdo que posterga la suspensión al 30 Abril
 Slug: 2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril
 Summary: Mediante el cual se adecuan medidas ante la contingencia sanitaria relativa a la pandemia del coronavirus COVID-19.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-01 01:00
 Modified: 2020-04-01 01:00
 

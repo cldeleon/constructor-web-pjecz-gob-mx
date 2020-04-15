@@ -2,7 +2,7 @@ Title: Acuerdo sobre cuestiones urgentes en Materia Familiar
 Slug: 2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar
 Summary: Mediante el cual se fijan diversos lineamientos de reforzamiento a las medidas de contingencia implementadas en los Juzgados de Primera Instancia en Materia Familiar, por el fenomeno de salud pública derivado del virus COVID-19.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-06 02:00
 Modified: 2020-04-06 02:00
 

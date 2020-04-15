@@ -2,7 +2,7 @@ Title: Acuerdo de Suspensión frente al COVID-19
 Slug: 2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19
 Summary: Mediante el cual se determinan las medidas preventivas frente al coronavirus COVID-19 dirigidas a los órganos jurisdiccionales y administrativos del Poder Judicial del Estado de Coahuila de Zaragoza.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-03-18 01:00
 Modified: 2020-03-18 01:00
 

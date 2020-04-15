@@ -2,7 +2,7 @@ Title: Acuerdo relativo al cierre de Monclova
 Slug: 2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova
 Summary: Mediante el cual se adecuan medidas ante la contingencia sanitaria relativa a la pandemia del coronavirus COVID-19 en el Distrito Judicial de Monclova.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-13 02:00
 Modified: 2020-04-13 02:00
 

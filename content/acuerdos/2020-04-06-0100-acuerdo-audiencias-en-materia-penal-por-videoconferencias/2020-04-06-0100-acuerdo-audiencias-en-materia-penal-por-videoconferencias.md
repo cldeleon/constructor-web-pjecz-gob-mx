@@ -2,7 +2,7 @@ Title: Acuerdo de audiencias en Materia Penal por Videoconferencias
 Slug: 2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias
 Summary: Mediante el cual se establece el mecanismo de reforzamiento a las medidas de contingencia implementadas en los Juzgados de Primera Instancia en Materia Penal del Sistema Acusatorio y Oral, por el fenomeno de salud pública derivado del virus COVID-19.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-06 01:00
 Modified: 2020-04-06 01:00
 

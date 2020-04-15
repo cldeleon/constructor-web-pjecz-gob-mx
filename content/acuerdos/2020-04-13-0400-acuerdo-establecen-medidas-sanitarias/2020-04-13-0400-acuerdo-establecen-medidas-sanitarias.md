@@ -2,7 +2,7 @@ Title: Acuerdo donde se establecen medidas sanitarias
 Slug: 2020-04-13-0400-acuerdo-establecen-medidas-sanitarias
 Summary: Mediante el cual se precisan las medidas sanitarias adoptadas por el Poder Judicial del Estado de Coahuila de Zaragoza ante la evolución del COVID-19, y se implementan otras.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-13 04:00
 Modified: 2020-04-13 04:00
 

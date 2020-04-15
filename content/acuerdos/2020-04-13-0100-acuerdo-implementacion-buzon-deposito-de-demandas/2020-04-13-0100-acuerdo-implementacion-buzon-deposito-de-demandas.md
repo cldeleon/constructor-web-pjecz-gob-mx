@@ -2,7 +2,7 @@ Title: Acuerdo para la implementación del Buzón de Depósito de Demandas
 Slug: 2020-04-13-0100-acuerdo-implementacion-buzon-deposito-de-demandas
 Summary: Mediante el cual se implementa el buzón de depósito de demandas en las Oficialías de Partes del Poder Judicial del Estado de Coahuila de Zaragoza ante la contingencia sanitaria generada por el coronavirus (virus SARS-COV2) y la enfermedad COVID-19.
 Category: Acuerdos
-Tags: INFONAVIT
+Tags: COVID-19
 Date: 2020-04-13 01:00
 Modified: 2020-04-13 01:00
 
