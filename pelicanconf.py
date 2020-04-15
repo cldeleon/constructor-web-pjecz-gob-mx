@@ -43,6 +43,7 @@ STATIC_PATHS = [
     'poder-judicial',
     'transparencia',
     'sesiones',
+    'CNAME',
     'favicon.ico',
     'robots.txt',
     ]
