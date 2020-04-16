@@ -7,10 +7,6 @@ Date: 2020-04-01 01:00
 Modified: 2020-04-01 01:00
 
 
-## Descargar
-
-* [2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf)
-
 Acuerdo mediante el cual se adecuan medidas ante la contingencia sanitaria relativa a la pandemia del coronavirus Covid-19.
 
 Saltillo, Coahuila de Zaragoza, a 01 de abril de 2020.
@@ -105,3 +101,8 @@ k) Queda habilitada la Oficialía Mayor del Poder Judicial del Estado para la at
 Listese y cúmplase. Así lo acordó y firma el Magistrado Miguel Felipe Mery Ayup, Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, actuando ante la licenciada Rosalba Ixchel Rodríguez Villagrana, Secretaria de Acuerdo y Trámite del Consejo de la Judicatura del Estado, que autoriza y da fe
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
+
+## Descargar
+
+* [2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf)
+
