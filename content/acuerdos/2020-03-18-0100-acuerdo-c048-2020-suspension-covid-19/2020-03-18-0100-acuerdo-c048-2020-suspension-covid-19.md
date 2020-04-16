@@ -7,10 +7,6 @@ Date: 2020-03-18 01:00
 Modified: 2020-03-18 01:00
 
 
-## Descargar
-
-* [2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf)
-
 ACUERDO C-048/2020 EMITIDO POR EL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO EN SESIÓN CELEBRADA EL 18 DE MARZO DE 2020, MEDIANTE EL CUAL SE DETERMINAN LAS MEDIDAS PREVENTIVAS FRENTE AL CORONAVIRUS COVID-19 DIRIGIDAS A LOS ÓRGANOS JURISDICCIONALES Y ADMINISTRATIVOS DEL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA.
 
 ## A N T E C E D E N T E S
@@ -268,3 +264,7 @@ la debida publicación del presente acuerdo en el portal de internet
 del Poder Judicial del Estado y remitir las comunicaciones oficiales a
 las instancias competentes para su conocimiento y debido
 cumplimiento.
+
+## Descargar
+
+* [2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf)

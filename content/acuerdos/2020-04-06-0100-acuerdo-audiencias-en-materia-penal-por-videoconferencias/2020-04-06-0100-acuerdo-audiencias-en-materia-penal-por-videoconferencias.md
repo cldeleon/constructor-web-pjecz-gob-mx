@@ -7,10 +7,6 @@ Date: 2020-04-06 01:00
 Modified: 2020-04-06 01:00
 
 
-## Descargar
-
-* [2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf)
-
 ACUERDO EMITIDO POR EL MAGISTRADO MIGUEL FELIPE MERY AYUP, PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, EL SEIS DE ABRIL DE DOS MIL VEINTE, MEDIANTE EL CUAL SE ESTABLECE EL MECANISMO DE REFORZAMIENTO A LAS MEDIDAS DE CONTINGENCIA IMPLEMENTADAS EN LOS JUZGADOS DE PRIMERA INSTANCIA EN MATERIA PENAL DEL SISTEMA ACUSATORIO Y ORAL, POR EL FENOMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19.
 
 ## MOTIVOS DEL ACUERDO
@@ -115,3 +111,8 @@ Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
 1. El contenido del acuerdo se encuentra disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza.
 2. El acuerdo está disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/content/uploads/2020/04/Acuerdo 010420-Covid-19.pdf
+
+## Descargar
+
+* [2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf)
+

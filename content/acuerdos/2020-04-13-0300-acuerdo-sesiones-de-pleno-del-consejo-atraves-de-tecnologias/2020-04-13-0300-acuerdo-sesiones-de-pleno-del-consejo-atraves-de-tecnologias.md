@@ -7,10 +7,6 @@ Date: 2020-04-13 03:00
 Modified: 2020-04-13 03:00
 
 
-## Descargar
-
-* [2020-04-13-0300-acuerdo-sesiones-de-pleno-del-consejo-atraves-de-tecnologias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0300-acuerdo-sesiones-de-pleno-del-consejo-atraves-de-tecnologias.pdf)
-
 ACUERDO EMITIDO POR EL MAGISTRADO MIGUEL FELIPE MERY AYUP, PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, EL TRECE DE ABRIL DE DOS MIL VEINTE, MEDIANTE PODER JUDICIAL EL CUAL SE ESTABLECEN PROVIDENCIAS PARA LA CELEBRACIÓN DE SESIONES DEL PLENO DEL CONSEJO DE LA JUDICATURA DEL ESTADO, MEDIANTE EL USO DE TECNOLOGÍAS DIGITALES, PARA LA ADOPCIÓN DE MEDIDAS QUE RESULTEN PERTINENTES, CON MOTIVO DEL FENÓMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19.
 
 ## MOTIVOS DEL ACUERDO
@@ -114,3 +110,8 @@ Al día hábil siguiente se incluyó en la Lista de Acuerdos. Conste.
 1. El contenido del acuerdo se encuentra disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/comunicado covid-19/
 2. El acuerdo está disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/content/uploads/2020/04/Acuerdo 010420-Covid-19.pdf
 3. El acuerdo está disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/content/uploads/2020/04/Acuerdo 010420-Covid-19.pdf
+
+## Descargar
+
+* [2020-04-13-0300-acuerdo-sesiones-de-pleno-del-consejo-atraves-de-tecnologias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0300-acuerdo-sesiones-de-pleno-del-consejo-atraves-de-tecnologias.pdf)
+

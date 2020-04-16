@@ -7,10 +7,6 @@ Date: 2020-04-13 02:00
 Modified: 2020-04-13 02:00
 
 
-## Descargar
-
-* [2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf)
-
 ACUERDO EMITIDO POR EL MAGISTRADO MIGUEL FELIPE MERY AYUP, PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, EL TRECE DE ABRIL DE DOS MIL VEINTE, MEDIANTE EL CUAL SE ADECUAN MEDIDAS ANTE LA CONTINGENCIA SANITARIA RELATIVA A LA PANDEMIA DEL CORONAVIRUS COVID-19 EN EL DISTRITO JUDICIAL DE MONCLOVA.
 
 ### CONSIDERACIONES
@@ -78,3 +74,8 @@ Séptimo. De conformidad con lo previsto en el artículo 14, fracción XXIII, de
 Así lo acordo y firma el Magistrado Miguel Felipe Mery Ayup, Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, actuando ante la licenciada Rosalba Ixchel Rodríguez Villagrana, Secretaria de Acuerdo y Trámite del Consejo de la Judicatura del Estado, que autoriza y da fe.
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
+
+## Descargar
+
+* [2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf)
+

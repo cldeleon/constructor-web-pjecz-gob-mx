@@ -7,10 +7,6 @@ Date: 2020-04-13 04:00
 Modified: 2020-04-13 04:00
 
 
-## Descargar
-
-* [2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf)
-
 ACUERDO EMITIDO POR EL MAGISTRADO MIGUEL FELIPE MERY AYUP, PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, EL TRECE DE ABRIL DE DOS MIL VEINTE, MEDIANTE EL CUAL SE PRECISAN LAS MEDIDAS SANITARIAS ADOPTADAS POR EL PODER JUDICIAL DEL ESTADO DE COAHUILA DE ZARAGOZA ANTE LA EVOLUCIÓN DEL COVID-19, Y SE IMPLEMENTAN OTRAS.
 
 ## MOTIVOS DEL ACUERDO
@@ -92,3 +88,8 @@ fe.
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
 1. El contenido del acuerdo se encuentra disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/comunicado-covid-19/
+
+## Descargar
+
+* [2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf)
+

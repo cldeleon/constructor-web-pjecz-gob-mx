@@ -7,10 +7,6 @@ Date: 2020-04-06 02:00
 Modified: 2020-04-06 02:00
 
 
-## Descargar
-
-* [2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf)
-
 ACUERDO EMITIDO POR EL MAGISTRADO MIGUEL FELIPE MERY AYUP, PRESIDENTE DEL TRIBUNAL SUPERIOR DE JUSTICIA Y DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE COAHUILA DE ZARAGOZA, EL SEIS DE ABRIL DE DOS MIL VEINTE, MEDIANTE EL CUAL SE FIJAN DIVERSOS LINEAMIENTOS DE REFORZAMIENTO A LAS MEDIDAS DE CONTINGENCIA IMPLEMENTADAS EN LOS JUZGADOS DE PRIMERA INSTANCIA EN MATERIA FAMILIAR, POR EL FENOMENO DE SALUD PÚBLICA DERIVADO DEL VIRUS COVID-19.
 
 ## ANTECEDENTES
@@ -94,3 +90,8 @@ Sexto. De conformidad con lo previsto en el artículo 14, fracción XXIII, de la
 Séptimo. Se ordena listar y cumplir el presente acuerdo. Así lo acordo y firma el Magistrado Miguel Felipe Mery Ayup, Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado, actuando ante la licenciada Rosalba Ixchel Rodríguez Villagrana, Secretaria de Acuerdo y Trámite del Consejo de la Judicatura del Estado, que aụtoriza y da fe.
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
+
+## Descargar
+
+* [2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf)
+
