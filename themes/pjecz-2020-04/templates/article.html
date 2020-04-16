@@ -1,0 +1,33 @@
+{% extends "base.html" %}
+
+{% block title %}{{ article.title }} - {{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ article.summary|striptags }}">
+    <meta name="keywords" content="{{ [article.tags|join(', '), article.category]|join(', ') }}">
+    <meta name="author" content="{{ article.author.name }}">
+{% endblock %}
+
+{% block header %}
+    <!-- Encabezado -->
+    <header class="py-2">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-lg-12">
+                    <h1 class="display-4 mt-5 mb-2">{{ article.title }}</h1>
+                    <p class="lead mb-5">{{ article.description }}</p>
+                </div>
+            </div>
+        </div>
+    </header>
+{% endblock %}
+
+{% block content %}
+    <!-- Contenido -->
+    <article>
+        <div class="container py-4">
+{{ article.content }}
+            <p class="text-right text-muted">{{ article.date|strftime('%d %B %Y') }}</p>
+        </div>
+    </article>
+{% endblock %}

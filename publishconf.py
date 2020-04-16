@@ -11,11 +11,9 @@ sys.path.append(os.curdir)
 from pelicanconf import *
 
 # Para producción los URLs son absolutos
-SITEURL = 'https://pjecz.github.io/beta'
+SITEURL = 'https://www.pjecz.gob.mx'
+SITELOGO = 'https://www.pjecz.gob.mx/theme/images/pjecz.png'
 RELATIVE_URLS = False
-
-# Para producción habilitar dependencias de otros servidores en Internet
-USE_REMOTE_SERVICES = True
 
 # Para producción se activa la generacion de feeds
 FEED_DOMAIN = SITEURL
@@ -61,7 +59,10 @@ SITEMAP = {
 }
 
 # Para producción NO BORRAR todo el directorio de salida
-DELETE_OUTPUT_DIRECTORY = True
+DELETE_OUTPUT_DIRECTORY = False
 
 # Para producción activar el caché
 LOAD_CONTENT_CACHE = True
+
+# Para producción SI hay cargas desde Internet
+USE_REMOTE_SERVICES = True
