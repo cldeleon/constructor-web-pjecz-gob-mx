@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f41-estadisticas-sobre-ingresos/
 Save_As: transparencia/articulo-21/f41-estadisticas-sobre-ingresos/index.html
-Date: 2020-04-20 10:40
-Modified: 2020-04-20 10:40
+Date: 2020-04-20 12:32
+Modified: 2020-04-20 12:32
 
 
 ### Art. 21, Fracc. XLI Estadísticas sobre los Ingresos

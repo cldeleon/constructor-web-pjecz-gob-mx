@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/
 Save_As: transparencia/articulo-21/index.html
-Date: 2020-04-20 10:40
-Modified: 2020-04-20 10:40
+Date: 2020-04-20 12:32
+Modified: 2020-04-20 12:32
 
 
 ### RESPONSABLE
@@ -14,19 +14,18 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-10 de enero del 2020
+3 de marzo del 2020
 
 Los sujetos obligados deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 
 Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza, la información publicada se encuentra en proceso de actualización, agradecemos su comprensión a todos nuestros usuarios.
-
-
 ### Fracciones
 
 1. [Estructura Orgánica](f01-estructura-organica/)
 2. [Marco Normativo](f02-marco-normativo/)
 3. [Directorio de Servidores Públicos](f03-directorio/)
 4. [Nombramientos, Comisiones y Licencias](f04-nombramientos-comisiones-licencias/)
+5. [Remuneración Mensual por Puesto](f05-remuneracion-mensual-puesto/)
 6. [Declaración Patrimonial](f06-declaracion-patrimonial/)
 7. [Viáticos y Gastos de Representación](f07-viaticos-gastos-representacion/)
 8. [Perfil de Puestos y Currículum Vitae](f08-perfil-puestos-curriculum-vitae/)

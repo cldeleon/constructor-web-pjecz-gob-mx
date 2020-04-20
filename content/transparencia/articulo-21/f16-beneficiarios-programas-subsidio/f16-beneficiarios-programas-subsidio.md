@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f16-beneficiarios-programas-subsidio/
 Save_As: transparencia/articulo-21/f16-beneficiarios-programas-subsidio/index.html
-Date: 2020-04-20 10:40
-Modified: 2020-04-20 10:40
+Date: 2020-04-20 12:32
+Modified: 2020-04-20 12:32
 
 
 **Artículo 21, Fracc. XVI Beneficiarios de los Programas Sociales**
