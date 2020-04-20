@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f10-condiciones-generales-trabajo/
 Save_As: transparencia/articulo-21/f10-condiciones-generales-trabajo/index.html
-Date: 2020-03-26 19:05
-Modified: 2020-03-26 19:05
+Date: 2020-04-20 10:40
+Modified: 2020-04-20 10:40
 
 
 ### RESPONSABLE
@@ -14,10 +14,9 @@ C.P. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-08 de enero del 2020
+3 de abril del 2020
 
-Las condiciones generales de trabajo, o instrumentos que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito a los sujetos obligados y los recursos económicos o en especie que por cualquier motivo se hayan entregado a los sindicatos, incluso los donativos y el monto global de las cuotas sindicales
-
+Las condiciones generales de trabajo, o instrumentos que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito a los sujetos obligados y los recursos económicos o en especie que por cualquier motivo se hayan entregado a los sindicatos, incluso los donativos y el monto global de las cuotas sindicales.
 
 * [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_201219.pdf)
 * [Constitución Política del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa01.pdf)
@@ -29,10 +28,4 @@ Las condiciones generales de trabajo, o instrumentos que regulen las relaciones 
 
 En el Poder Judicial del Estado de Coahuila de Zaragoza no ha sido constituido algún sindicato de empleados adscritos al mismo, por lo que no se realiza aportación en dinero o en especie a sindicato alguno. Es importante mencionar que en el Poder Judicial labora personal agremiado al Sindicato Único de Trabajadores del Gobierno del Estado, el cuál se rige conforme al convenio laboral de prestaciones económicas y sociales para trabajadores sindicalizados al servicio del gobierno del Estado de Coahuila de Zaragoza.
 
-
-### Descargas
-
-* [Prueba 1](#)
-* [Prueba 2](#)
-* [Prueba 3](#)
 

@@ -39,11 +39,11 @@ class Fraccion(Base):
     def contenido(self):
         super().contenido()
         # Agregar el listado de vínculos a las descargas
-        lineas = []
-        lineas.append(f'* [Prueba 1](#)')
-        lineas.append(f'* [Prueba 2](#)')
-        lineas.append(f'* [Prueba 3](#)')
-        self.secciones.append(Seccion('Descargas', '\n'.join(lineas)))
+        #lineas = []
+        #lineas.append(f'* [Prueba 1](#)')
+        #lineas.append(f'* [Prueba 2](#)')
+        #lineas.append(f'* [Prueba 3](#)')
+        #self.secciones.append(Seccion('Descargas', '\n'.join(lineas)))
         # Entregar contenido
         plantilla = self.articulo.transparencia.plantillas_env.get_template('fraccion.md.jinja2')
         return(plantilla.render(
