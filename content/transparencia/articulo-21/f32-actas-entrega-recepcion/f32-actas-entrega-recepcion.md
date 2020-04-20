@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f32-actas-entrega-recepcion/
 Save_As: transparencia/articulo-21/f32-actas-entrega-recepcion/index.html
-Date: 2020-04-20 10:40
-Modified: 2020-04-20 10:40
+Date: 2020-04-20 12:32
+Modified: 2020-04-20 12:32
 
 
 ### Art. 21, Fracc. XXXII Actas de Entrega-Recepción
