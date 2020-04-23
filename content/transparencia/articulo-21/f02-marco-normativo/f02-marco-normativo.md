@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f02-marco-normativo/
 Save_As: transparencia/articulo-21/f02-marco-normativo/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 
@@ -20,6 +20,8 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 3 de abril 2020
 
 El marco normativo aplicable a los sujetos obligados, en el que deberá incluirse el periódico oficial, las leyes, códigos, reglamentos, decretos, reglas de operación, manuales administrativos, acuerdos, circulares, lineamientos y políticas emitidas aplicables en el ámbito de su competencia;
+
+
 
 ### Leyes Estatales
 
@@ -63,6 +65,8 @@ El marco normativo aplicable a los sujetos obligados, en el que deberá incluirs
 * Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza
 * Estatuto jurídico para los trabajadores al servicio del estado
 
+
+
 ### Códigos
 
 * [Código Civil para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa02.pdf)
@@ -71,7 +75,11 @@ El marco normativo aplicable a los sujetos obligados, en el que deberá incluirs
 * [Código de Procedimientos Familiares para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa234.pdf)
 * [Código Nacional de Procedimientos Penales](http://www.diputados.gob.mx/LeyesBiblio/pdf/CNPP_081119.pdf)
 
+
+
 ### Decretos
 
 * [Decretos](http://periodico.sfpcoahuila.gob.mx/ArchivosPO/104-SS-28-DIC-2018.PDF)
+
+
 

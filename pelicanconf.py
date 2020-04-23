@@ -32,7 +32,9 @@ ARTICLE_PATHS = [
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
     'consejo-judicatura',
+    'consultas',
     'poder-judicial',
+    'tramites-servicios',
     'transparencia',
     ]
 
@@ -42,7 +44,9 @@ STATIC_PATHS = [
     'acuerdos',
     'comunicados',
     'consejo-judicatura',
+    'consultas',
     'poder-judicial',
+    'tramites-servicios',
     'transparencia',
     'sesiones',
     'CNAME',

@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f20-presupuesto-asignado/
 Save_As: transparencia/articulo-21/f20-presupuesto-asignado/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 
@@ -20,3 +20,5 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 3 de abril 2020
 
 Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado en lo general y por programa;
+
+

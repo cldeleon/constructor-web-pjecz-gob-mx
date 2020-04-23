@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/
 Save_As: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 
@@ -20,4 +20,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 3 de abril del 2020
 
 Los nombramientos, comisiones y licencias de los servidores públicos;
+
+
 

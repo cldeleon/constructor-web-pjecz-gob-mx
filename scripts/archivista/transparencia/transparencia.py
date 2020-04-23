@@ -1,5 +1,4 @@
 import csv
-import os
 from datetime import datetime
 from transparencia.articulo import Articulo
 from transparencia.base import Base
@@ -39,20 +38,21 @@ class Transparencia(Base):
                             etiquetas = renglon['etiquetas'],
                             )
                         articulo.alimentar()
-                        if len(articulo.secciones) > 0:
-                            self.articulos.append(articulo)
+                        self.articulos.append(articulo)
                         alimentados.append(renglon['rama'])
+            # Agregar Seccion con listado de articulos
+            if len(self.articulos) > 0:
+                lineas = []
+                for articulo in self.articulos:
+                    lineas.append(f'* [{articulo.titulo}]({articulo.pagina}/)')
+                self.secciones_intermedias.append(Seccion('Artículos', '\n'.join(lineas)))
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
             self.alimentado = True
 
     def contenido(self):
         super().contenido()
-        # Agregar el listado de vínculos a los artículos
-        lineas = []
-        for articulo in self.articulos:
-            lineas.append(f'* [{articulo.titulo}]({articulo.pagina}/)')
-        self.secciones.append(Seccion('Artículos', '\n'.join(lineas)))
-        # Entregar contenido
         plantilla = self.plantillas_env.get_template('transparencia.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
@@ -67,19 +67,13 @@ class Transparencia(Base):
             ))
 
     def __repr__(self):
-        if self.alimentado == False:
-            self.alimentar()
-        yo_mismo = []
-        yo_mismo.append(f'  {self.titulo}:')
+        super().__repr__()
         if len(self.secciones) > 0:
-            s = []
+            salidas = []
             for seccion in self.secciones:
-                s.append(seccion.archivo_md)
-            yo_mismo.append(', '.join(s))
-        if len(self.insumos) > 0:
-            yo_mismo.append('+' * len(self.insumos))
-        salida = [' '.join(yo_mismo)]
-        for articulo in self.articulos:
-            if str(articulo) != '':
-                salida.append(str(articulo))
-        return('\n'.join(salida))
+                salidas.append('  ' + str(seccion))
+            for articulo in self.articulos:
+                salidas.append('  ' + str(articulo))
+            return(f'<Transparencia> "{self.titulo}"\n' + '\n'.join(salidas))
+        else:
+            return(f'<Transparencia> "{self.titulo}" SIN SECCIONES')

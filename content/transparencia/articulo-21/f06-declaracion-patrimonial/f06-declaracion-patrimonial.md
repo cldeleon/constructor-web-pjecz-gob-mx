@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f06-declaracion-patrimonial/
 Save_As: transparencia/articulo-21/f06-declaracion-patrimonial/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 
@@ -24,4 +24,6 @@ Versión pública de la declaración patrimonial de los servidores públicos, qu
 ### Descargas
 
 * [Formato para la Declaración Patrimonial](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)
+
+
 
