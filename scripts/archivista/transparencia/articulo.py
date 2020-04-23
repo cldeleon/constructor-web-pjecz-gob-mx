@@ -1,5 +1,4 @@
 import csv
-import os
 from datetime import datetime
 from transparencia.base import Base
 from transparencia.fraccion import Fraccion
@@ -41,19 +40,20 @@ class Articulo(Base):
                             etiquetas = renglon['etiquetas'],
                             )
                         fraccion.alimentar()
-                        if len(fraccion.secciones) > 0:
-                            self.fracciones.append(fraccion)
+                        self.fracciones.append(fraccion)
+            # Agregar Seccion con el listado de vínculos a las fracciones
+            if len(self.fracciones) > 0:
+                lineas = []
+                for fraccion in self.fracciones:
+                    lineas.append(f'{fraccion.ordinal}. [{fraccion.titulo}]({fraccion.pagina}/)')
+                self.secciones_intermedias.append(Seccion('Fracciones', '\n'.join(lineas)))
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
             self.alimentado = True
 
     def contenido(self):
         super().contenido()
-        # Agregar el listado de vínculos a las fracciones
-        lineas = []
-        for fraccion in self.fracciones:
-            lineas.append(f'{fraccion.ordinal}. [{fraccion.titulo}]({fraccion.pagina}/)')
-        self.secciones.append(Seccion('Fracciones', '\n'.join(lineas)))
-        # Entregar contenido
         plantilla = self.transparencia.plantillas_env.get_template('articulo.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
@@ -68,21 +68,13 @@ class Articulo(Base):
             ))
 
     def __repr__(self):
-        if self.alimentado == False:
-            self.alimentar()
-        if len(self.secciones) == 0 and len(self.insumos) == 0 and len(self.fracciones) == 0:
-            return('')
-        yo_mismo = []
-        yo_mismo.append(f'    {self.titulo}:')
+        super().__repr__()
         if len(self.secciones) > 0:
-            s = []
+            salidas = []
             for seccion in self.secciones:
-                s.append(seccion.archivo_md)
-            yo_mismo.append(', '.join(s))
-        if len(self.insumos) > 0:
-            yo_mismo.append('+' * len(self.insumos))
-        salida = [' '.join(yo_mismo)]
-        for fraccion in self.fracciones:
-            if str(fraccion) != '':
-                salida.append(str(fraccion))
-        return('\n'.join(salida))
+                salidas.append('    ' + str(seccion))
+            for fraccion in self.fracciones:
+                salidas.append('    ' + str(fraccion))
+            return(f'<Articulo> "{self.titulo}"\n' + '\n'.join(salidas))
+        else:
+            return(f'<Articulo> "{self.titulo}" SIN SECCIONES')

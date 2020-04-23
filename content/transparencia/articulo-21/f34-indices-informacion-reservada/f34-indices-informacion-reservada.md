@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f34-indices-informacion-reservada/
 Save_As: transparencia/articulo-21/f34-indices-informacion-reservada/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### Art. 21, Fracc. XXXIV Indices de Información Reservada
@@ -19,3 +19,10 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 3 de abril 2020
 
 Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
+
+
+### Descargar
+
+* [Información Reservada.pptx](Información Reservada.pptx)
+
+

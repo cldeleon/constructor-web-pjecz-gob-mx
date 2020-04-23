@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f41-estadisticas-sobre-ingresos/
 Save_As: transparencia/articulo-21/f41-estadisticas-sobre-ingresos/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### Art. 21, Fracc. XLI Estadísticas sobre los Ingresos
@@ -19,3 +19,5 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 3 de abril 2020
 
 Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos;
+
+

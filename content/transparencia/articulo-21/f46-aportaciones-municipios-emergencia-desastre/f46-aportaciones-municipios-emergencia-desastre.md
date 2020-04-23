@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f46-aportaciones-municipios-emergencia-desastre/
 Save_As: transparencia/articulo-21/f46-aportaciones-municipios-emergencia-desastre/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### Art. 21, Fracc. XLVI Aportaciones a Municipios en caso de Emergencia o Desastre
@@ -19,3 +19,5 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 3 de abril 2020
 
 La aportación en dinero o en especie que reciban de las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre; 
+
+

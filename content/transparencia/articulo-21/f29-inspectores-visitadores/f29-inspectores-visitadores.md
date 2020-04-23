@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f29-inspectores-visitadores/
 Save_As: transparencia/articulo-21/f29-inspectores-visitadores/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### Art. 21, Fracc. XXIX Inspectores y Visitadores
@@ -19,3 +19,5 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 3 de abril 2020
 
 Los nombres de los inspectores o visitadores;
+
+

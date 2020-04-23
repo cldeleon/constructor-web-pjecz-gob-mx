@@ -1,16 +1,6 @@
-import csv
-import os
 from datetime import datetime
 from transparencia.base import Base
 from transparencia.seccion import Seccion
-
-
-def scantree(path):
-    for entry in os.scandir(path):
-        if entry.is_dir(follow_symlinks=False):
-            yield from scantree(entry.path)
-        else:
-            yield entry
 
 
 class Fraccion(Base):
@@ -33,18 +23,13 @@ class Fraccion(Base):
     def alimentar(self):
         super().alimentar()
         if self.alimentado == False:
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
             self.alimentado = True
 
     def contenido(self):
         super().contenido()
-        # Agregar el listado de vínculos a las descargas
-        #lineas = []
-        #lineas.append(f'* [Prueba 1](#)')
-        #lineas.append(f'* [Prueba 2](#)')
-        #lineas.append(f'* [Prueba 3](#)')
-        #self.secciones.append(Seccion('Descargas', '\n'.join(lineas)))
-        # Entregar contenido
         plantilla = self.articulo.transparencia.plantillas_env.get_template('fraccion.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
@@ -59,17 +44,11 @@ class Fraccion(Base):
             ))
 
     def __repr__(self):
-        if self.alimentado == False:
-            self.alimentar()
-        if len(self.secciones) == 0 or len(self.insumos) == 0:
-            return('')
-        yo_mismo = []
-        yo_mismo.append(f'      {self.titulo}:')
+        super().__repr__()
         if len(self.secciones) > 0:
-            s = []
+            salidas = []
             for seccion in self.secciones:
-                s.append(seccion.archivo_md)
-            yo_mismo.append(', '.join(s))
-        if len(self.insumos) > 0:
-            yo_mismo.append('+' * len(self.insumos))
-        return(' '.join(yo_mismo))
+                salidas.append('      ' + str(seccion))
+            return(f'<Fraccion> "{self.titulo}"\n' + '\n'.join(salidas))
+        else:
+            return(f'<Fraccion> "{self.titulo}" SIN SECCIONES')

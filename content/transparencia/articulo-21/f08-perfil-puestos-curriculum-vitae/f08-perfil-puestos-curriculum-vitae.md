@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/
 Save_As: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 
@@ -20,4 +20,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 3 de abril del 2020
 
 El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;  
+
+
 

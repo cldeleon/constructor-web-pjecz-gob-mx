@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/
 Save_As: transparencia/articulo-21/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### RESPONSABLE
@@ -19,7 +19,10 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 Los sujetos obligados deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 
 Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza, la información publicada se encuentra en proceso de actualización, agradecemos su comprensión a todos nuestros usuarios.
+
+
 ### Fracciones
+
 
 1. [Estructura Orgánica](f01-estructura-organica/)
 2. [Marco Normativo](f02-marco-normativo/)
@@ -73,4 +76,5 @@ Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Jus
 50. [Proceso Catastral de Valuación](f50-proceso-catastral-valuacion/)
 51. [Mecanismos que midan el impacto ambiental, social, demográfico y económico](f51-mecanismos-midan-impacto-ambiental-social-demografico-economico/)
 52. [Otra Información](f52-otra-informacion/)
+
 

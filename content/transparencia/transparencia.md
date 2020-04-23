@@ -4,19 +4,32 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/
 Save_As: transparencia/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
-### I. Información Pública de Oficio
+## I. Información Pública de Oficio
 
-Conforme a la Ley Estatal
+Conforme a la Ley Estatal.
 
-###  Solicitud de Acceso a la Información
+### Solicitud de Acceso a la Información
 
 * Procedimiento para presentar una Solicitud de Acceso a la Información
 * Formato para realizar Solicitud
 * Plataforma Nacional de Transparencia
+
+
+
+
+### Artículos
+
+
+* [Artículo 18](articulo-18/)
+* [Artículo 20](articulo-20/)
+* [Artículo 21](articulo-21/)
+* [Artículo 22](articulo-22/)
+* [Artículo 27](articulo-27/)
+* [Licitaciones](licitaciones/)
 
 
 ###  Derechos ARCO
@@ -26,11 +39,5 @@ Conforme a la Ley Estatal
 * ¿Qué es la protección de Datos Personales?
 
 
-### Artículos
 
-* [Artículo 18](articulo-18/)
-* [Artículo 20](articulo-20/)
-* [Artículo 21](articulo-21/)
-* [Artículo 22](articulo-22/)
-* [Artículo 27](articulo-27/)
 

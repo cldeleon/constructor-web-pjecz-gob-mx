@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-18/
 Save_As: transparencia/articulo-18/index.html
-Date: 2020-04-20 12:32
-Modified: 2020-04-20 12:32
+Date: 2020-04-22 21:14
+Modified: 2020-04-22 21:14
 
 
 ### Art. 18
@@ -35,4 +35,5 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 ### FECHA DE VALIDACIÓN
 
 3 de abril 2020
-### Sin contenido
+
+
