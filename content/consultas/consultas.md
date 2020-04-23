@@ -4,7 +4,7 @@ Summary: Pendiente.
 URL: consultas/
 Save_As: consultas/index.html
 Date: 2020-04-22 16:30
-Modified: 2020-04-22 16:30
+Modified: 2020-04-23 18:13
 
 
 ## Expediente Virtual
@@ -19,7 +19,7 @@ Para tal efecto, deberán cumplir con los siguientes requisitos:
 
 **Enlaces:**
 
-+ [Descargar procedimientos]()
-+ [Registrar usuario para el Expediente Virtual]()
-+ [Descargar aviso de privacidad]()
-+ [Acceso al Expediente Virtual]()
++ [Descargar procedimientos](https://storage.googleapis.com/pjecz-gob-mx/consultas/expediente-virtual-procedimiento-registro-usuario-en-linea.pdf)
++ [Registrar usuario para el Expediente Virtual](#)
++ [Descargar aviso de privacidad](#)
++ [Acceso al Expediente Virtual](http://201.144.104.74/eexpediente/login2.php)
