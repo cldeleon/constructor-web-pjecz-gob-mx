@@ -1,4 +1,3 @@
-import click
 import os
 from transparencia.seccion import Seccion
 
@@ -18,71 +17,75 @@ class Base(object):
         self.contenido_final = ''
         self.alimentar_insumos_en_subdirectorios = False
 
-    def obtener_insumos_markdown_iniciales(self, ruta):
-        insumos = []
+    def obtener_archivos_markdown_iniciales(self, ruta):
+        archivos_markdown = []
         if os.path.exists(ruta):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_file():
                         if item.name.endswith('.md') and item.name.startswith(self.secciones_comienzan_con):
-                            insumos.append(item.name)
-        return(insumos)
+                            archivos_markdown.append(item.path)
+                archivos_markdown.sort()
+        return(archivos_markdown)
 
-    def obtener_insumos_descargables(self, ruta):
-        insumos = []
+    def obtener_archivos_descargables(self, ruta):
+        archivos_descargables = []
         if os.path.exists(ruta):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_file():
                         if item.name.endswith('.pdf') or item.name.endswith('.ppt') or item.name.endswith('.pptx') or item.name.endswith('.xls') or item.name.endswith('.xlsx'):
-                            insumos.append(item.name)
-        return(insumos)
+                            archivos_descargables.append(item.path)
+                archivos_descargables.sort()
+        return(archivos_descargables)
 
-    def obtener_insumos_directorios(self, ruta):
+    def obtener_directorios(self, ruta):
         directorios = []
         if os.path.exists(ruta):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_dir():
-                        directorios.append(item.name)
+                        directorios.append(item.path)
+                directorios.sort()
         return(directorios)
 
-    def obtener_insumos_markdown_finales(self, ruta):
-        insumos = []
+    def obtener_archivos_markdown_finales(self, ruta):
+        archivos_markdown = []
         if os.path.exists(ruta):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_file():
                         if item.name.endswith('.md') and not item.name.startswith(self.secciones_comienzan_con):
-                            insumos.append(item.name)
-        return(insumos)
+                            archivos_markdown.append(item.path)
+                archivos_markdown.sort()
+        return(archivos_markdown)
 
     def alimentar(self):
         if self.alimentado == False:
             # Secciones iniciales: archivos makdown cuyo nombre secciones_comienzan_con
-            for insumo in self.obtener_insumos_markdown_iniciales(self.insumos_ruta):
+            for archivo_markdown in self.obtener_archivos_markdown_iniciales(self.insumos_ruta):
                 seccion = Seccion()
-                seccion.cargar(self.insumos_ruta, insumo)
+                seccion.cargar(archivo_markdown)
                 if seccion.cargado:
                     self.secciones_iniciales.append(seccion)
             # Secciones intermedias: descargables
-            seccion = Seccion()
-            for descargable in self.obtener_insumos_descargables(self.insumos_ruta):
-                seccion.agregar_descargable(descargable)
+            seccion = Seccion(encabezado='Descargar')
+            for archivo_descargable in self.obtener_archivos_descargables(self.insumos_ruta):
+                seccion.agregar_descargable(archivo_descargable)
             if seccion.cargado:
                 self.secciones_intermedias.append(seccion)
             # Secciones intermedias: obtener descargables en subdirectorios
             if self.alimentar_insumos_en_subdirectorios:
-                for subdir in self.obtener_insumos_directorios(self.insumos_ruta):
-                    seccion = Seccion(encabezado=subdir)
-                    for descargable in self.obtener_insumos_descargables(self.insumos_ruta + '/' + subdir):
-                        seccion.agregar_descargable(descargable)
+                for subdirectorio in self.obtener_directorios(self.insumos_ruta):
+                    seccion = Seccion(encabezado=os.path.basename(subdirectorio))
+                    for archivo_descargable in self.obtener_archivos_descargables(subdirectorio):
+                        seccion.agregar_descargable(archivo_descargable)
                     if seccion.cargado:
                         self.secciones_intermedias.append(seccion)
             # Secciones finales: archivos makdown cuyo nombre NO secciones_comienzan_con
-            for insumo in self.obtener_insumos_markdown_finales(self.insumos_ruta):
+            for archivo_markdown in self.obtener_archivos_markdown_finales(self.insumos_ruta):
                 seccion = Seccion()
-                seccion.cargar(self.insumos_ruta, insumo)
+                seccion.cargar(archivo_markdown)
                 if seccion.cargado:
                     self.secciones_finales.append(seccion)
 
