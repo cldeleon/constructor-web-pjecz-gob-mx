@@ -19,6 +19,7 @@ class Fraccion(Base):
         self.etiquetas = etiquetas
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
         self.destino = f'transparencia/{self.rama}/{self.pagina}/{self.pagina}.md'
+        self.alimentar_insumos_en_subdirectorios = True
 
     def alimentar(self):
         super().alimentar()

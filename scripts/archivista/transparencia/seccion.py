@@ -39,7 +39,7 @@ class Seccion(object):
                 listado = []
                 for descargable in self.descargables:
                     listado.append(f'* [{descargable}]({descargable})')
-                salida.append(f'### Descargar\n')
+                #salida.append(f'### Descargar\n')
                 salida.append('\n'.join(listado))
                 salida.append('\n')
             return('\n'.join(salida))
@@ -54,7 +54,10 @@ class Seccion(object):
             elif self.markdown != '':
                 mensajes.append('+md+')
             if len(self.descargables) > 0:
-                mensajes.append('Descargar (' + ') ('.join(self.descargables) + ')')
-            return('<Seccion> ' + ', '.join(mensajes))
+                mensajes.append('(' + ') ('.join(self.descargables) + ')')
+            if self.encabezado != '':
+                return(f'<Seccion> "{self.encabezado}" ' + ', '.join(mensajes))
+            else:
+                return('<Seccion> ' + ', '.join(mensajes))
         else:
             return('<Seccion> No cargada')

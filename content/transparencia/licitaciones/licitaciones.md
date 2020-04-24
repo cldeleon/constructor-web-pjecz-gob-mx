@@ -1,6 +1,6 @@
-Title: Licitaciones
+Title: Licitaciones 2020
 Slug: transparencia-licitaciones
-Summary: Pendiente
+Summary: Licitaciones 2020.
 Tags: Transparencia
 URL: transparencia/licitaciones/
 Save_As: transparencia/licitaciones/index.html
@@ -18,6 +18,3 @@ El Poder Judicial del Estado de Coahuila de Zaragoza, con fundamento en lo dispu
 
 * [Convocatoria Pública Nacional No 2020-02 Periódico Oficial](https://storage.googleapis.com/pjecz-gob-mx/transparencia/licitaciones/Convocatoria%20P%C3%BAblica%20Nacional%20No%202020-02%20Peri%C3%B3dico%20Oficial.pdf)
 * [Convocatoria Pública Nacional No 2020-02 DOCX](https://storage.googleapis.com/pjecz-gob-mx/transparencia/licitaciones/Convocatoria%20P%C3%BAblica%20Nacional%20No%202020-02.docx)
-
-
-
