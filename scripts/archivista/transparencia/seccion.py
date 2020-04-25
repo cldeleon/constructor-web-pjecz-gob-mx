@@ -1,4 +1,5 @@
 import os
+from transparencia.descargable import Descargable
 
 
 class Seccion(object):
@@ -17,7 +18,7 @@ class Seccion(object):
     def agregar_descargable(self, archivo_ruta):
         """ Agregar la ruta a un archivo descargable """
         if os.path.exists(archivo_ruta) and os.path.isfile(archivo_ruta):
-            self.descargables.append(archivo_ruta)
+            self.descargables.append(Descargable(archivo_ruta))
             self.cargado = True
 
     def cargar(self, archivo_markdown_ruta):
@@ -39,8 +40,8 @@ class Seccion(object):
             if len(self.descargables) > 0:
                 listado = []
                 for descargable in self.descargables:
-                    nombre = os.path.basename(descargable)
-                    vinculo = '#'
+                    nombre = descargable.nombre()
+                    vinculo = descargable.vinculo()
                     listado.append(f'* [{nombre}]({vinculo})')
                 salida.append('\n'.join(listado))
                 salida.append('\n')
@@ -56,10 +57,10 @@ class Seccion(object):
             elif self.markdown != '':
                 mensajes.append('+md+')
             if len(self.descargables) > 0:
-                nombres = []
+                vinculos = []
                 for descargable in self.descargables:
-                    nombres.append(os.path.basename(descargable))
-                mensajes.append('(' + ') ('.join(nombres) + ')')
+                    vinculos.append(descargable.vinculo())
+                mensajes.append('(' + ') ('.join(vinculos) + ')')
             if self.encabezado != '':
                 return(f'<Seccion> "{self.encabezado}" ' + ', '.join(mensajes))
             else:
