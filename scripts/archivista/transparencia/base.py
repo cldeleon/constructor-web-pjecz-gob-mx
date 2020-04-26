@@ -76,12 +76,29 @@ class Base(object):
                 self.secciones_intermedias.append(seccion)
             # Secciones intermedias: obtener descargables en subdirectorios
             if self.alimentar_insumos_en_subdirectorios:
-                for subdirectorio in self.obtener_directorios(self.insumos_ruta):
-                    seccion = Seccion(encabezado=os.path.basename(subdirectorio))
-                    for archivo_descargable in self.obtener_archivos_descargables(subdirectorio):
-                        seccion.agregar_descargable(archivo_descargable)
-                    if seccion.cargado:
-                        self.secciones_intermedias.append(seccion)
+                # Nivel 3 tres gatos
+                for subdirectorio3 in self.obtener_directorios(self.insumos_ruta):
+                    seccion3 = Seccion(encabezado=os.path.basename(subdirectorio3), nivel=3)
+                    for archivo_descargable in self.obtener_archivos_descargables(subdirectorio3):
+                        seccion3.agregar_descargable(archivo_descargable)
+                    # Nivel 4 cuatro gatos
+                    for subdirectorio4 in self.obtener_directorios(subdirectorio3):
+                        seccion4 = Seccion(encabezado=os.path.basename(subdirectorio4), nivel=4)
+                        for archivo_descargable in self.obtener_archivos_descargables(subdirectorio4):
+                            seccion4.agregar_descargable(archivo_descargable)
+                        # Nivel 5 cinco gatos
+                        for subdirectorio5 in self.obtener_directorios(subdirectorio4):
+                            seccion5 = Seccion(encabezado=os.path.basename(subdirectorio5), nivel=5)
+                            for archivo_descargable in self.obtener_archivos_descargables(subdirectorio5):
+                                seccion5.agregar_descargable(archivo_descargable)
+                            if seccion5.cargado:
+                                seccion4.cargado = True
+                                self.secciones_intermedias.append(seccion5)
+                        if seccion4.cargado:
+                            seccion3.cargado = True
+                            self.secciones_intermedias.append(seccion4)
+                    if seccion3.cargado:
+                        self.secciones_intermedias.append(seccion3)
             # Secciones finales: archivos makdown cuyo nombre NO secciones_comienzan_con
             for archivo_markdown in self.obtener_archivos_markdown_finales(self.insumos_ruta):
                 seccion = Seccion()

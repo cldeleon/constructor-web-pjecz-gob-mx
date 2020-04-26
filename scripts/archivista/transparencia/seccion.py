@@ -5,10 +5,11 @@ from transparencia.descargable import Descargable
 class Seccion(object):
     """ Sección de una página """
 
-    def __init__(self, encabezado='', markdown=''):
+    def __init__(self, encabezado='', markdown='', nivel=3):
         self.encabezado = encabezado
-        self.archivo_markdown_ruta = None
         self.markdown = markdown
+        self.nivel = nivel
+        self.archivo_markdown_ruta = None
         self.descargables = []
         if self.markdown == '':
             self.cargado = False
@@ -34,7 +35,11 @@ class Seccion(object):
         salida = []
         if self.cargado:
             if self.encabezado != '':
-                salida.append(f'### {self.encabezado}\n\n')
+                if self.nivel >=1 and self.nivel <= 6:
+                    gatos = '#' * self.nivel
+                else:
+                    gatos = '###'
+                salida.append(f'{gatos} {self.encabezado}\n\n')
             if self.markdown != '':
                 salida.append(f'{self.markdown}\n\n')
             if len(self.descargables) > 0:
@@ -57,12 +62,19 @@ class Seccion(object):
             elif self.markdown != '':
                 mensajes.append('+md+')
             if len(self.descargables) > 0:
-                vinculos = []
+                #vinculos = []
+                #for descargable in self.descargables:
+                #    vinculos.append(descargable.vinculo())
+                nombres = []
                 for descargable in self.descargables:
-                    vinculos.append(descargable.vinculo())
-                mensajes.append('(' + ') ('.join(vinculos) + ')')
+                    nombres.append(descargable.nombre())
+                mensajes.append('(' + ') ('.join(nombres) + ')')
             if self.encabezado != '':
-                return(f'<Seccion> "{self.encabezado}" ' + ', '.join(mensajes))
+                if self.nivel >=1 and self.nivel <= 6:
+                    gatos = '#' * self.nivel
+                else:
+                    gatos = '###'
+                return(f'<Seccion> {gatos} {self.encabezado} ' + ', '.join(mensajes))
             else:
                 return('<Seccion> ' + ', '.join(mensajes))
         else:

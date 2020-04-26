@@ -21,8 +21,7 @@ class Descargable(object):
         home_ruta = str(Path.home())
         nextcloud_ruta = f'{home_ruta}/Nextcloud/Sitios Web/pjecz.gob.mx'
         # Recorte
-        base_ruta = self.ruta[:len(nextcloud_ruta)-1]
-        if base_ruta != nextcloud_ruta:
+        if self.ruta[:len(nextcloud_ruta)] != nextcloud_ruta:
             return('')
         # Determinar la rama
         rama_ruta = self.ruta[len(nextcloud_ruta):]
