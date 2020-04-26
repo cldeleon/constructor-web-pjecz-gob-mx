@@ -4,11 +4,15 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-27/
 Save_As: transparencia/articulo-27/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
-### Fracciones
+### Art. 27
+
+
+
+## Fracciones
 
 
 1. [Estructura jurisdiccional y administrativa](f01-estructura-jurisdiccional-administrativa/)
@@ -34,8 +38,5 @@ Modified: 2020-04-22 21:14
 21. [Sistema pensionario](f21-sistema-pensionario/)
 22. [Otra Información](f22-otrainformacion/)
 23. [Selección de jueces y magistrados](f23-seleccion-jueces-magistrados/)
-
-
- 
 
 

@@ -5,7 +5,7 @@ from transparencia.descargable import Descargable
 class Seccion(object):
     """ Sección de una página """
 
-    def __init__(self, encabezado='', markdown='', nivel=3):
+    def __init__(self, encabezado='', markdown='', nivel=2):
         self.encabezado = encabezado
         self.markdown = markdown
         self.nivel = nivel
@@ -21,6 +21,8 @@ class Seccion(object):
         if os.path.exists(archivo_ruta) and os.path.isfile(archivo_ruta):
             self.descargables.append(Descargable(archivo_ruta))
             self.cargado = True
+            if self.encabezado == '':
+                self.encabezado = 'Descargar'
 
     def cargar(self, archivo_markdown_ruta):
         """ Cargar el contenido de un archivo markdown """

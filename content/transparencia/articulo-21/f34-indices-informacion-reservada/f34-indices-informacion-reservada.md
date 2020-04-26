@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f34-indices-informacion-reservada/
 Save_As: transparencia/articulo-21/f34-indices-informacion-reservada/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### Art. 21, Fracc. XXXIV Indices de Información Reservada
@@ -21,8 +21,9 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
 
 
-### Descargar
+## Descargar
 
-* [Información Reservada.pptx](Información Reservada.pptx)
+
+* [Información Reservada.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F34 Índices de Información Reservada/Información Reservada.pptx)
 
 

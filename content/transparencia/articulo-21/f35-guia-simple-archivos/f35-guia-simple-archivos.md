@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f35-guia-simple-archivos/
 Save_As: transparencia/articulo-21/f35-guia-simple-archivos/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### Art. 21, Fracc. XXXV Guía Simple de Archivos
@@ -21,8 +21,9 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
 
 
-### Descargar
+## Descargar
 
-* [transparencia-21-35-guia-simple-eabril-2020-V4.xls](transparencia-21-35-guia-simple-eabril-2020-V4.xls)
+
+* [Guía simple de archivos abril-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos abril-2020-V4.xls)
 
 

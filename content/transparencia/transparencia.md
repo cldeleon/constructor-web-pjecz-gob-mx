@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/
 Save_As: transparencia/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ## I. Información Pública de Oficio
@@ -21,7 +21,7 @@ Conforme a la Ley Estatal.
 
 
 
-### Artículos
+## Artículos
 
 
 * [Artículo 18](articulo-18/)

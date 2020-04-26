@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f23-catalogos-documentales-archivos/
 Save_As: transparencia/articulo-21/f23-catalogos-documentales-archivos/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 
@@ -13,8 +13,9 @@ Modified: 2020-04-22 21:14
 
 
 
-### Descargar
+## Descargar
 
-* [transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx](transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx)
+
+* [Catálogos Documentales abril-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F23 Catálogos Documentales de Archivos/Catálogos Documentales abril-2020-V4.xlsx)
 
 

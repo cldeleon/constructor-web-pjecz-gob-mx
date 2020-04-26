@@ -34,7 +34,7 @@ class Base(object):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_file():
-                        if item.name.endswith('.pdf') or item.name.endswith('.ppt') or item.name.endswith('.pptx') or item.name.endswith('.xls') or item.name.endswith('.xlsx'):
+                        if item.name.endswith('.doc') or item.name.endswith('.docx') or item.name.endswith('.pdf') or item.name.endswith('.ppt') or item.name.endswith('.pptx') or item.name.endswith('.xls') or item.name.endswith('.xlsx') or item.name.endswith('.zip'):
                             archivos_descargables.append(item.path)
                 archivos_descargables.sort()
         return(archivos_descargables)
@@ -69,7 +69,7 @@ class Base(object):
                 if seccion.cargado:
                     self.secciones_iniciales.append(seccion)
             # Secciones intermedias: descargables
-            seccion = Seccion(encabezado='Descargar')
+            seccion = Seccion()
             for archivo_descargable in self.obtener_archivos_descargables(self.insumos_ruta):
                 seccion.agregar_descargable(archivo_descargable)
             if seccion.cargado:
@@ -81,24 +81,22 @@ class Base(object):
                     seccion3 = Seccion(encabezado=os.path.basename(subdirectorio3), nivel=3)
                     for archivo_descargable in self.obtener_archivos_descargables(subdirectorio3):
                         seccion3.agregar_descargable(archivo_descargable)
+                    if seccion3.cargado:
+                        self.secciones_intermedias.append(seccion3)
                     # Nivel 4 cuatro gatos
                     for subdirectorio4 in self.obtener_directorios(subdirectorio3):
                         seccion4 = Seccion(encabezado=os.path.basename(subdirectorio4), nivel=4)
                         for archivo_descargable in self.obtener_archivos_descargables(subdirectorio4):
                             seccion4.agregar_descargable(archivo_descargable)
+                        if seccion4.cargado:
+                            self.secciones_intermedias.append(seccion4)
                         # Nivel 5 cinco gatos
                         for subdirectorio5 in self.obtener_directorios(subdirectorio4):
                             seccion5 = Seccion(encabezado=os.path.basename(subdirectorio5), nivel=5)
                             for archivo_descargable in self.obtener_archivos_descargables(subdirectorio5):
                                 seccion5.agregar_descargable(archivo_descargable)
                             if seccion5.cargado:
-                                seccion4.cargado = True
                                 self.secciones_intermedias.append(seccion5)
-                        if seccion4.cargado:
-                            seccion3.cargado = True
-                            self.secciones_intermedias.append(seccion4)
-                    if seccion3.cargado:
-                        self.secciones_intermedias.append(seccion3)
             # Secciones finales: archivos makdown cuyo nombre NO secciones_comienzan_con
             for archivo_markdown in self.obtener_archivos_markdown_finales(self.insumos_ruta):
                 seccion = Seccion()
