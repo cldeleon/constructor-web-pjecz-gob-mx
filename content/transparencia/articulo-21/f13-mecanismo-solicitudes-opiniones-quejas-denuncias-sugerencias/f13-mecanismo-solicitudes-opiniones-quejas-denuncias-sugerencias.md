@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/
 Save_As: transparencia/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### Art. 21 Fracc. XIII
@@ -20,5 +20,11 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 Todo mecanismo de presentación directa de solicitudes, opiniones, quejas, denuncias, o sugerencias;
 
+
+
+## Descargar
+
+
+* [Tabla.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F13 Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias/Tabla.doc)
 
 

@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f10-condiciones-generales-trabajo/
 Save_As: transparencia/articulo-21/f10-condiciones-generales-trabajo/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### RESPONSABLE
@@ -29,11 +29,12 @@ Las condiciones generales de trabajo, o instrumentos que regulen las relaciones 
 
 
 
-### Descargar
+## Descargar
 
-* [convenio-laboral-de-prestaciones-economicas-y-sociales.pdf](convenio-laboral-de-prestaciones-economicas-y-sociales.pdf)
-* [estatuto-juridico-para-los-trabajadores-al-servicio-del-estado-de-coahuila.pdf](estatuto-juridico-para-los-trabajadores-al-servicio-del-estado-de-coahuila.pdf)
-* [reglamento-de-condiciones-generales-de-trabajo-para-el-gobierno-del-estado.pdf](reglamento-de-condiciones-generales-de-trabajo-para-el-gobierno-del-estado.pdf)
+
+* [Convenio Laboral de Prestaciones Económicas y Sociales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F10 Condiciones Generales de Trabajo/Convenio Laboral de Prestaciones Económicas y Sociales.pdf)
+* [Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F10 Condiciones Generales de Trabajo/Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila.pdf)
+* [Reglamento de Condiciones Generales de Trabajo para el Gobierno del Estado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F10 Condiciones Generales de Trabajo/Reglamento de Condiciones Generales de Trabajo para el Gobierno del Estado.pdf)
 
 
 En el Poder Judicial del Estado de Coahuila de Zaragoza no ha sido constituido algún sindicato de empleados adscritos al mismo, por lo que no se realiza aportación en dinero o en especie a sindicato alguno. Es importante mencionar que en el Poder Judicial labora personal agremiado al Sindicato Único de Trabajadores del Gobierno del Estado, el cuál se rige conforme al convenio laboral de prestaciones económicas y sociales para trabajadores sindicalizados al servicio del gobierno del Estado de Coahuila de Zaragoza.

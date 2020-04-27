@@ -19,6 +19,7 @@ class Fraccion(Base):
         self.etiquetas = etiquetas
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
         self.destino = f'transparencia/{self.rama}/{self.pagina}/{self.pagina}.md'
+        self.alimentar_insumos_en_subdirectorios = True
 
     def alimentar(self):
         super().alimentar()
@@ -48,7 +49,8 @@ class Fraccion(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                salidas.append('      ' + str(seccion))
+                descargas_en_renglones = str(seccion).replace(' (', '\n        (')
+                salidas.append('      ' + descargas_en_renglones)
             return(f'<Fraccion> "{self.titulo}"\n' + '\n'.join(salidas))
         else:
             return(f'<Fraccion> "{self.titulo}" SIN SECCIONES')

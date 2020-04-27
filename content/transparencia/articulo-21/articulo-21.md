@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/
 Save_As: transparencia/articulo-21/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### RESPONSABLE
@@ -21,7 +21,8 @@ Los sujetos obligados deberán mantener impresa para consulta directa y difundir
 Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza, la información publicada se encuentra en proceso de actualización, agradecemos su comprensión a todos nuestros usuarios.
 
 
-### Fracciones
+
+## Fracciones
 
 
 1. [Estructura Orgánica](f01-estructura-organica/)

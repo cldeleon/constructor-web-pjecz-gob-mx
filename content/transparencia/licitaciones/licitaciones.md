@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/licitaciones/
 Save_As: transparencia/licitaciones/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### FECHA DE ACTUALIZACIÓN

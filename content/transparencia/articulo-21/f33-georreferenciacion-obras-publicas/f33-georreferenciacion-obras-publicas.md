@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f33-georreferenciacion-obras-publicas/
 Save_As: transparencia/articulo-21/f33-georreferenciacion-obras-publicas/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### Art. 21, Fracc. XXXIII Georreferenciación de Obras Públicas

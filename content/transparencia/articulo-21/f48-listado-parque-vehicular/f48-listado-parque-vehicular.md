@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/articulo-21/f48-listado-parque-vehicular/
 Save_As: transparencia/articulo-21/f48-listado-parque-vehicular/index.html
-Date: 2020-04-22 21:14
-Modified: 2020-04-22 21:14
+Date: 2020-04-26 18:50
+Modified: 2020-04-26 18:50
 
 
 ### Art. 21, Fracc. XLVIII Listado del Parque Vehicular
@@ -21,8 +21,9 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 El listado del parque vehicular donde se identifique el modelo, año y número de placa
 
 
-### Descargar
+## Descargar
 
-* [XLVIII LISTADO DE PARQUE VEHICULAR.xls](XLVIII LISTADO DE PARQUE VEHICULAR.xls)
+
+* [Listado de Parque Vehicular.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F48 Listado del Parque Vehicular/Listado de Parque Vehicular.xls)
 
 

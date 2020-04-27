@@ -72,7 +72,8 @@ class Articulo(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                salidas.append('    ' + str(seccion))
+                descargas_en_renglones = str(seccion).replace(' (', '\n      (')
+                salidas.append('    ' + descargas_en_renglones)
             for fraccion in self.fracciones:
                 salidas.append('    ' + str(fraccion))
             return(f'<Articulo> "{self.titulo}"\n' + '\n'.join(salidas))
