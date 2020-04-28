@@ -1,11 +1,11 @@
 Title: Artículo 18
 Slug: transparencia-articulo-18
-Summary: Pendiente
+Summary: Transparencia, Artículo 18
 Tags: Transparencia
 URL: transparencia/articulo-18/
 Save_As: transparencia/articulo-18/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 18

@@ -31,11 +31,16 @@ ARTICLE_PATHS = [
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
+    'aviso-de-privacidad',
     'consejo-judicatura',
     'consultas',
+    'licencias',
     'poder-judicial',
+    'politicas-de-uso',
     'tramites-servicios',
     'transparencia',
+    'transparencia-tca',
+    'votos-particulares',
     ]
 
 # Directorios y archivos que son fijos
@@ -46,9 +51,10 @@ STATIC_PATHS = [
     'consejo-judicatura',
     'consultas',
     'poder-judicial',
+    'sesiones',
     'tramites-servicios',
     'transparencia',
-    'sesiones',
+    'transparencia-tca',
     'CNAME',
     'favicon.ico',
     'robots.txt',

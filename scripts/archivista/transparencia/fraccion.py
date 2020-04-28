@@ -1,6 +1,6 @@
 from datetime import datetime
-from transparencia.base import Base
-from transparencia.seccion import Seccion
+from comun.base import Base
+from comun.seccion import Seccion
 
 
 class Fraccion(Base):

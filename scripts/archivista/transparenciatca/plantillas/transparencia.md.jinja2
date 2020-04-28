@@ -1,0 +1,14 @@
+Title: {{ title }}
+Slug: {{ slug }}
+Summary: {{ summary }}
+Tags: {{ tags }}
+URL: {{ url }}
+Save_As: {{ save_as }}
+Date: {{ date }}
+Modified: {{ modified }}
+
+
+{% for seccion in secciones %}
+{{ seccion.contenido() }}
+{% endfor %}
+

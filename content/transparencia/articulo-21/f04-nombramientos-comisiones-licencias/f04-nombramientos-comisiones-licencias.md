@@ -1,11 +1,11 @@
 Title: Nombramientos, Comisiones y Licencias
 Slug: transparencia-articulo-21-f04-nombramientos-comisiones-licencias
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/
 Save_As: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 
@@ -21,6 +21,12 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 Los nombramientos, comisiones y licencias de los servidores públicos;
 
+
+
+### Comisiones
+
+
+#### 2018
 
 
 #### 2019
@@ -47,6 +53,9 @@ Los nombramientos, comisiones y licencias de los servidores públicos;
 * [02 Febrero 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/02 Febrero 2020.pptx)
 * [03 Marzo 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/03 Marzo 2020.pptx)
 * [04 Abril 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/04 Abril 2020.pptx)
+
+
+### Licencias
 
 
 #### 2018
@@ -82,6 +91,9 @@ Los nombramientos, comisiones y licencias de los servidores públicos;
 * [02 Licencias Febrero 2020-V3.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2020/02 Licencias Febrero 2020-V3.pptx)
 
 
+### Nombramientos
+
+
 #### 01 Magistrados
 
 
@@ -105,5 +117,137 @@ Los nombramientos, comisiones y licencias de los servidores públicos;
 * [María Magdalena Flores Mier.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/02 Oficialía Mayor/María Magdalena Flores Mier.pdf)
 * [Rodrigo González Morales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/02 Oficialía Mayor/Rodrigo González Morales.pdf)
 * [Rosalío Medina Martínez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/02 Oficialía Mayor/Rosalío Medina Martínez.pdf)
+
+
+#### 03 Secretaría General de Acuerdos del Pleno
+
+
+#### 04 Sala Colegiada Civil y Familiar
+
+
+#### 05 Sala Colegiada Penal
+
+
+#### 06 Sala Regional
+
+
+#### 07
+
+
+#### 08
+
+
+#### 09
+
+
+#### 10
+
+
+#### 11
+
+
+#### 12
+
+
+#### 13
+
+
+#### 14
+
+
+#### 15
+
+
+#### 16
+
+
+#### 17
+
+
+#### 18
+
+
+#### 19
+
+
+#### 20
+
+
+#### 21
+
+
+#### 22
+
+
+#### 23
+
+
+#### 24
+
+
+#### 25
+
+
+#### 26
+
+
+#### 27
+
+
+#### 28
+
+
+#### 29
+
+
+#### 30
+
+
+#### 31
+
+
+#### 32
+
+
+#### 33
+
+
+#### 34
+
+
+#### 35
+
+
+#### 36
+
+
+#### 37
+
+
+#### 38
+
+
+#### 39
+
+
+#### 40
+
+
+#### 41
+
+
+#### 42
+
+
+#### 43
+
+
+#### 44
+
+
+#### 45
+
+
+#### 46
 
 

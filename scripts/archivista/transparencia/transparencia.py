@@ -1,8 +1,8 @@
 import csv
 from datetime import datetime
+from comun.base import Base
+from comun.seccion import Seccion
 from transparencia.articulo import Articulo
-from transparencia.base import Base
-from transparencia.seccion import Seccion
 
 
 class Transparencia(Base):

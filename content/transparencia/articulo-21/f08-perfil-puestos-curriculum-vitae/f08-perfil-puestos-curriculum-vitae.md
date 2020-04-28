@@ -1,11 +1,11 @@
 Title: Perfil de Puestos y Currículum Vitae
 Slug: transparencia-articulo-21-f08-perfil-puestos-curriculum-vitae
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/
 Save_As: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 

@@ -1,11 +1,11 @@
 Title: Concesiones, Licencias, Permisos y Autorizaciones
 Slug: transparencia-articulo-21-f36-concesiones-licencias-permisos-autorizaciones
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f36-concesiones-licencias-permisos-autorizaciones/
 Save_As: transparencia/articulo-21/f36-concesiones-licencias-permisos-autorizaciones/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 21, Fracc. XXXVI Concesiones, Licencias, Permisos y Autorizaciones.

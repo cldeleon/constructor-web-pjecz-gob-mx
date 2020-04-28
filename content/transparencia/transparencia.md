@@ -4,8 +4,8 @@ Summary: Pendiente
 Tags: Transparencia
 URL: transparencia/
 Save_As: transparencia/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ## I. Información Pública de Oficio
@@ -17,8 +17,6 @@ Conforme a la Ley Estatal.
 * Procedimiento para presentar una Solicitud de Acceso a la Información
 * Formato para realizar Solicitud
 * Plataforma Nacional de Transparencia
-
-
 
 
 ## Artículos

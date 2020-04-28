@@ -1,11 +1,11 @@
 Title: Artículo 27
 Slug: transparencia-articulo-27
-Summary: Pendiente
+Summary: Transparencia, Artículo 27
 Tags: Transparencia
 URL: transparencia/articulo-27/
 Save_As: transparencia/articulo-27/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 27
@@ -36,7 +36,7 @@ Modified: 2020-04-26 18:50
 19. [Tesis aisladas](f19-tesis-aisladas/)
 20. [Lista de peritos](f20-lista-peritos/)
 21. [Sistema pensionario](f21-sistema-pensionario/)
-22. [Otra Información](f22-otrainformacion/)
+22. [Otra Información](f22-otra-informacion/)
 23. [Selección de jueces y magistrados](f23-seleccion-jueces-magistrados/)
 
 

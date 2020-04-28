@@ -28,14 +28,5 @@ class Descargable(object):
         vinculo_ruta = self.almacen_frio + rama_ruta
         return(vinculo_ruta)
 
-    def elaborar_hash(self):
-        pass
-
-    def esta_en_google_cloud(self):
-        pass
-
-    def subir_a_google_cloud(self):
-        pass
-
     def __repr__(self):
         return(f'<Descargable> {self.vinculo()}')

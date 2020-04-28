@@ -1,0 +1,14 @@
+Title: Otra Información
+Slug: transparencia-articulo-27-f22-otra-informacion
+Summary: Transparencia, Artículo 27
+Tags: Transparencia
+URL: transparencia/articulo-27/f22-otra-informacion/
+Save_As: transparencia/articulo-27/f22-otra-informacion/index.html
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
+
+
+ 
+
+
+

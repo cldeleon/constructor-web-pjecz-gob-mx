@@ -1,11 +1,11 @@
 Title: Estructura Orgánica
 Slug: transparencia-articulo-21-f01-estructura-organica
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f01-estructura-organica/
 Save_As: transparencia/articulo-21/f01-estructura-organica/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 
@@ -39,15 +39,18 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 
 
 
+### 01 Estructura Jurisdiccional
+
+
 #### 01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza
 
 
-* [Pleno 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Pleno 2020-V4.pptx)
 * [Pleno Magistrados 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Pleno Magistrados 2020-V4.pptx)
 * [Presidencia 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Presidencia 2020-V4.pptx)
 * [Sala Civil y Familiar 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Civil y Familiar 2020-V4.pptx)
 * [Sala Penal 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Penal 2020-V4.pptx)
 * [Sala Regional 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Regional 2020-V4.pptx)
+* [transparencia-21-1-pleno-2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/transparencia-21-1-pleno-2020-V4.pptx)
 
 
 #### 02 Tribunales Especializados
@@ -64,6 +67,9 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 * [02 Segundo Tribunal Distrital 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/02 Segundo Tribunal Distrital 2020-V4.pptx)
 * [03 Tercer Tribunal Distrital 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/03 Tercer Tribunal Distrital 2020-V4.pptx)
 * [04 Cuarto Tribunal Distrital 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/04 Cuarto Tribunal Distrital 2020-V4.pptx)
+
+
+#### 04 Juzgados de Primera Instancia
 
 
 ##### 01 Civiles
@@ -137,6 +143,9 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 * [Central de Actuarios Torreón 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/04 Juzgados de Primera Instancia/08 Central de Actuarios/Central de Actuarios Torreón 2020-V4.pptx)
 
 
+### 02 Estructura no Jurisdiccional
+
+
 #### 01 Instituto de Especialización Judicial
 
 
@@ -188,6 +197,9 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 
 
 * [Visitaduría Judicial General 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/06 Visitaduría General/Visitaduría Judicial General 2020-V4.pptx)
+
+
+### 03 Estructura Administrativa
 
 
 #### 01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza
