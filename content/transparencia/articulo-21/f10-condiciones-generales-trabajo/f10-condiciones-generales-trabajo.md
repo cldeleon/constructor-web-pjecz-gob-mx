@@ -1,11 +1,11 @@
 Title: Condiciones Generales de Trabajo
 Slug: transparencia-articulo-21-f10-condiciones-generales-trabajo
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f10-condiciones-generales-trabajo/
 Save_As: transparencia/articulo-21/f10-condiciones-generales-trabajo/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### RESPONSABLE

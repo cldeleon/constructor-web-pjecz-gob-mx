@@ -1,11 +1,11 @@
 Title: Convenios de Colaboración y Contratos
 Slug: transparencia-articulo-21-f09-convenios-colaboracion-contratos
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f09-convenios-colaboracion-contratos/
 Save_As: transparencia/articulo-21/f09-convenios-colaboracion-contratos/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 **RESPONSABLE**

@@ -1,5 +1,5 @@
 import os
-from transparencia.seccion import Seccion
+from comun.seccion import Seccion
 
 
 class Base(object):
@@ -13,8 +13,6 @@ class Base(object):
         self.secciones_intermedias = []
         self.secciones_finales = []
         self.alimentado = False
-        self.contenido_intro = ''
-        self.contenido_final = ''
         self.alimentar_insumos_en_subdirectorios = False
 
     def obtener_archivos_markdown_iniciales(self, ruta):
@@ -81,22 +79,19 @@ class Base(object):
                     seccion3 = Seccion(encabezado=os.path.basename(subdirectorio3), nivel=3)
                     for archivo_descargable in self.obtener_archivos_descargables(subdirectorio3):
                         seccion3.agregar_descargable(archivo_descargable)
-                    if seccion3.cargado:
-                        self.secciones_intermedias.append(seccion3)
+                    self.secciones_intermedias.append(seccion3)
                     # Nivel 4 cuatro gatos
                     for subdirectorio4 in self.obtener_directorios(subdirectorio3):
                         seccion4 = Seccion(encabezado=os.path.basename(subdirectorio4), nivel=4)
                         for archivo_descargable in self.obtener_archivos_descargables(subdirectorio4):
                             seccion4.agregar_descargable(archivo_descargable)
-                        if seccion4.cargado:
-                            self.secciones_intermedias.append(seccion4)
+                        self.secciones_intermedias.append(seccion4)
                         # Nivel 5 cinco gatos
                         for subdirectorio5 in self.obtener_directorios(subdirectorio4):
                             seccion5 = Seccion(encabezado=os.path.basename(subdirectorio5), nivel=5)
                             for archivo_descargable in self.obtener_archivos_descargables(subdirectorio5):
                                 seccion5.agregar_descargable(archivo_descargable)
-                            if seccion5.cargado:
-                                self.secciones_intermedias.append(seccion5)
+                            self.secciones_intermedias.append(seccion5)
             # Secciones finales: archivos makdown cuyo nombre NO secciones_comienzan_con
             for archivo_markdown in self.obtener_archivos_markdown_finales(self.insumos_ruta):
                 seccion = Seccion()

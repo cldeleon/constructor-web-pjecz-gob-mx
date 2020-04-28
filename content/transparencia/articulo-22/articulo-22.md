@@ -1,11 +1,11 @@
 Title: Artículo 22
 Slug: transparencia-articulo-22
-Summary: Pendiente
+Summary: Transparencia, Artículo 22
 Tags: Transparencia
 URL: transparencia/articulo-22/
 Save_As: transparencia/articulo-22/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 22

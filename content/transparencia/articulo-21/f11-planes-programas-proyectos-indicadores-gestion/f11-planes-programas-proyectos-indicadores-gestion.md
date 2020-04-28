@@ -1,11 +1,11 @@
 Title: Planes, Programas o Proyectos con Indicadores de Gestión
 Slug: transparencia-articulo-21-f11-planes-programas-proyectos-indicadores-gestion
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f11-planes-programas-proyectos-indicadores-gestion/
 Save_As: transparencia/articulo-21/f11-planes-programas-proyectos-indicadores-gestion/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 

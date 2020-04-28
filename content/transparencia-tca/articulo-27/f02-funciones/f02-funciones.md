@@ -1,0 +1,32 @@
+Title: Funciones
+Slug: transparencia-tca-articulo-27-f02-funciones
+Summary: Transparencia TCA, Artículo 27
+Tags: Transparencia TCA
+URL: transparencia-tca/articulo-27/f02-funciones/
+Save_As: transparencia-tca/articulo-27/f02-funciones/index.html
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
+
+
+## Art. 27, 2. Funciones
+
+Las funciones de las unidades jurisdiccionales, así como de las áreas administrativas.
+
+
+### RESPONSABLE
+
+Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
+
+
+### FECHA DE VALIDACIÓN
+
+3 de abril del 2020
+
+
+
+## Descargar
+
+
+* [Funciones TCA.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F02 Funciones/Funciones TCA.ppt)
+
+

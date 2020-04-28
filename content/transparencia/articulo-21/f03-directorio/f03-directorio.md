@@ -1,11 +1,11 @@
 Title: Directorio de Servidores Públicos
 Slug: transparencia-articulo-21-f03-directorio
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f03-directorio/
 Save_As: transparencia/articulo-21/f03-directorio/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 
@@ -73,6 +73,9 @@ El directorio de los servidores públicos, con nombre, cargo o nombramiento asig
 * [Transparencia-21-3-dirección-recursos-materiales-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-recursos-materiales-2020-V4.xlsx)
 * [Transparencia-21-3-oficialía-mayor-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-oficialía-mayor-2020-V4.xlsx)
 * [Transparencia-21-3-unidad-juridica-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-unidad-juridica-2020-V4.xlsx)
+
+
+### 05 Juzgados de Primera Instancia
 
 
 #### Juzgados Acuña

@@ -1,11 +1,11 @@
 Title: Programas de Subsidio
 Slug: transparencia-articulo-21-f15-programas-subsidio
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f15-programas-subsidio/
 Save_As: transparencia/articulo-21/f15-programas-subsidio/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 21 Fracc. XV

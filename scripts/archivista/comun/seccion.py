@@ -1,5 +1,5 @@
 import os
-from transparencia.descargable import Descargable
+from comun.descargable import Descargable
 
 
 class Seccion(object):
@@ -15,6 +15,12 @@ class Seccion(object):
             self.cargado = False
         else:
             self.cargado = True
+
+    def gatos(self):
+        if self.nivel >=1 and self.nivel <= 6:
+            return('#' * self.nivel)
+        else:
+            return('##')
 
     def agregar_descargable(self, archivo_ruta):
         """ Agregar la ruta a un archivo descargable """
@@ -35,13 +41,9 @@ class Seccion(object):
     def contenido(self):
         """ Entregar el contenido markdown de esta sección """
         salida = []
+        if self.encabezado != '':
+            salida.append(f'{self.gatos()} {self.encabezado}\n\n')
         if self.cargado:
-            if self.encabezado != '':
-                if self.nivel >=1 and self.nivel <= 6:
-                    gatos = '#' * self.nivel
-                else:
-                    gatos = '###'
-                salida.append(f'{gatos} {self.encabezado}\n\n')
             if self.markdown != '':
                 salida.append(f'{self.markdown}\n\n')
             if len(self.descargables) > 0:
@@ -52,9 +54,10 @@ class Seccion(object):
                     listado.append(f'* [{nombre}]({vinculo})')
                 salida.append('\n'.join(listado))
                 salida.append('\n')
+        if len(salida) > 0:
             return('\n'.join(salida))
         else:
-            return('Sección sin contenido.')
+            return('\nSección sin contenido.\n')
 
     def __repr__(self):
         if self.cargado:
@@ -72,12 +75,11 @@ class Seccion(object):
                     nombres.append(descargable.nombre())
                 mensajes.append('(' + ') ('.join(nombres) + ')')
             if self.encabezado != '':
-                if self.nivel >=1 and self.nivel <= 6:
-                    gatos = '#' * self.nivel
-                else:
-                    gatos = '###'
-                return(f'<Seccion> {gatos} {self.encabezado} ' + ', '.join(mensajes))
+                return(f'<Seccion> {self.gatos()} {self.encabezado} ' + ', '.join(mensajes))
             else:
                 return('<Seccion> ' + ', '.join(mensajes))
         else:
-            return('<Seccion> SIN CONTENIDO')
+            if self.encabezado != '':
+                return(f'<Seccion> {self.gatos()} {self.encabezado} ')
+            else:
+                return('<Seccion> SIN CONTENIDO')

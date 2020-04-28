@@ -1,11 +1,11 @@
 Title: Viáticos y Gastos de Representación
 Slug: transparencia-articulo-21-f07-viaticos-gastos-representacion
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f07-viaticos-gastos-representacion/
 Save_As: transparencia/articulo-21/f07-viaticos-gastos-representacion/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 
@@ -20,6 +20,9 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 3 de abril del 2020
 
 El importe por concepto de viáticos a partir del jefe de departamento y, en su caso, de gastos de representación;
+
+
+### Viáticos 2018
 
 
 #### 01 Presidencia
@@ -44,6 +47,9 @@ El importe por concepto de viáticos a partir del jefe de departamento y, en su 
 * [07 Viáticos PJECZ julio 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F07 Viáticos y Gastos de Representación/Viáticos 2018/02 Personal PJECZ/07 Viáticos PJECZ julio 2018.xlsx)
 * [09 Viáticos PJECZ septiembre 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F07 Viáticos y Gastos de Representación/Viáticos 2018/02 Personal PJECZ/09 Viáticos PJECZ septiembre 2018.xlsx)
 * [12 Viáticos PJECZ diciembre 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F07 Viáticos y Gastos de Representación/Viáticos 2018/02 Personal PJECZ/12 Viáticos PJECZ diciembre 2018.xlsx)
+
+
+### Viáticos 2019
 
 
 #### 01 Presidencia

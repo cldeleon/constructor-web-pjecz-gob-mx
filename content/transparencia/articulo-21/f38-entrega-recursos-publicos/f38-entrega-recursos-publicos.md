@@ -1,11 +1,11 @@
 Title: Entrega de Recursos Públicos
 Slug: transparencia-articulo-21-f38-entrega-recursos-publicos
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f38-entrega-recursos-publicos/
 Save_As: transparencia/articulo-21/f38-entrega-recursos-publicos/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 ### Art. 21, Fracc. XXXVIII Entrega de Recursos Públicos

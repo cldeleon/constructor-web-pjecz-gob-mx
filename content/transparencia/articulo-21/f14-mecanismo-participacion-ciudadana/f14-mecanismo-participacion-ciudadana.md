@@ -1,11 +1,11 @@
 Title: Mecanismo de Participación Ciudadana
 Slug: transparencia-articulo-21-f14-mecanismo-participacion-ciudadana
-Summary: Pendiente
+Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f14-mecanismo-participacion-ciudadana/
 Save_As: transparencia/articulo-21/f14-mecanismo-participacion-ciudadana/index.html
-Date: 2020-04-26 18:50
-Modified: 2020-04-26 18:50
+Date: 2020-04-27 17:34
+Modified: 2020-04-27 17:34
 
 
 
