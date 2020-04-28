@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f08-sentencias-causado-ejecutoria/
 Save_As: transparencia-tca/articulo-27/f08-sentencias-causado-ejecutoria/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Art. 27, 8. SENTENCIAS QUE HAN CAUSADO EJECUTORIA

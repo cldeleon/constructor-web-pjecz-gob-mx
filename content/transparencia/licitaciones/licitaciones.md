@@ -1,11 +1,11 @@
-Title: Licitaciones 2020
+Title: Licitaciones
 Slug: transparencia-licitaciones
 Summary: Transparencia, Artículo 27
 Tags: Transparencia
 URL: transparencia/licitaciones/
 Save_As: transparencia/licitaciones/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ### FECHA DE ACTUALIZACIÓN

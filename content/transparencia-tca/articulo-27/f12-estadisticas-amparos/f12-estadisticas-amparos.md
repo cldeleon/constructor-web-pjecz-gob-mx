@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f12-estadisticas-amparos/
 Save_As: transparencia-tca/articulo-27/f12-estadisticas-amparos/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Artículo 27, 12. ESTADÍSTICAS DE AMPAROS

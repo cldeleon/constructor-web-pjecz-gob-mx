@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f04-presupuesto-asignado/
 Save_As: transparencia-tca/articulo-27/f04-presupuesto-asignado/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Art. 27, 4. Presupuesto asignado

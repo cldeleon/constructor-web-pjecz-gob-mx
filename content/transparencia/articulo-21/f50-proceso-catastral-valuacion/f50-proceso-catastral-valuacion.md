@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f50-proceso-catastral-valuacion/
 Save_As: transparencia/articulo-21/f50-proceso-catastral-valuacion/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ### Art. 21, Fracc. L Proceso Catastral de Valuación de los predios.

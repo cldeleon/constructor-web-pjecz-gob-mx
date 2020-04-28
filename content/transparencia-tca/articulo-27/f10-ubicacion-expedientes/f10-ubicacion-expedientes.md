@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f10-ubicacion-expedientes/
 Save_As: transparencia-tca/articulo-27/f10-ubicacion-expedientes/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Art. 27, 10. UBICACIÓN DE EXPEDIENTES
