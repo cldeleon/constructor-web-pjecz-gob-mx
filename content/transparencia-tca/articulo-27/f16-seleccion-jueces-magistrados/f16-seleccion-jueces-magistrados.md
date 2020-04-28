@@ -1,11 +1,11 @@
 Title: Proceso de Selección de Magistrados
-Slug: transparencia-tca-articulo-27-f16-seleccion-jueces-magistrados 
+Slug: transparencia-tca-articulo-27-f16-seleccion-jueces-magistrados
 Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
-URL: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados /
-Save_As: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados /index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+URL: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados/
+Save_As: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados/index.html
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Art. 27, 16. Proceso de selección de Magistrados

@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f03-directorio/
 Save_As: transparencia-tca/articulo-21/f03-directorio/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ### Art. 21, FRACCIÓN III. DIRECTORIO

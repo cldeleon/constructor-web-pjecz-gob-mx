@@ -12,10 +12,10 @@ class Conocenos(Base):
         self.arg = arg
 
     def alimentar(self):
-        pass
+        super().alimentar()
 
     def contenido(self):
-        pass
+        super().contenido()
 
     def __repr__(self):
         super().__repr__()

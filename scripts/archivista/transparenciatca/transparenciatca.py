@@ -13,7 +13,7 @@ class TransparenciaTCA(Base):
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env
-        self.titulo = 'Transparencia TCA'
+        self.titulo = 'Transparencia Tribunal de Conciliación y Arbitraje'
         self.resumen = 'Pendiente'
         self.etiquetas = 'Transparencia TCA'
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')

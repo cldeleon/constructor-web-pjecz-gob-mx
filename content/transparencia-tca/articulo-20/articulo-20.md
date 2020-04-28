@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 20
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-20/
 Save_As: transparencia-tca/articulo-20/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Artículo 20

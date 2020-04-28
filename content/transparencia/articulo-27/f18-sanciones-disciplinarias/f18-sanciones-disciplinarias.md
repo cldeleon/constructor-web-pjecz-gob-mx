@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 27
 Tags: Transparencia
 URL: transparencia/articulo-27/f18-sanciones-disciplinarias/
 Save_As: transparencia/articulo-27/f18-sanciones-disciplinarias/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
  

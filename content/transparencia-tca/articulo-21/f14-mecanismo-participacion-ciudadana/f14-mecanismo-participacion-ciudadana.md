@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f14-mecanismo-participacion-ciudadana/
 Save_As: transparencia-tca/articulo-21/f14-mecanismo-participacion-ciudadana/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## ART. 21, FRACCIÓN XIV. MECANISMO PRTICIPACIÓN CIUDADANA

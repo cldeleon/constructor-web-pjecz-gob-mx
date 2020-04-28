@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 20
 Tags: Transparencia
 URL: transparencia/articulo-20/
 Save_As: transparencia/articulo-20/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ### Art. 20

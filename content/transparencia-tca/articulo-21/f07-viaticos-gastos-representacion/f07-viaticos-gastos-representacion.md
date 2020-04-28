@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f07-viaticos-gastos-representacion/
 Save_As: transparencia-tca/articulo-21/f07-viaticos-gastos-representacion/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## ART. 21, FRACCIÓN VII. VIÁTICOS
@@ -58,5 +58,10 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
 
 
 ### 2020
+
+
+* [01 Nota Viáticos Enero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/01 Nota Viáticos Enero 2020.ppt)
+* [02 Nota Viáticos Febrero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/02 Nota Viáticos Febrero 2020.ppt)
+* [03 Nota Viáticos Marzo 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/03 Nota Viáticos Marzo 2020.ppt)
 
 

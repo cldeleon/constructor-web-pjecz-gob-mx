@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/
 Save_As: transparencia-tca/articulo-27/index.html
-Date: 2020-04-27 17:34
-Modified: 2020-04-27 17:34
+Date: 2020-04-28 11:24
+Modified: 2020-04-28 11:24
 
 
 ## Artículo 27
@@ -30,6 +30,6 @@ Modified: 2020-04-27 17:34
 13. [Resumen de glosa de debate](f13-glosa-debate/)
 14. [Las tesis aisladas y jurisdiccionales](f14-tesis-aisladas/)
 15. [Otra Información](f15-otra-informacion/)
-16. [Proceso de Selección de Magistrados](f16-seleccion-jueces-magistrados /)
+16. [Proceso de Selección de Magistrados](f16-seleccion-jueces-magistrados/)
 
 
