@@ -7,14 +7,15 @@ class Fraccion(Base):
     """ Coordina una rama de Fracción """
 
     def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas):
+        super().__init__(
+            insumos_ruta = f'{articulo.insumos_ruta}/F{ordinal.zfill(2)} {titulo}',
+            secciones_comienzan_con = titulo,
+            )
         self.articulo = articulo
-        self.ordinal = ordinal
-        self.titulo = titulo
-        secciones_comienzan_con = 'F{} {}'.format(self.ordinal.zfill(2), self.titulo)
-        insumos_ruta = f'{self.articulo.insumos_ruta}/{secciones_comienzan_con}'
-        super().__init__(insumos_ruta, secciones_comienzan_con)
         self.rama = rama
+        self.ordinal = ordinal
         self.pagina = pagina
+        self.titulo = titulo
         self.resumen = resumen
         self.etiquetas = etiquetas
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')

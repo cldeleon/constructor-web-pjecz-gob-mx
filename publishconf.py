@@ -30,11 +30,6 @@ TRANSLATION_FEED_RSS = None
 FEED_MAX_ITEMS = 24
 RSS_FEED_SUMMARY_ONLY = True
 
-# Para producción se habilita la paginación
-DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 8
-DEFAULT_ORPHANS = 2
-
 # Para producción se habilitan los plugins
 PLUGIN_PATHS = ['plugins']
 PLUGINS = ['sitemap']

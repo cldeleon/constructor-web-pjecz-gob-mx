@@ -8,7 +8,10 @@ class Conocenos(Base):
     """ Coordina la rama de Conócenos """
 
     def __init__(self, arg):
-        super().__init__(insumos_ruta, 'Conócenos')
+        super().__init__(
+            insumos_ruta = insumos_ruta,
+            secciones_comienzan_con = 'Conócenos',
+            )
         self.arg = arg
 
     def alimentar(self):
