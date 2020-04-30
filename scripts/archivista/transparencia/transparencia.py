@@ -1,5 +1,4 @@
 import csv
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 from transparencia.articulo import Articulo
@@ -19,7 +18,7 @@ class Transparencia(Base):
         self.titulo = 'Transparencia'
         self.resumen = '.'
         self.etiquetas = 'Transparencia'
-        self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.creado = self.modificado = '2020-01-01 15:00:00'
         self.destino = 'transparencia/transparencia.md'
         self.articulos = []
 
@@ -39,6 +38,9 @@ class Transparencia(Base):
                             titulo = renglon['titulo'],
                             resumen = renglon['resumen'],
                             etiquetas = renglon['etiquetas'],
+                            creado = renglon['creado'],
+                            modificado = renglon['modificado'],
+                            oculto = renglon['oculto'],
                             )
                         articulo.alimentar()
                         self.articulos.append(articulo)

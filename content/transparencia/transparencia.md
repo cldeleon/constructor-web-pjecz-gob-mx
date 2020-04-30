@@ -1,11 +1,11 @@
 Title: Transparencia
 Slug: transparencia
-Summary: Pendiente
+Summary: .
 Tags: Transparencia
 URL: transparencia/
 Save_As: transparencia/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-01-01 15:00:00
+Modified: 2020-01-01 15:00:00
 
 
 ## I. Información Pública de Oficio

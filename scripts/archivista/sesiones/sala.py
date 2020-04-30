@@ -1,12 +1,11 @@
 import csv
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 from sesiones.celebracion import Celebracion
 
 
 class Sala(Base):
-    """ Coordina una rama de una Sala """
+    """ Coordina una rama de una Sala, que tiene varias Celebraciones """
 
     def __init__(self, sesiones, rama, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
@@ -20,7 +19,7 @@ class Sala(Base):
         self.resumen = resumen
         self.etiquetas = etiquetas
         self.creado = creado
-        self.modificado = modificado # datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.modificado = modificado
         self.oculto = oculto
         self.destino = f'sesiones/{self.rama}/{self.rama}.md'
         self.celebraciones = []
@@ -79,7 +78,7 @@ class Sala(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                descargas_en_renglones = str(seccion).replace(' (', '\n      (')
+                descargas_en_renglones = str(seccion).replace(' [', '\n      [')
                 salidas.append('    ' + descargas_en_renglones)
             for celebracion in self.celebraciones:
                 salidas.append('    ' + str(celebracion))

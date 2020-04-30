@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f04-nombramientos-comisiones-licencias/
 Save_As: transparencia-tca/articulo-21/f04-nombramientos-comisiones-licencias/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN IV, NOMBRAMIENTOS, COMISIONES Y LICENCIAS
@@ -30,10 +30,10 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 #### 2017
 
 
-* [01 TCA Comisiones 2017 Septiembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/01 TCA Comisiones 2017 Septiembre.pptx)
-* [02 TCA Comisiones 2017 Octubre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/02 TCA Comisiones 2017 Octubre.pptx)
-* [03 TCA Comisiones 2017 Noviembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/03 TCA Comisiones 2017 Noviembre.pptx)
-* [04 TCA Comisiones 2017 Diciembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/04 TCA Comisiones 2017 Diciembre.pptx)
+* [09 TCA Comisiones 2017 Septiembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/09 TCA Comisiones 2017 Septiembre.pptx)
+* [10 TCA Comisiones 2017 Octubre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/10 TCA Comisiones 2017 Octubre.pptx)
+* [11 TCA Comisiones 2017 Noviembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/11 TCA Comisiones 2017 Noviembre.pptx)
+* [12 TCA Comisiones 2017 Diciembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2017/12 TCA Comisiones 2017 Diciembre.pptx)
 
 
 #### 2018
@@ -127,8 +127,8 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [08 TCA Licencias 2019 Agosto.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/08 TCA Licencias 2019 Agosto.pptx)
 * [09 TCA Licencias 2019 Septiembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/09 TCA Licencias 2019 Septiembre.pptx)
 * [10 TCA Licencias 2019 Octubre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/10 TCA Licencias 2019 Octubre.pptx)
-* [11 TCA Licencias 2019 Diciembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/11 TCA Licencias 2019 Diciembre.pptx)
 * [11 TCA Licencias 2019 Noviembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/11 TCA Licencias 2019 Noviembre.pptx)
+* [12 TCA Licencias 2019 Diciembre.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/2019/12 TCA Licencias 2019 Diciembre.pptx)
 
 
 #### 2020
@@ -145,22 +145,24 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 #### Magistrados
 
 
+* [01 Magistrada Eva de la Fuente Rivas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/01 Magistrada Eva de la Fuente Rivas.pdf)
+* [02 Magistrado Bernardo Gonzalez Morales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/02 Magistrado Bernardo Gonzalez Morales.pdf)
 * [03 Magistrado Eduardo Prado Garcia.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/03 Magistrado Eduardo Prado Garcia.pdf)
 
 
 #### Personal jurisdiccional u homólogo
 
 
-* [01 ROGELIO PADILLA MUÑOZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/01 ROGELIO PADILLA MUÑOZ.pdf)
-* [02 GERARDO MARIA HERNDEZ GARZA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/02 GERARDO MARIA HERNDEZ GARZA.pdf)
-* [03 JOEL ALONSO ARZOLA VASQUEZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/03 JOEL ALONSO ARZOLA VASQUEZ.pdf)
-* [04 MARIA DEL REFUGIO LUNA CAZARES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/04 MARIA DEL REFUGIO LUNA CAZARES.pdf)
-* [05 ROBERTO ALEJANDRO RAMIREZ MALDONADO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/05 ROBERTO ALEJANDRO RAMIREZ MALDONADO.pdf)
-* [06 SANDRA TENORIO MIRANDA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/06 SANDRA TENORIO MIRANDA.pdf)
-* [07 ALVARO FLORES FARIAS.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/07 ALVARO FLORES FARIAS.pdf)
-* [08 GLORIA LAURA RIOS JIMENEZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/08 GLORIA LAURA RIOS JIMENEZ.pdf)
-* [09 ELIZABETH GARCIA ACUÑA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/09 ELIZABETH GARCIA ACUÑA.pdf)
-* [10 LILIANA ORTIZ HERRERA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/10 LILIANA ORTIZ HERRERA.pdf)
-* [11 RITA GABRIELA GARCIA MUÑOZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/11 RITA GABRIELA GARCIA MUÑOZ.pdf)
+* [Elizabeth García Acuña.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Elizabeth García Acuña.pdf)
+* [Gerardo María Herández Garza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Gerardo María Herández Garza.pdf)
+* [Gloria Laura Ríos Jiménez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Gloria Laura Ríos Jiménez.pdf)
+* [Joel Alonso Arzola Vásquez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Joel Alonso Arzola Vásquez.pdf)
+* [Liliana Ortiz Herrera.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Liliana Ortiz Herrera.pdf)
+* [María del Refugio Luna Cézares.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/María del Refugio Luna Cézares.pdf)
+* [Rita Gabriela García Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Rita Gabriela García Muñoz.pdf)
+* [Roberto Alejandro Ramírez Maldonado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Roberto Alejandro Ramírez Maldonado.pdf)
+* [Rogelio Padilla Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Rogelio Padilla Muñoz.pdf)
+* [Sandra Tenorio Miranda.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Sandra Tenorio Miranda.pdf)
+* [Álvaro Flores Farías.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Álvaro Flores Farías.pdf)
 
 

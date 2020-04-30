@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 22
 Tags: Transparencia
 URL: transparencia/articulo-22/
 Save_As: transparencia/articulo-22/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ### Art. 22

@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f10-condiciones-generales-trabajo/
 Save_As: transparencia-tca/articulo-21/f10-condiciones-generales-trabajo/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN X. CONDICIONES GENERALES DE TRABAJO

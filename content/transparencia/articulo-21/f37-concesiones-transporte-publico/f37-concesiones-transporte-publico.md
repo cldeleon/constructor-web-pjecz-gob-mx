@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f37-concesiones-transporte-publico/
 Save_As: transparencia/articulo-21/f37-concesiones-transporte-publico/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ### Art. 21, Fracc. XXXVII Concesiones de Transporte Público

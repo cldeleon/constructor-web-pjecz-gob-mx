@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f02-marco-normativo/
 Save_As: transparencia-tca/articulo-21/f02-marco-normativo/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## Artículo 21, Fracción II, Marco Normativo
@@ -37,7 +37,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 ### 07 Lineamientos
 
 
-* [01Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/01Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
+* [01 Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/01 Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
 * [02 Lineamientos Generales para el uso de Lenguaje Incluyente, No Sexista y No Discriminatorio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/02 Lineamientos Generales para el uso de Lenguaje Incluyente, No Sexista y No Discriminatorio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
 * [03 Lineamientos para el otorgamiento de Viáticos y Pasajes del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/03 Lineamientos para el otorgamiento de Viáticos y Pasajes del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
 * [04 Lineamientos para el uso de los Vehículos Oficiales comprendidos dentro del Patrimonio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/04 Lineamientos para el uso de los Vehículos Oficiales comprendidos dentro del Patrimonio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)

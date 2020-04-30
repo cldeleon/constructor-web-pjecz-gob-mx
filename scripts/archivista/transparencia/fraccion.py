@@ -1,4 +1,3 @@
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 
@@ -6,10 +5,10 @@ from comun.seccion import Seccion
 class Fraccion(Base):
     """ Coordina una rama de Fracción """
 
-    def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas):
+    def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
             insumos_ruta = f'{articulo.insumos_ruta}/F{ordinal.zfill(2)} {titulo}',
-            secciones_comienzan_con = titulo,
+            secciones_comienzan_con = f'F{ordinal.zfill(2)} {titulo}',
             )
         self.articulo = articulo
         self.rama = rama
@@ -18,7 +17,9 @@ class Fraccion(Base):
         self.titulo = titulo
         self.resumen = resumen
         self.etiquetas = etiquetas
-        self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.creado = creado
+        self.modificado = modificado
+        self.oculto = oculto
         self.destino = f'transparencia/{self.rama}/{self.pagina}/{self.pagina}.md'
         self.alimentar_insumos_en_subdirectorios = True
 
@@ -50,7 +51,7 @@ class Fraccion(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                descargas_en_renglones = str(seccion).replace(' (', '\n        (')
+                descargas_en_renglones = str(seccion).replace(' [', '\n        [')
                 salidas.append('      ' + descargas_en_renglones)
             return(f'<Fraccion> "{self.titulo}"\n' + '\n'.join(salidas))
         else:

@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/
 Save_As: transparencia-tca/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN XIII. MECANISMO DE SOLICITUDES, OPINIONES QUEJAS Y DENUNCIAS

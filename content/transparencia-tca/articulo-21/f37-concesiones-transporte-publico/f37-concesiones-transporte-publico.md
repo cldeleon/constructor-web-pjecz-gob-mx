@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f37-concesiones-transporte-publico/
 Save_As: transparencia-tca/articulo-21/f37-concesiones-transporte-publico/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN XXXVII. CONCESIONES DE TRANSPORTE PÚBLICO

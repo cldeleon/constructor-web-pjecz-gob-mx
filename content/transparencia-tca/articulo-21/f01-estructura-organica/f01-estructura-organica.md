@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f01-estructura-organica/
 Save_As: transparencia-tca/articulo-21/f01-estructura-organica/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## Artículo 21, Fracción II. Estructura Orgánica
@@ -33,6 +33,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 ## Descargar
 
 
-* [Estructura Orgánica 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F01 Estructura Orgánica/Estructura Orgánica 2020-V4.pptx)
+* [01 Estructura Orgánica TCA 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F01 Estructura Orgánica/01 Estructura Orgánica TCA 2020.pptx)
 
 

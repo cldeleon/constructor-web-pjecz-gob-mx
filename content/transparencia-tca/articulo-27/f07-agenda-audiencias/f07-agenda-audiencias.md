@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f07-agenda-audiencias/
 Save_As: transparencia-tca/articulo-27/f07-agenda-audiencias/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 27, FRACCIÓN 7. AGENDA DE AUDIENCIAS
