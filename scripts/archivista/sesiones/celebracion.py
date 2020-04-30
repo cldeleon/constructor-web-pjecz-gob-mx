@@ -1,10 +1,9 @@
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 
 
 class Celebracion(Base):
-    """ Coordina una rama de Sesión """
+    """ Coordina una rama de Celebración """
 
     def __init__(self, sala, rama, ordinal, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
@@ -15,11 +14,11 @@ class Celebracion(Base):
         self.rama = rama
         self.ordinal = ordinal
         self.pagina = pagina
-        self.titulo = titulo[11:] # Quitar YYYY-MM-DD
+        self.titulo = titulo[11:] # Quitar "YYYY-MM-DD "
         self.resumen = resumen
         self.etiquetas = etiquetas
         self.creado = creado
-        self.modificado = modificado # datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.modificado = modificado
         self.oculto = oculto
         self.destino = f'sesiones/{self.rama}/{self.pagina}/{self.pagina}.md'
         self.alimentar_insumos_en_subdirectorios = True
@@ -53,7 +52,7 @@ class Celebracion(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                descargas_en_renglones = str(seccion).replace(' (', '\n        (')
+                descargas_en_renglones = str(seccion).replace(' [', '\n        [')
                 salidas.append('      ' + descargas_en_renglones)
             return(f'<Celebracion> "{self.titulo}"\n' + '\n'.join(salidas))
         else:

@@ -67,13 +67,10 @@ class Seccion(object):
             elif self.markdown != '':
                 mensajes.append('+md+')
             if len(self.descargables) > 0:
-                #vinculos = []
-                #for descargable in self.descargables:
-                #    vinculos.append(descargable.vinculo())
                 nombres = []
                 for descargable in self.descargables:
                     nombres.append(descargable.nombre())
-                mensajes.append('(' + ') ('.join(nombres) + ')')
+                mensajes.append('[' + '] ['.join(nombres) + ']')
             if self.encabezado != '':
                 return(f'<Seccion> {self.gatos()} {self.encabezado} ' + ', '.join(mensajes))
             else:

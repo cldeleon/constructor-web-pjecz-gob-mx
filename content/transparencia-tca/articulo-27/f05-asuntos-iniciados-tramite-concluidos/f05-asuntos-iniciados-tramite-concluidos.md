@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 27
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-27/f05-asuntos-iniciados-tramite-concluidos/
 Save_As: transparencia-tca/articulo-27/f05-asuntos-iniciados-tramite-concluidos/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## Art. 27, 5. Asuntos iniciados, en trámite y resueltos
@@ -24,20 +24,38 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 
 
+### 2017
+
+
+* [01 Asuntos iniciados-tramite-resueltos 2017 Enero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/01 Asuntos iniciados-tramite-resueltos 2017 Enero.xlsx)
+* [02 Asuntos iniciados-tramite-resueltos 2017 Febrero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/02 Asuntos iniciados-tramite-resueltos 2017 Febrero.xlsx)
+* [03 Asuntos iniciados-tramite-resueltos 2017 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/03 Asuntos iniciados-tramite-resueltos 2017 Marzo.xlsx)
+* [04 Asuntos iniciados-tramite-resueltos 2017 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/04 Asuntos iniciados-tramite-resueltos 2017 Abril.xlsx)
+* [05 Asuntos iniciados-tramite-resueltos 2017 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/05 Asuntos iniciados-tramite-resueltos 2017 Mayo.xlsx)
+* [06 Asuntos iniciados-tramite-resueltos 2017 Junio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/06 Asuntos iniciados-tramite-resueltos 2017 Junio.xlsx)
+* [07 Asuntos iniciados-tramite-resueltos 2017 Julio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/07 Asuntos iniciados-tramite-resueltos 2017 Julio.xlsx)
+* [08 Asuntos iniciados-tramite-resueltos 2017 Agosto.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/08 Asuntos iniciados-tramite-resueltos 2017 Agosto.xlsx)
+* [09 Asuntos iniciados-tramite-resueltos 2017 Septiembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/09 Asuntos iniciados-tramite-resueltos 2017 Septiembre.xlsx)
+* [10 Asuntos iniciados-tramite-resueltos 2017 Octubre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/10 Asuntos iniciados-tramite-resueltos 2017 Octubre.xlsx)
+* [11 Asuntos iniciados-tramite-resueltos 2017 Noviembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/11 Asuntos iniciados-tramite-resueltos 2017 Noviembre.xlsx)
+* [12 Asuntos iniciados-tramite-resueltos 2017 Diciembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2017/12 Asuntos iniciados-tramite-resueltos 2017 Diciembre.xlsx)
+
+
 ### 2018
 
 
-* [01 Asuntos iniciados-tramite-resueltos 2018 Febrero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/01 Asuntos iniciados-tramite-resueltos 2018 Febrero.xlsx)
-* [02 Asuntos iniciados-tramite-resueltos 2018 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/02 Asuntos iniciados-tramite-resueltos 2018 Marzo.xlsx)
-* [03 Asuntos iniciados-tramite-resueltos 2018 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/03 Asuntos iniciados-tramite-resueltos 2018 Abril.xlsx)
-* [04 Asuntos iniciados-tramite-resueltos 2018 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/04 Asuntos iniciados-tramite-resueltos 2018 Mayo.xlsx)
-* [05 Asuntos iniciados-tramite-resueltos 2018 Junio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/05 Asuntos iniciados-tramite-resueltos 2018 Junio.xlsx)
-* [06 Asuntos iniciados-tramite-resueltos 2018 Julio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/06 Asuntos iniciados-tramite-resueltos 2018 Julio.xlsx)
-* [07 Asuntos iniciados-tramite-resueltos 2018 Agosto.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/07 Asuntos iniciados-tramite-resueltos 2018 Agosto.xlsx)
-* [08 Asuntos iniciados-tramite-resueltos 2018 Septiembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/08 Asuntos iniciados-tramite-resueltos 2018 Septiembre.xlsx)
-* [09 Asuntos iniciados-tramite-resueltos 2018 Octubre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/09 Asuntos iniciados-tramite-resueltos 2018 Octubre.xlsx)
-* [10 Asuntos iniciados-tramite-resueltos 2018 Noviembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/10 Asuntos iniciados-tramite-resueltos 2018 Noviembre.xlsx)
-* [11 Asuntos iniciados-tramite-resueltos 2018 Diciembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/11 Asuntos iniciados-tramite-resueltos 2018 Diciembre.xlsx)
+* [01 Asuntos iniciados-tramite-resueltos 2018 Enero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/01 Asuntos iniciados-tramite-resueltos 2018 Enero.xlsx)
+* [02 Asuntos iniciados-tramite-resueltos 2018 Febrero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/02 Asuntos iniciados-tramite-resueltos 2018 Febrero.xlsx)
+* [03 Asuntos iniciados-tramite-resueltos 2018 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/03 Asuntos iniciados-tramite-resueltos 2018 Marzo.xlsx)
+* [04 Asuntos iniciados-tramite-resueltos 2018 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/04 Asuntos iniciados-tramite-resueltos 2018 Abril.xlsx)
+* [05 Asuntos iniciados-tramite-resueltos 2018 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/05 Asuntos iniciados-tramite-resueltos 2018 Mayo.xlsx)
+* [06 Asuntos iniciados-tramite-resueltos 2018 Junio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/06 Asuntos iniciados-tramite-resueltos 2018 Junio.xlsx)
+* [07 Asuntos iniciados-tramite-resueltos 2018 Julio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/07 Asuntos iniciados-tramite-resueltos 2018 Julio.xlsx)
+* [08 Asuntos iniciados-tramite-resueltos 2018 Agosto.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/08 Asuntos iniciados-tramite-resueltos 2018 Agosto.xlsx)
+* [09 Asuntos iniciados-tramite-resueltos 2018 Septiembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/09 Asuntos iniciados-tramite-resueltos 2018 Septiembre.xlsx)
+* [10 Asuntos iniciados-tramite-resueltos 2018 Octubre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/10 Asuntos iniciados-tramite-resueltos 2018 Octubre.xlsx)
+* [11 Asuntos iniciados-tramite-resueltos 2018 Noviembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/11 Asuntos iniciados-tramite-resueltos 2018 Noviembre.xlsx)
+* [12 Asuntos iniciados-tramite-resueltos 2018 Diciembre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2018/12 Asuntos iniciados-tramite-resueltos 2018 Diciembre.xlsx)
 
 
 ### 2019

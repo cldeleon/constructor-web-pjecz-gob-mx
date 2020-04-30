@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f45-informe-acciones-realizadas-durante-contingencias/
 Save_As: transparencia/articulo-21/f45-informe-acciones-realizadas-durante-contingencias/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ### Art. 21, Fracc. XLV Acciones Realizadas Durante Contingencias

@@ -1,5 +1,4 @@
 import csv
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 from transparencia.fraccion import Fraccion
@@ -8,7 +7,7 @@ from transparencia.fraccion import Fraccion
 class Articulo(Base):
     """ Coordina una rama de Artículo, que tiene varias Fracciones """
 
-    def __init__(self, transparencia, rama, pagina, titulo, resumen, etiquetas):
+    def __init__(self, transparencia, rama, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
             insumos_ruta = f'{transparencia.insumos_ruta}/{titulo}',
             secciones_comienzan_con = titulo,
@@ -19,7 +18,9 @@ class Articulo(Base):
         self.titulo = titulo
         self.resumen = resumen
         self.etiquetas = etiquetas
-        self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.creado = creado
+        self.modificado = modificado
+        self.oculto = oculto
         self.destino = f'transparencia/{self.rama}/{self.rama}.md'
         self.fracciones = []
 
@@ -39,6 +40,9 @@ class Articulo(Base):
                             titulo = renglon['titulo'],
                             resumen = renglon['resumen'],
                             etiquetas = renglon['etiquetas'],
+                            creado = renglon['creado'],
+                            modificado = renglon['modificado'],
+                            oculto = renglon['oculto'],
                             )
                         fraccion.alimentar()
                         self.fracciones.append(fraccion)
@@ -73,7 +77,7 @@ class Articulo(Base):
         if len(self.secciones) > 0:
             salidas = []
             for seccion in self.secciones:
-                descargas_en_renglones = str(seccion).replace(' (', '\n      (')
+                descargas_en_renglones = str(seccion).replace(' [', '\n      [')
                 salidas.append('    ' + descargas_en_renglones)
             for fraccion in self.fracciones:
                 salidas.append('    ' + str(fraccion))

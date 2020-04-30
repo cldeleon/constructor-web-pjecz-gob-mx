@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f36-concesiones-licencias-permisos-autorizaciones/
 Save_As: transparencia-tca/articulo-21/f36-concesiones-licencias-permisos-autorizaciones/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN XXXVI. CONCESIONES, LICENCIAS, PERMISOS Y AUTORIZACIONES

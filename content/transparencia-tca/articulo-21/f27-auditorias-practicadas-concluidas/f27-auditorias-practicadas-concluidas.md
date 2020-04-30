@@ -4,8 +4,8 @@ Summary: Transparencia TCA, Artículo 21
 Tags: Transparencia TCA
 URL: transparencia-tca/articulo-21/f27-auditorias-practicadas-concluidas/
 Save_As: transparencia-tca/articulo-21/f27-auditorias-practicadas-concluidas/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ## ART. 21, FRACCIÓN XXVII. AUDITORÍAS

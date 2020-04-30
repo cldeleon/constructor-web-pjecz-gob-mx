@@ -4,8 +4,8 @@ Summary: Transparencia, Artículo 21
 Tags: Transparencia
 URL: transparencia/articulo-21/f26-deuda-publica/
 Save_As: transparencia/articulo-21/f26-deuda-publica/index.html
-Date: 2020-04-28 11:24
-Modified: 2020-04-28 11:24
+Date: 2020-04-30 09:30:00
+Modified: 2020-04-30 09:30:00
 
 
 ### Art. 21, Fracc. XXVI Deuda Pública

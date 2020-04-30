@@ -1,12 +1,11 @@
 import csv
-from datetime import datetime
 from comun.base import Base
 from comun.seccion import Seccion
 from sesiones.sala import Sala
 
 
 class Sesiones(Base):
-    """ Coordina la rama de Sesiones """
+    """ Coordina la rama de Sesiones, que tiene varias Salas """
 
     def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env):
         super().__init__(
@@ -19,7 +18,7 @@ class Sesiones(Base):
         self.titulo = 'Sesiones'
         self.resumen = '.'
         self.etiquetas = 'Sesiones'
-        self.creado = self.modificado = '2020-01-01 15:00:00' # datetime.today().isoformat(sep=' ', timespec='minutes')
+        self.creado = self.modificado = '2020-01-01 15:00:00'
         self.destino = 'sesiones/sesiones.md'
         self.salas = []
 
