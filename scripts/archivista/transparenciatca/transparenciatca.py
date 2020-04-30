@@ -9,7 +9,10 @@ class TransparenciaTCA(Base):
     """ Coordina la rama de Transparencia TCA """
 
     def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env):
-        super().__init__(insumos_ruta, 'Transparencia TCA')
+        super().__init__(
+            insumos_ruta = insumos_ruta,
+            secciones_comienzan_con = 'Transparencia TCA',
+            )
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env

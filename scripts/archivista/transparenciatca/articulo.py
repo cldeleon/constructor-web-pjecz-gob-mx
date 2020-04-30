@@ -9,13 +9,14 @@ class Articulo(Base):
     """ Coordina una rama de Artículo, que tiene varias Fracciones """
 
     def __init__(self, transparencia, rama, pagina, titulo, resumen, etiquetas):
+        super().__init__(
+            insumos_ruta = f'{transparencia.insumos_ruta}/{titulo}',
+            secciones_comienzan_con = titulo,
+            )
         self.transparencia = transparencia
-        self.titulo = titulo
-        secciones_comienzan_con = self.titulo
-        insumos_ruta = f'{self.transparencia.insumos_ruta}/{secciones_comienzan_con}'
-        super().__init__(insumos_ruta, secciones_comienzan_con)
         self.rama = rama
         self.pagina = pagina
+        self.titulo = titulo
         self.resumen = resumen
         self.etiquetas = etiquetas
         self.creado = self.modificado = datetime.today().isoformat(sep=' ', timespec='minutes')

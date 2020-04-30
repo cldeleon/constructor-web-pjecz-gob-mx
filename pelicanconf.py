@@ -91,8 +91,11 @@ TRANSLATION_FEED_RSS = None
 # NO BORRAR de output los siguientes directorios y archivos
 OUTPUT_RETENTION = ['.git', '.gitignore']
 
-# Para desarrollo DESACTIVAR la paginacion
-DEFAULT_PAGINATION = False
+# Paginacion
+#DEFAULT_PAGINATION = False
+DEFAULT_PAGINATION = True
+DEFAULT_PAGINATION = 8
+DEFAULT_ORPHANS = 2
 
 # Para desarrollo BORRAR todo el directorio de salida
 DELETE_OUTPUT_DIRECTORY = True
