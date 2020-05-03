@@ -79,7 +79,7 @@ def mostrar(config):
     if config.rama == 'Conócenos':
         conocenos = Conocenos(
             insumos_ruta=config.insumos_ruta,
-            salida_ruta='',
+            salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
@@ -87,7 +87,7 @@ def mostrar(config):
     elif config.rama == 'Sesiones':
         sesiones = Sesiones(
             insumos_ruta=config.insumos_ruta,
-            salida_ruta='',
+            salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
@@ -95,7 +95,7 @@ def mostrar(config):
     elif config.rama == 'Transparencia':
         transparencia = Transparencia(
             insumos_ruta=config.insumos_ruta,
-            salida_ruta='',
+            salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
@@ -103,7 +103,7 @@ def mostrar(config):
     elif config.rama == 'Transparencia TCA':
         transparenciatca = TransparenciaTCA(
             insumos_ruta=config.insumos_ruta,
-            salida_ruta='',
+            salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
@@ -123,9 +123,11 @@ def crear(config):
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
-        sobreescribir_archivo(f'{config.salida_ruta}/{conocenos.destino}', conocenos.contenido())
-        click.echo(f'  {conocenos.destino}')
-        # recursivo ?
+        sobreescribir_archivo(f'{conocenos.destino_ruta}', conocenos.contenido())
+        click.echo(f'  {conocenos.destino_ruta}')
+        for rama in conocenos.ramas:
+            sobreescribir_archivo(rama.destino_ruta, rama.contenido())
+            click.echo(f'  {rama.destino_ruta}')
     elif config.rama == 'Sesiones':
         sesiones = Sesiones(
             insumos_ruta=config.insumos_ruta,

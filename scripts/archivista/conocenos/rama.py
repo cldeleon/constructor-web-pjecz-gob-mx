@@ -1,4 +1,5 @@
 from comun.base import Base
+from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
 from comun.seccion import Seccion
 
 
@@ -12,17 +13,25 @@ class Rama(Base):
             )
         self.plantillas_env = creador.plantillas_env
         self.titulo = directorio.name
-        self.identificador = 'conocenos-????-????'
         self.resumen = '.'
         self.etiquetas = creador.etiquetas
-        self.url = 'conocenos/????/????/'
-        self.guardar_como = 'conocenos/????/????/index.html'
         self.creado = creador.creado
         self.modificado = creador.modificado
-        self.secciones = []
+        # Definir las rutas
+        self.url = cambiar_a_ruta_segura(self.insumos_ruta[len(creador.insumos_ruta) + 1:] + '/')
+        self.guardar_como = self.url + 'index.html'
+        # Definir el identificador
+        self.identificador = cambiar_a_identificador(self.insumos_ruta[len(creador.insumos_ruta) + 1:])
+        # Definir el destino al archivo markdown a escribir
+        self.destino_ruta = f'{creador.salida_ruta}/{self.url}{cambiar_a_identificador(directorio.name)}.md'
 
     def alimentar(self):
         super().alimentar()
+        if self.alimentado == False:
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
+            # Levantar bandera
+            self.alimentado = True
 
     def contenido(self):
         super().contenido()

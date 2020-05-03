@@ -15,11 +15,17 @@ class Conocenos(Base):
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env
+        # Definir lo que necesita contenido
         self.titulo = 'Conócenos'
+        self.identificador = 'conocenos'
         self.resumen = '.'
         self.etiquetas = 'Conócenos'
-        self.creado = self.modificado = '2020-01-01 15:00:00'
-        self.destino = 'conocenos/conocenos.md'
+        self.url = 'conocenos/'
+        self.guardar_como = self.url + 'index.html'
+        self.creado = self.modificado = '2020-05-01 15:00:00'
+        # Definir el destino al archivo markdown a escribir
+        self.destino_ruta = f'{self.salida_ruta}/conocenos/conocenos.md'
+        # Listado de ramas
         self.ramas = []
 
     def rastrear_directorios(self, ruta):
@@ -30,11 +36,29 @@ class Conocenos(Base):
 
     def alimentar(self):
         super().alimentar()
-        for directorio in self.rastrear_directorios(self.insumos_ruta):
-            self.ramas.append(Rama(self, directorio))
+        if self.alimentado == False:
+            # Rastrear los directorios y acumular ramas
+            for directorio in self.rastrear_directorios(self.insumos_ruta):
+                self.ramas.append(Rama(self, directorio))
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
+            # Levantar bandera
+            self.alimentado = True
 
     def contenido(self):
         super().contenido()
+        plantilla = self.plantillas_env.get_template('sesiones.md.jinja2')
+        return(plantilla.render(
+            title = self.titulo,
+            slug = self.identificador,
+            summary = self.resumen,
+            tags = self.etiquetas,
+            url = self.url,
+            save_as = self.guardar_como,
+            date = self.creado,
+            modified = self.modificado,
+            secciones = self.secciones,
+            ))
 
     def __repr__(self):
         super().__repr__()
