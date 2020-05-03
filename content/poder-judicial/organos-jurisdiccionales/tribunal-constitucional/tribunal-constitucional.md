@@ -5,7 +5,7 @@ Tags: Poder Judicial, Órganos Jurisdiccionales
 URL: poder-judicial/organos-jurisdiccionales/tribunal-constitucional/
 Save_As: poder-judicial/organos-jurisdiccionales/tribunal-constitucional/index.html
 Date: 2020-02-11 10:00
-Modified: 2020-02-11 10:00
+Modified: 2020-05-01 19:20
 
 
 ### Justicia Constitucional Local
@@ -28,3 +28,10 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 
 1. La interpretación constitucional de un caso trascendental o sobresaliente a juicio del Pleno del Tribunal Superior de Justicia.
 2. Los casos de revisión de oficio de la declaración de inaplicación de la ley por parte de un juez, o bien, la duda de constitucionalidad de una norma por parte de una autoridad diferente a la judicial.
+
+### Documentos "Demanda de Acción de Inconstitucionalidad y Anexos", 01 de mayo 2020
+
+* [1. Demanda de Acción de Inconstitucionalidad y Anexos.pdf](https://storage.googleapis.com/pjecz-gob-mx/Con%C3%B3cenos/Estructura/Tribunal%20Superior%20de%20Justicia/%C3%93rganos%20Jurisdiccionales/Tribunal%20Constitucional/1.%20Demanda%20de%20Acci%C3%B3n%20de%20Inconstitucionalidad%20y%20Anexos.pdf)
+* [2. Acto Impugnado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Con%C3%B3cenos/Estructura/Tribunal%20Superior%20de%20Justicia/%C3%93rganos%20Jurisdiccionales/Tribunal%20Constitucional/2.%20Acto%20Impugnado.pdf)
+* [3. Acuerdo de Admisión de la Demanda.pdf](https://storage.googleapis.com/pjecz-gob-mx/Con%C3%B3cenos/Estructura/Tribunal%20Superior%20de%20Justicia/%C3%93rganos%20Jurisdiccionales/Tribunal%20Constitucional/3.%20Acuerdo%20de%20Admisi%C3%B3n%20de%20la%20Demanda.pdf)
+* [4. Constancias de Notificación.pdf](https://storage.googleapis.com/pjecz-gob-mx/Con%C3%B3cenos/Estructura/Tribunal%20Superior%20de%20Justicia/%C3%93rganos%20Jurisdiccionales/Tribunal%20Constitucional/4.%20Constancias%20de%20Notificaci%C3%B3n.pdf)

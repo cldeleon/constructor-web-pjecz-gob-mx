@@ -35,7 +35,7 @@ def cli(config, rama):
     config.rama = rama
     click.echo('Hola, ¡soy Archivista!')
     config.salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx/content'
-    if config.rama == 'Conocenos':
+    if config.rama == 'Conócenos':
         config.insumos_ruta = f'{nextcloud_ruta}/Conócenos'
         config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/conocenos/conocenos.csv'
         plantillas_ruta = f'{pelican_ruta}/scripts/archivista/conocenos/plantillas'
@@ -76,7 +76,7 @@ def cli(config, rama):
 def mostrar(config):
     """ Mostrar en pantalla directorios y archivos que puede crear """
     click.echo('Voy a mostrar...')
-    if config.rama == 'Conocenos':
+    if config.rama == 'Conócenos':
         conocenos = Conocenos(
             insumos_ruta=config.insumos_ruta,
             salida_ruta='',
@@ -116,7 +116,17 @@ def mostrar(config):
 def crear(config):
     """ Crear directorios y archivos """
     click.echo('Voy a crear...')
-    if config.rama == 'Sesiones':
+    if config.rama == 'Conócenos':
+        conocenos = Conocenos(
+            insumos_ruta=config.insumos_ruta,
+            salida_ruta=config.salida_ruta,
+            metadatos_csv=config.metadatos_csv,
+            plantillas_env=config.plantillas_env,
+            )
+        sobreescribir_archivo(f'{config.salida_ruta}/{conocenos.destino}', conocenos.contenido())
+        click.echo(f'  {conocenos.destino}')
+        # recursivo ?
+    elif config.rama == 'Sesiones':
         sesiones = Sesiones(
             insumos_ruta=config.insumos_ruta,
             salida_ruta=config.salida_ruta,
