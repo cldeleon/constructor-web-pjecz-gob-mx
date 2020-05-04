@@ -32,6 +32,7 @@ ARTICLE_PATHS = [
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
     'aviso-de-privacidad',
+    'conocenos',
     'consejo-judicatura',
     'consultas',
     'licencias',
@@ -48,6 +49,7 @@ PAGE_PATHS = [
 STATIC_PATHS = [
     'acuerdos',
     'comunicados',
+    'conocenos',
     'consejo-judicatura',
     'consultas',
     'poder-judicial',

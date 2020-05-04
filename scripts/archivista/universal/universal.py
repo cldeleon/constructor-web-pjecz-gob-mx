@@ -1,0 +1,77 @@
+import os
+from comun.base import Base
+from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
+from universal.rama import Rama
+
+
+class Universal(Base):
+    """ Coordina de forma universal """
+
+    def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env, titulo, resumen, etiquetas, creado, modificado):
+        super().__init__(
+            insumos_ruta = insumos_ruta,
+            secciones_comienzan_con = titulo,
+            )
+        self.insumos_ruta = insumos_ruta
+        self.salida_ruta = salida_ruta
+        self.metadatos_csv = metadatos_csv
+        self.plantillas_env = plantillas_env
+        # Definir lo que necesita contenido
+        self.titulo = titulo
+        self.identificador = cambiar_a_identificador(titulo)
+        self.resumen = resumen
+        self.etiquetas = etiquetas
+        self.url = self.identificador + '/'
+        self.guardar_como = self.url + 'index.html'
+        self.creado = creado
+        self.modificado = modificado
+        # Definir el destino al archivo markdown a escribir
+        self.destino_ruta = self.salida_ruta + '/' + self.identificador
+        self.destino_md_ruta = self.destino_ruta + '/' + self.identificador + '.md'
+        # Listado de ramas
+        self.ramas = []
+
+    def rastrear_directorios(self, ruta):
+        for item in os.scandir(ruta):
+            if item.is_dir(follow_symlinks=False):
+                yield item
+                yield from self.rastrear_directorios(item.path)
+
+    def alimentar(self):
+        super().alimentar()
+        if self.alimentado == False:
+            # Rastrear los directorios y acumular ramas
+            for directorio in self.rastrear_directorios(self.insumos_ruta):
+                posible_md_nombre = os.path.basename(directorio.path)
+                posible_md_ruta = f'{directorio.path}/{posible_md_nombre}.md'
+                if os.path.exists(posible_md_ruta):
+                    self.ramas.append(Rama(self, directorio))
+            # Juntar Secciones
+            self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
+            # Levantar bandera
+            self.alimentado = True
+
+    def contenido(self):
+        super().contenido()
+        plantilla = self.plantillas_env.get_template('universal.md.jinja2')
+        return(plantilla.render(
+            title = self.titulo,
+            slug = self.identificador,
+            summary = self.resumen,
+            tags = self.etiquetas,
+            url = self.url,
+            save_as = self.guardar_como,
+            date = self.creado,
+            modified = self.modificado,
+            secciones = self.secciones,
+            ))
+
+    def __repr__(self):
+        super().__repr__()
+        if len(self.ramas) > 0:
+            salidas = []
+            for rama in self.ramas:
+                salidas.append('  ' + str(rama))
+            return(f'<Conocenos> "{self.titulo}"\n' + '\n'.join(salidas))
+        else:
+            return(f'<Conocenos> "{self.titulo}" SIN SECCIONES')
