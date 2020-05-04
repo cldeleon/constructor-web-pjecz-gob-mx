@@ -123,11 +123,11 @@ def crear(config):
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
-        sobreescribir_archivo(f'{conocenos.destino_ruta}', conocenos.contenido())
-        click.echo(f'  {conocenos.destino_ruta}')
+        sobreescribir_archivo(f'{conocenos.destino_md_ruta}', conocenos.contenido())
+        click.echo(f'  {conocenos.destino_md_ruta}')
         for rama in conocenos.ramas:
-            sobreescribir_archivo(rama.destino_ruta, rama.contenido())
-            click.echo(f'  {rama.destino_ruta}')
+            sobreescribir_archivo(rama.destino_md_ruta, rama.contenido())
+            click.echo(f'  {rama.destino_md_ruta}')
     elif config.rama == 'Sesiones':
         sesiones = Sesiones(
             insumos_ruta=config.insumos_ruta,

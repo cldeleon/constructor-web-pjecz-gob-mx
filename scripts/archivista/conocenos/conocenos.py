@@ -1,3 +1,4 @@
+import click
 import os
 from comun.base import Base
 from conocenos.rama import Rama
@@ -24,7 +25,8 @@ class Conocenos(Base):
         self.guardar_como = self.url + 'index.html'
         self.creado = self.modificado = '2020-05-01 15:00:00'
         # Definir el destino al archivo markdown a escribir
-        self.destino_ruta = f'{self.salida_ruta}/conocenos/conocenos.md'
+        self.destino_ruta = f'{self.salida_ruta}/conocenos'
+        self.destino_md_ruta = f'{self.destino_ruta}/conocenos.md'
         # Listado de ramas
         self.ramas = []
 
@@ -39,7 +41,10 @@ class Conocenos(Base):
         if self.alimentado == False:
             # Rastrear los directorios y acumular ramas
             for directorio in self.rastrear_directorios(self.insumos_ruta):
-                self.ramas.append(Rama(self, directorio))
+                posible_md_nombre = os.path.basename(directorio.path)
+                posible_md_ruta = f'{directorio.path}/{posible_md_nombre}.md'
+                if os.path.exists(posible_md_ruta):
+                    self.ramas.append(Rama(self, directorio))
             # Juntar Secciones
             self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
@@ -47,7 +52,7 @@ class Conocenos(Base):
 
     def contenido(self):
         super().contenido()
-        plantilla = self.plantillas_env.get_template('sesiones.md.jinja2')
+        plantilla = self.plantillas_env.get_template('conocenos.md.jinja2')
         return(plantilla.render(
             title = self.titulo,
             slug = self.identificador,

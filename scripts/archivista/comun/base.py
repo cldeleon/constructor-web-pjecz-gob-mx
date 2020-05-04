@@ -43,7 +43,11 @@ class Base(object):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_dir():
-                        directorios.append(item.path)
+                        # Si tiene dentro un archivo nombre-directorio.md se omite
+                        posible_md_archivo = os.path.basename(item.path) + '.md'
+                        posible_md_ruta = f'{item.path}/{posible_md_archivo}'
+                        if not os.path.exists(posible_md_ruta):
+                            directorios.append(item.path)
                 directorios.sort()
         return(directorios)
 

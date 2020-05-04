@@ -21,9 +21,12 @@ class Rama(Base):
         self.url = cambiar_a_ruta_segura(self.insumos_ruta[len(creador.insumos_ruta) + 1:] + '/')
         self.guardar_como = self.url + 'index.html'
         # Definir el identificador
-        self.identificador = cambiar_a_identificador(self.insumos_ruta[len(creador.insumos_ruta) + 1:])
+        self.identificador = cambiar_a_identificador(creador.identificador + ' ' + self.insumos_ruta[len(creador.insumos_ruta) + 1:])
         # Definir el destino al archivo markdown a escribir
-        self.destino_ruta = f'{creador.salida_ruta}/{self.url}{cambiar_a_identificador(directorio.name)}.md'
+        self.destino_ruta = f'{creador.destino_ruta}/{self.url}'
+        self.destino_md_ruta = f'{self.destino_ruta}{cambiar_a_identificador(directorio.name)}.md'
+        # Permitir tomar descargas
+        self.alimentar_insumos_en_subdirectorios = True
 
     def alimentar(self):
         super().alimentar()
@@ -50,4 +53,10 @@ class Rama(Base):
 
     def __repr__(self):
         super().__repr__()
-        return(f'<Rama> "{self.titulo}"')
+        if len(self.secciones) > 0:
+            salidas = []
+            for seccion in self.secciones:
+                salidas.append('    ' + str(seccion))
+            return(f'<Rama> "{self.titulo}"\n' + '\n'.join(salidas))
+        else:
+            return(f'<Rama> "{self.titulo}" SIN SECCIONES')
