@@ -1,6 +1,6 @@
 Title: GNU Affero General Public License
 Slug: agpl
-Summary: La Licencia Pública General Affero esta basada en la GPL de GNU, pero contiene una cláusula adicional que permite a los usuarios interactuar con el programa licenciado a través de una red para recibir el código fuente de ese programa.
+Summary: El software que construye este sitio web usa la Licencia Pública General Affero que esta basada en la GPL de GNU, pero contiene una cláusula adicional que permite a los usuarios interactuar con el programa licenciado a través de una red para recibir el código fuente de ese programa.
 URL: licencias/agpl/
 Save_As: licencias/agpl/index.html
 Date: 2020-04-27 16:48

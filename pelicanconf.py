@@ -33,15 +33,12 @@ ARTICLE_PATHS = [
 PAGE_PATHS = [
     'aviso-de-privacidad',
     'conocenos',
-    'consejo-judicatura',
     'consultas',
     'licencias',
-    'poder-judicial',
     'politicas-de-uso',
     'tramites-servicios',
     'transparencia',
     'transparencia-tca',
-    'votos-particulares',
     ]
 
 # Directorios y archivos que son fijos
@@ -50,9 +47,7 @@ STATIC_PATHS = [
     'acuerdos',
     'comunicados',
     'conocenos',
-    'consejo-judicatura',
     'consultas',
-    'poder-judicial',
     'sesiones',
     'tramites-servicios',
     'transparencia',
