@@ -1,6 +1,7 @@
 from comun.base import Base
 from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
 from comun.seccion import Seccion
+from universal.metadatos import Metadatos
 
 
 class Rama(Base):
@@ -12,17 +13,29 @@ class Rama(Base):
             secciones_comienzan_con = directorio.name,
             )
         self.plantillas_env = creador.plantillas_env
-        self.titulo = directorio.name
-        self.resumen = '.'
-        self.etiquetas = creador.etiquetas
-        self.creado = creador.creado
-        self.modificado = creador.modificado
-        # Definir las rutas
+        # Definir URL y guardar_como
         rama_relativa = cambiar_a_ruta_segura(self.insumos_ruta[len(creador.insumos_ruta) + 1:])
         self.url = creador.url + rama_relativa + '/'
         self.guardar_como = self.url + 'index.html'
         # Definir el identificador
         self.identificador = cambiar_a_identificador(creador.identificador + ' ' + rama_relativa)
+        # Obtener metadatos
+        metadatos = Metadatos(creador.metadatos_csv)
+        meta = metadatos.consultar(self.identificador)
+        if meta is None:
+            self.titulo = directorio.name
+            self.resumen = '.'
+            self.etiquetas = creador.etiquetas
+            self.creado = creador.creado
+            self.modificado = creador.modificado
+            self.oculto = '0'
+        else:
+            self.titulo = meta['titulo']
+            self.resumen = meta['resumen']
+            self.etiquetas = meta['etiquetas']
+            self.creado = meta['creado']
+            self.modificado = meta['modificado']
+            self.oculto = meta['oculto']
         # Definir el destino al archivo markdown a escribir
         self.destino_ruta = creador.destino_ruta + '/' + rama_relativa
         self.destino_md_ruta = self.destino_ruta + '/' + cambiar_a_identificador(directorio.name) + '.md'
@@ -50,6 +63,7 @@ class Rama(Base):
             date = self.creado,
             modified = self.modificado,
             secciones = self.secciones,
+            oculto = self.oculto,
             ))
 
     def __repr__(self):
@@ -58,6 +72,6 @@ class Rama(Base):
             salidas = []
             for seccion in self.secciones:
                 salidas.append('    ' + str(seccion))
-            return(f'<Rama> "{self.titulo}"\n' + '\n'.join(salidas))
+            return(f'<Rama> "{self.titulo}" {self.creado}\n' + '\n'.join(salidas))
         else:
-            return(f'<Rama> "{self.titulo}" SIN SECCIONES')
+            return(f'<Rama> "{self.titulo}" {self.creado} SIN SECCIONES')

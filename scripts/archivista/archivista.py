@@ -35,8 +35,11 @@ def cli(config, rama):
     click.echo('Hola, ¡soy Archivista!')
     # Definir variables
     config.salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx/content'
-    if config.rama == 'Conócenos' or config.rama == 'Sesiones':
-        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/universal/universal.csv'
+    if config.rama == 'Conócenos':
+        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/metadatos/conocenos.csv'
+        plantillas_ruta = f'{pelican_ruta}/scripts/archivista/universal/plantillas'
+    elif config.rama == 'Sesiones':
+        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/metadatos/sesiones.csv'
         plantillas_ruta = f'{pelican_ruta}/scripts/archivista/universal/plantillas'
     elif config.rama == 'Transparencia':
         config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'

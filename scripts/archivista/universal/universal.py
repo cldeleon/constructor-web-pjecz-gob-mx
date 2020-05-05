@@ -1,6 +1,7 @@
 import os
 from comun.base import Base
 from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
+from universal.metadatos import Metadatos
 from universal.rama import Rama
 
 
@@ -16,15 +17,28 @@ class Universal(Base):
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env
-        # Definir lo que necesita contenido
-        self.titulo = titulo
+        # Definir el identificador
         self.identificador = cambiar_a_identificador(titulo)
-        self.resumen = resumen
-        self.etiquetas = etiquetas
+        # Obtener metadatos
+        metadatos = Metadatos(self.metadatos_csv)
+        meta = metadatos.consultar(self.identificador)
+        if meta is None:
+            self.titulo = titulo
+            self.resumen = resumen
+            self.etiquetas = etiquetas
+            self.creado = creado
+            self.modificado = modificado
+            self.oculto = '0'
+        else:
+            self.titulo = meta['titulo']
+            self.resumen = meta['resumen']
+            self.etiquetas = meta['etiquetas']
+            self.creado = meta['creado']
+            self.modificado = meta['modificado']
+            self.oculto = meta['oculto']
+        # Definir URL y guardar_como
         self.url = self.identificador + '/'
         self.guardar_como = self.url + 'index.html'
-        self.creado = creado
-        self.modificado = modificado
         # Definir el destino al archivo markdown a escribir
         self.destino_ruta = self.salida_ruta + '/' + self.identificador
         self.destino_md_ruta = self.destino_ruta + '/' + self.identificador + '.md'
@@ -64,6 +78,7 @@ class Universal(Base):
             date = self.creado,
             modified = self.modificado,
             secciones = self.secciones,
+            oculto = self.oculto,
             ))
 
     def __repr__(self):
@@ -72,6 +87,6 @@ class Universal(Base):
             salidas = []
             for rama in self.ramas:
                 salidas.append('  ' + str(rama))
-            return(f'<Conocenos> "{self.titulo}"\n' + '\n'.join(salidas))
+            return(f'<Conocenos> "{self.titulo}" {self.creado}\n' + '\n'.join(salidas))
         else:
-            return(f'<Conocenos> "{self.titulo}" SIN SECCIONES')
+            return(f'<Conocenos> "{self.titulo}" {self.creado} SIN SECCIONES')
