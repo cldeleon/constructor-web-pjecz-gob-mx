@@ -16,8 +16,8 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
-La aportación en dinero o en especie que reciban de las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre; 
+La aportación en dinero o en especie que reciban de las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre;
 
 

@@ -1,27 +1,25 @@
 import os
 from comun.base import Base
 from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
-from universal.metadatos import Metadatos
 from universal.rama import Rama
 
 
 class Universal(Base):
-    """ Coordina de forma universal """
+    """ Coordina tronco del sitio web """
 
-    def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env, titulo, resumen, etiquetas, creado, modificado):
+    def __init__(self, insumos_ruta, salida_ruta, metadatos, plantillas_env, titulo, resumen, etiquetas, creado, modificado):
         super().__init__(
             insumos_ruta = insumos_ruta,
             secciones_comienzan_con = titulo,
             )
         self.insumos_ruta = insumos_ruta
         self.salida_ruta = salida_ruta
-        self.metadatos_csv = metadatos_csv
+        self.metadatos = metadatos
         self.plantillas_env = plantillas_env
         # Definir el identificador
         self.identificador = cambiar_a_identificador(titulo)
         # Obtener metadatos
-        metadatos = Metadatos(self.metadatos_csv)
-        meta = metadatos.consultar(self.identificador)
+        meta = self.metadatos.consultar(self.identificador)
         if meta is None:
             self.titulo = titulo
             self.resumen = resumen
@@ -87,6 +85,8 @@ class Universal(Base):
             salidas = []
             for rama in self.ramas:
                 salidas.append('  ' + str(rama))
-            return(f'<Conocenos> "{self.titulo}" {self.creado}\n' + '\n'.join(salidas))
+            for imagen in self.imagenes:
+                salidas.append('  (' + os.path.basename(imagen) + ')')
+            return(f'<Universal> {self.creado} "{self.titulo}"\n' + '\n'.join(salidas))
         else:
-            return(f'<Conocenos> "{self.titulo}" {self.creado} SIN SECCIONES')
+            return(f'<Universal> {self.creado} "{self.titulo}" SIN SECCIONES')

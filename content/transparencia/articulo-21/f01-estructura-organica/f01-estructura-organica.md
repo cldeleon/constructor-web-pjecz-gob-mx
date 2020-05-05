@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21, Fracc. I Estructura Orgánica
 
 El Poder Judicial del Estado de Coahuila cuenta con una estructura orgánica integrada por órganos jurisdiccionales, no jurisdiccionales y administrativos.
@@ -33,10 +32,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+4 de mayo de 2020
 
 Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.
-
 
 
 ### 01 Estructura Jurisdiccional

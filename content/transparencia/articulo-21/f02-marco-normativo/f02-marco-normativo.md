@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21, Fracc. II Marco Normativo
 
 ### RESPONSABLE
@@ -17,10 +16,9 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 El marco normativo aplicable a los sujetos obligados, en el que deberá incluirse el periódico oficial, las leyes, códigos, reglamentos, decretos, reglas de operación, manuales administrativos, acuerdos, circulares, lineamientos y políticas emitidas aplicables en el ámbito de su competencia;
-
 
 
 ### 01 Constituciones

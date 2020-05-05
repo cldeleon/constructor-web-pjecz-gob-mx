@@ -16,7 +16,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 **FECHA DE VALIDACIÓN**
 
-3 de abril del 2020
+4 de mayo de 2020
 
 Los nombres de los beneficiarios de los programas de subsidio, estímulo y/o apoyos otorgados;
 

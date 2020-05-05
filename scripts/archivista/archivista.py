@@ -3,25 +3,28 @@ import os
 import sys
 from jinja2 import Environment, FileSystemLoader
 from pathlib import Path
+
+from comun.funciones import copiar_archivo, sobreescribir_archivo
+from comun.metadatos import Metadatos
 from transparencia.transparencia import Transparencia
 from transparenciatca.transparenciatca import TransparenciaTCA
 from universal.universal import Universal
-
-home_ruta = str(Path.home())
-pelican_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx'
-nextcloud_ruta = f'{home_ruta}/Nextcloud/Sitios Web/pjecz.gob.mx'
-
-def sobreescribir_archivo(destino, contenido):
-    if not os.path.exists(os.path.dirname(destino)):
-        os.makedirs(os.path.dirname(destino))
-    with open(destino, 'w') as file:
-        file.write(contenido)
 
 
 class Config(object):
 
     def __init__(self):
-        self.metadatos = ''
+        self.home_ruta = str(Path.home())
+        self.pelican_ruta = f'{self.home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx'
+        self.nextcloud_ruta = f'{self.home_ruta}/Nextcloud/Sitios Web/pjecz.gob.mx'
+        self.rama = ''
+        self.salida_ruta = f'{self.home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx/content'
+        self.metadatos_csv = ''
+        self.metadatos = None
+        self.insumos_ruta = ''
+        self.plantillas_env = None
+        self.creado = '2020-05-04 09:12'
+        self.modificado = '2020-05-04 09:12'
 
 
 pass_config = click.make_pass_decorator(Config, ensure=True)
@@ -31,26 +34,26 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 @click.option('--rama', default='Transparencia', type=str, help='Conócenos, Sesiones, Transparencia o Transparencia TCA')
 @pass_config
 def cli(config, rama):
-    config.rama = rama
     click.echo('Hola, ¡soy Archivista!')
-    # Definir variables
-    config.salida_ruta = f'{home_ruta}/VirtualEnv/Pelican/pjecz.gob.mx/content'
+    # Definir rama
+    config.rama = rama
+    # Definir insumos_ruta
+    config.insumos_ruta = f'{config.nextcloud_ruta}/{config.rama}'
+    # Definir metadatos_csv y plantillas_ruta
     if config.rama == 'Conócenos':
-        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/metadatos/conocenos.csv'
-        plantillas_ruta = f'{pelican_ruta}/scripts/archivista/universal/plantillas'
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/conocenos/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/conocenos/plantillas'
     elif config.rama == 'Sesiones':
-        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/metadatos/sesiones.csv'
-        plantillas_ruta = f'{pelican_ruta}/scripts/archivista/universal/plantillas'
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/sesiones/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/sesiones/plantillas'
     elif config.rama == 'Transparencia':
-        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'
-        plantillas_ruta = f'{pelican_ruta}/scripts/archivista/transparencia/plantillas'
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/transparencia/plantillas'
     elif config.rama == 'Transparencia TCA':
-        config.metadatos_csv = f'{pelican_ruta}/scripts/archivista/transparenciatca/transparenciatca.csv'
-        plantillas_ruta = f'{pelican_ruta}/scripts/archivista/transparenciatca/plantillas'
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/transparenciatca/transparenciatca.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/transparenciatca/plantillas'
     else:
         sys.exit('Error: La rama no está programada.')
-    # Definir insumos ruta
-    config.insumos_ruta = f'{nextcloud_ruta}/{config.rama}'
     # Verificar que existan
     if not os.path.exists(config.insumos_ruta):
         sys.exit(f'Error: No existe la ruta a los insumos en Nextcloud {config.insumos_ruta}')
@@ -64,7 +67,11 @@ def cli(config, rama):
     if not os.path.exists(plantillas_ruta):
         sys.exit(f'Error: No existe la ruta a las plantillas {plantillas_ruta}')
     click.echo(f'  Ruta a las plantillas:        {plantillas_ruta}')
-    # Definir el entorno Jinja2 a la ruta con las plantillas
+    # Cargar metadatos
+    if not (config.rama == 'Transparencia' or config.rama == 'Transparencia TCA'):
+        config.metadatos = Metadatos(config.metadatos_csv)
+        config.metadatos.cargar()
+    # Cargar entorno Jinja2 con plantillas_ruta
     config.plantillas_env = Environment(
         loader=FileSystemLoader(plantillas_ruta),
         trim_blocks=True,
@@ -76,33 +83,7 @@ def cli(config, rama):
 def mostrar(config):
     """ Mostrar en pantalla directorios y archivos que puede crear """
     click.echo('Voy a mostrar...')
-    if config.rama == 'Conócenos':
-        conocenos = Universal(
-            insumos_ruta=config.insumos_ruta,
-            salida_ruta=config.salida_ruta,
-            metadatos_csv=config.metadatos_csv,
-            plantillas_env=config.plantillas_env,
-            titulo = 'Conócenos',
-            resumen = '.',
-            etiquetas = 'Conócenos',
-            creado = '2020-05-04 09:12',
-            modificado = '2020-05-04 09:12',
-            )
-        click.echo(conocenos)
-    elif config.rama == 'Sesiones':
-        sesiones = Universal(
-            insumos_ruta=config.insumos_ruta,
-            salida_ruta=config.salida_ruta,
-            metadatos_csv=config.metadatos_csv,
-            plantillas_env=config.plantillas_env,
-            titulo = 'Sesiones',
-            resumen = '.',
-            etiquetas = 'Sesiones',
-            creado = '2020-05-04 09:12',
-            modificado = '2020-05-04 09:12',
-            )
-        click.echo(sesiones)
-    elif config.rama == 'Transparencia':
+    if config.rama == 'Transparencia':
         transparencia = Transparencia(
             insumos_ruta=config.insumos_ruta,
             salida_ruta=config.salida_ruta,
@@ -119,62 +100,36 @@ def mostrar(config):
             )
         click.echo(transparenciatca)
     else:
-        sys.exit('Error: La rama no está programada.')
+        universal = Universal(
+            insumos_ruta=config.insumos_ruta,
+            salida_ruta=config.salida_ruta,
+            metadatos=config.metadatos,
+            plantillas_env=config.plantillas_env,
+            titulo = config.rama,
+            resumen = '.',
+            etiquetas = config.rama,
+            creado = config.creado,
+            modificado = config.modificado,
+            )
+        click.echo(universal)
 
 @cli.command()
 @pass_config
 def crear(config):
     """ Crear directorios y archivos """
     click.echo('Voy a crear...')
-    if config.rama == 'Conócenos':
-        conocenos = Universal(
-            insumos_ruta=config.insumos_ruta,
-            salida_ruta=config.salida_ruta,
-            metadatos_csv=config.metadatos_csv,
-            plantillas_env=config.plantillas_env,
-            titulo = 'Conócenos',
-            resumen = '.',
-            etiquetas = 'Conócenos',
-            creado = '2020-05-04 09:12',
-            modificado = '2020-05-04 09:12',
-            )
-        sobreescribir_archivo(f'{conocenos.destino_md_ruta}', conocenos.contenido())
-        click.echo(f'  {conocenos.destino_md_ruta}')
-        for rama in conocenos.ramas:
-            sobreescribir_archivo(rama.destino_md_ruta, rama.contenido())
-            click.echo(f'  {rama.destino_md_ruta}')
-    elif config.rama == 'Sesiones':
-        sesiones = Universal(
-            insumos_ruta=config.insumos_ruta,
-            salida_ruta=config.salida_ruta,
-            metadatos_csv=config.metadatos_csv,
-            plantillas_env=config.plantillas_env,
-            titulo = 'Sesiones',
-            resumen = '.',
-            etiquetas = 'Sesiones',
-            creado = '2020-05-04 09:12',
-            modificado = '2020-05-04 09:12',
-            )
-        sobreescribir_archivo(f'{sesiones.destino_md_ruta}', sesiones.contenido())
-        click.echo(f'  {sesiones.destino_md_ruta}')
-        for rama in sesiones.ramas:
-            sobreescribir_archivo(rama.destino_md_ruta, rama.contenido())
-            click.echo(f'  {rama.destino_md_ruta}')
-    elif config.rama == 'Transparencia':
+    if config.rama == 'Transparencia':
         transparencia = Transparencia(
             insumos_ruta=config.insumos_ruta,
             salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
-        sobreescribir_archivo(f'{config.salida_ruta}/{transparencia.destino}', transparencia.contenido())
-        click.echo(f'  {transparencia.destino}')
+        click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{transparencia.destino}', transparencia.contenido()))
         for articulo in transparencia.articulos:
-            sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido())
-            click.echo(f'  {articulo.destino}')
+            click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido()))
             for fraccion in articulo.fracciones:
-                sobreescribir_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido())
-                click.echo(f'  {fraccion.destino}')
+                click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido()))
     elif config.rama == 'Transparencia TCA':
         transparenciatca = TransparenciaTCA(
             insumos_ruta=config.insumos_ruta,
@@ -182,16 +137,28 @@ def crear(config):
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
             )
-        sobreescribir_archivo(f'{config.salida_ruta}/{transparenciatca.destino}', transparenciatca.contenido())
-        click.echo(f'  {transparenciatca.destino}')
+        click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{transparenciatca.destino}', transparenciatca.contenido()))
         for articulo in transparenciatca.articulos:
-            sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido())
-            click.echo(f'  {articulo.destino}')
+            click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido()))
             for fraccion in articulo.fracciones:
-                sobreescribir_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido())
-                click.echo(f'  {fraccion.destino}')
+                click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{fraccion.destino}', fraccion.contenido()))
     else:
-        sys.exit('Error: La rama no está programada.')
+        universal = Universal(
+            insumos_ruta=config.insumos_ruta,
+            salida_ruta=config.salida_ruta,
+            metadatos=config.metadatos,
+            plantillas_env=config.plantillas_env,
+            titulo = config.rama,
+            resumen = '.',
+            etiquetas = config.rama,
+            creado = config.creado,
+            modificado = config.modificado,
+            )
+        click.echo(sobreescribir_archivo(universal.destino_md_ruta, universal.contenido()))
+        for rama in universal.ramas:
+            click.echo(sobreescribir_archivo(rama.destino_md_ruta, rama.contenido()))
+            for imagen in rama.imagenes:
+                click.echo(copiar_archivo(imagen, rama.destino_ruta))
 
 cli.add_command(mostrar)
 cli.add_command(crear)

@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 Los sujetos obligados que participen o coadyuven en el auxilio de comunidades en emergencia o desastre, deberán de difundir un informe de acciones realizadas durante la contingencia, en un plazo no mayor a 30 días;
 

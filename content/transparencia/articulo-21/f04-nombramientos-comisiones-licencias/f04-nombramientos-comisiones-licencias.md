@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21, Fracc. IV Nombramientos, Comisiones y Licencias
 
 ### RESPONSABLE
@@ -17,10 +16,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+4 de mayo de 2020
 
 Los nombramientos, comisiones y licencias de los servidores públicos;
-
 
 
 ### Comisiones

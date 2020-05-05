@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 La georreferenciación e imagen de todas las obras públicas, señalando: sector al que pertenece, ubicación y monto asignado y ejercido;
 

@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
 

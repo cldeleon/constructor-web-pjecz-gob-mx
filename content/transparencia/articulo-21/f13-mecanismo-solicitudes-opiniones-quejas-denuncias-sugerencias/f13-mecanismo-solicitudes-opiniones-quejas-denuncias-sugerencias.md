@@ -16,10 +16,9 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+4 de mayo de 2020
 
 Todo mecanismo de presentación directa de solicitudes, opiniones, quejas, denuncias, o sugerencias;
-
 
 
 ## Descargar

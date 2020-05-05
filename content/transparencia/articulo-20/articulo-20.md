@@ -20,14 +20,13 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
-
+4 de mayo 2020
 
 
 ## Descargar
 
 
-* [Calendario de Actualización de IPO Art. 21.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario de Actualización de IPO Art. 21.pptx)
-* [Calendario de Actualización de IPO Art. 27.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario de Actualización de IPO Art. 27.pptx)
+* [transparencia-articulo-21-calendario-ipo-articulo-21-2020-V5.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/transparencia-articulo-21-calendario-ipo-articulo-21-2020-V5.pptx)
+* [transparencia-articulo-27-calendario-ipo-articulo-21-2020-V5.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/transparencia-articulo-27-calendario-ipo-articulo-21-2020-V5.pptx)
 
 

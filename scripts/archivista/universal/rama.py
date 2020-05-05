@@ -1,11 +1,11 @@
+import os
 from comun.base import Base
 from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
 from comun.seccion import Seccion
-from universal.metadatos import Metadatos
 
 
 class Rama(Base):
-    """ Coordina una rama """
+    """ Coordina una rama (dentro de un tronco) del sitio web """
 
     def __init__(self, creador, directorio):
         super().__init__(
@@ -20,8 +20,7 @@ class Rama(Base):
         # Definir el identificador
         self.identificador = cambiar_a_identificador(creador.identificador + ' ' + rama_relativa)
         # Obtener metadatos
-        metadatos = Metadatos(creador.metadatos_csv)
-        meta = metadatos.consultar(self.identificador)
+        meta = creador.metadatos.consultar(self.identificador)
         if meta is None:
             self.titulo = directorio.name
             self.resumen = '.'
@@ -72,6 +71,8 @@ class Rama(Base):
             salidas = []
             for seccion in self.secciones:
                 salidas.append('    ' + str(seccion))
-            return(f'<Rama> "{self.titulo}" {self.creado}\n' + '\n'.join(salidas))
+            for imagen in self.imagenes:
+                salidas.append('    (' + os.path.basename(imagen) + ')')
+            return(f'<Rama> {self.creado} "{self.titulo}"\n' + '\n'.join(salidas))
         else:
-            return(f'<Rama> "{self.titulo}" {self.creado} SIN SECCIONES')
+            return(f'<Rama> {self.creado} "{self.titulo}" SIN SECCIONES')

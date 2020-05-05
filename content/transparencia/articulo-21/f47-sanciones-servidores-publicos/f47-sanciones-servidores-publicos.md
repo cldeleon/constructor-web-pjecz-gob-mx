@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 El listado de servidores públicos con sanciones definitivas, especificando la causa de sanción, la disposición y la sanción;
 

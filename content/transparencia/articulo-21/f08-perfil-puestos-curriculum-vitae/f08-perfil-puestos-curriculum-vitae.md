@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21, Fracc. VIII Perfil de Puestos y Curriculum Vitae
 
 ### RESPONSABLE
@@ -17,9 +16,8 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+4 de mayo de 2020
 
-El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;  
-
+El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;
 
 
