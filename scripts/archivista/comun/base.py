@@ -12,6 +12,7 @@ class Base(object):
         self.secciones_iniciales = []
         self.secciones_intermedias = []
         self.secciones_finales = []
+        self.imagenes = []
         self.alimentado = False
         self.alimentar_insumos_en_subdirectorios = False
 
@@ -37,13 +38,28 @@ class Base(object):
                 archivos_descargables.sort()
         return(archivos_descargables)
 
+    def obtener_archivos_imagenes(self, ruta):
+        archivos_imagenes = []
+        if os.path.exists(ruta):
+            with os.scandir(ruta) as scan:
+                for item in scan:
+                    if not item.name.startswith('.') and item.is_file():
+                        if item.name.endswith('.gif') or item.name.endswith('.jpg') or item.name.endswith('.jpeg') or item.name.endswith('.png') or item.name.endswith('.svg'):
+                            archivos_imagenes.append(item.path)
+                archivos_imagenes.sort()
+        return(archivos_imagenes)
+
     def obtener_directorios(self, ruta):
         directorios = []
         if os.path.exists(ruta):
             with os.scandir(ruta) as scan:
                 for item in scan:
                     if not item.name.startswith('.') and item.is_dir():
-                        directorios.append(item.path)
+                        # Si tiene dentro un archivo nombre-directorio.md se omite
+                        posible_md_archivo = os.path.basename(item.path) + '.md'
+                        posible_md_ruta = f'{item.path}/{posible_md_archivo}'
+                        if not os.path.exists(posible_md_ruta):
+                            directorios.append(item.path)
                 directorios.sort()
         return(directorios)
 
@@ -98,6 +114,8 @@ class Base(object):
                 seccion.cargar(archivo_markdown)
                 if seccion.cargado:
                     self.secciones_finales.append(seccion)
+            # Imágenes
+            self.imagenes = self.obtener_archivos_imagenes(self.insumos_ruta)
 
     def contenido(self):
         if self.alimentado == False:

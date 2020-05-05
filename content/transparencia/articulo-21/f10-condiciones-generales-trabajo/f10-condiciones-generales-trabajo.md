@@ -14,10 +14,9 @@ C.P. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+4 de mayo de 2020
 
 Las condiciones generales de trabajo, o instrumentos que regulen las relaciones laborales del personal sindicalizado y de confianza que se encuentre adscrito a los sujetos obligados y los recursos económicos o en especie que por cualquier motivo se hayan entregado a los sindicatos, incluso los donativos y el monto global de las cuotas sindicales.
-
 
 
 * [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_201219.pdf)

@@ -14,12 +14,11 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de marzo del 2020
+4 de mayo del 2020
 
 Los sujetos obligados deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 
 Derivado de los recientes cambios en la Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza, la información publicada se encuentra en proceso de actualización, agradecemos su comprensión a todos nuestros usuarios.
-
 
 
 ## Fracciones

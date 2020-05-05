@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21, Fracc. VII Viáticos y Gastos de Representación
 
 ### RESPONSABLE
@@ -17,7 +16,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 **FECHA DE VALIDACIÓN**
 
-3 de abril del 2020
+4 de mayo de 2020
 
 El importe por concepto de viáticos a partir del jefe de departamento y, en su caso, de gastos de representación;
 

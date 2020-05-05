@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales;
 

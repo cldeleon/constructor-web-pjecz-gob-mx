@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-
 ### Art. 21 Fracc. XI
 
 ### RESPONSABLE
@@ -17,10 +16,8 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área; los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área.
-
-
 
 

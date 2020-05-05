@@ -29,7 +29,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
-
+4 de mayo de 2020
 
 

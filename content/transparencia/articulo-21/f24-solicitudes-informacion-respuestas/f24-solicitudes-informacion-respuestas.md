@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 Las solicitudes de acceso a la información pública, las quejas presentadas y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema de solicitudes de acceso a la información;
 

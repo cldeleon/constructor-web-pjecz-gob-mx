@@ -16,7 +16,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril 2020
+4 de mayo de 2020
 
 El estado que guardan los sistemas  pensionarios, los estudios actuariales que se realicen por los sujetos obligados y los montos de los fondos pensionarios con el cálculo de su horizonte financiero;
 
