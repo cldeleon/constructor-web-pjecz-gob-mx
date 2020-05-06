@@ -41,6 +41,7 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 * [5. Acuerdo Audiencia de Alegatos.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/5. Acuerdo Audiencia de Alegatos.pdf)
 * [6. Constancia.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/6. Constancia.pdf)
 * [7. Visita al Fiscal.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/7. Visita al Fiscal.pdf)
-* [8. Amicus Curiae.docx](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/8. Amicus Curiae.docx)
+* [8. Preparación de Audiencia.docx](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/8. Preparación de Audiencia.docx)
+* [9. Amicus Curiae.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020/9. Amicus Curiae.pdf)
 
 

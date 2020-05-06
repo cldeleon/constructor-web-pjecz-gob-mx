@@ -33,3 +33,10 @@ Modified: 2020-05-04 09:12
 ### PC 2017
 
 
+* [01 Aviso Procedimiento Ordinario 2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/Centro de Medios Alternos de Solución de Controversias/Procedimientos de Certificación para Facilitadores en Mediación y Conciliación/PC 2017/01 Aviso Procedimiento Ordinario 2017.pdf)
+* [02 Etapa 1  PO2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/Centro de Medios Alternos de Solución de Controversias/Procedimientos de Certificación para Facilitadores en Mediación y Conciliación/PC 2017/02 Etapa 1  PO2017.pdf)
+* [03 Inicio Etapa 2 exámen teorico PO2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/Centro de Medios Alternos de Solución de Controversias/Procedimientos de Certificación para Facilitadores en Mediación y Conciliación/PC 2017/03 Inicio Etapa 2 exámen teorico PO2017.pdf)
+* [04 Etapa 3 Examen Practico  PO2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/Centro de Medios Alternos de Solución de Controversias/Procedimientos de Certificación para Facilitadores en Mediación y Conciliación/PC 2017/04 Etapa 3 Examen Practico  PO2017.pdf)
+* [05 CONCLUSIÓN Y DE EXPEDICIÓN DE CONSTANCIAS  PO2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/Centro de Medios Alternos de Solución de Controversias/Procedimientos de Certificación para Facilitadores en Mediación y Conciliación/PC 2017/05 CONCLUSIÓN Y DE EXPEDICIÓN DE CONSTANCIAS  PO2017.pdf)
+
+
