@@ -30,9 +30,9 @@ TRANSLATION_FEED_RSS = None
 FEED_MAX_ITEMS = 24
 RSS_FEED_SUMMARY_ONLY = True
 
-# Para producción se habilitan los plugins
+# Pelican plugins
 PLUGIN_PATHS = ['plugins']
-PLUGINS = ['sitemap']
+PLUGINS = ['pelican_javascript', 'sitemap']
 SITEMAP = {
     'format': 'xml',
     'priorities': {

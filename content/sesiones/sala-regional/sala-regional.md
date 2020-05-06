@@ -1,6 +1,6 @@
 Title: Sesiones de la Sala Regional
 Slug: sesiones-sala-regional
-Summary: Transmisiones de las Sesiones de la Sala Regional
+Summary: Sesiones de la Sala Regional
 Tags: Sesiones
 URL: sesiones/sala-regional/
 Save_As: sesiones/sala-regional/index.html

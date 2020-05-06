@@ -1,14 +1,12 @@
 Title: Sesiones
 Slug: sesiones
-Summary: Transmisiones de las Sesiones
+Summary: Sesiones del Poder Judicial del Estado de Coahuila de Zaragoza
 Tags: Sesiones
 URL: sesiones/
 Save_As: sesiones/index.html
 Date: 2020-01-01 12:00:00
 Modified: 2020-01-01 12:00:00
 Status: draft
-
-Bienvenido a las Transmisiones de las Sesiones.
 
 ## [Pleno del Tribunal Superior de Justicia](pleno-del-tribunal-superior-de-justicia/)
 

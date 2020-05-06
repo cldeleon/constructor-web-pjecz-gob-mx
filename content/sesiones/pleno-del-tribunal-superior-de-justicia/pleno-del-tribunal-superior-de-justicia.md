@@ -1,6 +1,6 @@
 Title: Sesiones del Pleno del Tribunal Superior de Justicia
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia
-Summary: Transmisiones de las Sesiones del Pleno del Tribunal Superior de Justicia
+Summary: Sesiones del Pleno del Tribunal Superior de Justicia
 Tags: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/index.html

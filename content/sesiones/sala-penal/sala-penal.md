@@ -1,6 +1,6 @@
 Title: Sesiones de la Sala Penal
 Slug: sesiones-sala-penal
-Summary: Transmisiones de las Sesiones de la Sala Penal
+Summary: Sesiones de la Sala Penal
 Tags: Sesiones
 URL: sesiones/sala-penal/
 Save_As: sesiones/sala-penal/index.html
