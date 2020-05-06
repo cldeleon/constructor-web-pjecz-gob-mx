@@ -28,7 +28,13 @@ Bienvenido a las Transmisiones de las Sesiones.
 - [Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-ordinaria/)
 - [Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-ordinaria/)
 
-## Documentos
+## Sala Regional
+
+### 2020
+
+- [Décima Primera Sesión Ordinaria](sala-regional/2020/decima-primera-sesion-ordinaria/)
+
+## Documentos de las Sesiones
 
 * [Votos Particulares](votos-particulares/)
 
