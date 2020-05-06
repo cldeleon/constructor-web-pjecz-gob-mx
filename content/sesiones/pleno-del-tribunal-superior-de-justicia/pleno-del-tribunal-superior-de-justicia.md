@@ -1,6 +1,6 @@
 Title: Sesiones del Pleno del Tribunal Superior de Justicia
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia
-Summary: Transmisiones de las Sesiones del Pleno del Tribunal Superior de Justicia
+Summary: Sesiones del Pleno del Tribunal Superior de Justicia
 Tags: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/index.html
@@ -8,9 +8,7 @@ Date: 2020-01-01 12:00:00
 Modified: 2020-01-01 12:00:00
 Status: draft
 
-## Sesiones del Pleno del Tribunal Superior de Justicia
-
-### 2020
+## 2020
 
 - [Segunda Sesión Extraordinaria](2020/segunda-sesion-extraordinaria/)
 - [Primera Sesión Extraordinaria](2020/primera-sesion-extraordinaria/)

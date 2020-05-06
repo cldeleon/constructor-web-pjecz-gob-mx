@@ -1,6 +1,6 @@
 Title: Sesiones del Consejo de la Judicatura
 Slug: sesiones-consejo-de-la-judicatura
-Summary: Transmisiones de las Sesiones del Consejo de la Judicatura
+Summary: Sesiones del Consejo de la Judicatura
 Tags: Sesiones
 URL: sesiones/consejo-de-la-judicatura/
 Save_As: sesiones/consejo-de-la-judicatura/index.html

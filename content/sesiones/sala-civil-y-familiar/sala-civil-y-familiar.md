@@ -1,6 +1,6 @@
-Title: Sala Civil y Familiar
+Title: Sesiones de la Sala Civil y Familiar
 Slug: sesiones-sala-civil-y-familiar
-Summary: Transmisiones de las Sesiones de la Sala Civil y Familiar
+Summary: Sesiones de la Sala Civil y Familiar
 Tags: Sesiones
 URL: sesiones/sala-civil-y-familiar/
 Save_As: sesiones/sala-civil-y-familiar/index.html

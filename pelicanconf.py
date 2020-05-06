@@ -6,9 +6,9 @@ from __future__ import unicode_literals
 #THEME = 'themes/startbootstrap-business-frontpage'
 THEME = 'themes/pjecz-2020-04'
 
-# Para desarrollo, los vinculos son relativos
-SITEURL = ''
-RELATIVE_URLS = True
+# Para desarrollo
+SITEURL = 'http://localhost:8000'
+RELATIVE_URLS = False
 
 # Metadatos de todo el sitio web
 SITENAME = 'Poder Judicial del Estado de Coahuila de Zaragoza'
@@ -102,3 +102,7 @@ LOAD_CONTENT_CACHE = False
 
 # Para desarrollo NO hay cargas desde Internet
 USE_REMOTE_SERVICES = False
+
+# Pelican plugins
+PLUGIN_PATHS = ['plugins']
+PLUGINS = ['pelican_javascript']
