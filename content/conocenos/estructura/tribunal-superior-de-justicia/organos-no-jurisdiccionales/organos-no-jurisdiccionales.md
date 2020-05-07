@@ -11,7 +11,7 @@ Modified: 2020-05-04 09:12
 ## Tribunal Superior de Justicia - ÓRGANOS NO JURIDISCCIONALES
 
 * [Centro de Evaluación Psicosocial](centro-de-evaluacion-psicosocial/)
-* [Centro de Medios Alternos de Solución de Controversias](centro-de-medios-alternos-de-solucion-de-controversias/)
+* [Centro de Medios Alternos de Solución de Controversias](cemasc/)
 * [Instituto de Especialización Judicial](instituto-de-especializacion-judicial/)
 * [Instituto Estatal de Defensoría Pública](instituto-estatal-de-defensoria-publica/)
 * [Oficialía de Partes](oficialia-de-partes/)

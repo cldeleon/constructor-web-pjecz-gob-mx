@@ -1,6 +1,6 @@
 Title: Licitaciones
 Slug: transparencia-licitaciones
-Summary: Transparencia, Artículo 27
+Summary: .
 Tags: Transparencia
 URL: transparencia/licitaciones/
 Save_As: transparencia/licitaciones/index.html

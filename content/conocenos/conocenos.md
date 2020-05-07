@@ -35,7 +35,7 @@ Modified: 2020-05-04 09:12
 #### [Órganos No Jurisdiccionales](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/)
 
 * [Centro de Evaluación Psicosocial](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/centro-de-evaluacion-psicosocial/)
-* [Centro de Medios Alternos de Solución de Controversias](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/centro-de-medios-alternos-de-solucion-de-controversias/)
+* [Centro de Medios Alternos de Solución de Controversias](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/)
 * [Instituto de Especialización Judicial](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/)
 * [Instituto Estatal de Defensoría Pública](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
 * [Oficialía de Partes](estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/oficialia-de-partes/)
