@@ -24,125 +24,88 @@ El directorio de los servidores públicos, con nombre, cargo o nombramiento asig
 ### 01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza
 
 
-* [01 Transparencia-21-3-Magistrados-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/01 Transparencia-21-3-Magistrados-2020-V4.xls)
-* [02 Transparencia-21-3-presidencia-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/02 Transparencia-21-3-presidencia-2020-V4.xlsx)
-* [03 Transparencia-21-3-sala-colegiada-civil-familiar-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/03 Transparencia-21-3-sala-colegiada-civil-familiar-2020-V4.xlsx)
-* [04 Transparencia-21-3-sala-colegiada-penal-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/04 Transparencia-21-3-sala-colegiada-penal-2020-V4.xlsx)
-* [05 Transparencia-21-3-sala-regional-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/05 Transparencia-21-3-sala-regional-2020-V4.xls)
-* [07 Transparencia-21-3-pleno-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/07 Transparencia-21-3-pleno-2020-V4.xlsx)
-* [08 Transparencia-21-3-consejo-de-la-judicatura-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/08 Transparencia-21-3-consejo-de-la-judicatura-2020-V4.xlsx)
-* [09 Transparencia-21-3-secretaría-técnica-transparencia-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/09 Transparencia-21-3-secretaría-técnica-transparencia-2020-V4.xlsx)
-* [10 Transparencia-21-3-unidad-asuntos-legislativos-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/10 Transparencia-21-3-unidad-asuntos-legislativos-2020-V4.xlsx)
-* [11 Transparencia-21-3-unidad-derechos-humanos-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/11 Transparencia-21-3-unidad-derechos-humanos-2020-V4.xlsx)
-* [12 Transparencia-21-3-instituto-especialización-judicial-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/12 Transparencia-21-3-instituto-especialización-judicial-2020-V4.xlsx)
-* [13 Transparencia-21-3-visitaduría-judicial-general-2020-V3.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/13 Transparencia-21-3-visitaduría-judicial-general-2020-V3.xlsx)
-* [14 Transparencia-21-3-Archivogeneral-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/14 Transparencia-21-3-Archivogeneral-2020-V4.xlsx)
-* [15 Transparencia-21-3-auditoría-interna-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/15 Transparencia-21-3-auditoría-interna-2020-V4.xlsx)
-* [16 Transparencia-21-3-centromediosalternos-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/16 Transparencia-21-3-centromediosalternos-2020-V4.xlsx)
-* [17 Transparencia-21-3-centro-evauación-psicosocial-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/17 Transparencia-21-3-centro-evauación-psicosocial-2020-V4.xlsx)
-* [18 Transparencia-21-3-instituto-defensoría-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/18 Transparencia-21-3-instituto-defensoría-2020-V4.xlsx)
+* [Archivo General.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Archivo General.xlsx)
+* [Auditoria Interna.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Auditoria Interna.xlsx)
+* [Centro de Evaluación Psicosocial.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Centro de Evaluación Psicosocial.xlsx)
+* [Centro de Medios Alternos de Solución a Controversias.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Centro de Medios Alternos de Solución a Controversias.xlsx)
+* [Consejo de la Judicatura.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Consejo de la Judicatura.xlsx)
+* [Instituto Estatal de Defensoría Pública.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Instituto Estatal de Defensoría Pública.xlsx)
+* [Instituto de Especialización Judicial.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Instituto de Especialización Judicial.xlsx)
+* [Magistrados.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Magistrados.xls)
+* [Pleno Del Tribunal Superior de Justicia del Estado.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Pleno Del Tribunal Superior de Justicia del Estado.xlsx)
+* [Presidencia.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Presidencia.xlsx)
+* [Sala Colegiada Civil y Familiar.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Colegiada Civil y Familiar.xlsx)
+* [Sala Colegiada Penal.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Colegiada Penal.xlsx)
+* [Sala Regional.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Regional.xls)
+* [Secretaría Técnica y de Transparencia.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Secretaría Técnica y de Transparencia.xlsx)
+* [Unidad de Asuntos Legislativos.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos.xlsx)
+* [Unidad de Derechos Humanos e Igualdad de Género.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Derechos Humanos e Igualdad de Género.xlsx)
+* [Visitaduría Judicial General.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Visitaduría Judicial General.xlsx)
 
 
 ### 02 Tribunales Especializados
 
 
-* [Transparencia-21-3-TCA-directorio-2020-V4.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Transparencia-21-3-TCA-directorio-2020-V4.ppt)
-* [Transparencia-21-3-tribunal-adolescentes-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Transparencia-21-3-tribunal-adolescentes-2020-V4.xlsx)
+* [Tribunal de Apelacion Especializado en Materia de Adolescentes.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Tribunal de Apelacion Especializado en Materia de Adolescentes.xlsx)
+* [Tribunal de Conciliación y Arbitraje.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Tribunal de Conciliación y Arbitraje.ppt)
 
 
 ### 03 Tribunales Distritales
 
 
-* [01 Transparencia-21-3-primer-tribunal-distrital-saltillo-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/01 Transparencia-21-3-primer-tribunal-distrital-saltillo-2020-V4.xlsx)
-* [02 Transparencia-21-3-segundo-tribunal-distrital-torreón-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/02 Transparencia-21-3-segundo-tribunal-distrital-torreón-2020-V4.xlsx)
-* [03 Transparencia-21-3-tercer-tribunal-distrital-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/03 Transparencia-21-3-tercer-tribunal-distrital-2020-V4.xls)
-* [04 Transparencia-21-3-cuarto-tribunal-distrital-piedras-negras-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/04 Transparencia-21-3-cuarto-tribunal-distrital-piedras-negras-2020-V4.xlsx)
+* [Cuarto Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Cuarto Tribunal Distrital.xlsx)
+* [Primer Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Primer Tribunal Distrital.xlsx)
+* [Segundo Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Segundo Tribunal Distrital.xlsx)
+* [Tercer Tribunal Distrital.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Tercer Tribunal Distrital.xls)
 
 
 ### 04 Oficialía Mayor
 
 
-* [Transparencia-21-3-dirección-informática-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-informática-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-infraestructura-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-infraestructura-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-inovación-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-inovación-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-nominas-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-nominas-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-recursos-financieros-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-recursos-financieros-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-recursos-humanos-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-recursos-humanos-2020-V4.xlsx)
-* [Transparencia-21-3-dirección-recursos-materiales-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-dirección-recursos-materiales-2020-V4.xlsx)
-* [Transparencia-21-3-oficialía-mayor-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-oficialía-mayor-2020-V4.xlsx)
-* [Transparencia-21-3-unidad-juridica-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Transparencia-21-3-unidad-juridica-2020-V4.xlsx)
+* [Dirección de Informática.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Informática.xlsx)
+* [Dirección de Infraestructura.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Infraestructura.xlsx)
+* [Dirección de Inovación.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Inovación.xlsx)
+* [Dirección de Nóminas.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Nóminas.xlsx)
+* [Dirección de Recursos Financieros.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Recursos Financieros.xlsx)
+* [Dirección de Recursos Humanos.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Recursos Humanos.xlsx)
+* [Dirección de Recursos Materiales.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Recursos Materiales.xlsx)
+* [Oficialía Mayor.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Oficialía Mayor.xlsx)
+* [Unidad Jurídica.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Unidad Jurídica.xlsx)
 
 
 ### 05 Juzgados de Primera Instancia
 
 
-#### Juzgados Acuña
-
-
-* [Transparencia-21-3-juzgados-acuna-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Acuña/Transparencia-21-3-juzgados-acuna-2020-V4.xlsx)
-
-
-#### Juzgados Monclova
-
-
-* [Transparencia-21-3-juzgados-monclova-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Monclova/Transparencia-21-3-juzgados-monclova-2020-V4.xlsx)
-
-
-#### Juzgados Parras
-
-
-* [Transparencia-21-3-juzgadosparras-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Parras/Transparencia-21-3-juzgadosparras-2020-V4.xls)
-
-
-#### Juzgados Piedras Negras
-
-
-* [Transparencia-21-3-juzgados-piedras-negras-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Piedras Negras/Transparencia-21-3-juzgados-piedras-negras-2020-V4.xls)
-
-
-#### Juzgados Sabinas
-
-
-* [Transparencia-21-3-juzgados-sabinas-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Sabinas/Transparencia-21-3-juzgados-sabinas-2020-V4.xlsx)
-
-
-#### Juzgados Saltillo
-
-
-* [Transparencia-21-3-juzgados-saltillo-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Saltillo/Transparencia-21-3-juzgados-saltillo-2020-V4.xlsx)
-
-
-#### Juzgados San Pedro
-
-
-* [Transparencia-21-3-juzgados-san-pedro-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados San Pedro/Transparencia-21-3-juzgados-san-pedro-2020-V4.xls)
-
-
-#### Juzgados Torreón
-
-
-* [Transparencia-21-3-juzgados-torreon-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Torreón/Transparencia-21-3-juzgados-torreon-2020-V4.xlsx)
+* [Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xls)
+* [Juzgados Acuña.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Acuña.xlsx)
+* [Juzgados Monclova.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Monclova.xlsx)
+* [Juzgados Parras.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Parras.xls)
+* [Juzgados Piedras Negras.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Piedras Negras.xls)
+* [Juzgados Sabinas.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Sabinas.xlsx)
+* [Juzgados Saltillo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Saltillo.xlsx)
+* [Juzgados San Pedro.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados San Pedro.xls)
+* [Juzgados Torreòn.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Torreòn.xlsx)
 
 
 ### 06 Unidades Administrativas
 
 
-* [Transparencia-21-3-unidad-administrativa-monclova-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Transparencia-21-3-unidad-administrativa-monclova-2020-V4.xlsx)
-* [Transparencia-21-3-unidad-administrativa-piedras-negras-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Transparencia-21-3-unidad-administrativa-piedras-negras-2020-V4.xlsx)
-* [Transparencia-21-3-unidad-administrativa-saltillo-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Transparencia-21-3-unidad-administrativa-saltillo-2020-V4.xls)
-* [Transparencia-21-3-unidad-administrativa-sanpedro-torreón-2020-V3.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Transparencia-21-3-unidad-administrativa-sanpedro-torreón-2020-V3.xlsx)
+* [Unidad Administrativa  Monclova.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa  Monclova.xlsx)
+* [Unidad Administrativa Piedras Negras.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa Piedras Negras.xlsx)
+* [Unidad Administrativa Saltillo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa Saltillo.xls)
+* [Unidad Administrativa San Pedro - Torreón.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa San Pedro - Torreón.xlsx)
 
 
 ### 07 Oficialía de Partes
 
 
-* [Transparencia-21-3-oficialía-de-partes-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/07 Oficialía de Partes/Transparencia-21-3-oficialía-de-partes-2020-V4.xlsx)
+* [Oficialía de Partes.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/07 Oficialía de Partes/Oficialía de Partes.xlsx)
 
 
 ### 08 Central de Actuarios
 
 
-* [Transparencia-21-3-central-actuarios-saltillo-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/08 Central de Actuarios/Transparencia-21-3-central-actuarios-saltillo-2020-V4.xlsx)
-* [Transparencia-21-3-central-actuarios-torreon-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/08 Central de Actuarios/Transparencia-21-3-central-actuarios-torreon-2020-V4.xlsx)
+* [Central de Actuarios Saltillo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/08 Central de Actuarios/Central de Actuarios Saltillo.xlsx)
+* [Central de Actuarios Torreón.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/08 Central de Actuarios/Central de Actuarios Torreón.xlsx)
 
 

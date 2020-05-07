@@ -14,9 +14,3 @@ Modified: 2020-04-30 09:30:00
 [Estructura Orgánica](https://archivista.poderjudicialcoahuila.gob.mx/transparencia/articulo-21/f01-estructura-organica/)
 
 
-<https://www.pjecz.gob.mx/transparencia/articulo-21/f01-estructura-organica/>
-
-[Estructura Orgánica](/transparencia/articulo-21/f01-estructura-organica/)
-
-
-
