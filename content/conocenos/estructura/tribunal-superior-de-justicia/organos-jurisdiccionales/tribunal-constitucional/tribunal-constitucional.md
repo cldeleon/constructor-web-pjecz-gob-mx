@@ -31,6 +31,14 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 
 
 
+### Citación para Sentencia
+
+
+* [Citación sentencia 1.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Citación para Sentencia/Citación sentencia 1.pdf)
+* [Citación sentencia 2.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Citación para Sentencia/Citación sentencia 2.pdf)
+* [Citación sentencia 3.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Citación para Sentencia/Citación sentencia 3.pdf)
+
+
 ### Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020
 
 

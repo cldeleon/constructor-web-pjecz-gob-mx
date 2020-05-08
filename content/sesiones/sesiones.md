@@ -32,6 +32,12 @@ Status: draft
 
 - [Décima Primera Sesión Ordinaria](sala-regional/2020/decima-primera-sesion-ordinaria/)
 
+## Tribunal Constitucional
+
+### 2020
+
+- [Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020](tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/)
+
 ## Documentos de las Sesiones
 
 * [Votos Particulares](votos-particulares/)
