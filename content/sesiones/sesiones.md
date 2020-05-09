@@ -26,6 +26,12 @@ Status: draft
 - [Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-ordinaria/)
 - [Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-ordinaria/)
 
+## Sala Civil y Familiar
+
+### 2020
+
+- [Décimo Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/)
+
 ## Sala Regional
 
 ### 2020
@@ -38,9 +44,7 @@ Status: draft
 
 - [Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020](tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/)
 
-## Documentos de las Sesiones
-
-* [Votos Particulares](votos-particulares/)
+## [Votos Particulares](votos-particulares/)
 
 
 

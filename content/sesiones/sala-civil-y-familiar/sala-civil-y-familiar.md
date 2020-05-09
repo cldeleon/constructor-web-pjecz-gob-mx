@@ -8,15 +8,8 @@ Date: 2020-01-01 12:00:00
 Modified: 2020-01-01 12:00:00
 Status: draft
 
-## Sesiones - SALA CIVIL Y FAMILAR
+## 2020
 
-Próximamente.
-
-
-
-### 2020
-
-
-#### Décima Tercera Sesión Ordinaria
+- [Décimo Tercera Sesión Ordinaria](2020/decima-tercera-sesion-ordinaria/)
 
 

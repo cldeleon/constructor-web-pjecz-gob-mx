@@ -1,7 +1,6 @@
 identificador,titulo,resumen,etiquetas,creado,modificado,oculto
 sesiones,Sesiones,Sesiones del Poder Judicial del Estado de Coahuila de Zaragoza,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-consejo-de-la-judicatura,Sesiones del Consejo de la Judicatura,Sesiones del Consejo de la Judicatura,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
-sesiones-sala-civil-y-familiar,Sesiones de la Sala Civil y Familiar,Sesiones de la Sala Civil y Familiar,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-sala-penal,Sesiones de la Sala Penal,Sesiones de la Sala Penal,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-votos-particulares,Votos Particulares,Votos Particulares,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-pleno-del-tribunal-superior-de-justicia,Sesiones del Pleno del Tribunal Superior de Justicia,Sesiones del Pleno del Tribunal Superior de Justicia,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
@@ -25,3 +24,6 @@ sesiones-sala-regional-2020-decima-primera-sesion-ordinaria,Décima Primera Sesi
 sesiones-tribunal-constitucional,Sesiones del Tribunal Constitucional,Sesiones del Tribunal Constitucional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-tribunal-constitucional-2020,Sesiones del Tribunal Constitucional en 2020,Sesiones del Tribunal Constitucional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-tribunal-constitucional-2020-audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020,Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020,Sesiones del Tribunal Constitucional,Sesiones,2020-05-06 14:00:00,2020-05-06 14:00:00,0
+sesiones-sala-civil-y-familiar,Sesiones de la Sala Civil y Familiar,Sesiones de la Sala Civil y Familiar,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-sala-civil-y-familiar-2020,Sesiones de la Sala Civil y Familiar en 2020,Sesiones de la Sala Civil y Familiar,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-sala-civil-y-familiar-2020-decima-tercera-sesion-ordinaria,Décima Tercera Sesión Ordinaria,Sesiones de la Sala Civil y Familiar,Sesiones,2020-05-08 12:00:00,2020-05-08 12:00:00,0
