@@ -1,6 +1,6 @@
 Title: Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020
 Slug: sesiones-tribunal-constitucional-2020-audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020
-Summary: Sesiones del Tribunal Constitucional
+Summary: Audiencia de Alegatos, 06 de mayo 2020
 Tags: Sesiones
 URL: sesiones/tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/
 Save_As: sesiones/tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/index.html
