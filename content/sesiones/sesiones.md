@@ -12,6 +12,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-segunda-sesion-ordinaria/)
 - [Segunda Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/)
 - [Primera Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-extraordinaria/)
 - [Décima Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-primera-sesion-ordinaria/)
@@ -43,6 +44,7 @@ Status: draft
 ### 2020
 
 - [Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020](tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/)
+- [Primera Sesión Ordinaria del Pleno del Tribunal Constitucional Local 2020-05-11](tribunal-constitucional/2020/primera-sesion-ordinaria-del.pleno-del-tribunal-constitucional-local-2020-05-11)
 
 ## [Votos Particulares](votos-particulares/)
 
