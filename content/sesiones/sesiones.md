@@ -12,7 +12,6 @@ Status: draft
 
 ### 2020
 
-- [Décima Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-segunda-sesion-ordinaria/)
 - [Segunda Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/)
 - [Primera Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-extraordinaria/)
 - [Décima Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-primera-sesion-ordinaria/)
@@ -37,6 +36,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Segunda Sesión Ordinaria](sala-regional/2020/decima-segunda-sesion-ordinaria/)
 - [Décima Primera Sesión Ordinaria](sala-regional/2020/decima-primera-sesion-ordinaria/)
 
 ## Tribunal Constitucional
