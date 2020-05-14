@@ -44,11 +44,8 @@ PAGE_PATHS = [
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
-    'acuerdos',
-    'comunicados',
     'conocenos',
     'consultas',
-    'sesiones',
     'tramites-servicios',
     'transparencia',
     'transparencia-tca',
