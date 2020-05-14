@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Décima Segunda Sesión Ordinaria](2020/decima-segunda-sesion-ordinaria/)
 - [Décima Primera Sesión Ordinaria](2020/decima-primera-sesion-ordinaria/)
 
 

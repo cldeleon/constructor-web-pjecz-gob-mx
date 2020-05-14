@@ -11,7 +11,8 @@ $(document).ready(function() {
                 }
             }
         ],
-        "pageLength": 100,
+        "pageLength": 50,
+        "order": [[ 0, "desc" ]],
         "language": {
             "lengthMenu": "Mostrar _MENU_",
             "search": "Filtrar:",
