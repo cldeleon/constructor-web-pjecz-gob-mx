@@ -33,6 +33,12 @@ Status: draft
 
 - [Décimo Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/)
 
+## Sala Penal
+
+### 2020
+
+- [Décimo Tercera Sesión Ordinaria Primera Digital](sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/)
+
 ## Sala Regional
 
 ### 2020

@@ -13,3 +13,9 @@ Modified: 2020-05-13 11:00:00
 
 
 
+## Descargar
+
+
+* [Orden del día 2020-05-13.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Tercera Sesión Extraordinaria/Orden del día 2020-05-13.docx)
+
+
