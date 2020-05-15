@@ -21,3 +21,11 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos;
 
 
+### 2019
+
+
+* [XLII INGRESOS AL PRIMER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL PRIMER TRIMESTRE 2019.xlsx)
+* [XLII INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx)
+* [XLII INGRESOS AL TERCER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL TERCER TRIMESTRE 2019.xlsx)
+
+

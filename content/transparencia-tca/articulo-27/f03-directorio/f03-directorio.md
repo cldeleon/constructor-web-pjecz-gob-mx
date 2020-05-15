@@ -20,7 +20,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+11 de mayo del 2020
 
 
 

@@ -20,7 +20,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 El presente apartado no aplica al Tribunal de Conciliación y Arbitraje como órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza, al no estar facultado para otorgar concesiones, licencias, permisos o autorizaciones.

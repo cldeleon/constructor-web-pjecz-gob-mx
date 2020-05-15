@@ -20,7 +20,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 A la fecha de actualización del presente rubro, no hay vehículos asignados al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza.

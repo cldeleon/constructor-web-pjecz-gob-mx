@@ -20,13 +20,13 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril de 2020
+11 de mayo de 2020
 
 
 
 ## Descargar
 
 
-* [transparencia-21-V-tabulador-2019-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F05 Remuneración Mensual por Puesto/transparencia-21-V-tabulador-2019-2020-V4.xlsx)
+* [Tabulador.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F05 Remuneración Mensual por Puesto/Tabulador.xlsx)
 
 

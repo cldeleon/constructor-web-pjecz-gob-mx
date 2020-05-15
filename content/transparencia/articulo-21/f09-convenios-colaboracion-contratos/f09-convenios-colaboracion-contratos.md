@@ -20,3 +20,11 @@ La relativa a los convenios de colaboración y contratos que los sujetos obligad
 
 
 
+### 2020
+
+
+* [Convenio Marco para el fortalecimiento de Capacidades que celebra el Poder Judicial del Estado de Coahuila de Zaragoza y el Colegio de Notarios.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/2020/Convenio Marco para el fortalecimiento de Capacidades que celebra el Poder Judicial del Estado de Coahuila de Zaragoza y el Colegio de Notarios.pdf)
+* [Convenio Universidad Vizcaya de las Américas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/2020/Convenio Universidad Vizcaya de las Américas.pdf)
+* [Convenio de Colaboración para fortalecer y hacer más eficiente la administración de justicia en el Estado, que celebran por una parte el Poder Judicial del Estado de Coahuila de Zaragoza y el Tribunal de Justicia Administrativa. .pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/2020/Convenio de Colaboración para fortalecer y hacer más eficiente la administración de justicia en el Estado, que celebran por una parte el Poder Judicial del Estado de Coahuila de Zaragoza y el Tribunal de Justicia Administrativa. .pdf)
+
+

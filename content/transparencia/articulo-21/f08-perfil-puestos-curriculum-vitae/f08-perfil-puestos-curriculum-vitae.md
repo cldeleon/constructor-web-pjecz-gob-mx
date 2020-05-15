@@ -21,3 +21,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;
 
 
+### Magistrados
+
+

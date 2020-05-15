@@ -15,12 +15,12 @@ El proceso de selección de magistrados.
 
 ### RESPONSABLE
 
-Lic. Guilelrmo Alejandero David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
+Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
 
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+11 de mayo del 2020
 
 
 LINK AL CONSEJO DE LA JUDICATURA - Proceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las amteria civil, famlair, penal y mercantil. - Requisitos legales

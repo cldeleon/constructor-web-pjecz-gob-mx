@@ -15,12 +15,12 @@ Los planes, programas o proyectos con los indicadores de gestión, de resultados
 
 ### RESPONSABLE
 
-Lic. José Manuel Gil Navarro, Oficial Mayor y Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril de 2020
+11 de mayo de 2020
 
 
 A la fecha de actualización no se cuenta con nueva información referente a  planes, programas o proyectos con indicadores de gestión.

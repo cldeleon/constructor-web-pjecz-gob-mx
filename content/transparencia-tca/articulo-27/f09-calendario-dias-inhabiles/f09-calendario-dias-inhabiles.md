@@ -18,10 +18,15 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+11 de mayo del 2020
 
 
-PENDIENTE ARCHIVO
 
+
+
+## Descargar
+
+
+* [Calendario días Inhábiles 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F09 Calendario de Días Inhábiles/Calendario días Inhábiles 2020.pdf)
 
 

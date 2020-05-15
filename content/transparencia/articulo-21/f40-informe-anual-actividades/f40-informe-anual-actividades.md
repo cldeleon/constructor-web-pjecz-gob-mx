@@ -21,3 +21,21 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 El informe anual de actividades;
 
 
+### 2016
+
+
+* [Informe PJECZ 2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2016/Informe PJECZ 2016.pdf)
+
+
+### 2018
+
+
+* [Informe PJECZ 2018.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2018/Informe PJECZ 2018.pdf)
+
+
+### 2019
+
+
+* [Informe pjecz 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2019/Informe pjecz 2019.pdf)
+
+

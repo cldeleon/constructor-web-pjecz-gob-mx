@@ -22,7 +22,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril de 2020
+11 de mayo de 2020
 
 
 UNIDAD DE TRANSPARENCIA DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
@@ -33,7 +33,7 @@ Blvd. Venustiano Carranza # 2673; Colonia Santiago, C.P. 25260,
 Teléfono 844 438 09 80
 
 
-COMITÉ DE TRANSPARENCIA (PENDIENTE OCULTO)
+COMITÉ DE TRANSPARENCIA
 
 Lic. Jesús Manuel Gil Navarro
 Oficial Mayor
@@ -47,5 +47,8 @@ GEOREFERENCIACIÓN UNIDAD DE TRANSPARENCIA
 
 
 
+
+
+ 
 
 
