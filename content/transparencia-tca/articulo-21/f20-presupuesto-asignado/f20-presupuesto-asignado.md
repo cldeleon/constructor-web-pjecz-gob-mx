@@ -20,7 +20,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 El Tribunal de Conciliación y Arbiraje es un órgano integrante del Poder Jdicial del Estado de Coahuila de Zaragoza, compete a la unidad administrativa correspondiente, la generación de la informacón a que se refiere el presente rubro, en este caso, a la Dirección de Recursos Financieros de la Oficialía Mayor del Poder Judicial.

@@ -20,7 +20,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril de 2020
+11 de mayo de 2020
 
 
 En el Poder Judicial del Estado de Coahuila de Zaragoza, no ha sido constituido algún sindicato de empleados adscritos al mismo, por lo que no se realiza aportación en dinero o en especie a sindicato alguno. Es importante mencionar que en el Poder Judicial, labora personal agremiado al Sindicato Único de Trabajadores del Gobierno del Estado, el cual se rige conforme al convenio laboral de prestaciones económicas y sociales para trabajadores sindicalizados al servicio del Gobierno del Estado de Coahuila de Zaragoza.

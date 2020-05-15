@@ -20,4 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales;
 
+Este rubro de información NO APLICA, toda vez que no es facultad del Poder Judicial del Estado de Coahuila de Zaragoza generar información catastral, el organismo rector en dicha materia es el Instituto Registral y Catastral, por tal motivo no se tiene información alguna sobre este punto.
+
 

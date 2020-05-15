@@ -20,7 +20,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril de 2020
+11 de mayo de 2020
 
 
 TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE

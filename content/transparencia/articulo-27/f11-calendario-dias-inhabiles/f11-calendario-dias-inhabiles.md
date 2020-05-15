@@ -12,3 +12,20 @@ Modified: 2020-04-30 09:30:00
 
 
 
+## Descargar
+
+
+* [Calendario días Inhábiles 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F11 Calendario de días inhábiles/Calendario días Inhábiles 2020.pdf)
+
+
+## Art. 27, 11. CALENDARIO DE DÍAS INHÁBILES
+
+### RESPONSABLE
+
+Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia
+
+### FECHA DE VALIDACIÓN
+
+4 de mayo del 2020
+
+

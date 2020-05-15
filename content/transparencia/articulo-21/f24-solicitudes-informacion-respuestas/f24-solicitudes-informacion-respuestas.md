@@ -55,5 +55,6 @@ Las solicitudes de acceso a la información pública, las quejas presentadas y l
 
 * [01 Solicitudes de Información enero-2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/01 Solicitudes de Información enero-2020.xls)
 * [02 Solicitudes de Información febrero-2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/02 Solicitudes de Información febrero-2020.xls)
+* [03 Solicitudes de Información marz-2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/03 Solicitudes de Información marz-2020.xls)
 
 

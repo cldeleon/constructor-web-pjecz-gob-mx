@@ -20,7 +20,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 No Aplica lo dispuesto en la fracción XVIII del artículo 21 de la ley de Acceso a la Informacion Pública paa el Estado de Cohuila de Zaragoza, referente a "Un listado de las instituciones de beneficencia que reciban recursos públicos del sujeto obligado".

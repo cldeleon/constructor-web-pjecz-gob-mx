@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
-
+[Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza ](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
 
 

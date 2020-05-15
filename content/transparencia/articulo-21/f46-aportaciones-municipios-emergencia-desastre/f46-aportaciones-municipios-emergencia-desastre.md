@@ -20,4 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 La aportación en dinero o en especie que reciban de las diversas personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre;
 
+Desde la entrada en vigor de la presente Ley de Acceso a la Información Publica para el Estado de Coahuila de Zaragoza, el el Poder  Judicial del Estado de Coahuila de Zaragoza no ha realizado ningún tipo de aportación a municipios o comunidades en emergencia o desastre, esto a partir del día 11/09/2015 a la fecha.
+
 

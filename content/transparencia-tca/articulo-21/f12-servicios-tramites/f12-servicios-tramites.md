@@ -18,7 +18,7 @@ Cada una de las Áreas responsables que brindan el Servicio o Trámite del Tribu
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 El Tribunal de Conciliación y Arbitraje del Poder Judicial:

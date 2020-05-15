@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXX Adjudicaciones
 
-C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
+Mtro. José Manuel Gil Navarro, Oficial Mayor 
 
 ### FECHA DE VALIDACIÓN
 
@@ -51,9 +51,9 @@ Los resultados sobre procedimientos de adjudicación directa, invitación restri
 ### 2020
 
 
-* [01 Nota Ajudicaciones enero-2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/01 Nota Ajudicaciones enero-2020.pptx)
-* [02 Nota Ajudicaciones febrero-2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/02 Nota Ajudicaciones febrero-2020.pptx)
-* [03 Nota Ajudicaciones marzo-2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/03 Nota Ajudicaciones marzo-2020.pptx)
 * [04 Nota Ajudicaciones abril-2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/04 Nota Ajudicaciones abril-2020.pptx)
+* [Enero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/Enero.xlsx)
+* [Febrero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/Febrero.xlsx)
+* [Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/2020/Marzo.xlsx)
 
 

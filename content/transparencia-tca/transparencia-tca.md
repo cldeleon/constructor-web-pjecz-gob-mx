@@ -13,6 +13,12 @@ Modified: 2020-01-01 15:00:00
 
 
 
+## Descargar
+
+
+* [TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt)
+
+
 ## Artículos
 
 

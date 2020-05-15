@@ -20,7 +20,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+11 de mayo del 2020
 
 
 LINK A OTRA INFORMACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA

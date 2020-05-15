@@ -20,9 +20,9 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
-NO aplica lo dispuesto en la fracción XLI del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a “Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos”.
+No aplica lo dispuesto en la fracción XLI del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a “Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos”.
 
 Toda vez que dentro de sus funciones, y de conformidad con la Constitución Política del Estado de Coahuila de Zaragoza y con la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, no se encuentra la de construir estos mecanismos.
 

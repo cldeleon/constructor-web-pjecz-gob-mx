@@ -20,7 +20,7 @@ Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Cons
 
 ### FECHA DE VALIDACIÓN
 
-03 de abril del 2020
+11 de mayo del 2020
 
 
 A la fecha de actualización del presente rubro, no hay servidores públicos del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario.

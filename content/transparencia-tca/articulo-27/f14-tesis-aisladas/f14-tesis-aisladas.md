@@ -20,7 +20,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-3 de abril del 2020
+11 de mayo del 2020
 
 
 A la fecha que se actualiza no se han generado tesis aisladas y jurisprudenciales por el Tribunalde Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza
