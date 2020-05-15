@@ -4,18 +4,22 @@ Summary: .
 URL: consultas/botelas/
 Save_As: consultas/boletas/index.html
 Date: 2020-05-14 16:40
-Modified: 2020-05-14 16:40
+Modified: 2020-05-14 21:30
 
+ 
+## Distrito Judicial de Saltillo
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+#### [Juzgado Primero Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=36)
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+#### [Juzgado Segundo Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+#### [Juzgado Tercero Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=201)
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+## Distrito Judicial de Torreón
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+#### [Juzgado Primero Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=75)
 
-## [Juzgado](http://201.144.104.74/eexpediente/consultaboleta.php?id=37)
+#### [Juzgado Segundo Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=76)
+
+#### [Juzgado Tercero Mercantil](http://201.144.104.74/eexpediente/consultaboleta.php?id=81)
 
