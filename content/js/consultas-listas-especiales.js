@@ -1,13 +1,14 @@
 // Consultas Listas Especiales
 $(document).ready(function() {
-    $('#listasEspecialesTabla').DataTable( {
-        "ajax": 'https://storage.googleapis.com/pjecz-consultas/listas-especiales.json/listas-especiales.json',
+
+    $('#listaEspecial').DataTable( {
+        "ajax": 'https://storage.googleapis.com/pjecz-consultas/Listas%20Especiales/lista.json',
         "columns": [
             { "data": "Fecha" },
             { "data": "Juzgado" },
             { "data": "Archivo",
                 "fnCreatedCell": function (nTd, sData, oData, iRow, iCol) {
-                    $(nTd).html("<a href='"+oData.Archivo+"'><i class='fa fa-download'></i> Descargar</a>");
+                    $(nTd).html("<a href='"+oData.Archivo+"' target='_blank'><i class='fa fa-download'></i> Descargar</a>");
                 }
             }
         ],
@@ -28,4 +29,5 @@ $(document).ready(function() {
             }
         }
     } );
+
 } );
