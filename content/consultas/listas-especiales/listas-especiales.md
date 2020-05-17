@@ -12,7 +12,7 @@ JavaScripts: consultas-listas-especiales.js
 
 **Instrucciones:** Para buscar use el campo Filtrar. Por ejemplo _familiar saltillo_ filtrará los Juzgados Familiares de Saltillo. Para una fecha escriba año-mes-dia con cuatro, dos y dos dígitos respectivamente, por ejemplo _2020-05-07_ es 7 de mayo 2020.
 
-<table id="listasEspecialesTabla" class="table" style="width:100%">
+<table id="listaEspecial" class="table" style="width:100%">
 <thead>
 <th>Fecha</th>
 <th>Juzgado</th>
