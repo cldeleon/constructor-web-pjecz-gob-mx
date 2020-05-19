@@ -27,7 +27,8 @@ $(document).ready(function() {
 
     // Arreglo de opciones para el select autoridad,
     // debe tener la misma cantidad de elementos que el distritoSelect,
-    // cada elemento son los options
+    // note los textos se concatenan con un signo de más
+    // el primero está vacío porque no se ha elejido la entidad/distrito
     var options = [
 
         '',
