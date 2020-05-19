@@ -1,4 +1,4 @@
-Title: Sentencias
+Title: Versión Pública de Sentencias
 Slug: consultas-sentencias
 Summary: .
 URL: consultas/sentencias/
@@ -8,19 +8,20 @@ Modified: 2020-05-11 16:00
 JavaScripts: consultas-sentencias.js
 
 
-<div id="elegirListaDeSentencias">
-<select id="distritoSelect"></select>
-<select id="autoridadSelect"></select>
-<button id="mostrarButton" type="button" class="btn btn-primary">Mostrar</button>
+**Instrucciones:** Primero elija la entidad/distrito, luego la autoridad/juzgado, después presione el botón Mostrar. Espere a que se cargue la lista.
+
+<div id="elegirListaDeSentencias" class="form-row mb-3">
+<div class="col"><select id="distritoSelect"></select></div>
+<div class="col"><select id="autoridadSelect"></select></div>
+<div class="col"><button id="mostrarButton" type="button" class="btn btn-primary">Mostrar</button></div>
 </div>
 
-<table id="listaDeSentencias">
+<table id="listaDeSentencias" class="table" style="width:100%">
 <thead>
 <th>Fecha</th>
-<th>Juzgado/Tribunal</th>
-<th>P. Género</th>
 <th>Sentencia</th>
 <th>Expediente</th>
+<th>P. Género</th>
 <th>Archivo</th>
 </thead>
 </table>
