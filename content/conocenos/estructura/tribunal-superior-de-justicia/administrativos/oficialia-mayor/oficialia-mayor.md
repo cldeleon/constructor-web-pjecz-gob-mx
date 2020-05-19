@@ -8,7 +8,19 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Administrativos - OFICIALÍA MAYOR
 
+## [Objetivo](objetivo/)
+
+## [Funciones](funciones/)
+
+## [Datos del órgano](datos-del-organo/)
+
+## [Directorio](directorio/)
+
+## [Funciones](funciones/)
+
+
+
+### Formularo de Contacto
 
 

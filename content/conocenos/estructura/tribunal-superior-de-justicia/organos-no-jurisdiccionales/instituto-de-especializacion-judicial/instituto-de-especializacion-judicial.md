@@ -8,7 +8,19 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos No Jurisdiccionales - INSTITUTO DE ESPECIALIZACIÓN JUDICIAL
 
+## Instituto de Especialización Judicial
+
+* [Objetivo](objetivo/)
+* [Funciones](funciones/)
+* [Datos del Organo](datos-del-organo/)
+* [Trámites y Servicios](trámites-y-servicios)
+* [Directorio](directorio/)
+* [Formulario de Contato](formulario-de-contacto/)
+
+
+
+
+### Formularo de Contacto
 
 

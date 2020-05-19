@@ -8,26 +8,29 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## [Atribuciones](atribuciones/)
+## [Objetivo](objetivo/)
 
-## [Datos del Órgano](datos-del-organo/)
-
-## [Directorio](directorio/)
-
-## [Eventos-Actividades](eventos-directorios/)
-
-
-
+## [Funciones](funciones/)
 
 ## [Marco Jurídico](marco-juridico/)
 
+## [Datos del Órgano](datos-del-organo/)
+
+## [Trámites y Servicios](tramites-y-servicios/)
+
+## [Directorio](directorio/)
+
+## [Formulario de Contacto](formulario-de-contacto/)
+
+## [Eventos-Actividades](eventos-actividades/)
+
+## [Consejeros](/conocenos/directorio-general/consejeros/)
+
+## [Sanciones a Servidores Públicos](sanciones-a-servidores-publicos/)
+
+## [Proceso de Selección de Jueces](proceso-de-seleccion-de-jueces/)
+
 ## [Presentación de quejas](presentacion-de-quejas/)
 
-
-
-### Formularo de Contacto
-
-
-### Nueva carpeta
 
 

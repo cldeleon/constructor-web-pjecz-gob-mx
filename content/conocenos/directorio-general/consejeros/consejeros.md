@@ -25,31 +25,39 @@ Consejero del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza.
 
 ---
 
-### Magistrado Luis Marín Granados Salinas, Consejero de Tribunal Distrital.
+### Magistrado Luis Marín Granados Salinas
+
+Consejero de Tribunal Distrital.
 
 ---
 
-### Lic. Paul Iracheta Pérez, Consejero Juez de Primera Instancia.
+### Lic. Paul Iracheta Pérez
+
+Consejero Juez de Primera Instancia.
 
 ---
 
-### Lic. Román Alberto Cepeda González, Consejero designado por el Poder Ejecutivo del Estado de Coahuila de Zaragoza.
+### Lic. Román Alberto Cepeda González
+
+Consejero designado por el Poder Ejecutivo del Estado de Coahuila de Zaragoza.
 
 ---
 
-### Diputado licenciado Juan Antonio García Villa, Consejero designado por el Poder Legislativo del Estado de Coahuila de Zaragoza.
+### Diputado licenciado Juan Antonio García Villa
+
+Consejero designado por el Poder Legislativo del Estado de Coahuila de Zaragoza.
 
 ---
 
-### Licenciado Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite.
+### Licenciado Guillermo Alejandro David Pérez
+
+Secretario de Acuerdo y Trámite.
 
 ---
 
-### Licenciada Rosalba Ixchel Rodríguez Villagrana, Secretaria de Acuerdo y Trámite.
+### Licenciada Rosalba Ixchel Rodríguez Villagrana
 
-
-
-
+Secretaria de Acuerdo y Trámite.
 
 
 

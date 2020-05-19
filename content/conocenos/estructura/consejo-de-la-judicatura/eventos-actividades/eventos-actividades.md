@@ -9,14 +9,7 @@ Modified: 2020-05-04 09:12
 
 
 
-### Eventos-Actividades
-
-
-El Consejo de la Judicatura celebra sesiones por lo menos una vez al mes en forma ordinaria, y en forma extraordinaria cuando se convoque por el Presidente  o por más de tres de sus miembros. Las sesiones son privadas y por excepción son públicas cuando lo determine el Consejo. 
-
-
-
-
+El Consejo de la Judicatura celebra sesiones por lo menos una vez al mes en forma ordinaria, y en forma extraordinaria cuando se convoque por el Presidente  o por más de tres de sus miembros. Las sesiones son privadas y por excepción son públicas cuando lo determine el Consejo.
 
 
 

@@ -8,10 +8,16 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - ADMINISTRATIVOS
 
-* [Oficialía Mayor](oficialia-mayor/)
-* [Unidad Jurídica](unidad-juridica/)
+## [Oficialía Mayor](oficialia-mayor/)
+
+- [Objetivo](oficialia-mayor/objetivo/)
+- [Funciones](oficialia-mayor/funciones/)
+- [Datos del órgano](oficialia-mayor/datos-del-organo/)
+- [Directorio](oficialia-mayor/directorio/)
+- [Funciones](oficialia-mayor/funciones/)
+
+## [Unidad Jurídica](unidad-juridica/)
 
 
 
