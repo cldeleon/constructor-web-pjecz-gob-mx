@@ -1,4 +1,4 @@
-Title: Datos del Organo
+Title: Datos del órgano
 Slug: conocenos-estructura-consejo-de-la-judicatura-datos-del-organo
 Summary: .
 Tags: Conócenos
@@ -9,13 +9,12 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del Organo
-
-
-
 Bulevar Isidro López Zertuche # 2791
+
 Colonia Los Maestros
-844 4380350 extensión 6977 
+
+844 4380350 extensión 6977
+
 visitaduria@pjec.gob.mx
 
 

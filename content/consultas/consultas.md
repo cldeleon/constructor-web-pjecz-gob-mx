@@ -9,6 +9,8 @@ Modified: 2020-05-16 22:36
 
 ## [Consulta de Boletas](boletas/)
 
+## [Edictos](edictos/)
+
 ## [Expediente Virtual](expediente-virtual/)
 
 ## [Listas de Acuerdos](listas-de-acuerdos/)

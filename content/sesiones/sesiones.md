@@ -12,6 +12,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-segunda-sesion-ordinaria/)
 - [Tercera Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/tercera-sesion-extraordinaria/)
 - [Segunda Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/)
 - [Primera Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-extraordinaria/)
@@ -31,7 +32,8 @@ Status: draft
 
 ### 2020
 
-- [Décimo Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/)
+- [Décima Cuarta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-cuarta-sesion-ordinaria/)
+- [Décima Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/)
 
 ## Sala Penal
 

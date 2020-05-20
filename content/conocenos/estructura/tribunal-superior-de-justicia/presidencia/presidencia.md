@@ -8,7 +8,22 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - PRESIDENCIA
+## [Presidencia](presidencia/)
+
+* [Objetivo](presidencia/objetivo/)
+* [Funciones](presidencia/funciones/)
+* [Datos del órgano](presidencia/datos-del-organo/)
+* [Directorio](presidencia/directorio/)
+* [Formulario de Contato](presidencia/formulario-de-contacto/)
+* [Eventos-Actividades](presidencia/eventos-actividades)
+
+## [Auditoría Interna](auditoria-interna/)
+
+* [Objetivo](auditoria-interna/objetivo/)
+* [Funciones](auditoria-interna/funciones/)
+* [Datos del órgano](auditoria-interna/datos-del-organo/)
+* [Directorio](auditoria-interna/directorio/)
+* [Formulario de Contato](auditoria-interna/formulario-de-contacto/)
 
 
 
