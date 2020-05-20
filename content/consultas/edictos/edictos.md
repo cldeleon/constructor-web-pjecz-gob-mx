@@ -20,7 +20,6 @@ JavaScripts: consultas-edictos.js
 <thead>
 <th>Fecha</th>
 <th>Expediente</th>
-<th>Edicto</th>
 <th>Descripción</th>
 <th>Archivo</th>
 </thead>
