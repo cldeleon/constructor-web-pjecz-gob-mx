@@ -21,7 +21,7 @@ El Primer Tribunal Distrital con residencia en la capital del Estado tiene juris
 * [Primer Tribunal Distrital](primer-tribunal-distrital/)
 * [Segundo Tribunal Distrital](segundo-tribunal-distrital/)
 * [Tercer Tribunal Distrital](tercer-tribunal-distrital/)  
-* [Cuarteo Tribunal Distrital](cuarto-tribunal-distrital)
+* [Cuarto Tribunal Distrital](cuarto-tribunal-distrital)
 
 
 

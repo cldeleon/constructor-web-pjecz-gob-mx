@@ -10,6 +10,8 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXXI Agenda Mensual
 
+La agenda mensual en su caso, de eventos culturales o deportivos;
+
 ### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
@@ -18,6 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 4 de mayo de 2020
 
-La agenda mensual en su caso, de eventos culturales o deportivos;
+Dentro de las funciones Poder Judicial del Estado de Coahuila de Zaragoza no se comprende la de organizar eventos de este tipo, no obstante, de efectuar en algún momento estas actividades, serán publicadas en el apartado correspondiente.
 
 

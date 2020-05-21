@@ -8,7 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
-
+## [Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 

@@ -20,10 +20,12 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 Todo mecanismo de presentación directa de solicitudes, opiniones, quejas, denuncias, o sugerencias;
 
+[Presentación de quejas ante el Consejo de la Judicatura ](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
+
 
 ## Descargar
 
 
-* [Tabla.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F13 Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias/Tabla.doc)
+* [Solicitudes, Quejas y Denuncias.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F13 Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias/Solicitudes, Quejas y Denuncias.doc)
 
 

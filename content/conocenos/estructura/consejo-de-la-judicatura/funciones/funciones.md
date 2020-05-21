@@ -46,11 +46,8 @@ Objetivo: Substanciar y resolver procedimientos disciplinarios. Los procedimient
 
 3\.2. Formar jurisprudencia disciplinaria.
 
-Datos: teléfono, domicilio -mapa google- (georreferenciación) y correo de contacto.
 
-1. Teléfono: 438 03 50. Ext. 6975.
-2. Domicilio: Blvd. Isidro López Zertyche #2791, colonia Los Maestros.
-3. Correo electrónico: consejodelajudicatura@pjec.gob.mx
-4. Mapa google: https://maps.app.goo.gl/BNanTUWZD9rte3s8A
+
+
 
 

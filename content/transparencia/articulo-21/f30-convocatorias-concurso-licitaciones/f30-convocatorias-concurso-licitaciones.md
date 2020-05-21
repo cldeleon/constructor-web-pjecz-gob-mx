@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXX Adjudicaciones
 
-Mtro. José Manuel Gil Navarro, Oficial Mayor 
+Lic. José Manuel Gil Navarro, Oficial Mayor
 
 ### FECHA DE VALIDACIÓN
 

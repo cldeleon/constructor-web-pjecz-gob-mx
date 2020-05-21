@@ -24,7 +24,7 @@ V. Deberán de utilizarán formatos abiertos y de fácil comprensión.(sic)
 
 * [Plataforma Nacional de Transparencia](http://www.plataformadetransparencia.org.mx/web/guest/inicio)
 * [Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza](http://189.254.130.35/infocoahuila/)
-* [Buzón de Quejas y Sugerencias](https://www.pjecz.gob.mx/buzon-de-sugerencias/)
+* [Buzón de Quejas y Sugerencias](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
 ### RESPONSABLE
 

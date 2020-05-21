@@ -13,9 +13,9 @@ Modified: 2020-05-04 09:12
 
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
-* [Datos del órgano](datos-del-organo/)
+* [Datos del Órgano](datos-del-organo/)
 * [Directorio](directorio/)
-* [Formulario de Contato](formulario-de-contacto/)
+* [Formulario de Contacto](formulario-de-contacto/)
 
 
 

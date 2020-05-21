@@ -10,13 +10,13 @@ Modified: 2020-01-01 15:00:00
 
 ## I. Información Pública de Oficio
 
-Conforme a la Ley Estatal.
+[Conforme a la Ley Estatal.](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa205.pdf)
 
 ### Solicitud de Acceso a la Información
 
-* Procedimiento para presentar una Solicitud de Acceso a la Información
-* Formato para realizar Solicitud
-* Plataforma Nacional de Transparencia
+* [Procedimiento para presentar una Solicitud de Acceso a la Información](https://www.dropbox.com/s/nkgf8ghjhauvebl/ACCESO%20A%20LA%20INFORMACI%C3%93N%20P%C3%9ABLICA.pdf?dl=0)
+* [Formato para realizar Solicitud](https://www.dropbox.com/s/t6w4irg7fkz0zco/formato%20solicitud.pdf?dl=0)
+* [Plataforma Nacional de Transparencia](https://www.plataformadetransparencia.org.mx/web/guest/inicio)
 
 
 ## Artículos
@@ -30,12 +30,10 @@ Conforme a la Ley Estatal.
 * [Licitaciones](licitaciones/)
 
 
-###  Derechos ARCO
+### Derechos ARCO
 
-* ¿Qué son los Derechos ARCO?
-* Formato para la solicitud de derechos ARCO
-* ¿Qué es la protección de Datos Personales?
-
-
+* [¿Qué son los Derechos ARCO?](https://www.dropbox.com/s/i9xu97lpjzrh755/Derechos%20ARCO.doc?dl=0)
+* [Formato para la solicitud de derechos ARCO](https://www.dropbox.com/s/e5ft0n6ke0iyxhw/Formato%20Derechos%20Arco.doc?dl=0)
+* [¿Qué es la protección de Datos Personales?](https://www.dropbox.com/s/q5ml4vpnuai5d4s/Qu%C3%A9%20es%20la%20protecci%C3%B3n%20de%20datos%20personales.doc?dl=0)
 
 

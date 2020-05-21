@@ -24,15 +24,15 @@ Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado 
 ### 2018
 
 
+* [PRESUPUESTO ASIGNADO 2018.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F20 Presupuesto Asignado/2018/PRESUPUESTO ASIGNADO 2018.pdf)
+
+
 ### 2019
 
 
-* [XX PRESUPUESTO ASIGNADO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F20 Presupuesto Asignado/2019/XX PRESUPUESTO ASIGNADO.pdf)
+* [PRESUPUESTO ASIGNADO 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F20 Presupuesto Asignado/2019/PRESUPUESTO ASIGNADO 2019.pdf)
 
 
 ### 2020
-
-
-* [Presupuesto-Egresoso-2020-ESTADO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F20 Presupuesto Asignado/2020/Presupuesto-Egresoso-2020-ESTADO.pdf)
 
 

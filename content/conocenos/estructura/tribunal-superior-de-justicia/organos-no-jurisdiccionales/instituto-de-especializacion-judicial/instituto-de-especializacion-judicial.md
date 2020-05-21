@@ -13,14 +13,11 @@ Modified: 2020-05-04 09:12
 
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
-* [Datos del Organo](datos-del-organo/)
-* [Trámites y Servicios](trámites-y-servicios)
+* [Datos del Órgano](datos-del-organo/)
+* [Trámites y Servicios](trámites-y-servicios/)
 * [Directorio](directorio/)
-* [Formulario de Contato](formulario-de-contacto/)
+* [Formulario de Contacto](formulario-de-contacto/)
 
 
-
-
-### Formularo de Contacto
 
 

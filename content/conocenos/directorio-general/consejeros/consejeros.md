@@ -25,7 +25,7 @@ Consejero del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza.
 
 ---
 
-### Magistrado Luis Marín Granados Salinas
+### Magistrado Luis Martín Granados Salinas
 
 Consejero de Tribunal Distrital.
 

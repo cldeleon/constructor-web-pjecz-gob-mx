@@ -21,11 +21,20 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos;
 
 
+### 2018
+
+
+* [01 INGRESOS PRIMER TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/01 INGRESOS PRIMER TRIMESTRE 2018.xlsx)
+* [02 INGRESOS SEGUNDO TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/02 INGRESOS SEGUNDO TRIMESTRE 2018.xlsx)
+* [03 INGRESOS TERCER TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/03 INGRESOS TERCER TRIMESTRE 2018.xlsx)
+* [04 INGRESOS CUARTO TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/04 INGRESOS CUARTO TRIMESTRE 2018.xlsx)
+
+
 ### 2019
 
 
-* [XLII INGRESOS AL PRIMER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL PRIMER TRIMESTRE 2019.xlsx)
-* [XLII INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx)
-* [XLII INGRESOS AL TERCER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/XLII INGRESOS AL TERCER TRIMESTRE 2019.xlsx)
+* [01 INGRESOS AL PRIMER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/01 INGRESOS AL PRIMER TRIMESTRE 2019.xlsx)
+* [02 INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/02 INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx)
+* [03 INGRESOS AL TERCER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/03 INGRESOS AL TERCER TRIMESTRE 2019.xlsx)
 
 

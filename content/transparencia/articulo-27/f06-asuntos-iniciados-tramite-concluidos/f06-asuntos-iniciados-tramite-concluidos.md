@@ -8,8 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
+## Art. 27, 6. Asuntos iniciados, en trámite y concluidos.
 
+Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, los asuntos iniciados, en trámite y resueltos;
+
+### RESPONSABLE
+
+Lic. Nancy Anabel López Castillo, Titular de la Unidad de Evaluación y Estadística
+
+### FECHA DE VALIDACIÓN
+
+4 de mayo del 2020
 
 
 ### 2018
