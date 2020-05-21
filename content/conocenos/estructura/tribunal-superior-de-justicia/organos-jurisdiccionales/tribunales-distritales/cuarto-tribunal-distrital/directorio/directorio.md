@@ -11,52 +11,62 @@ Modified: 2020-05-04 09:12
 
 ### Directorio
 
-Iván Ortiz Jiménez	
+## Lic.Iván Ortiz Jiménez
+	
 Magistrado(a) Distrital
 
 ---
 
-Diana Marcela Saucedo González
+## Lic.Diana Marcela Saucedo González
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Gabriela Calamaco Vega  	
+## Lic.Gabriela Calamaco Vega  	
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Mónica Elizabeth Guerrero Hinojosa 
+## Lic.Mónica Elizabeth Guerrero Hinojosa 
+
 Actuario(a)
 
 ---
 
-Mónica Arellano Jaquez
+## Mónica Arellano Jaquez
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Pricila Olalde Aguilar 
+## Pricila Olalde Aguilar 
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Lucero Flores Domínguez	
+## Lucero Flores Domínguez
+	
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Carolina Torres Solís 
+## Carolina Torres Solís 
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Anett Rodríguez Anguiano
+## Anett Rodríguez Anguiano
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Cecilio Sánchez Rodríguez 
+## Cecilio Sánchez Rodríguez 
+
 Auxiliar Administrativo
 
 ---

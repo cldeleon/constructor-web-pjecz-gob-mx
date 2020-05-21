@@ -9,9 +9,12 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del órgano
+### Datos del Órgano
 
-Avenida Diagonal Reforma No. 2990, Zona Centro, C.P. 27000 en Torreón, Coahuila de Zaragoza.
+Avenida Diagonal Reforma No. 2990
+Zona Centro
+C.P. 27000 
+Torreón, Coahuila.
 
 Teléfono: ( 871)   722-73-41  y  722 74 03
 

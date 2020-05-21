@@ -32,4 +32,8 @@ Tabla de Aplicabilidad - Artículo 70 LGTAIP
 
 Tabla ed Actualización - Artículo 70 LGTAIP
 
+[Procedimiento de Certificación para facilitadores en mediación y conciliación ](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
+
+[Listado de personas certificadas vigentes como facilitadores privadas en mediación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/)
+
 

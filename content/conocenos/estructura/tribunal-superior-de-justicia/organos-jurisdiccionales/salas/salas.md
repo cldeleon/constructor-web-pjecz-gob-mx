@@ -10,7 +10,7 @@ Modified: 2020-05-04 09:12
 
 ## Tribunal Superior de Justicia - Órganos Jurisdiccionales - SALAS
 
-* [Sala Colegiada Civil y Familiar](sala-colegiada-cicil-y-familiar/)
+* [Sala Colegiada Civil y Familiar](sala-colegiada-civil-y-familiar/)
 * [Sala Colegiada Penal](sala-colegiada-penal/)
 * [Sala Regional](sala-regional/)
 

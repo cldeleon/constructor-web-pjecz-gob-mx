@@ -12,97 +12,116 @@ Modified: 2020-05-04 09:12
 ### Directorio
 
 
-Luis Martín Granados Salinas
+## Lic. Luis Martín Granados Salinas
+
 Magistrado(a) Distrital
 
 ---
 
-Aurora Hernández Cervera
+## Lic. Aurora Hernández Cervera
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Juan Humberto Flores Estala
+## Lic. Juan Humberto Flores Estala
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Samuel Navarro Del Río
+## Lic. Samuel Navarro Del Río
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Zaira Miryam Manzanera Vela
+## Lic. Zaira Miryam Manzanera Vela
+
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-Carlos Alonso Botello Piñón
+## Lic. Carlos Alonso Botello Piñón
+
 Actuario(a) 
 
 ---
 
-Rodolfo Arturo Jacobo Hernández
+## Lic. Rodolfo Arturo Jacobo Hernández
+
 Actuario(a) 
 
 ---
 
-Verónica Villalobos Anguiano 
+## Lic. Verónica Villalobos Anguiano 
+
 Actuario(a)
 
 ---
 
-Luz María Macías Palacios
+## Luz María Macías Palacios
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Lucina Delgado Rivera
+## Lucina Delgado Rivera
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Claudia Verónica Cansino Escalante
+## Claudia Verónica Cansino Escalante
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-María Esther Meneses Aramburo
+## María Esther Meneses Aramburo
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Verónica Guevara Treviño 
+## Verónica Guevara Treviño 
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Mónica Estrella Jiménez Calderón
+## Mónica Estrella Jiménez Calderón
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Juan Manuel Dávila González
+## Juan Manuel Dávila González
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Valeria Samantha García Márquez Sánchez
+## Valeria Samantha García Márquez Sánchez
+
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-Arturo Esquivel Martínez
+## Arturo Esquivel Martínez
+
 Archivista
 
 ---
 
-Julio César Alba Ramírez
+## Julio César Alba Ramírez
+
 Oficial de Partes
 
 ---
 
-Ariel Antonio Chavarría Urbina
+## Ariel Antonio Chavarría Urbina
+
 Auxiliar Administrativo
 
 

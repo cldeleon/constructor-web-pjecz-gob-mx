@@ -8,7 +8,16 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## ART. 21, FRACCIÓN XXII. UNIDAD DE TRANSPARENCIA
+### Art. 21, Fracc. XXII Unidad de Transparencia 
 
+Nombre, nombramiento, fotografía, domicilio y correo electrónico oficiales de los servidores públicos que integren la Unidad de Transparencia y el Comité de Transparencia, así como, un mapa georreferenciado de la ubicación donde se encuentran las oficinas o instalaciones de la Unidad de Transparencia;
+
+### RESPONSABLE
+
+Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+
+### FECHA DE VALIDACIÓN
+
+4 de mayo de 2020
 
 

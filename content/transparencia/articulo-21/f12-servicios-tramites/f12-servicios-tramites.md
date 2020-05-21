@@ -26,5 +26,6 @@ Un listado con los servicios que ofrece, que incluya los trámites, tiempos de r
 * [Solicitud de Acceso a la Información](https://www.pjecz.gob.mx/transparencia/articulo-21/fraccion-21-xii-servicios-y-tramites/solicitud-de-acceso-a-la-informacion/)
 * [Registro de Titulos](https://www.pjecz.gob.mx/servicios/registro-de-titulos/)
 * [Requisitos para ingresar a la lista de Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-21/fraccion-21-xii-servicios-y-tramites/lista-de-auxiliares-de-la-administracion-de-justicia/)
+* [Consejo de la Judicatura ](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/tramites-y-servicios/)
 
 

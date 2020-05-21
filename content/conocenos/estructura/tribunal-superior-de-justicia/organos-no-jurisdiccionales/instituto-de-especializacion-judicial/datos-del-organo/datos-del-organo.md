@@ -9,7 +9,7 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del órgano
+### Datos del Órgano
 
 Dirección		Blvd. Venustiano Carranza 2673, Santiago, 25240 Saltillo, Coah.
 Teléfono 		(844) 438-09-80
