@@ -14,11 +14,8 @@ La Sala Regional del Tribunal Superior de Justicia es el órgano jurisdiccional 
 * [Funciones](funciones/)
 * [Datos del órgano](datos-del-órgano/)
 * [Directorio](directorio/)  
-* [Formulario de Contato](formulario-de-contacto/)
-* [Eventos-Actividades](eventos-actividades)
+* [Formulario de Contacto](formulario-de-contacto/)
 
 
-
-### Formularo de Contacto
 
 

@@ -9,7 +9,7 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del órgano
+### Datos del Órgano
 
 Periférico Luis Echeverría Álvarez (Edificio del Cereso)
 Col. Saltillo 2000

@@ -14,7 +14,7 @@ La Sala Colegiada Penal es el órgano del poder judicial encargado de conocer y 
 * [Funciones](funciones/)
 * [Datos del órgano](datos-del-órgano/)
 * [Directorio](directorio/)  
-* [Formulario de Contato](formulario-de-contacto/)
+* [Formulario de Contacto](formulario-de-contacto/)
 
 
 ### Formularo de Contacto

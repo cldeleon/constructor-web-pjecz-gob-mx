@@ -99,7 +99,7 @@ madelrefugio.luna@coahuila.gob.mx
 
 ---
 
-![Gloria Laura Ríos Jiménez](Gloria Laura Ríos Jiménez.jpg)  
+![Gloria Laura Ríos Jiménez](tca-gloria-laura-ríos-jiménez.jpg)  
 
 ###Gloria Laura Ríos Jiménez
 Secretaria de Estudio y Cuenta

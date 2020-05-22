@@ -14,7 +14,7 @@ Modified: 2020-05-04 09:12
 * [Funciones](funciones/)
 * [Datos del órgano](datos-del-órgano/)
 * [Directorio](directorio/)  
-* [Trámites](trámites)
+* [Trámites](trámites/)
 
 
 

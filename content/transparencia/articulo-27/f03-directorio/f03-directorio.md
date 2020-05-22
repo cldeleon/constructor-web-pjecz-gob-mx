@@ -8,7 +8,18 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
+## Art. 27, 3. Directorio
 
+El directorio de los funcionarios judiciales y administrativos. En el caso de los primeros deberá incluir desde el nivel de actuario o equivalente; además de la forma en que le fue asignada la plaza.
+
+### RESPONSABLE
+
+Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
+
+### FECHA DE VALIDACIÓN
+
+4 de mayo del 2020
+
+[Directorio](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 

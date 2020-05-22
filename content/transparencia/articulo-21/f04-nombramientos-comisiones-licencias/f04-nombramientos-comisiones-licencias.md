@@ -118,7 +118,12 @@ Los nombramientos, comisiones y licencias de los servidores públicos;
 * [Luis Manuel Rayas Ciprés.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Oficialía Mayor/Luis Manuel Rayas Ciprés.pdf)
 * [Marcos Ezequiel Solís Vega.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Oficialía Mayor/Marcos Ezequiel Solís Vega.pdf)
 * [María Magdalena Flores Mier.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Oficialía Mayor/María Magdalena Flores Mier.pdf)
-* [Rodrigo González Morales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Oficialía Mayor/Rodrigo González Morales.pdf)
 * [Rosalío Medina Martínez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Oficialía Mayor/Rosalío Medina Martínez.pdf)
+
+
+#### Secretaría Técnica y de Transparencia
+
+
+* [Rodrigo González Morales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Secretaría Técnica y de Transparencia/Rodrigo González Morales.pdf)
 
 

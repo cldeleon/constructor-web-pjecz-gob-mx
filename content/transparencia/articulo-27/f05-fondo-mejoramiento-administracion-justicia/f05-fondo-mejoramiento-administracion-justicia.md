@@ -8,7 +8,16 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
+## Art. 27, 5. Fondo para el mejoramiento de la Administración de Justicia.
 
+El monto, destino y aplicación del Fondo para el Mejoramiento de la Administración de Justicia.
+
+### RESPONSABLE
+
+C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
+
+### FECHA DE VALIDACIÓN
+
+4 de mayo del 2020
 
 

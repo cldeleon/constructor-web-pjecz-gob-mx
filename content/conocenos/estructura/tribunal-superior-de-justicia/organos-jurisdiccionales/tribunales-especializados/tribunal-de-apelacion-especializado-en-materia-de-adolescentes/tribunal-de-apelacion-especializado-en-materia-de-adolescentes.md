@@ -11,7 +11,7 @@ Modified: 2020-05-04 09:12
 ## Tribunal de Apelación Especializado en materia de Adolescentes
 
 * [Funciones](funciones/)
-* [Datos del órgano](datos-del-órgano/)
+* [Datos del Órgano](datos-del-órgano/)
 * [Directorio](directorio/)  
 
 

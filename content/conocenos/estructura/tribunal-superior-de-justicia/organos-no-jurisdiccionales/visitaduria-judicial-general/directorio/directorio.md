@@ -13,32 +13,55 @@ Modified: 2020-05-04 09:12
 
 Visitaduría Judicial General
 
-Maestro Carlos Javier García Mata
+## Maestro Carlos Javier García Mata
+
 Visitador Judicial General
 
-Licenciado Javier Antonio Vela Díaz
+---
+
+## Licenciado Javier Antonio Vela Díaz
+
 Visitador Judicial 
 
-Maestro José María García de la Peña
+---
+
+## Maestro José María García de la Peña
+
 Visitador Judicial
 
-Licenciada María Angélica Girón García
+---
+
+## Licenciada María Angélica Girón García
+
 Visitadora Judicial
 
-Maestro Israel Hiram Zamora Salas
+---
+
+## Maestro Israel Hiram Zamora Salas
+
 Visitador Judicial
 
-Licenciada Rocío Villarreal Ruiz
+---
+
+## Licenciada Rocío Villarreal Ruiz
+
 Secretaria auxiliar
 
-Licenciada Maricela Ramos Espinoza
+---
+
+## Licenciada Maricela Ramos Espinoza
+
 Secretaria auxiliar
 
-Luz Carmen Martínez Carbajal
+---
+
+## Luz Carmen Martínez Carbajal
+
 Mecanógrafa 
 
+---
 
-https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/
+[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

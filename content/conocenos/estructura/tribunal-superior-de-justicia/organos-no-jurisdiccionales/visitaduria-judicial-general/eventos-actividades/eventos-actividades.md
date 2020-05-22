@@ -16,18 +16,3 @@ Para la Visitaduría Judicial General, será la sección en que se publique el c
 
 
 
-### Formularo de Contacto
-
-
-
-## Visitaduria Judicial General
-
-* [Objetivo](objetivo/)
-* [Funciones](funciones/)
-* [Datos del Organo](datos-del-organo/)
-* [Directorio](directorio/)  
-* [Formulario de Contato](formulario-de-contacto/)
-* [Eventos-Actividades](eventos-actividades)
-
-
-

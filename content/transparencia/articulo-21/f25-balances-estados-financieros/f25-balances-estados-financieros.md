@@ -21,3 +21,9 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 Los informes de avances de gestión financiera trimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
 
 
+### 2019
+
+
+* [Cuarto avance de Gestión Financiera 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/Cuarto avance de Gestión Financiera 2019.pdf)
+
+

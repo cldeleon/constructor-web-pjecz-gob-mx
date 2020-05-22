@@ -18,10 +18,8 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 4 de mayo de 2020
 
-Versión pública de la declaración patrimonial de los servidores públicos, que contenga: nombre, cargo, tipo de declaración, sueldo y bienes inmuebles, ubicados en territorio nacional y extranjero; así como el listado de servidores públicos que no hayan rendido la declaración patrimonial;
+Versión pública de la declaración patrimonial de los servidores públicos, que contenga: nombre, cargo, tipo de declaración, sueldo y bienes inmuebles, ubicados en territorio nacional y extranjero; así como el listado de servidores públicos que no hayan rendido la declaración patrimonial.
 
-### Descarg~~a~~
-
-* [Declaraciónes Patrimonial](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)es de los Servidores Públicos
+* [Declaraciones Patrimoniales de los Servidores Públicos](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)
 
 

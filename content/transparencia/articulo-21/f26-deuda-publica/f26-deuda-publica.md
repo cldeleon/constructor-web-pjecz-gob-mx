@@ -20,4 +20,10 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 La deuda pública, así como las instituciones a las que se adeuda;
 
+##### Nota Informativa
+
+El Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza no cuenta con deuda pública.
+
+Esta información se publica una vez por año y solo es actualizada cada que exista un cambio, de acuerdo al calendario de la IPO, publicado y aprobado.
+
 

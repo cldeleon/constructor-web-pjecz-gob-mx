@@ -28,7 +28,7 @@ Modified: 2020-05-04 09:12
 
 ## [Sanciones a Servidores Públicos](sanciones-a-servidores-publicos/)
 
-## [Proceso de Selección de Jueces](proceso-de-seleccion-de-jueces/)
+## [Proceso de Selección de Jueces y Magistrados Distritales](proceso-de-seleccion-de-jueces-y-magistrados-distritales/)
 
 ## [Presentación de quejas](presentacion-de-quejas/)
 

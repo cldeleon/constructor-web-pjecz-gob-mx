@@ -153,11 +153,13 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 #### 02 Centro de Medios Alternos de Solución de Controversias
 
 
-* [Centro de Medios Alternos de Solución de Controversias - Monclova.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias - Monclova.pptx)
-* [Centro de Medios Alternos de Solución de Controversias – Piedras Negras.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Piedras Negras.pptx)
-* [Centro de Medios Alternos de Solución de Controversias – Saltillo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Saltillo.pptx)
-* [Centro de Medios Alternos de Solución de Controversias – San Pedro.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – San Pedro.pptx)
-* [Centro de Medios Alternos de Solución de Controversias – Torreón.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Torreón.pptx)
+* [Acuña.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Acuña.pptx)
+* [Monclova.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Monclova.pptx)
+* [Piedras Negras.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Piedras Negras.pptx)
+* [Sabinas.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Sabinas.pptx)
+* [Saltillo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Saltillo.pptx)
+* [San Pedro.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/San Pedro.pptx)
+* [Torreón.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Torreón.pptx)
 
 
 #### 03 Instituto Estatal de Defensoría Pública
