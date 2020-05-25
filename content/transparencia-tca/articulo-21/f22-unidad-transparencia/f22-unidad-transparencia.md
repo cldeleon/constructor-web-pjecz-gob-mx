@@ -18,6 +18,7 @@ Nombre, nombramiento, fotografía, domicilio y correo electrónico oficiales de 
 
 ### RESPONSABLE
 
+
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje
 
 ### FECHA DE VALIDACIÓN
@@ -27,6 +28,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 UNIDAD DE TRANSPARENCIA DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
+ 
 
 Lic. Liliana Ortiz Herrera,
 Blvd. Venustiano Carranza # 2673; Colonia Santiago, C.P. 25260,

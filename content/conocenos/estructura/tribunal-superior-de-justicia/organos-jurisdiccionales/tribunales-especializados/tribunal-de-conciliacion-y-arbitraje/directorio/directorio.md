@@ -128,7 +128,7 @@ Blvd. Isidro López Zertuche  No. 2791, Colonia Los Maestros, C.P. 25260
 Teléfono: 844 415-74-41
 elizabeth.garcia@coahuila.gob.mx
 
-![Álvaro Flores Farías](tca-álvaro-flores-farías.jpg)  
+![Álvaro Flores Farías](tca-álvaro-flores-farías.jpeg)  
 
 ### Álvaro Flores Farías
 Actuario
@@ -159,7 +159,7 @@ Teléfono: 844 415-74-41
 
 ---
 
-[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
+#### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

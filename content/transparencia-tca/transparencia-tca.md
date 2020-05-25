@@ -9,14 +9,26 @@ Modified: 2020-01-01 15:00:00
 
 
 
-## Transparencia TCA
+## Transparencia Tribunal de Conciliación y Arbitraje
+
+### I. Información Pública de Oficio
+
+Conforme a la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza
+
+
+- [Plataforma Nacional de Transparencia](https://www.plataformadetransparencia.org.mx/web/guest/inicio)
+- [Infocoahuila](http://189.254.130.35/infocoahuila/)
+
 
 
 
 ## Descargar
 
 
-* [TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt)
+* [Derechos ARCO.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Derechos ARCO.doc)
+* [Formato Derechos Arco.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Formato Derechos Arco.doc)
+* [Guía para la presentación de solicitudes de información.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Guía para la presentación de solicitudes de información.doc)
+* [Solicitud de Acceso a la Información.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Solicitud de Acceso a la Información.doc)
 
 
 ## Artículos

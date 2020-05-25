@@ -8,9 +8,9 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 8. SENTENCIAS QUE HAN CAUSADO EJECUTORIA
 
-LINK A VERSIÓN PÚBLICA DE SENTENCIAS  PENDIENTE
+
+## [Sentencias que han causado ejecutoria](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 
 

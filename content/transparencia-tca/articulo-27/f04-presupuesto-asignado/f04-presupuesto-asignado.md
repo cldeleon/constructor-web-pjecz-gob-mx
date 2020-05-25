@@ -27,7 +27,6 @@ El Tribunal de Conciliación y Arbiraje es un órgano integrante del Poder Jdici
 
 A continuación se proporciona el enlace a la información correspondiente:
 
-Aquí liga al presupuesto de egresos autorizados  PENDIENTE
-
+https://www.pjecz.gob.mx/transparencia/articulo-27/f04-presupuesto-asignado/
 
 

@@ -14,8 +14,8 @@ El Pleno del Tribunal Superior de Justicia es el órgano supremo del Poder Judic
 
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
-* [Trámites y Servicios](trámites-y-servicios/)
-* [Datos del órgano](datos-del-órgano/)
+* [Trámites y Servicios](tramites-y-servicios/)
+* [Datos del Órgano](datos-del-organo/)
 * [Directorio](directorio/)  
 
 

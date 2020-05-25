@@ -84,7 +84,7 @@ Auxiliar Administrativo
 
 ---
 
-[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
+#### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

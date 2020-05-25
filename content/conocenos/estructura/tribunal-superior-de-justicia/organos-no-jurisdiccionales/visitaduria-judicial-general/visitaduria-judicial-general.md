@@ -13,7 +13,7 @@ Modified: 2020-05-04 09:12
 
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
-* [Datos del Órgano](datos-del-órgano/)
+* [Datos del Órgano](datos-del-organo/)
 * [Directorio](directorio/)  
 * [Formulario de Contacto](formulario-de-contacto/)
 * [Eventos-Actividades](eventos-actividades/)

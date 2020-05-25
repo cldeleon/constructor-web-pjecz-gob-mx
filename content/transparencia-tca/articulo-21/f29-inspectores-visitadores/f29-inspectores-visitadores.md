@@ -25,7 +25,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 
 
-Link a la informacíon de Visitaduría Judicial General del Poder Judicial PENDIENTE
+https://www.pjecz.gob.mx/transparencia/articulo-21/f29-inspectores-visitadores/
 
 
 

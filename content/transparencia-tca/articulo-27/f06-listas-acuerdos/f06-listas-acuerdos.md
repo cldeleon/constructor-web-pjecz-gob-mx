@@ -8,9 +8,9 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 6. Listas de Acuerdos
 
-LINK A VERSIÓN PÚBLICA DE LISTA DE ACUERDOS  PENDIENTE
+
+## [Listas de Acuerdo](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)
 
 
 

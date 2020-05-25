@@ -23,41 +23,43 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 11 de mayo del 2020
 
 
-Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup
+-[Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
 
-Edictos
+- Abogados registrados ante el Tribunal Superior de Justicia
 
-Abogados registrados ante el Tribunal Superior de Justicia
+- Armonización Contable
 
-Armonización Contable
+-[Aviso de Privacidad](https://www.pjecz.gob.mx/aviso-de-privacidad/)
 
-Aviso de Provacidad
+- Informe de Labores
 
-Boletín Judicial
+- [Calendario de Labores](https://www.pjecz.gob.mx/conocenos/directorio-general/calendario-de-labores/)
 
-Calendario de Labores
+- Conatrib -  Unidad de Derechos Humanos
 
-Conatrib -  Unidad de Derechos Humanos
+- [Consulta de Boletas](https://www.pjecz.gob.mx/consultas/boletas/)
 
-Consulta de Boletas
+- Derechos Humanos e Igualdad ed GÃ©nero - Poder Judicial del Estado de Coahuila de Zaragoza
 
-Derechos Humanos e Igualdad ed Género - Poder Judicial del Estado de Coahuila de Zaragoza
+- [Defensorí­a Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
 
-Defensoría Pública
+- Edictos de Declaración de Ausencia
 
-Edictos de Declaración de Ausencia
+- Edictos en Lí­nea
 
-Edictos en Línea
+- [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 
-Expediente Virtual
+- Observatorio Judicial
 
-Observatorio Judicial
+- Peritos Auxiliares de la Adminsitración de Justicia
 
-Peritos Auxiliares de la Adminsitración de Justicia
+- [Presentación de Quejas](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
-Versión Pública de Sentencias
+- [Sesiones](https://www.pjecz.gob.mx/sesiones/)
 
-LINKS PENDIENTES
+- [Versión Pública de Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
+
+
 
 
 

@@ -14,7 +14,7 @@ Modified: 2020-05-04 09:12
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
 * [Datos del Órgano](datos-del-organo/)
-* [Trámites y Servicios](trámites-y-servicios/)
+* [Trámites y Servicios](tramites-y-servicios/)
 * [Directorio](directorio/)
 * [Formulario de Contacto](formulario-de-contacto/)
 

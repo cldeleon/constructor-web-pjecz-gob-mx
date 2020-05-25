@@ -27,7 +27,7 @@ El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judi
 
 A continuación se proporciona el enlace a la información correspondiente:
 
-Aquí liga a la información Auditorías del Poder Judicial PENDIENTE
+https://www.pjecz.gob.mx/transparencia/articulo-21/f27-auditorias-practicadas-concluidas/
 
 
 

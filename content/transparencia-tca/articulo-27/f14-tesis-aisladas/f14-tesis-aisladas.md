@@ -27,7 +27,7 @@ A la fecha que se actualiza no se han generado tesis aisladas y jurisprudenciale
 
 Si desea conocer ñas tesis ailadas y jurisprudenciales emitidas por los órganos jurisdiccionales del Poder Judicial del Estado de Coahuila de Zaragoza, puede ingresar en el siguiente enlace:
 
-LINK A TESIS AISLADAS DEL TRIBUNAL SUPERIOR DE JUSTICIA
+https://www.pjecz.gob.mx/transparencia/articulo-27/f19-tesis-aisladas/
 
 
 

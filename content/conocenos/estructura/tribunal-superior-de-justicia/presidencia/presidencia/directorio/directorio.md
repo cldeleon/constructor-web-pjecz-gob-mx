@@ -9,9 +9,12 @@ Modified: 2020-05-04 09:12
 
 
 
-### Mag. Miguel Felipe Mery Ayup
+![Miguel Felipe Mery Ayup](miguel-felipe-mery-ayup.jpg)
 
-Presidente del Tribunal Superior de Justicia del Estado
+### Magistrado Miguel Felipe Mery Ayup
+
+Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza.
+
 
 ---
 

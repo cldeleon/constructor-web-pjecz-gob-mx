@@ -20,7 +20,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
 
 ### FECHA DE VALIDACIÓN
 
-11 de amayo de 2020
+11 de mayo de 2020
 
 
 
@@ -60,9 +60,9 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
 ### 2020
 
 
-* [01 Nota Viáticos Enero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/01 Nota Viáticos Enero 2020.ppt)
-* [02 Nota Viáticos Febrero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/02 Nota Viáticos Febrero 2020.ppt)
-* [03 Nota Viáticos Marzo 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/03 Nota Viáticos Marzo 2020.ppt)
-* [04 Nota Viáticos Abril 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/04 Nota Viáticos Abril 2020.ppt)
+* [01 Viáticos Enero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/01 Viáticos Enero 2020.ppt)
+* [02 Viáticos Febrero 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/02 Viáticos Febrero 2020.ppt)
+* [03 Viáticos Marzo 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/03 Viáticos Marzo 2020.ppt)
+* [04 Viáticos Abril 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/2020/04 Viáticos Abril 2020.ppt)
 
 
