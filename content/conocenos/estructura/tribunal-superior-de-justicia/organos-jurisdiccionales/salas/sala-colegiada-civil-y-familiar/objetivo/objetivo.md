@@ -9,12 +9,7 @@ Modified: 2020-05-04 09:12
 
 
 
-### Objetivo
-
 La Sala Colegiada Civil y Familiar es el órgano del poder judicial encargado de conocer y resolver los recursos de apelación presentados en contra de las sentencias definitivas por las y los jueces de primera instancia en asuntos en materia civil, mercantil y familiar
-
-
-
 
 
 

@@ -13,7 +13,7 @@ RELATIVE_URLS = False
 # Metadatos de todo el sitio web
 SITENAME = 'Poder Judicial del Estado de Coahuila de Zaragoza'
 SITELOGO = 'theme/images/pjecz.png'
-SITEDESCRIPTION = 'Sitio web del Poder Judicial del Estado de Coahuila de Zaragoza'
+SITEDESCRIPTION = 'Responsables de impartir justicia en el Estado, de dirimir diferencias entre particulares, de conciliar, y de promover con el ejemplo una cultura de la legalidad y justicia cotidiana.'
 SITETWITTER = '@PJCoah'
 
 # Autor por defecto
@@ -36,7 +36,7 @@ PAGE_PATHS = [
     'consultas',
     'licencias',
     'politicas-de-uso',
-    'tramites-servicios',
+    'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
     ]
@@ -44,9 +44,12 @@ PAGE_PATHS = [
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
+    'acuerdos',
+    'comunicados',
     'conocenos',
     'consultas',
-    'tramites-servicios',
+    'json',
+    'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
     'CNAME',
@@ -88,7 +91,7 @@ OUTPUT_RETENTION = ['.git', '.gitignore']
 # Paginacion
 #DEFAULT_PAGINATION = False
 DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 8
+DEFAULT_PAGINATION = 12
 DEFAULT_ORPHANS = 2
 
 # Para desarrollo BORRAR todo el directorio de salida

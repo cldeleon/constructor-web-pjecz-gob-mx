@@ -8,7 +8,8 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-Funciones y Atribuciones (según la Ley Orgánica del PJECZ)
+## Funciones y Atribuciones (según la Ley Orgánica del PJECZ)
+
 De conformidad con el artículo 14 de la Ley Orgánica del Poder Judicial del Estado, corresponde a la Presidente del Tribunal Superior de Justicia:
 
 1. Ser el representante legal de todos los órganos que integran al Poder Judicial, del Tribunal Superior de Justicia, así como del Pleno del propio Tribunal y del Consejo de la Judicatura, con todas las facultades, aún las que requieran cláusula especial.

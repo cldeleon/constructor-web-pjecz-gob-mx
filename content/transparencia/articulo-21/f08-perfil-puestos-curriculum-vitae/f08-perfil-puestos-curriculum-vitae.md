@@ -8,17 +8,20 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
+
 ### Art. 21, Fracc. VIII Perfil de Puestos y Curriculum Vitae
 
-### RESPONSABLE
+El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policíacas;
+
+#### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas;
+##### [Perfil de Puestos](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
 
 
 ### Magistrados

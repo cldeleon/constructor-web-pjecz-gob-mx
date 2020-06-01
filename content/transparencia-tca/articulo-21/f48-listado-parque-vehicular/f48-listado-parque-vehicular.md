@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN XLVIII. PARQUE VEHICULAR
 
-El listado del parque vehicular donde se identifique el modelo, año y número de placa
+El listado del parque vehicular donde se identifique el modelo, año y número de placa.
 
 
 ### RESPONSABLE

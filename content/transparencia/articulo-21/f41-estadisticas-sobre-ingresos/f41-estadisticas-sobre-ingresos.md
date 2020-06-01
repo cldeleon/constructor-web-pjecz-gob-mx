@@ -10,15 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XLI Estadísticas sobre los Ingresos
 
-### RESPONSABLE
+Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos;
+
+#### RESPONSABLE
 
 C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos;
 
 
 ### 2018

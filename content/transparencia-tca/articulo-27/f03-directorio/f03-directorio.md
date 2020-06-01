@@ -8,20 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 3. Directorio
+## Art. 27, 3. DIRECTORIO
 
 El directorio de los funcionarios judiciales y administrativos. En el caso de los primeros deberá incluir desde el nivel de actuario o equivalente; además de la forma en que le fue asignada la plaza.
-
 
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
 
 
 ## Descargar

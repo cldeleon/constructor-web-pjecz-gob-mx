@@ -15,7 +15,6 @@ Modified: 2020-05-04 09:12
 
 Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza.
 
-
 ---
 
 ### Lic. Martha Eugenia Dávila Gómez
@@ -24,7 +23,7 @@ Secretaria Particular
 
 ---
 
-### Lic. Claudia Delfina Herrera Villar
+## Lic. Claudia Delfina Herrera Villar
 
 Consejera Jurídica
 

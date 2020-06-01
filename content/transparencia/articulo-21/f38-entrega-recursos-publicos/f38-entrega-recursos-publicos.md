@@ -10,14 +10,16 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXXVIII Entrega de Recursos Públicos
 
-### RESPONSABLE
+La entrega de recursos públicos, cualquiera que sea su destino;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-La entrega de recursos públicos, cualquiera que sea su destino;
+El presente apartado **no aplica** al Poder Judicial del Estado de Coahuila de Zaragoza, ya que no tiene como facultad lo dispuesto en el presente rubro.
 
 

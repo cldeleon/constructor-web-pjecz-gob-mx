@@ -8,20 +8,15 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 1. Estructura Orgánica
-
-Su estructura jurisdiccional y administrativa-
-
+## ART. 27, 1. ESTRUCTURA ORGÁNICA
 
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
 
 
 ## Descargar

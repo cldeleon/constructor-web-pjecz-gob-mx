@@ -8,16 +8,19 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-**RESPONSABLE**
-
-Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
-
-**FECHA DE VALIDACIÓN**
-
-3 de abril 2020
+### Art. 21, Fracc. XIX Convenios de Colaboración y Contratos
 
 La relativa a los convenios de colaboración y contratos que los sujetos obligados celebren con la Federación, otros Estados, con los Municipios y cualquier otra persona de derecho público o privado.
 
+#### RESPONSABLE
+
+Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+
+#### FECHA DE VALIDACIÓN
+
+4 de mayo de 2020
+
+### 
 
 
 ### 2020

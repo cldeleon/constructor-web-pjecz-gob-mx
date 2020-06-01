@@ -10,6 +10,8 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XLII Información Desclasificada
 
+La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación.
+
 ### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
@@ -18,6 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 4 de mayo de 2020
 
-La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación
+A la fecha no se ha dictado Acuerdo de desclasificación por el Comité de Información, al que está sujeto el Poder Judicial del Estado de Coahuila de Zaragoza, en virtud de que por ley los expedientes judiciales se encuentran clasificados como reservados, en tanto no se dicte sentencia que cause ejecutoria. 
 
 

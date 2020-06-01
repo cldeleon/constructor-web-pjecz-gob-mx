@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Décima Tercera Sesión Ordinaria](2020/decima-tercera-sesion-ordinaria/)
 - [Décima Segunda Sesión Ordinaria](2020/decima-segunda-sesion-ordinaria/)
 - [Tercera Sesión Extraordinaria](2020/tercera-sesion-extraordinaria/)
 - [Segunda Sesión Extraordinaria](2020/segunda-sesion-extraordinaria/)

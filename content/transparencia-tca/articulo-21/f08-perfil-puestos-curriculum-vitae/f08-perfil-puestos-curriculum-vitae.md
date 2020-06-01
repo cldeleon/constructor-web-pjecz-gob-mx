@@ -39,15 +39,17 @@ Perfil del puesto
 ### Currículum Personal Jurisdiccional u homólogo
 
 
-* [01 Rogelio Padilla Muñoz.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/01 Rogelio Padilla Muñoz.ppt)
-* [02 Gerardo María Hernández Garza.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/02 Gerardo María Hernández Garza.ppt)
-* [03 Joel Alonso Arzola Vasquez.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/03 Joel Alonso Arzola Vasquez.ppt)
-* [04 María del Refugio Luna Cazares.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/04 María del Refugio Luna Cazares.ppt)
-* [05 Roberto Alejandro Ramirez Maldonado.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/05 Roberto Alejandro Ramirez Maldonado.ppt)
-* [06 Sandra Tenorio Luna.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/06 Sandra Tenorio Luna.ppt)
-* [07 Alvaro Flores Farías.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/07 Alvaro Flores Farías.ppt)
-* [08 Gloria Laura Rios Jimenez.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/08 Gloria Laura Rios Jimenez.ppt)
-* [09 Elizabeth-Garcia-Acuna.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/09 Elizabeth-Garcia-Acuna.ppt)
-* [10 Liliana Ortiz Herrera.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/10 Liliana Ortiz Herrera.ppt)
+* [01 Rogelio Padilla Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/01 Rogelio Padilla Muñoz.pdf)
+* [02 Gerardo María Hernández Garza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/02 Gerardo María Hernández Garza.pdf)
+* [03 Joel Alonso Arzola Vasquez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/03 Joel Alonso Arzola Vasquez.pdf)
+* [04 María del Refugio Luna Cazares.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/04 María del Refugio Luna Cazares.pdf)
+* [05 Roberto Alejandro Ramirez Maldonado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/05 Roberto Alejandro Ramirez Maldonado.pdf)
+* [06 Sandra Tenorio Luna.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/06 Sandra Tenorio Luna.pdf)
+* [07 Alvaro Flores Farías.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/07 Alvaro Flores Farías.pdf)
+* [08 Gloria Laura Rios Jimenez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/08 Gloria Laura Rios Jimenez.pdf)
+* [09 Elizabeth-Garcia-Acuna.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/09 Elizabeth-Garcia-Acuna.pdf)
+* [10 Liliana Ortiz Herrera.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/10 Liliana Ortiz Herrera.pdf)
+* [11 Matías Cárdenas Barba.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/11 Matías Cárdenas Barba.pdf)
+* [12 Rita Gabriela García Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Currículum Personal Jurisdiccional u homólogo/12 Rita Gabriela García Muñoz.pdf)
 
 

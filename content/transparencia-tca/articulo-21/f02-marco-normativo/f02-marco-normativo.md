@@ -15,7 +15,7 @@ El marco normativo aplicable a los sujetos obligados, en el que deberá incluirs
 
 ### RESPONSABLE
 
-Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz Herrera, Titular  de la Unida de Transparencia del Tribunal de Conciliación y Arbitraje
+Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de Conciliación y Arbitraje
 
 
 ### FECHA DE VALIDACIÓN
@@ -62,126 +62,84 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 
 
-### Normativa Internacional
+Leyes Federales
 
-- [Convención sobre los Derechos del Niño]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=b/EcoMjefuFeB6DOaNOimMz7kdKtJ2lsJNHzLOCmbhmA4eqYlTkhn9OLZEEE9GIN)
+[Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf)
 
-- [Convención Americana sobre Derechos Humanos]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=zmlkJ/89AXJJKRY4OR4AdIPQZfCqTe6jJaFF3zcsXfBQoOjvpuD2W+RcZ//NrR3j)
+[Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional](http://www.diputados.gob.mx/LeyesBiblio/pdf/111_010519.pdf)
 
-- [Convención sobre la Eliminación de todas las formas de Discriminación contra la Mujer]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=Zjujyqyrt96VrJeY7TvcvoeCJfeys58LTrks8HpyzwQ0/1qiHZ8OWczNxRdYs363)
+[Ley Federal del Trabajo](http://www.diputados.gob.mx/LeyesBiblio/pdf/125_020719.pdf)
 
-- [Convención sobre los Derechos de las Personas con Discapacidad  y su Protocolo Facultativo]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=lOyqDofbFLGDAD4UXA/alH9M34cQuV2wI5Hj0xVHCBZFnLwCdi9Wdnl484L1atdo)
+[Ley General de Protección de Datos Personales en posesión de Sujetos Obligados](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf)
 
-- [Convenio 30, sobre la reglamentación de las horas de trabajo]
-http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=CB4dgiYBzZhhA+ZhJducIWhYDFAjJ2x3U6qJhKe0S9eXUmhkDVn7wn6hPgk4li9)
+[Ley General de Responsabilidades Administrativas](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA_191119.pdf)
 
-- [Convenio sobre la prohibición sobre las peores formas de trabajo infantil]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=V95NcogKxHpUN4bFbjWt9jVaBvoXEuW+flK9eR+FzpDUwRletTpxCF1+UNiKHruh)
-
-- [Convención 100 Igualdad Remuneración, Trabajo de igual valor]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=s6n2if7Uv7A+Z8I0w3ky6VcDvUlc9BgFb3nMpqRcZHD3qTZ+jNhHDkU/jmYjYvRP)
-
-- [Convenio 138 sobre la Edad Mínima de Admisión al Empleo]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=pwUhdNvCSySjs8D73SRJEJzKAPxEfWFFs/IWOlStd1qFsqGDh8GyLukFbt1xnrqI)
-
-- [Convenio 87, Libertad Sindical y Protección al Derecho Sindical]
-http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=s6n2if7Uv7A+Z8I0w3ky6doIxwK5MZCUBtFesvpgW3aD1rXkCTcqx20XUuqgYQBk
-
-- [Convenio 105, Abolición del Trabajo Forzoso]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=s6n2if7Uv7A+Z8I0w3ky6b/v1xBQFMsMW+ewoTjxdNEtOu1B2hlmUYcLIYWcHg07)
-
-- [Convenio 106, Descanso Semanal]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=s6n2if7Uv7A+Z8I0w3ky6Y5y1aJQwD9Up0oIT0cXkWBnVRUtyvCN9N8RJnt+Wq6v)
-
-- [Convenio 111 Relativo a la Discriminación en materia de empleo y ocupación]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6alMn6Gf8FYS9A8DkDa7zTj1+mEpQHyNJR509+4Wglgf)
-
-- [Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad]
-(http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspxq=V95NcogKxHpUN4bFbjWt9mO5KMX9V49kbRI/4gnIq5uXvtQzNNYo6FamMLeXv/+z)
+[Ley General de Transparencia y Acceso a la Información Pública](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf)
 
 
+Leyes Estatales
+
+\- [Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa09.pdf>)
+
+\- [Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y de los Municipios de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa212.pdf>)
+
+\- [Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa205.pdf>)
+
+\- [Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa146.pdf>)
+
+\- [Ley de Hacienda para el Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa25.pdf>)
+
+\- [Ley de Pensiones Complementarias para Magistrados y Jueces del Poder Judicial del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa213.pdf>)
+
+\- [Ley de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa29.pdf>)
+
+\- [Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa251.pdf>)
+
+\- [Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa216.pdf>)
+
+\- [Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/portal/wpcontent/uploads/2014/11/coa35.pdf>)
+
+\- [Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf>)
+
+\- [Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa195.pdf>)
 
 
+Códigos
 
+\- [Código Civil para el Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa02.pdf>)
 
+\- [Código Procesal Civil para el Estado de Coahuila de Zaragoza](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa03.pdf>)
 
-
-### Leyes Federales
-
-- [Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf)
-
-- [Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B) del Artículo 123 Constitucional]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/111_010519.pdf)
-
-- [Ley Federal del Trabajo]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/125_020719.pdf)
-
-- [Ley General de Protección de Datos Personales en posesión de Sujetos Obligados]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf)
-
-- [Ley General de Responsabilidades Administrativas]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA_191119.pdf)
-
-- [Ley General de Transparencia y Acceso a la Información Pública]
-(http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf)
+\- [Código Municipal](<http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa07.pdf>)
 
 
 
-### Leyes Estatales
+Normativa Internacional
 
-- [Estatuto Jurídico para los Trabajadores al Servicio del Estado De Coahuila]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa09.pdf)
+[Convención sobre los Derechos del Niño](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=b/EcoMjefuFeB6DOaNOimMz7kdKtJ2lsJNHzLOCmbhmA4eqYlTkhn9OLZEEE9GIN)
 
-- [Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y de los Municipios de Coahuila De Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa212.pdf)
+[Convención Americana sobre Derechos Humanos](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=zmlkJ/89AXJJKRY4OR4AdIPQZfCqTe6jJaFF3zcsXfBQoOjvpuD2W+RcZ//NrR3j)
 
-- [Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa205.pdf)
+[Convención sobre la Eliminación de todas las formas de Discriminación contra la Mujer](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=Zjujyqyrt96VrJeY7TvcvoeCJfeys58LTrks8HpyzwQ0/1qiHZ8OWczNxRdYs363)
 
-- [Ley de Archivos Públicos para el Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa146.pdf)
+[Convención sobre los Derechos de las Personas con Discapacidad  y su Protocolo Facultativo](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=lOyqDofbFLGDAD4UXA/alH9M34cQuV2wI5Hj0xVHCBZFnLwCdi9Wdnl484L1atdo)
 
-- [Ley de Hacienda para el Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa25.pdf)
+[Convenio 30, sobre la reglamentación de las horas de trabajo](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=CB4dgiYBzZhhA5+ZhJducIWhYDFAjJ2x3U6qJhKe0S9eXUmhkDVn7wn6hPgk4li9)
 
-- [Ley de Pensiones Complementarias para Magistrados y Jueces del Poder Judicial del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa213.pdf)
+[Convenio sobre la prohibición sobre las peores formas de trabajo infantil](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=V95NcogKxHpUN4bFbjWt9jVaBvoXEuW+flK9eR+FzpDUwRletTpxCF1+UNiKHruh)
 
-- [Ley de Pensiones y otros Beneficios Sociales para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa29.pdf)
+[Convención 100 Igualdad Remuneración, Trabajo de igual valor ](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6VcDvUlc9BgFb3nMpqRcZHD3qTZ+jNhHDkU/jmYjYvRP)
 
-- [Ley de Protección de Datos Personales en Posesión de Sujetos Obligados del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa251.pdf)
+[Convenio 138 sobre la Edad Mínima de Admisión al Empleo](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=pwUhdNvCSySjs8D73SRJEJzKAPxEfWFFs/IWOlStd1qFsqGDh8GyLukFbt1xnrqI)
 
-- [Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa216.pdf)
+[Convenio 87, Libertad Sindical y Protección al Derecho Sindical](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6doIxwK5MZCUBtFesvpgW3aD1rXkCTcqx20XUuqgYQBk)
 
-- [Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/portal/wpcontent/uploads/2014/11/coa35.pdf)
+[Convenio 105, Abolición del Trabajo Forzoso](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6b/v1xBQFMsMW+ewoTjxdNEtOu1B2hlmUYcLIYWcHg07)
 
-- [Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
+[Convenio 106, Descanso Semanal](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6Y5y1aJQwD9Up0oIT0cXkWBnVRUtyvCN9N8RJnt+Wq6v)
 
-- [Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa195.pdf)
+[Convenio 111 Relativo a la Discriminación en materia de empleo y ocupación](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=s6n2if7Uv7A+Z8I0w3ky6alMn6Gf8FYS9A8DkDa7zTj1+mEpQHyNJR509+4Wglgf)
 
-
-
-### Códigos
-
-- [Código Civil para el Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa02.pdf)
-
-- [Código Procesal Civil para el Estado de Coahuila de Zaragoza]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa03.pdf)
-
-- [Código Municipal]
-(http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa07.pdf)
-
+[Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=V95NcogKxHpUN4bFbjWt9mO5KMX9V49kbRI/4gnIq5uXvtQzNNYo6FamMLeXv/+z)
 
 

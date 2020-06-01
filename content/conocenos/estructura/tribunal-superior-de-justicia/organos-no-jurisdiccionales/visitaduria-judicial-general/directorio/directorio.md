@@ -9,9 +9,7 @@ Modified: 2020-05-04 09:12
 
 
 
-## Directorio
-
-Visitaduría Judicial General
+## Visitaduría Judicial General
 
 ### Maestro Carlos Javier García Mata
 
@@ -21,7 +19,7 @@ Visitador Judicial General
 
 ### Licenciado Javier Antonio Vela Díaz
 
-Visitador Judicial 
+Visitador Judicial
 
 ---
 
@@ -57,14 +55,11 @@ Secretaria auxiliar
 
 ### Luz Carmen Martínez Carbajal
 
-Mecanógrafa 
+Mecanógrafa
 
 ---
 
 [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
-
-
-
 
 
 

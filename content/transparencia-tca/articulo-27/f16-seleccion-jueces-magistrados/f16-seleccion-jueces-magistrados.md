@@ -8,23 +8,18 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 16. Proceso de selección de Magistrados
+## ART. 27, 16. PROCESO DE SELECCIÓN DE MAGISTRADOS
 
 El proceso de selección de magistrados.
-
 
 ### RESPONSABLE
 
 Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
 
-
-Proceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales
-(https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)
-
+[Proceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)
 
 

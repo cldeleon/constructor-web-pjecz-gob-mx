@@ -8,17 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-**Artículo 21, Fracc. XVI Beneficiarios de los Programas Sociales**
+### Artículo 21, Fracc. XVI Beneficiarios de los Programas de Subsidio
 
-**RESPONSABLE**
+Los nombres de los beneficiarios de los programas de subsidio, estímulo y/o apoyos otorgados;
+
+#### RESPONSABLE
 
 C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
-**FECHA DE VALIDACIÓN**
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-Los nombres de los beneficiarios de los programas de subsidio, estímulo y/o apoyos otorgados;
 
 **NO APLICA**
 

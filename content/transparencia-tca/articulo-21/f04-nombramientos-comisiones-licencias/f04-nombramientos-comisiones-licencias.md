@@ -155,7 +155,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 #### Personal jurisdiccional u homólogo
 
 
-* [Elizabeth García Acuña.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Elizabeth García Acuña.pdf)
+* [Elizabeth Gaarcia Acuña.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Elizabeth Gaarcia Acuña.pdf)
 * [Gerardo María Herández Garza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Gerardo María Herández Garza.pdf)
 * [Gloria Laura Ríos Jiménez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Gloria Laura Ríos Jiménez.pdf)
 * [Joel Alonso Arzola Vásquez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Joel Alonso Arzola Vásquez.pdf)

@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN XXXVIII. ENTREGA DE RECURSOS PÚBLICOS
 
-La entrega de recursos públicos, cualquiera que sea su destino
+La entrega de recursos públicos, cualquiera que sea su destino.
 
 
 ### RESPONSABLE

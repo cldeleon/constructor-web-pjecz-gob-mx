@@ -8,14 +8,14 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-### Tercer Tribunal Distrital
-Con residencia en Monclova
 
+**Tercer Tribunal Distrital con residencia en Monclova**
 
-Avenida Ciudad Deportiva 1500 
+Avenida Ciudad Deportiva 1500
 Fraccionamiento Cd. Deportiva
 Monclova, Coahuila
 C.P. 25750
+
 Teléfono: 866 63155 93
 
 

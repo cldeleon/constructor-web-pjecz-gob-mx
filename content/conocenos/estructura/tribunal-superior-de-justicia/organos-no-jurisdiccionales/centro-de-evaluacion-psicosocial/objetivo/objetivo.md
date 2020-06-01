@@ -9,8 +9,6 @@ Modified: 2020-05-04 09:12
 
 
 
-### Objetivo
-
 GENERAL: Realizar dictámenes y evaluaciones psicosociales que soliciten los órganos jurisdiccionales del Poder Judicial, emitiendo las recomendaciones respecto de los asuntos que le sean requeridos en materia familiar, civil y penal.
 
 

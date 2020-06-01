@@ -11,7 +11,6 @@ Modified: 2020-05-04 09:12
 ## ¿[Quiénes somos](quienes-somos/)?
 
 * [Bienvenida](quienes-somos/bienvenida/)
-* [Misión, Visión y Valores](quienes-somos/mision-vision-y-valores/)
 
 ## [Estructura](estructura/)
 

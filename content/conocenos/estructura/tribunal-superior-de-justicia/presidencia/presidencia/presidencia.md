@@ -9,14 +9,13 @@ Modified: 2020-05-04 09:12
 
 
 
-## Presidencia
+## [Objetivo](objetivo/)
 
-* [Objetivo](objetivo/)
-* [Funciones](funciones/)
-* [Datos del órgano](datos-del-organo/)
-* [Directorio](directorio/)
-* [Formulario de Contato](formulario-de-contacto/)
+## [Funciones](funciones/)
 
+## [Datos del órgano](datos-del-organo/)
+
+## [Directorio](directorio/)
 
 
 

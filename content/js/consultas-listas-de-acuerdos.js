@@ -6,24 +6,15 @@ $(document).ready(function() {
     $("#listaDeAcuerdos").hide();
 
     // Opciones del select distrito
-    $("#distritoSelect").append(
-        '<option value="0">- Elija la entidad/distrito -</select>',
-        '<option value="1">Pleno del Tribunal Superior de Justicia</select>',
-        '<option value="2">Tribunal Constitucional Local</select>',
-        '<option value="3">Tribunales Especializados</select>',
-        '<option value="4">Salas TSJ</select>',
-        '<option value="5">Tribunal Distrital Saltillo materia Penal</select>',
-        '<option value="6">Tribunal Electoral del Estado de Coahuila de Zaragoza</select>',
-        '<option value="7">Tribunales Distritales</select>',
-        '<option value="8">Distrito de Acuña</select>',
-        '<option value="9">Distrito de Monclova</select>',
-        '<option value="10">Distrito de Parras de la Fuente</select>',
-        '<option value="11">Distrito de Rio Grande</select>',
-        '<option value="12">Distrito de Sabinas</select>',
-        '<option value="13">Distrito de Saltillo</select>',
-        '<option value="14">Distrito de San Pedro de las Colonias</select>',
-        '<option value="15">Distrito de Torreón</select>'
-    );
+    let distritoSelect = $("#distritoSelect");
+    distritoSelect.empty();
+    distritoSelect.append('<option selected="true" disabled>- Elija la entidad o distrito -</option>');
+    distritoSelect.prop("selectedIndex", 0);
+    $.getJSON("/json/distritos.json", function(datos) {
+        $.each(datos, function(clave, dato) {
+            distritoSelect.append($('<option></option>').attr('value', dato.id).text(dato.nombre))
+        })
+    });
 
     // Arreglo de opciones para el select autoridad,
     // debe tener la misma cantidad de elementos que el distritoSelect,
@@ -45,7 +36,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Listas%20de%20Acuerdos/Salas%20TSJ/Sala%20Penal/lista.json">Sala Penal</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Listas%20de%20Acuerdos/Salas%20TSJ/Sala%20Regional/lista.json">Sala Regional</option>',
 
-        '<option value="https://storage.googleapis.com/pjecz-consultas/Listas%20de%20Acuerdos/Tribunal%20Distrital%20Saltillo%20materia%20Penal/Tribunal%20Distrital%20Saltillo%20materia%20Penal/lista.json">Tribunal Distrital Saltillo materia Penal</option>',
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Listas%20de%20Acuerdos/Tribunal%20Distrital%20Saltillo%20Materia%20Penal/Tribunal%20Distrital%20Saltillo%20Materia%20Penal/lista.json">Tribunal Distrital Saltillo Materia Penal</option>',
 
         '<option value="https://storage.googleapis.com/pjecz-consultas/Listas%20de%20Acuerdos/Tribunal%20Electoral%20del%20Estado%20de%20Coahuila%20de%20Zaragoza/Tribunal%20Electoral%20del%20Estado%20de%20Coahuila%20de%20Zaragoza/lista.json">Tribunal Electoral del Estado de Coahuila de Zaragoza</option>',
 

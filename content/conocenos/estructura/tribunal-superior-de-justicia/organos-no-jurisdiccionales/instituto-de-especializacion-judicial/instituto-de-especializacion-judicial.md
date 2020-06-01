@@ -9,15 +9,17 @@ Modified: 2020-05-04 09:12
 
 
 
-## Instituto de Especialización Judicial
+## [Objetivo](objetivo/)
 
-* [Objetivo](objetivo/)
-* [Funciones](funciones/)
-* [Datos del Órgano](datos-del-organo/)
-* [Trámites y Servicios](tramites-y-servicios/)
-* [Directorio](directorio/)
-* [Formulario de Contacto](formulario-de-contacto/)
+## [Funciones](funciones/)
 
+## [Datos del Órgano](datos-del-organo/)
+
+## [Trámites y Servicios](tramites-y-servicios/)
+
+## [Directorio](directorio/)
+
+## [Formulario de Contacto](formulario-de-contacto/)
 
 
 

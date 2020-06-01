@@ -39,7 +39,7 @@ f) Los trabajadores al servicio de la educación y sus sindicatos, con cualquier
 
 Su domicilio se encuentra en: Bulevar Isidro López Zertuche 2791 Segundo Piso, Colonia Los Maestros. C.P. 25236. Teléfono: (844) 415.74.41
 
-2.	Recepción de promociones y demandas en horario de 09:00 a.m. a 16:30 pm.,  de lunes a viernes.
+2.	Recepción de promociones y demandas en horario de 09:00 a.m. a 16:30 p.m.,  de lunes a viernes.
 
 3.	Se integra por 3 Magistrados:
 

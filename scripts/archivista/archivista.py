@@ -31,7 +31,7 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 
 
 @click.group()
-@click.option('--rama', default='Transparencia', type=str, help='Conócenos, Sesiones, Transparencia o Transparencia TCA')
+@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Comunicados, Conócenos, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
 @pass_config
 def cli(config, rama):
     click.echo('Hola, ¡soy Archivista!')
@@ -40,12 +40,21 @@ def cli(config, rama):
     # Definir insumos_ruta
     config.insumos_ruta = f'{config.nextcloud_ruta}/{config.rama}'
     # Definir metadatos_csv y plantillas_ruta
-    if config.rama == 'Conócenos':
+    if config.rama == 'Acuerdos':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/acuerdos/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/acuerdos/plantillas'
+    elif config.rama == 'Comunicados':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/comunicados/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/comunicados/plantillas'
+    elif config.rama == 'Conócenos':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/conocenos/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/conocenos/plantillas'
     elif config.rama == 'Sesiones':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/sesiones/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/sesiones/plantillas'
+    elif config.rama == 'Trámites y Servicios':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/tramites-servicios/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/tramites-servicios/plantillas'
     elif config.rama == 'Transparencia':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/transparencia/transparencia.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/transparencia/plantillas'

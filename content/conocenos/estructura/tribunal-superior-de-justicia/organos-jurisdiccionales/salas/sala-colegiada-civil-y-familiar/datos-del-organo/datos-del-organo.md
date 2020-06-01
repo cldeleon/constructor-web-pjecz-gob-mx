@@ -9,13 +9,11 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del Órgano
-
 Blvd. Francisco Coss No. 945, segundo piso
-Zona Centro, C.P. 25000 
+Zona Centro, C.P. 25000
 Saltillo, Coahuila.
 
-Teléfono: 194 51 00 ext. 5651
+Teléfono:  (844) 194 51 00 ext. 5651
 
 
 

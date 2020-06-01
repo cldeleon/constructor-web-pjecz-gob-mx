@@ -11,12 +11,15 @@ Modified: 2020-05-04 09:12
 
 ### Formulario de Contacto
 
-
 Lic. Sonia Vanessa Ramírez Rodríguez
+
 Coordinadora de Calidad
+
 800 832 7880 (844) 4 308405
+
 Blvd. Isidro López Zertuche #2791, Col. Los Maestros, C.P. 25260, Saltillo, Coahuila
-Correo.-soniavanessa.ramirez@coahuila.gob.mx
+
+Correo electrónico <mailto:soniavanessa.ramirez@coahuila.gob.mx>
 
 
 

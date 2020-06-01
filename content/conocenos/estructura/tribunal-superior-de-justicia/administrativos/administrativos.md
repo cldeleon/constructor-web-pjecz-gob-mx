@@ -17,7 +17,5 @@ Modified: 2020-05-04 09:12
 - [Directorio](oficialia-mayor/directorio/)
 - [Funciones](oficialia-mayor/funciones/)
 
-## [Unidad Jurídica](unidad-juridica/)
-
 
 

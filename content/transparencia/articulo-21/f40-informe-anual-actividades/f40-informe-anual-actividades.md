@@ -10,21 +10,27 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XL Informe Actual de Actividades
 
-### RESPONSABLE
+El informe anual de actividades;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-El informe anual de actividades;
 
 
 ### 2016
 
 
 * [Informe PJECZ 2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2016/Informe PJECZ 2016.pdf)
+
+
+### 2017
+
+
+* [Informe PJECZ 2017.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2017/Informe PJECZ 2017.pdf)
 
 
 ### 2018
@@ -36,6 +42,6 @@ El informe anual de actividades;
 ### 2019
 
 
-* [Informe pjecz 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2019/Informe pjecz 2019.pdf)
+* [Informe PJECZ 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F40 Informe Anual de Actividades/2019/Informe PJECZ 2019.pdf)
 
 

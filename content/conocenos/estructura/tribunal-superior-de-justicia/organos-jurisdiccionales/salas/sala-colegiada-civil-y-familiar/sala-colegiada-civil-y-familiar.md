@@ -13,7 +13,7 @@ La Sala Colegiada Civil y Familiar del Tribunal Superior de Justicia es el órga
 * [Objetivo](objetivo/)
 * [Funciones](funciones/)
 * [Datos del órgano](datos-del-organo/)
-* [Directorio](directorio/)  
-* [Formulario de Contato](formulario-de-contacto/)
+* [Directorio](directorio/)
+
 
 

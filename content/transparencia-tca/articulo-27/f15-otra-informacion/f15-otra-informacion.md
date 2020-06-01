@@ -8,22 +8,18 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Artículo 27, 15. OTRA INFORMACIÓN
+## ART. 27, 15. OTRA INFORMACIÓN
 
 Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal
-
 
 ### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
 
-
-LINK A OTRA INFORMACIÓN DEL TRIBUNAL SUPERIOR DE JUSTICIA
-
+[Otra información ](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
 
 

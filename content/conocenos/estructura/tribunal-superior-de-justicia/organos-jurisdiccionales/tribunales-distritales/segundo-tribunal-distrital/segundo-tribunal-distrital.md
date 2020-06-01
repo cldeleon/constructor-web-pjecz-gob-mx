@@ -8,8 +8,6 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Segundo Tribunal Distrital
-
 
 * [Datos del Órgano](datos-del-organo/)
 * [Directorio](directorio/)

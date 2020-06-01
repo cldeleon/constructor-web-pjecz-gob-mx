@@ -10,14 +10,22 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXXIII Georreferenciación de Obras Públicas
 
-### RESPONSABLE
+La georreferenciación e imagen de todas las obras públicas, señalando: sector al que pertenece, ubicación y monto asignado y ejercido;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-La georreferenciación e imagen de todas las obras públicas, señalando: sector al que pertenece, ubicación y monto asignado y ejercido;
+**Nota Informativa:**
+
+El Poder Judicial del Estado de Coahuila de Zaragoza no realiza o ejecuta ningún tipo de obra pública. Por lo que dicha fracción **no es aplicable.**
+
+Esta información se publica una vez por año y solo es actualizada cada que exista un cambio, de acuerdo al calendario de la IPO, publicado y aprobado.
+
+### 
 
 

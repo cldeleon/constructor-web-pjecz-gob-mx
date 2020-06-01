@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN XXVIII. PADRÓN DE PROVEEDORES
 
-El padrón de proveedores y contratistas, identificando el nombre de la persona física o moral, el número de identificación, el domicilio fiscal, el inicio de operaciones, la fecha de registro y de vigencia, así como la copia del acta constitutiva y sus posteriores modificaciones
+El padrón de proveedores y contratistas, identificando el nombre de la persona física o moral, el número de identificación, el domicilio fiscal, el inicio de operaciones, la fecha de registro y de vigencia, así como la copia del acta constitutiva y sus posteriores modificaciones.
 
 
 ### RESPONSABLE

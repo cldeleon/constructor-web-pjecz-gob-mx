@@ -8,24 +8,28 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-### Art. 21 Fracc. XII
 
-### RESPONSABLE
-
-Cada una de las áreas responsables que brindan el Servicio o Trámite del Poder Judicial del Estado de Coahuila
-
-### FECHA DE VALIDACIÓN
-
-4 de mayo de 2020
+### Art. 21 Fracc. XII Servicios y Trámites
 
 Un listado con los servicios que ofrece, que incluya los trámites, tiempos de respuesta, requisitos, objetivo y formatos para acceder a ellos, así como información sobre la población o sector a quien vayan dirigidos
 
+#### RESPONSABLE
+
+Cada una de las áreas responsables que brindan el Servicio o Trámite del Poder Judicial del Estado de Coahuila
+
+#### FECHA DE VALIDACIÓN
+
+4 de mayo de 2020
+
 * [Registro Estatal de Deudores Alimentarios Morosos](https://www.pjecz.gob.mx/servicios/registro-estatal-de-deudores-alimentarios-morosos/)
-* [Instituto Estatal de Defensoría Pública](http://www.pjecz.gob.mx/poder-judicial/instituto-de-especializacion-judicial/servicios/)
-* [Medios Alternos de Solución de Conflictos](https://www.pjecz.gob.mx/poder-judicial/centro-de-medios-alternos-cemasc/servicios-cemasc/)
-* [Solicitud de Acceso a la Información](https://www.pjecz.gob.mx/transparencia/articulo-21/fraccion-21-xii-servicios-y-tramites/solicitud-de-acceso-a-la-informacion/)
-* [Registro de Titulos](https://www.pjecz.gob.mx/servicios/registro-de-titulos/)
-* [Requisitos para ingresar a la lista de Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-21/fraccion-21-xii-servicios-y-tramites/lista-de-auxiliares-de-la-administracion-de-justicia/)
-* [Consejo de la Judicatura ](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/tramites-y-servicios/)
+* [Instituto Estatal de Defensoría Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/tramites-y-servicios/)
+* [Medios Alternos de Solución de Conflictos](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/tramites-y-servicios/)
+* [Instituto de Especialización Judicial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/tramites-y-servicios/)
+* [Emisión de dictámenes por el Centro de Evaluación Psicosocial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/centro-de-evaluacion-psicosocial/tramites-y-servicios/)
+* [Oficialía de Partes](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/oficialia-de-partes/tramites-y-servicios/)
+* [Solicitud de Acceso a la Información](http://189.254.130.35/infocoahuila/)
+* [Registro de Titulos y Requisitos para ingresar a la lista de Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/pleno/tramites-y-servicios/)
+* [Expedición de copias simples y certificadas de los expedientes generados por los órganos jurisdiccionales del Poder Judicial del Estado](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/presidencia/archivo/tramites-y-servicios/)
+* [Consejo de la Judicatura](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/tramites-y-servicios/)
 
 

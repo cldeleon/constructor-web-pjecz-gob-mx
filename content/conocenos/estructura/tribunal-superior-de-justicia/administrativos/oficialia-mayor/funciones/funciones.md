@@ -85,5 +85,15 @@ Corresponden a los Directores y a los titulares de la Unidades Administrativas, 
 8. Establecer los sistemas que tiendan a eficientar las labores del Poder Judicial; en coordinación con otras instancias federales y estatales
 9. Las demás que se deriven de los ordenamientos legales aplicables, acuerdos del Pleno del Tribunal, del Presidente y del Oficial Mayor.
 
+## Unidad Jurídica
+
+1. Elaborar los proyectos de informes previos y justificados, que deba rendir el titular de la Oficialía Mayor en los juicios de amparo en que sea señalado como autoridad responsable, así como presentar los informes que se autoricen, y fungir como delegado en los Juicios de Amparo cuando el Poder Judicial tenga el carácter de tercero perjudicado;
+2. Formular y revisar, previo acuerdo con el Oficial Mayor, los contratos en los que participe el Poder Judicial;
+3. Formular para su trámite posterior, los anteproyectos de acuerdos, iniciativas, Reglamentos, Manuales, Convenios y demás disposiciones internas que le sean encomendadas por el Pleno del Tribunal, el Consejo, el Presidente o el Oficial Mayor;
+4. Vigilar que los convenios, contratos, y órdenes de trabajo que vinculen al Tribunal con contratistas, proveedores y prestadores de servicios, sean cumplidos en los términos pactados;
+5. Proporcionar asesoría jurídica a las dependencias del Poder Judicial que así lo requieran;
+6. Realizar y coordinar conjuntamente con la Dirección de Recursos Materiales, los procesos de licitaciones públicas, de invitación restringida y de adjudicaciones directas, que el Consejo o el Presidente del Tribunal acuerden en materia de adquisiciones, prestación de servicios y arrendamientos; y
+7. Las demás que se deriven de los ordenamientos legales aplicables, acuerdos del Pleno del Tribunal, del Presidente y del Oficial Mayor.
+
 
 

@@ -8,14 +8,15 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-### Cuarto Tribunal Distrital
-Con residencia en Piedras Negras
 
-Bulevar República 1906 
+**Cuarto Tribunal Distrital con residencia en Piedras Negras**
+
+Boulevard República 1906
 Colonia Tecnológico
 Piedras Negras, Coahuila
 CP 26080
-Teléfono: 878 795 44 84
+
+Teléfono: (878) 795 44 84
 
 
 

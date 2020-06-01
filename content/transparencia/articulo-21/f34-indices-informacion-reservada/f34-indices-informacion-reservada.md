@@ -10,15 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXXIV Indices de Información Reservada
 
-### RESPONSABLE
+Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-Los índices de expedientes clasificados como reservados elaborados semestralmente y por rubros temáticos;
 
 
 ## Descargar

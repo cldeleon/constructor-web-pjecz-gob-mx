@@ -9,72 +9,67 @@ Modified: 2020-05-04 09:12
 
 
 
-### Directorio
+### Lic.Iván Ortiz Jiménez
 
-## Lic.Iván Ortiz Jiménez
-	
 Magistrado(a) Distrital
 
 ---
 
-## Lic.Diana Marcela Saucedo González
+### Lic.Diana Marcela Saucedo González
 
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-## Lic.Gabriela Calamaco Vega  	
+### Lic.Gabriela Calamaco Vega
 
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-## Lic.Mónica Elizabeth Guerrero Hinojosa 
+### Lic.Mónica Elizabeth Guerrero Hinojosa
 
 Actuario(a)
 
 ---
 
-## Mónica Arellano Jaquez
+### Mónica Arellano Jaquez
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Pricila Olalde Aguilar 
+### Pricila Olalde Aguilar
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Lucero Flores Domínguez
-	
-Secretario(a) Taquimecanógrafo(a)
-
----
-
-## Carolina Torres Solís 
+### Lucero Flores Domínguez
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Anett Rodríguez Anguiano
+### Carolina Torres Solís
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Cecilio Sánchez Rodríguez 
+### Anett Rodríguez Anguiano
+
+Secretario(a) Taquimecanógrafo(a)
+
+---
+
+### Cecilio Sánchez Rodríguez
 
 Auxiliar Administrativo
 
 ---
 
-#### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
-
-
-
+### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

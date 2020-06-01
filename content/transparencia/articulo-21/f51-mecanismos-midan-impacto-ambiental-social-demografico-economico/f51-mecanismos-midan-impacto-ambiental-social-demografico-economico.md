@@ -10,18 +10,18 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. LI Mecanismos que midan el impacto ambiental.
 
-### RESPONSABLE
+Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos
+**NOTA INFORMATIVA**
 
-NO aplica lo dispuesto en la fracción XLI del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a “Los mecanismos y los resultados de la evaluación, investigación o la integración de expedientes que midan el impacto ambiental, social, demográfico o económico que se realicen para el desarrollo de planes o proyectos”.
-
-Toda vez que dentro de sus funciones, y de conformidad con la Constitución Política del Estado de Coahuila de Zaragoza y con la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, no se encuentra la de construir estos mecanismos.
+**NO aplica** lo dispuesto en la fracción XLI del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, toda vez que dentro de sus funciones, y de conformidad con la Constitución Política del Estado de Coahuila de Zaragoza y con la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, no se encuentra la de construir estos mecanismos.
 
 

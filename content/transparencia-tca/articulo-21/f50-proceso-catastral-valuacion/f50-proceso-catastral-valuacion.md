@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN L. VALUACIÓN DE PREDIOS
 
-El proceso catastral de valuación de los predios
+El proceso catastral de valuación de los predios.
 
 ### RESPONSABLE
 
