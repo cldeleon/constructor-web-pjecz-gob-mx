@@ -18,7 +18,6 @@ Modified: 2020-05-04 09:12
 
 * [Central de Actuarios](tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/)
 * [Juzgados por Distrito](tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/)
-* [Juzgados por Materia](tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/)
 * [Pleno](tribunal-superior-de-justicia/organos-jurisdiccionales/pleno/)
 * [Salas](tribunal-superior-de-justicia/organos-jurisdiccionales/salas/)
 * [Tribunal Constitucional](tribunal-superior-de-justicia/organos-jurisdiccionales/tribunal-constitucional/)

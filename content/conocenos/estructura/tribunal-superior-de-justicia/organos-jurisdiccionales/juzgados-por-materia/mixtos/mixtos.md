@@ -8,7 +8,12 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - Juzgados por Materia - MIXTOS
+
+**Acuña**
+
+**Juzgado Parras**
+
+**Juzgado San Pedro**
 
 
 

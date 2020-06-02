@@ -10,6 +10,8 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, FRACCIÓN 8. SENTENCIAS QUE HAN CAUSADO EJECUTORIA
 
+### CONSULTA
+
 - [Sentencias que han causado ejecutoria](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 

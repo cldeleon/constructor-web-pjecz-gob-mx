@@ -9,7 +9,21 @@ Modified: 2020-05-04 09:12
 
 
 
-### Formulario de Contacto
+
+
+Rogelio Padilla Muñoz
+
+Secretario General 
+
+Blvd. Isidro López Zertuche,  no. 2791, 
+
+Colonia Los Maestros, C.P. 25260
+
+Saltillo, Coahuila
+
+Teléfono: 844 415-74-41
+
+rogelio.padilla@coahuila.gob.mx
 
 
 

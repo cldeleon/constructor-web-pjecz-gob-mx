@@ -8,7 +8,52 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - Juzgados por Materia - FAMILIARES
+
+## Juzgados Familiares
+
+**Juzgado 1º Saltillo**
+
+**Juzgado 2º Saltillo**
+
+**Juzgado 3º Saltillo**
+
+**Juzgado 4º Saltillo**
+
+**Juzgado 1º Torreón**
+
+**Juzgado 2º Torreón**
+
+**Juzgado 3º Torreón**
+
+**Juzgado 4º Torreón**
+
+**Juzgado 5º Torreón**
+
+**Juzgado 1º Monclova**
+
+**Juzgado 2º Monclova**
+
+**Juzgado 3º Monclova**
+
+**Juzgado 4º Monclova**
+
+**Juzgado 1º Piedras Negras**
+
+**Juzgado 2º Piedras Negras**
+
+**Juzgado Sabinas**
+
+**Juzgado Acuña**
+
+**Juzgado Parras**
+
+**Juzgado San Pedro**
+
+## Juzgados Auxiliares Familiares
+
+**Juzgado 2º Saltillo**
+
+**Juzgado Sabinas**
 
 
 

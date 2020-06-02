@@ -8,6 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+
 Las Centrales de Actuarios, son Unidades Administrativas del Consejo de la Judicatura, cuyo objeto, es organizar el turno aleatorio, así como llevar el control de las diligencias que ordenen los órganos jurisdiccionales que deben realizarse fuera de la sede judicial, con el apoyo de las tecnologías de la información y comunicación, de acuerdo a la demarcación territorial comprendida en el distrito judicial que se establezca, previo al acuerdo correspondiente por pate de estos.
 
 ## Objetivo

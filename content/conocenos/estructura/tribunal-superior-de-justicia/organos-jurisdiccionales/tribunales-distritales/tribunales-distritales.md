@@ -8,6 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+
 El Poder Judicial del Estado de Coahuila de Zaragoza cuenta con cuatro Tribunales Distritales integrados cada uno por un magistrado o magistrada, los cuales son los encargados de conocer de los recursos de apelación y queja que se promueven en contra de autos y sentencias interlocutorias dictadas por los jueces de Primera Instancia y jueces Letrados civiles adscritos a su circunscripción territorial; también resuelven recursos de apelaciones extraordinarias, así como apelaciones contra sentencias definitivas dictadas por los jueces Letrados en materia civil.
 
 De igual manera, están encargados de resolver sobre los impedimentos, excusas y recusaciones de las y los jueces de Primera Instancia y jueces Letrados de su adscripción; sobre los conflictos de competencia que se susciten en esos órganos y sobre la resolución de las denuncias, quejas y acusaciones por faltas administrativas que se presenten en contra del personal del propio Tribunal Distrital.

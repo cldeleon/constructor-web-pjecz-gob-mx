@@ -24,6 +24,6 @@ El Tribunal de Conciliación y Arbitraje es un Órgano integrante del Poder Judi
 
 A continuación se proporciona el enlace a la información correspondiente:
 
-[Presupuesto Asignado](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f20-presupuesto-asignado/)
+[Presupuesto Asignado](https://www.pjecz.gob.mx/transparencia/articulo-21/f20-presupuesto-asignado/)
 
 

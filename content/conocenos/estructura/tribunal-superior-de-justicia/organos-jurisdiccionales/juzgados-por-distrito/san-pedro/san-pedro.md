@@ -8,7 +8,20 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - Juzgados por Distrito - SAN PEDRO
+
+## Juzgado de Primera Instancia en Materia Civil y Familiar
+
+Domicilio: Av. Benito Juárez No. 193, Centro,
+C.P. 27800 San Pedro de las Colonias, Coahuila.
+
+Teléfono: 872-772-0429
+
+## Juzgado de Primera Instancia en Materia Familiar
+
+Domicilio: Av. Benito Juárez No. 193, Centro,
+C.P. 27800 San Pedro de las Colonias, Coahuila.
+
+Teléfono: 872-772-0854
 
 
 

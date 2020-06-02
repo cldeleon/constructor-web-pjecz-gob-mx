@@ -18,3 +18,12 @@ Modified: 2020-05-04 09:12
 * [Acuerdo de autorización a examen de conocimientos prácticos.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos No Jurisdiccionales/CEMASC/Procedimientos de certificación para facilitadores en mediación y conciliación/Proceso de Certificación 2019/Acuerdo de autorización a examen de conocimientos prácticos.pdf)
 
 
+### 01 Primer Proceso
+
+
+### 02 Segundo Proceso
+
+
+### 03 Tercer Proceso
+
+

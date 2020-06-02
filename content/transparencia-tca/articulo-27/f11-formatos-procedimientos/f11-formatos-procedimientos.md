@@ -8,12 +8,6 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Descargar
-
-
-* [TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F11 Formatos de procedimientos/TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt)
-
-
 ## ART. 27, 11. FORMATO DE PROCEDIMIENTOS
 
 Formatos de procedimientos.
@@ -25,5 +19,11 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
+
+
+## Descargar
+
+
+* [TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F11 Formatos de procedimientos/TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt)
 
 

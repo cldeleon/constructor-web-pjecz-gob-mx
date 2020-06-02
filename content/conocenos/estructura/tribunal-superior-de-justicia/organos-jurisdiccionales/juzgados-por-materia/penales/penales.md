@@ -8,7 +8,32 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - Juzgados por Materia - PENALES
+
+## Juzgados Penales Tradicionales
+
+**Juzgado 1º Saltillo**
+
+**Juzgado 4º Torreón**
+
+**Juzgado 5º Torreón**
+
+**Juzgado 2º Piedras Negras**
+
+## Juzgados Penales del Sistema Acusatorio y Oral
+
+**Saltillo**
+
+**Torreón**
+
+**Monclova**
+
+**Piedras Negras**
+
+**Sabinas**
+
+**Acuña**
+
+**San Pedro**
 
 
 

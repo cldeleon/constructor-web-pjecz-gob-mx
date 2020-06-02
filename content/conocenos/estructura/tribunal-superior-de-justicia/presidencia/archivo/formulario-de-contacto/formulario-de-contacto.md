@@ -15,9 +15,12 @@ Modified: 2020-05-04 09:12
 Director
 
 Dirección: Emilio Carranza norte, número 505, entre calles Álvarez y Muzquiz,
+
 Colonia Centro, Saltillo, Coahuila de Zaragoza
 
 Tel. (844) 4 39-03-67
+
+Correo:marcos.solis@coahuila.gob.mx
 
 
 

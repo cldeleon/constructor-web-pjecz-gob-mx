@@ -10,6 +10,8 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, FRACCIÓN 6. LISTAS DE ACUERDOS
 
+### CONSULTA
+
 - [Listas de Acuerdo](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)
 
 

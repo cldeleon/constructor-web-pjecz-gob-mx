@@ -9,11 +9,22 @@ Modified: 2020-05-04 09:12
 
 
 
-Blvd. Francisco Coss No. 945, segundo piso, Zona Centro, C.P. 25000 en Saltillo, Coahuila de Zaragoza.
+Blvd. Francisco Coss No. 945, segundo piso,
 
-Correo electrónico: presidenciatsje@gmail.com, presidencia@pjec.gob.mx, presidencia@poderjudicialcoahuila.gob.mx
+Zona Centro, C.P. 25000 
 
-Teléfono: 194 51 00 ext. 5601
+Saltillo, Coahuila de Zaragoza.
+
+
+Teléfono: (844) 194 51 00 ext. 5601
+
+
+Correo electrónico: presidenciatsje@gmail.com
+
+presidencia@pjec.gob.mx
+
+presidencia@poderjudicialcoahuila.gob.mx
+
 
 
 

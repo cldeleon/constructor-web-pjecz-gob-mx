@@ -8,6 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+
 ## Justicia Constitucional Local
 
 La Constitución Política del Estado de Coahuila de Zaragoza, conforme a los principios y reglas emanadas del artículo 116 de la Constitución Política de los Estados Unidos Mexicanos, se erige como norma suprema del Estado y, con arreglo a ella, se emite el sistema normativo coahuilense, se delimita el ejercicio del poder público y se salvaguardan los derechos de las personas. De ahí, la supremacía constitucional y, por ende, la justificación de encomendar a un órgano su protección. Así, el resguardo de nuestra Constitución Local se deposita en el poder judicial por lo que, de acuerdo con lo establecido en su ley orgánica, corresponde al Pleno del Tribunal Superior de Justicia, con el carácter de Tribunal Constitucional, conocer entre otros medios de control constitucional de las controversias constitucionales y las acciones de inconstitucionalidad locales.
