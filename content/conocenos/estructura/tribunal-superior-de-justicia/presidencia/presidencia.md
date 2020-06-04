@@ -10,33 +10,33 @@ Modified: 2020-05-04 09:12
 
 ## [Presidencia](presidencia/)
 
-* [Objetivo](presidencia/objetivo/)
-* [Funciones](presidencia/funciones/)
-* [Datos del órgano](presidencia/datos-del-organo/)
-* [Directorio](presidencia/directorio/)
+- [Objetivo](presidencia/objetivo/)
+- [Funciones](presidencia/funciones/)
+- [Datos del órgano](presidencia/datos-del-organo/)
+- [Directorio](presidencia/directorio/)
 
 ## [Unidad de Derechos Humanos e Igualdad de Género](unidad-de-derechos-humanos-e-igualdad-de-genero/)
 
-* [Objetivo](unidad-de-derechos-humanos-e-igualdad-de-genero/objetivo/)
-* [Funciones](unidad-de-derechos-humanos-e-igualdad-de-genero/funciones/)
-* [Datos del órgano](unidad-de-derechos-humanos-e-igualdad-de-genero/datos-del-organo/)
-* [Directorio](unidad-de-derechos-humanos-e-igualdad-de-genero/directorio/)
-* [Formulario de Contato](unidad-de-derechos-humanos-e-igualdad-de-genero/formulario-de-contacto/)
+- [Objetivo](unidad-de-derechos-humanos-e-igualdad-de-genero/objetivo/)
+- [Funciones](unidad-de-derechos-humanos-e-igualdad-de-genero/funciones/)
+- [Datos del órgano](unidad-de-derechos-humanos-e-igualdad-de-genero/datos-del-organo/)
+- [Directorio](unidad-de-derechos-humanos-e-igualdad-de-genero/directorio/)
+- [Formulario de Contato](unidad-de-derechos-humanos-e-igualdad-de-genero/formulario-de-contacto/)
 
 ## [Auditoría Interna](auditoria-interna/)
 
-* [Objetivo](auditoria-interna/objetivo/)
-* [Funciones](auditoria-interna/funciones/)
-* [Datos del órgano](auditoria-interna/datos-del-organo/)
-* [Directorio](auditoria-interna/directorio/)
-* [Formulario de Contato](auditoria-interna/formulario-de-contacto/)
+- [Objetivo](auditoria-interna/objetivo/)
+- [Funciones](auditoria-interna/funciones/)
+- [Datos del órgano](auditoria-interna/datos-del-organo/)
+- [Directorio](auditoria-interna/directorio/)
+- [Formulario de Contato](auditoria-interna/formulario-de-contacto/)
 
 ## [Archivo Judicial General](archivo/)
 
-* [Datos del órgano](archivo/datos-del-organo/)
-* [Directorio](archivo/directorio/)
-* [Trámites y Servicios](archivo/tramites-y-servicios/)
-* [Formulario de Contato](archivo/formulario-de-contacto/)
+- [Datos del órgano](archivo/datos-del-organo/)
+- [Directorio](archivo/directorio/)
+- [Trámites y Servicios](archivo/tramites-y-servicios/)
+- [Formulario de Contato](archivo/formulario-de-contacto/)
 
 
 

@@ -8,6 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+## Directorio de la Presidencia
 
 ![Miguel Felipe Mery Ayup](miguel-felipe-mery-ayup.jpg)
 
@@ -23,7 +24,7 @@ Secretaria Particular
 
 ---
 
-## Lic. Claudia Delfina Herrera Villar
+### Lic. Claudia Delfina Herrera Villar
 
 Consejera Jurídica
 

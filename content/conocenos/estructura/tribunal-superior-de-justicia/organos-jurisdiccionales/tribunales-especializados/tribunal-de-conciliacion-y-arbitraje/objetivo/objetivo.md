@@ -8,6 +8,8 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+## Tribunal de Conciliación y Arbitraje
+
 El 29 de marzo de 1961, en el Periódico Oficial del Estado de Coahuila de Zaragoza, se publica el decreto 311, relativo al Estatuto Jurídico para los Trabajadores de la Educación al Servicio del Estado y los Municipios de Coahuila de Zaragoza que regula la relación de trabajo, individual y colectiva, entre el Gobierno del Estado, Municipios y los trabajadores de la educación, así mismo, regula la creación del Tribunal de Arbitraje con competencia para dirimir los conflictos laborales suscitados entre las dependencias antes mencionadas y los trabajadores de la educación.
 
 El 21 de octubre de 1972 se publica el decreto 209 relativo al Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila de Zaragoza que regula la relación de trabajo, individual y colectiva, entre las dependencias del Gobierno del Estado, dependencias municipales, Órganos Autónomos y sus trabajadores. Ésta legislación regula la creación e instalación del Tribunal de Conciliación y Arbitraje, con competencia para dirimir los conflictos laborales suscitados entre las dependencias antes mencionadas y sus trabajadores. El 31 de diciembre de 1991 se reforma el Estatuto en comento y se determina que el Tribunal funcionará en dos secciones, la primera sección conocería de los conflictos surgidos entre los Poderes del Estado y sus trabajadores y la segunda sección conocería de los conflictos surgidos entre los Municipios y sus trabajadores.

@@ -1,9 +1,9 @@
-Title: Trámites
-Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunales-especializados-tribunal-de-conciliacion-y-arbitraje-tramites
+Title: Trámites y Servicios
+Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunales-especializados-tribunal-de-conciliacion-y-arbitraje-tramites-y-servicios
 Summary: .
 Tags: Conócenos
-URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/tramites/
-Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/tramites/index.html
+URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/tramites-y-servicios/
+Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/tramites-y-servicios/index.html
 Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 

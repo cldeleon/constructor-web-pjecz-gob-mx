@@ -42,7 +42,6 @@ Modified: 2020-05-04 09:12
 #### [Administrativo](estructura/tribunal-superior-de-justicia/administrativos/)
 
 * [Oficialía Mayor](estructura/tribunal-superior-de-justicia/administrativos/oficialia-mayor/)
-* [Unidad Jurídica](estructura/tribunal-superior-de-justicia/administrativos/unidad-juridica/)
 
 ## [Directorio General](directorio-general/)
 

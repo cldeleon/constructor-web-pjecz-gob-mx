@@ -23,7 +23,7 @@ C.P. 27276 Torreón, Coahuila.
 
 Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
 
-## Juzgado Tercero de Primera Instancia en Materia Civil Torreón
+## Juzgado Tercero de Primera Instancia en Materia Civil
 
 Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
 C.P. 27276 Torreón, Coahuila.

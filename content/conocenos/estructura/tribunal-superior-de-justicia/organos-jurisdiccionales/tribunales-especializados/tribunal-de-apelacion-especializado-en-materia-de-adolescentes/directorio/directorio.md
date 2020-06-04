@@ -8,37 +8,33 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+## Tribunal de Apelación Especializado en materia de Adolescentes
 
-
-## Lic. Alfonso Olegario Zamora Salas
+### Lic. Alfonso Olegario Zamora Salas
 
 Magistrado(a)
 
 ---
 
-## Lic. Nelson Ulises Herrera Ibarra
+### Lic. Nelson Ulises Herrera Ibarra
 
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-## Karla Deisy Padilla Gonzalez 
+### Karla Deisy Padilla Gonzalez
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## María Guadalupe Trujillo García
+### María Guadalupe Trujillo García
 
 Secretario(a) Taquimecanógrafo(a)
 
-
 ---
 
-[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
-
-
-
+[Ir al Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

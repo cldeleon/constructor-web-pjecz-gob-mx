@@ -9,33 +9,123 @@ Modified: 2020-05-04 09:12
 
 
 
-**Juzgado Primero de Primera Instancia en Saltillo**
+## Juzgado de Primera Instancia en Materia Civil y Familiar Acuña
 
-**Juzgado 2º Saltillo**
+Domicilio: Calle Noche Buena No. 1005, Local 10,11 y 12, Colonia Cedros, C.P. 26236.
+Ciudad Acuña, Coahuila.
 
-**Juzgado 3º Saltillo**
+Teléfono: 877-772-8143
 
-**Juzgado 4º Saltillo**
+## Juzgado Primero de Primera Instancia en Materia Civil Monclova
 
-**Juzgado 2º Torreón**
+Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
+Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 
-**Juzgado 3º Torreón**
+Teléfono: 866-631-5588 y 866-631-5589
 
-**Juzgado 4º Torreón**
+## Juzgado Segundo de Primera Instancia en Materia Civil Monclova
+.
+Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
+Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 
-**Juzgado 1º Monclova**
+Teléfono: 866-631-5588 y 866-631-5589
 
-**Juzgado 2º Monclova**
+## Juzgado Tercero de Primera Instancia en Materia Civil Monclova
 
-**Juzgado 3º Monclova**
+Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
+Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 
-**Juzgado 1º Piedras Negras**
+Teléfono: 866-631-5588 y 866-631-5589
 
-**Juzgado 2º Piedras Negras**
+## Juzgado de Primera Instancia en Materia Civil y Familiar Parras de la Fuente
 
-**Juzgado Sabinas**
+Domicilio: Calle Ramos Arizpe No. 311 Zona Centro C.P. 27980 Parras de la Fuente, Coahuila.
 
-**Juzgado Acuña**
+Teléfono: 842-422-0689
+
+## Juzgado Primero de Primera Instancia en Materia Civil con Residencia en Piedras Negras
+
+Domicilio: Centro de Justicia, Boulevard Republica No. 1906 Colonia Tecnologico,
+C.P. 26080 Piedras Negras, Coahuila.
+
+Teléfono: 878-795-4457, 878-795-4407, 878-795-1944 Ext. 117
+
+## Juzgado Segundo de Primera Instancia en Materia Civil con Residencia en Piedras Negras
+
+Domicilio: Centro de Justicia, Boulevard Republica No. 1906 Colonia Tecnologico,
+C.P. 26080 Piedras Negras, Coahuila.
+
+Teléfono: 878-795-4457, 878-795-4407, 878-795-1944 Ext. 118
+
+## Juzgado de Primera Instancia en Materia Civil y Familiar Sabinas
+
+Domicilio: Boulevard Paseo de los Leones Km. 1 Colonia Fundadores,
+C.P. 26740 Sabinas, Coahuila.
+
+Teléfono: 861-612-0384
+
+## Juzgado Primero de Primera Instancia en Materia Civil Saltillo
+
+Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+C.P. 25284 Saltillo, Coahuila.
+
+Teléfono: 844-194-5070
+
+## Juzgado Segundo de Primera Instancia en Materia Civil Saltillo
+
+Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+C.P. 25284 Saltillo, Coahuila.
+
+Teléfono: 844-194-5070
+
+## Juzgado Tercero de Primera Instancia en Materia Civil Saltillo
+
+Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+C.P. 25284 Saltillo, Coahuila.
+
+Teléfono: 844-194-5070
+
+## Juzgado Cuarto de Primera Instancia en Materia Civil Saltillo
+
+Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+C.P. 25284 Saltillo, Coahuila.
+
+Teléfono: 844-194-5070
+
+## Juzgado de Primera Instancia en Materia Civil y Familiar San Pedro de las Colonias
+
+Domicilio: Av. Benito Juárez No. 193, Centro,
+C.P. 27800 San Pedro de las Colonias, Coahuila.
+
+Teléfono: 872-772-0429
+
+## Juzgado Primero de Primera Instancia en Materia Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
+
+## Juzgado Segundo de Primera Instancia en Materia Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
+
+## Juzgado Tercero de Primera Instancia en Materia Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
+
+## Juzgado Cuarto de Primera Instancia en Materia Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
 
 
 

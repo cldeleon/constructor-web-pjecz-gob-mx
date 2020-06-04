@@ -32,6 +32,26 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 
 
 
+### Acción de Insconstitucionalidad Local 3-2020
+
+
+* [Anexo 1 Comparativo internacional de MRLC.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 1 Comparativo internacional de MRLC.pdf)
+* [Anexo 2 Comparativo nacional de MRLC.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 2 Comparativo nacional de MRLC.pdf)
+* [Anexo 3 Comparativo local de MRLC.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 3 Comparativo local de MRLC.pdf)
+* [Anexo 4 Comparativo de MRDLC.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 4 Comparativo de MRDLC.pdf)
+* [Anexo 5 Relatoría de Audiencia de Alegatos.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 5 Relatoría de Audiencia de Alegatos.pdf)
+* [Anexo 6.1 Amicus Curiae de Miguel Ángel Presno Linera.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.1 Amicus Curiae de Miguel Ángel Presno Linera.pdf)
+* [Anexo 6.2 Amicus Curiae de Jaime Fernando Cárdenas Gracia.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.2 Amicus Curiae de Jaime Fernando Cárdenas Gracia.pdf)
+* [Anexo 6.3 Amicus Curiae de María del Pilar Hernández Martínez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.3 Amicus Curiae de María del Pilar Hernández Martínez.pdf)
+* [Anexo 6.4 Amicus Curiae de Víctor E. Alducin Flores M..pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.4 Amicus Curiae de Víctor E. Alducin Flores M..pdf)
+* [Anexo 6.5 Amicus Curiae de Ignacio Alfonso Salcido Dávila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.5 Amicus Curiae de Ignacio Alfonso Salcido Dávila.pdf)
+* [Anexo 6.6 Amicus Curiae de Aarón Alexandro Miranda Colchado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.6 Amicus Curiae de Aarón Alexandro Miranda Colchado.pdf)
+* [Anexo 6.7 Amicus Curiae de Genaro Andrés Manrique Giacoman.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.7 Amicus Curiae de Genaro Andrés Manrique Giacoman.pdf)
+* [Anexo 6.8 Amicus Curiae de la Academia IDH.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.8 Amicus Curiae de la Academia IDH.pdf)
+* [Anexo 6.9 Amicus Curiae Fray Juan de Larios.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.9 Amicus Curiae Fray Juan de Larios.pdf)
+* [Sentencia AIL 3-2020 Versión pública.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Sentencia AIL 3-2020 Versión pública.pdf)
+
+
 ### Citación para Sentencia
 
 
