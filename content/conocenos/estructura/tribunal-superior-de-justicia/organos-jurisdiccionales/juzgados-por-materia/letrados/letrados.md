@@ -9,11 +9,35 @@ Modified: 2020-05-04 09:12
 
 
 
-**Juzgado 1º Saltillo**
+## Juzgados Letrados
 
-**Juzgado 2º Saltillo**
+## Juzgado Primero Letrado Civil Saltillo
 
-**Juzgado 2º Torreón**
+Domicilio: Boulevard Isidro Lopez Zertuche No. 2791, Colonia Los Maestros,
+C.P. 25281 Saltillo, Coahuila.
+
+Teléfono: 844-438-0350
+
+## Juzgado Segundo Letrado Civil Saltillo
+
+Domicilio: Boulevard Isidro Lopez Zertuche No. 2791, Colonia Los Maestros,
+C.P. 25281 Saltillo, Coahuila.
+
+Teléfono: 844-438-0350
+
+## Juzgado Segundo Letrado Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
+
+## Juzgado Tercero Letrado Civil Torreón
+
+Domicilio: Palacio de Justicia, Avenida de las Fuentes Cruce con Calle Comerciantes Colonia La Merced,
+C.P. 27276 Torreón, Coahuila.
+
+Teléfono: 871-730-7744, 871-730-7745, 871-730-7746, 871-730-7747, 871-730-7748, 871-730-7750, 871-730-7754
 
 
 

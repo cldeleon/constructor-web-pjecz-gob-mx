@@ -30,7 +30,7 @@ C.P. 26740 Sabinas, Coahuila.
 
 Teléfono: 861-612-0384
 
-## Juzgado de Primera Instancia en Materia Penal
+## Juzgado de Primera Instancia en Materia Penal del Sistema Acusatorio y Oral
 
 Domicilio: Edificio del Cereso, Calle General Bravo y Ninos Heroes Jorge B. Cuellar
 C.P. 26766 Sabinas, Coahuila.

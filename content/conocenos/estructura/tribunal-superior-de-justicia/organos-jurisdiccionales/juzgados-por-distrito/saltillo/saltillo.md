@@ -11,28 +11,28 @@ Modified: 2020-05-04 09:12
 
 ## Juzgado Primero de Primera Instancia en Materia Civil
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Segundo de Primera Instancia en Materia Civil
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Tercero de Primera Instancia en Materia Civil
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Cuarto de Primera Instancia en Materia Civil
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
@@ -44,7 +44,14 @@ C.P. 25505 Saltillo, Coahuila.
 
 Teléfono: 844-688-2297, 844-688-2298
 
-## Juzgado Segundo de Primera Instancia en Materia  Mercantil
+## Juzgado Segundo de Primera Instancia en Materia Mercantil
+
+Domicilio: Blvd. Luis Donaldo Colosio No. 703, Colonia Valle Real 2do Sector,
+C.P. 25505 Saltillo, Coahuila.
+
+Teléfono: 844-688-2297, 844-688-2298
+
+## Juzgado Tercero de Primera Instancia en Materia Mercantil
 
 Domicilio: Blvd. Luis Donaldo Colosio No. 703, Colonia Valle Real 2do Sector,
 C.P. 25505 Saltillo, Coahuila.
@@ -67,28 +74,35 @@ Teléfono: 844-438-0350
 
 ## Juzgado Primero de Primera Instancia en Materia Familiar
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Segundo de Primera Instancia en Materia Familiar
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
+C.P. 25284 Saltillo, Coahuila.
+
+Teléfono: 844-194-5070
+
+## Juzgado Segundo Auxiliar de Primera Instancia en Materia Familiar
+
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Tercero de Primera Instancia en Materia Familiar
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
 
 ## Juzgado Cuarto de Primera Instancia en Materia Familiar
 
-Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metropolitano,
+Domicilio: Centro de Justicia, Periferico Luis Echeverria No. 5402 Parque Metropolitano,
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070

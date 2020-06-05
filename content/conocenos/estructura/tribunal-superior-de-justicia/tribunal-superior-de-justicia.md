@@ -14,6 +14,7 @@ Modified: 2020-05-04 09:12
 
 - [Presidencia](presidencia/presidencia/)
 - [Unidad de Derechos Humanos e Igualdad de Género](presidencia/unidad-de-derechos-humanos-e-igualdad-de-genero/)
+- [Secretaría Técnica y de Transparencia](secretaria-tecnica-y-de-transparencia/)
 - [Auditoría Interna](presidencia/auditoria-interna/)
 - [Archivo Judicial General](presidencia/archivo/)
 

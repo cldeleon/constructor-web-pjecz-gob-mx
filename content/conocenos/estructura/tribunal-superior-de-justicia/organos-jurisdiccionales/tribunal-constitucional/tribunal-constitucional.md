@@ -50,6 +50,7 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 * [Anexo 6.8 Amicus Curiae de la Academia IDH.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.8 Amicus Curiae de la Academia IDH.pdf)
 * [Anexo 6.9 Amicus Curiae Fray Juan de Larios.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Anexo 6.9 Amicus Curiae Fray Juan de Larios.pdf)
 * [Sentencia AIL 3-2020 Versión pública.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Sentencia AIL 3-2020 Versión pública.pdf)
+* [Voto sobre Amicus Curiae Versión Pública.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Acción de Insconstitucionalidad Local 3-2020/Voto sobre Amicus Curiae Versión Pública.pdf)
 
 
 ### Citación para Sentencia

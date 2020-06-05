@@ -21,7 +21,7 @@ Modified: 2020-05-04 09:12
 ## [Tribunal de Apelación Especializado en materia de Adolescentes](tribunal-de-apelacion-especializado-en-materia-de-adolescentes/)
 
 - [Funciones](tribunal-de-apelacion-especializado-en-materia-de-adolescentes/funciones/)
-- [Datos del Órgano](tribunal-de-apelacion-especializado-en-materia-de-adolescentes/datos-del-órgano/)
+- [Datos del Órgano](tribunal-de-apelacion-especializado-en-materia-de-adolescentes/datos-del-organo/)
 - [Directorio](tribunal-de-apelacion-especializado-en-materia-de-adolescentes/directorio/)
 
 

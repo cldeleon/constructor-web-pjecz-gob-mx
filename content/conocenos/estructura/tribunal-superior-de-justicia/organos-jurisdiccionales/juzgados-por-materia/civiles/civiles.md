@@ -8,13 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-
-## Juzgado de Primera Instancia en Materia Civil y Familiar Acuña
-
-Domicilio: Calle Noche Buena No. 1005, Local 10,11 y 12, Colonia Cedros, C.P. 26236.
-Ciudad Acuña, Coahuila.
-
-Teléfono: 877-772-8143
+## Juzgados Civiles
 
 ## Juzgado Primero de Primera Instancia en Materia Civil Monclova
 
@@ -36,12 +30,6 @@ Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
 Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 
 Teléfono: 866-631-5588 y 866-631-5589
-
-## Juzgado de Primera Instancia en Materia Civil y Familiar Parras de la Fuente
-
-Domicilio: Calle Ramos Arizpe No. 311 Zona Centro C.P. 27980 Parras de la Fuente, Coahuila.
-
-Teléfono: 842-422-0689
 
 ## Juzgado Primero de Primera Instancia en Materia Civil con Residencia en Piedras Negras
 
@@ -91,13 +79,6 @@ Domicilio: Centro de Justicia, Perififerico Luis Echeverria No. 5402 Parque Metr
 C.P. 25284 Saltillo, Coahuila.
 
 Teléfono: 844-194-5070
-
-## Juzgado de Primera Instancia en Materia Civil y Familiar San Pedro de las Colonias
-
-Domicilio: Av. Benito Juárez No. 193, Centro,
-C.P. 27800 San Pedro de las Colonias, Coahuila.
-
-Teléfono: 872-772-0429
 
 ## Juzgado Primero de Primera Instancia en Materia Civil Torreón
 
