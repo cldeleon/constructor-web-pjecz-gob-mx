@@ -20,13 +20,15 @@ Magistrado Presidente de la Sala Colegiada Penal
 ![María Luisa Valencia García](sp-maría-luisa-valencia-garcía.jpg)
 
 ### Mtra. María Luisa Valencia García
+
 Magistrada Sala Colegiada Penal
 
 ---
 
-![Manuel Alberto Flores Hernández](sp-manuel-alberto flores-hernández.jpg)
+![Manuel Alberto Flores Hernández](sp-manuel-alberto-flores-hernández.jpg)
 
 ### Lic. Manuel Alberto Flores Hernández
+
 Magistrado Sala Colegiada Penal
 
 ---
@@ -34,6 +36,7 @@ Magistrado Sala Colegiada Penal
 ![Homero Ramos Gloria](sp-homero-ramos-gloria.jpg)
 
 ###Lic. Homero Ramos Gloria
+
 Magistrado Sala Colegiada Penal
 
 ---
@@ -41,6 +44,7 @@ Magistrado Sala Colegiada Penal
 ![Luis Efrén Ríos Vega](sp-luis-efren-rios-vega.jpg)
 
 ### Lic. Luis Efrén Ríos Vega
+
 Magistrado Sala Colegiada Penal
 
 ---

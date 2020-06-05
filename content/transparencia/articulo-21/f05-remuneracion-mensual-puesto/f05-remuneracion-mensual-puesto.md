@@ -10,15 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. V Remuneración Mensual
 
-### RESPONSABLE
+La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
+
+#### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan;
 
 
 ## Descargar

@@ -12,14 +12,16 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XLVII Listado de Servidores Públicos Sancionados
 
-### RESPONSABLE
+El listado de servidores públicos con sanciones definitivas, especificando la causa de sanción, la disposición y la sanción;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-El listado de servidores públicos con sanciones definitivas, especificando la causa de sanción, la disposición y la sanción;
+A la fecha de actualización del presente rubro, no hay servidores públicos Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario. 
 
 

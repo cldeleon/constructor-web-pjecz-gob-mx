@@ -8,37 +8,37 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-
-## C.P. Luis Fernando Acosta Ochoa
+### C.P. Luis Fernando Acosta Ochoa
 
 Auditor Interno
 
 ---
 
-## C.P. José Mario Vázquez Bustos
+### C.P. José Mario Vázquez Bustos
 
 Auxiliar de auditoria
 
 ---
 
-## C.P. María de Lourdes García Arriaga
+### C.P. María de Lourdes García Arriaga
 
 Auxiliar de auditoria
 
 ---
 
-## C.P. Ana Karen Esparza Martínez
+### C.P. Ana Karen Esparza Martínez
 
 Auxiliar de auditoria
 
 ---
 
-## C.P. Diego Galván Castillo
+### C.P. Diego Galván Castillo
 
 Auxiliar de auditoria
 
 ---
 
+[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

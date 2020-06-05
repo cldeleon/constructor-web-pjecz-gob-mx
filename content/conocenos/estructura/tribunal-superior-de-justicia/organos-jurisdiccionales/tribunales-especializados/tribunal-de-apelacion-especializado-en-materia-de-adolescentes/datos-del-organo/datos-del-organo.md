@@ -8,14 +8,12 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+## Tribunal de Apelación Especializado en materia de Adolescentes
 
-### Datos del Órgano
-
-Periférico Luis Echeverría Álvarez (Edificio del Cereso)
-Col. Saltillo 2000
-Saltillo, Coah.
-C.P. 25115
-Teléfono: 844 688 48 66
+- Periférico Luis Echeverría Álvarez (Edificio del Cereso)
+- Col. Saltillo 2000
+- Saltillo, Coah. C.P. 25115
+- Teléfono: (844) 688 48 66
 
 
 

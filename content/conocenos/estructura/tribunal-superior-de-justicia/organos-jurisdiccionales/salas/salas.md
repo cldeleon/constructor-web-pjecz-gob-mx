@@ -8,11 +8,28 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - SALAS
 
-* [Sala Colegiada Civil y Familiar](sala-colegiada-civil-y-familiar/)
-* [Sala Colegiada Penal](sala-colegiada-penal/)
-* [Sala Regional](sala-regional/)
+## [Sala Colegiada Civil y Familiar](sala-colegiada-civil-y-familiar/)
+
+* [Objetivo](sala-colegiada-civil-y-familiar/objetivo/)
+* [Funciones](sala-colegiada-civil-y-familiar/funciones/)
+* [Datos del órgano](sala-colegiada-civil-y-familiar/datos-del-organo/)
+* [Directorio](sala-colegiada-civil-y-familiar/directorio/)
+
+## [Sala Colegiada Penal](sala-colegiada-penal/)
+
+* [Objetivo](sala-colegiada-penal/objetivo/)
+* [Funciones](sala-colegiada-penal/funciones/)
+* [Datos del órgano](sala-colegiada-penal/datos-del-organo/)
+* [Directorio](sala-colegiada-penal/directorio/)
+* [Formulario de Contacto](sala-colegiada-penal/formulario-de-contacto/)
+
+## [Sala Regional](sala-regional/)
+
+* [Objetivo](sala-regional/objetivo/)
+* [Funciones](sala-regional/funciones/)
+* [Datos del órgano](sala-regional/datos-del-organo/)
+* [Directorio](sala-regional/directorio/)
 
 
 

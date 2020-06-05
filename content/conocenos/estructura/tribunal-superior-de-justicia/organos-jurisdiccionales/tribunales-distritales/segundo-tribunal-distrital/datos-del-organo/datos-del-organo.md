@@ -8,16 +8,15 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-### Segundo Tribunal Distrital
-Con residencia en Torreón
 
+**Segundo Tribunal Distrital con residencia en Torreón**
 
-Bulevar Diagonal de Las Fuentes cruce con Comerciantes
+Boulevard Diagonal de Las Fuentes cruce con Comerciantes
 Colonia Villas La Merced
 Torreón, Coahuila
 C.P. 27296
-Teléfono: 877 733 67 62, 733 67 54, 733 67 55
 
+Teléfono: (877) 733 67 62, 733 67 54, 733 67 55
 
 
 

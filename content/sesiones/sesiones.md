@@ -12,6 +12,8 @@ Status: draft
 
 ### 2020
 
+- [Décima Cuarta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/)
+- [Décima Tercera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-tercera-sesion-ordinaria/)
 - [Décima Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-segunda-sesion-ordinaria/)
 - [Tercera Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/tercera-sesion-extraordinaria/)
 - [Segunda Sesión Extraordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/)
@@ -32,6 +34,8 @@ Status: draft
 
 ### 2020
 
+- [Décima Sexta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-sexta-sesion-ordinaria/)
+- [Décima Quinta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-cuarta-sesion-ordinaria/)
 - [Décima Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/)
 
@@ -39,6 +43,9 @@ Status: draft
 
 ### 2020
 
+- [Décima Sexta Sesión Ordinaria](sala-penal/2020/decima-sexta-sesion-ordinaria/)
+- [Décima Quinta Sesión Ordinaria](sala-penal/2020/decima-quinta-sesion-ordinaria/)
+- [Décima Cuarta Sesión Ordinaria Segunda Digital](sala-penal/2020/decima-cuarta-sesion-ordinaria-segunda-digital/)
 - [Décimo Tercera Sesión Ordinaria Primera Digital](sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/)
 
 ## Sala Regional

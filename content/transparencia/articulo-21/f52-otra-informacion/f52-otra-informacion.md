@@ -20,19 +20,17 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
 
-Informe Anual de Actividades
+[Tabla de Aplicabilidad - Artículo 21 LGTAIP](https://www.dropbox.com/s/z0mqgw0irow9vx7/Tabla%20de%20aplicabilidad%20de%20las%20Obligaciones%20de%20transparencia%20comunes%20art.%2021.docx?dl=0)
 
-Informe CEDAW
+[Tabla de Aplicabilidad - Artículo 70 LGTAIP](https://www.dropbox.com/s/jdq7zwgt22937kt/Tabla%20de%20aplicabilidad%20de%20las%20Obligaciones%20de%20transparencia%20comunes%20art.%2070.docx?dl=0)
 
-Informe Ejecutivo
+[Tabla de Actualización y Conservación - Artículo 70 LGTAIP](https://www.dropbox.com/s/vjmkrpisnoudjeb/Tabla%20de%20Actualizacion%20Obligaciones%20de%20transparencia%20comunes%20Art.%2070.doc?dl=0)
 
-Calendario de Labores - Circular
+[Informe Anual de Actividades](https://www.pjecz.gob.mx/transparencia/articulo-21/f40-informe-anual-actividades/)
 
-Tabla de Aplicabilidad - Artículo 70 LGTAIP
+[Calendario de Labores - Circular](https://www.pjecz.gob.mx/transparencia/articulo-27/f11-calendario-dias-inhabiles/)
 
-Tabla ed Actualización - Artículo 70 LGTAIP
-
-[Procedimiento de Certificación para facilitadores en mediación y conciliación ](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
+[Procedimiento de Certificación para facilitadores en mediación y conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
 
 [Listado de personas certificadas vigentes como facilitadores privadas en mediación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/)
 

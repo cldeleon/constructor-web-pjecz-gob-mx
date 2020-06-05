@@ -11,13 +11,11 @@ Modified: 2020-05-04 09:12
 
 ### Formulario de Contacto
 
+Lic. Ofilia Guerra Jaime
 
-Lic. Ofilia Guerra Jaime	
-(844) 438-09-80	iejcoahuila@gmail.com		
+(844) 438-09-80	iejcoahuila@gmail.com
+
 Blvd. Venustiano Carranza 2673, Santiago, 25240 Saltillo, Coah.
-
-
-
 
 
 

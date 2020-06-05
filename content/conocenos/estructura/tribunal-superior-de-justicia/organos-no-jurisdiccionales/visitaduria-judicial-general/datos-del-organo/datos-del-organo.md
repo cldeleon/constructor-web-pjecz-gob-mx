@@ -9,13 +9,11 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del Órgano
-
-
-
 Bulevar Isidro López Zertuche # 2791
 Colonia Los Maestros
-844 4380350 extensión 6977 
+
+844 4380350 extensión 6977
+
 visitaduria@pjec.gob.mx
 
 

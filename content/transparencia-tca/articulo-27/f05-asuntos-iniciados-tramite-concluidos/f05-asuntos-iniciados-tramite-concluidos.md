@@ -8,20 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 5. Asuntos iniciados, en trámite y resueltos
+## ART. 27, 5. ASUNTO INICIADOS, EN TRÁMITE Y RESULTOS
 
-Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, los asuntos iniciados, en trámite y resueltos
-
+Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, los asuntos iniciados, en trámite y resueltos.
 
 ### RESPONSABLE
 
 Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conciliación y Arbitraje del Poder Judicial
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
 
 
 ### 2017

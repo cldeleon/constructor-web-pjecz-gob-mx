@@ -8,20 +8,15 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 9. CALENDARIO DE DÍAS INHÁBILES
-
+## ART. 27, 9. CALENDARIO DE DÍAS INHÁBILES
 
 ### RESPONSABLE
 
 Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
-
-
 
 
 ## Descargar

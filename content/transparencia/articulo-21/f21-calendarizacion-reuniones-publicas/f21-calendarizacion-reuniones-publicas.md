@@ -10,15 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXI Calendario de Reuniones Públicas
 
-### RESPONSABLE
+El calendario de las sesiones o reuniones públicas a que se convoquen, y en su caso, la minuta o acta correspondiente;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-El calendario de las sesiones o reuniones públicas a que se convoquen, y en su caso, la minuta o acta correspondiente;
 
 ##### [Eventos-Actividades](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/eventos-actividades/)
 
@@ -26,12 +26,29 @@ El calendario de las sesiones o reuniones públicas a que se convoquen, y en su 
 ### Minutas
 
 
+#### 2018
+
+
+* [06  Junio.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2018/06  Junio.docx)
+* [07 Julio.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2018/07 Julio.docx)
+* [08 Agosto.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2018/08 Agosto.docx)
+* [09 Septiembre.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2018/09 Septiembre.docx)
+
+
 #### 2019
 
 
-* [Minutas Agosto  2019.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/Minutas Agosto  2019.docx)
-* [Minutas Julio 2019.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/Minutas Julio 2019.docx)
-* [Minutas Noviembre 2019.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/Minutas Noviembre 2019.docx)
+* [01 Enero.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/01 Enero.docx)
+* [03 Marzo.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/03 Marzo.docx)
+* [04 Abril.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/04 Abril.docx)
+* [05 Mayo.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/05 Mayo.doc)
+* [06 Junio.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/06 Junio.docx)
+* [07 Julio.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/07 Julio.docx)
+* [08 Agosto.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/08 Agosto.docx)
+* [09 Septiembre.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/09 Septiembre.docx)
+* [10 Octubre.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/10 Octubre.docx)
+* [11 Noviembre.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/11 Noviembre.docx)
+* [12 Diciembre.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/2019/12 Diciembre.docx)
 
 
 #### 2020

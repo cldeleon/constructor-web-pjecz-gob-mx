@@ -9,9 +9,9 @@ Modified: 2020-05-04 09:12
 
 
 
-### Oficina Central Saltillo
+## Oficina Central Saltillo
 
-## Lic. María Carolina González Briones
+### Lic. María Carolina González Briones
 
 Directora del Instituto Estatal de Defensoría Pública
 
@@ -21,7 +21,7 @@ mariacarolina.gonzalez@coahuila.gob.mx
 
 ---
 
-## Lic. Erika Pacheco Pargas
+### Lic. Erika Pacheco Pargas
 
 Subdirectora de la Unidad de Defensa Administrativa
 
@@ -29,7 +29,7 @@ Correo electrónico:  erika.pacheco@coahuila.gob.mx
 
 ---
 
-## Lic. María del Rosario Valdés García
+### Lic. María del Rosario Valdés García
 
 Subdirectora de la Unidad de Defensa Civil y Familiar
 
@@ -49,15 +49,13 @@ Línea sin costo: 800-83-27880
 
 ---
 
-## Mtra. María del Carmen Ibarra Hernández
+### Mtra. María del Carmen Ibarra Hernández
 
 Subdirectora de la Unidad de Defensa Penal
 
 (844) 4341912 (844) 4 342302
 
-Blvd. Luis Echeverría Álvarez
-
-#2777, Km. 2.5, Col. Satélite norte, C.P. 25115, Saltillo, Coahuila
+Blvd. Luis Echeverría Álvarez #2777, Km. 2.5, Col. Satélite norte, C.P. 25115, Saltillo, Coahuila
 
 Correo.- madelcarmen.ibarra@coahuila.gob.mx
 
@@ -65,11 +63,11 @@ Correo.- madelcarmen.ibarra@coahuila.gob.mx
 
 ---
 
-### Delegaciones
+## Delegaciones
 
 ---
 
-## Delegación Torreón 
+### Delegación Torreón 
 
 Teléfono. (871) 871-203-50-51
 
@@ -85,7 +83,7 @@ correo electrónico: homero.perez@coahuila.gob.mx
 
 ---
 
-## Delegación Monclova
+### Delegación Monclova
 
 Teléfono. 866-639-24-40
 
@@ -99,7 +97,7 @@ correo electrónico: carlos.villarreal@coahuila.gob.mx
 
 ---
 
-## Delegación Parras de La Fuente
+### Delegación Parras de La Fuente
 
 Teléfono.  (842) 422-0010
 
@@ -113,7 +111,7 @@ correo electrónico: enrique.martinez@coahuila.gob.mx
 
 ---
 
-## Delegación Sabinas
+### Delegación Sabinas
 
 Teléfono.  (861) 61-224-52
 
@@ -127,7 +125,7 @@ correo electrónico: luisalfonso.ramos@coahuila.gob.mx
 
 ---
 
-## Delegación Piedras Negras
+### Delegación Piedras Negras
 
 Teléfono.  (878) 79-544-07
 
@@ -141,7 +139,7 @@ correo electrónico: irma.cham@coahuila.gob.mx
 
 ---
 
-## Delegación Ciudad Acuña
+### Delegación Ciudad Acuña
 
 Teléfono. (877) 77-219-13
 
@@ -155,7 +153,7 @@ correo electrónico: guadalupe.galvan@coahuila.gob.mx
 
 ---
 
-## Delegación San Pedro
+### Delegación San Pedro
 
 Teléfono.  (872) 77-203-90
 

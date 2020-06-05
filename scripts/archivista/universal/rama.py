@@ -1,6 +1,6 @@
 import os
 from comun.base import Base
-from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
+from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura, obtener_metadatos_del_nombre
 from comun.seccion import Seccion
 
 
@@ -22,11 +22,12 @@ class Rama(Base):
         # Obtener metadatos
         meta = creador.metadatos.consultar(self.identificador)
         if meta is None:
-            self.titulo = directorio.name
+            fecha_hora, titulo = obtener_metadatos_del_nombre(directorio.name, creador.creado)
+            self.titulo = titulo
+            self.creado = fecha_hora
+            self.modificado = fecha_hora
             self.resumen = '.'
             self.etiquetas = creador.etiquetas
-            self.creado = creador.creado
-            self.modificado = creador.modificado
             self.oculto = '0'
         else:
             self.titulo = meta['titulo']

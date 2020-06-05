@@ -8,11 +8,9 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 13. GLOSA DE DEBATE
+## ART. 27, 13. GLOSA DE DEBATE
 
 Acuerdo por el que se emite el Protocolo para la elaboración del Resumen de la Glosa de Debate de los órganos jurisdiccionales del Poder Judicial del Estado de Coahuila de Zaragoza.
-
-LINK A GLOSA DE DEBATE DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
 
 

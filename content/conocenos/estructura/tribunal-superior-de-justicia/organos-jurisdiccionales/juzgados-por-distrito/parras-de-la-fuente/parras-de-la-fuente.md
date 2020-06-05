@@ -8,7 +8,18 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - Juzgados por Distrito - PARRAS DE LA FUENTE
+
+## Juzgado de Primera Instancia en Materia Civil y Familiar
+
+Domicilio: Calle Ramos Arizpe No. 311 Zona Centro C.P. 27980 Parras de la Fuente, Coahuila.
+
+Teléfono: 842-422-0689
+
+## Juzgado de Primera Instancia en Materia Familiar Parras
+
+Domicilio: Calle Ramos Arizpe No. 311 Zona Centro C.P. 27980 Parras de la Fuente, Coahuila.
+
+Teléfono: 842-422-0645
 
 
 

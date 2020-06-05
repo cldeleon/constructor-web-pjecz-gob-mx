@@ -9,26 +9,33 @@ Modified: 2020-05-04 09:12
 
 
 
-### Directorio
+## Secretaría General del Pleno
 
-Lic. Gustavo Sergio López Arizpe
+### Lic. Gustavo Sergio López Arizpe
+
 Secretario General de Acuerdos
 
-Lic. Marina Adriana Galindo Ramos
+---
+
+### Lic. Marina Adriana Galindo Ramos
+
 Secretaria Auxiliar
 
-Lic. Andrea Estefanía Salas Estrada
+---
+
+### Lic. Andrea Estefanía Salas Estrada
+
 Auxiliar jurídico
 
-Lic. Linda Patricia Flores Rodríguez
+---
+
+### Lic. Linda Patricia Flores Rodríguez
+
 Actuaria
 
-
+---
 
 [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
-
-
-
 
 
 

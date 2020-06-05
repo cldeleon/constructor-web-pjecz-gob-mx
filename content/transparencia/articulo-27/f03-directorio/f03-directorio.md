@@ -12,11 +12,11 @@ Modified: 2020-04-30 09:30:00
 
 El directorio de los funcionarios judiciales y administrativos. En el caso de los primeros deberá incluir desde el nivel de actuario o equivalente; además de la forma en que le fue asignada la plaza.
 
-### RESPONSABLE
+#### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo del 2020
 

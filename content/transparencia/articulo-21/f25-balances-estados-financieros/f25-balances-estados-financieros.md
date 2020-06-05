@@ -10,15 +10,25 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXV Balances y Estados Financieros
 
-### RESPONSABLE
+Los informes de avances de gestión financiera trimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
+
+#### RESPONSABLE
 
 C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-Los informes de avances de gestión financiera trimestrales y la cuenta pública anual, una vez que se presenten ante el Congreso del Estado;
+
+### 2018
+
+
+* [Cuenta Pública 2018.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2018/Cuenta Pública 2018.pdf)
+* [ENTREGA IAGF18.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2018/ENTREGA IAGF18.pdf)
+* [INFORME 4TO TRIMESTRE FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2018/INFORME 4TO TRIMESTRE FINAL.pdf)
+* [SEGUNDO AVANCE DE GESTIÓN FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2018/SEGUNDO AVANCE DE GESTIÓN FINAL.pdf)
+* [TERCER INFORME.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2018/TERCER INFORME.pdf)
 
 
 ### 2019

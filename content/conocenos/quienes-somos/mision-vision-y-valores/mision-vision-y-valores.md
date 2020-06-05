@@ -8,19 +8,12 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Quienes Somos - MISIÓN, VISIÓN Y VALORES
 
 ### Misión
 
-Misión...
-
 ### Visión
 
-Visión...
-
 ### Valores
-
-Valores...
 
 
 

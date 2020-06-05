@@ -49,7 +49,7 @@
     <!-- Contenido -->
     <main>
 {% if output_file == 'index.html' %}
-{#   include 'inicial-cabecera.html' #}
+{%   include 'inicial-cabecera.html' %}
 {#   include 'inicial-destacados.html' #}
 {%   include 'inicial-transmisiones-sesiones.html' %}
         <!-- Inicial Novedades (Twitter y Noticias) -->
@@ -64,7 +64,7 @@
                         <h3 class="text-center">Noticias y eventos</h3>
 {%   for article in articles_page.object_list %}
                         <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
-                        {{ article.summary }}
+                        {% if article.summary|striptags != '.' %}{{ article.summary }}{% endif %}
 {%   endfor %}
 {%   if articles_page %}
                         <nav>
@@ -114,7 +114,7 @@
                 <h3 class="text-center">Noticias y eventos</h3>
 {%   for article in articles_page.object_list %}
                 <h5><a href="{{ SITEURL }}/{{ article.url }}">{{ article.title }}</a></h5>
-        {{ article.summary }}
+                {% if article.summary|striptags != '.' %}{{ article.summary }}{% endif %}
 {%   endfor %}
 {%   if articles_page %}
                 <nav>

@@ -10,20 +10,20 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XXXV Guía Simple de Archivos
 
-### RESPONSABLE
+Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-Una guía simple de los archivos y su organización, que contenga la descripción de los fondos documentales vinculados a sus áreas, así como datos del responsable del archivo;
 
 
 ## Descargar
 
 
-* [Guía simple de archivos abril-2020-V4.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos abril-2020-V4.xls)
+* [Guía simple de archivos.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos.xls)
 
 

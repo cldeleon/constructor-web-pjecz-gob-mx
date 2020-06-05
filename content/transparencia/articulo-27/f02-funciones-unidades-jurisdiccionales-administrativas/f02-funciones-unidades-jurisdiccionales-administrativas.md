@@ -12,15 +12,17 @@ Modified: 2020-04-30 09:30:00
 
 Las funciones de las unidades jurisdiccionales, así como de las áreas administrativas;
 
-### RESPONSABLE
+#### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo del 2020
 
 [Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
+
+[Presidencia](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
 [Consejo de la Judicatura](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/atribuciones/)
 
@@ -28,18 +30,24 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 [Centro de Medios Alternos y Solución a Controversias](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/atribuciones/)
 
-[Presidencia](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
-
 [Auditoría Interna](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/presidencia/auditoria-interna/funciones/)
 
 [Centro de Evaluación Psicosocial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/centro-de-evaluacion-psicosocial/funciones/)
 
-[Instituto de Especialización Judicial ](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/funciones/)
+[Instituto de Especialización Judicial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/funciones/)
 
-[Instituto Estatal de Defensoría Pública ](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/funciones/)
+[Instituto Estatal de Defensoría Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/funciones/)
 
-##### [Tribunales Distritales](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-distritales/) 
+[Oficialía de Partes](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/oficialia-de-partes/funciones/)
 
-[Tribunal de Conciliación y Arbitraje ](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/funciones/)
+[Visitaduría Judicial General](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/visitaduria-judicial-general/funciones/)
+
+##### [Tribunales Distritales](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-distritales/)
+
+[Tribunal de Conciliación y Arbitraje](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/funciones/)
+
+Tribunal de Apelación Especializado en Materia de Adolescentes
+
+[Central de Actuarios](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/)
 
 

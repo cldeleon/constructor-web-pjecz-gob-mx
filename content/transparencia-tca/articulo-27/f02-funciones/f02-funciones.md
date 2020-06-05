@@ -8,20 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 2. Funciones
+## ART. 27, 2. FUNCIONES
 
 Las funciones de las unidades jurisdiccionales, así como de las áreas administrativas.
-
 
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
 
 
 ## Descargar

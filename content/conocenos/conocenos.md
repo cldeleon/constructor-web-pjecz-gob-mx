@@ -11,7 +11,6 @@ Modified: 2020-05-04 09:12
 ## ¿[Quiénes somos](quienes-somos/)?
 
 * [Bienvenida](quienes-somos/bienvenida/)
-* [Misión, Visión y Valores](quienes-somos/mision-vision-y-valores/)
 
 ## [Estructura](estructura/)
 
@@ -25,7 +24,6 @@ Modified: 2020-05-04 09:12
 
 * [Central de Actuarios](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/)
 * [Juzgados por Distrito](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/)
-* [Juzgados por Materia](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/)
 * [Pleno](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/pleno/)
 * [Salas](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/)
 * [Tribunal Constitucional](estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunal-constitucional/)
@@ -44,7 +42,6 @@ Modified: 2020-05-04 09:12
 #### [Administrativo](estructura/tribunal-superior-de-justicia/administrativos/)
 
 * [Oficialía Mayor](estructura/tribunal-superior-de-justicia/administrativos/oficialia-mayor/)
-* [Unidad Jurídica](estructura/tribunal-superior-de-justicia/administrativos/unidad-juridica/)
 
 ## [Directorio General](directorio-general/)
 

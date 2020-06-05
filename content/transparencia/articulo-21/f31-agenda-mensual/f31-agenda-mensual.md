@@ -12,11 +12,11 @@ Modified: 2020-04-30 09:30:00
 
 La agenda mensual en su caso, de eventos culturales o deportivos;
 
-### RESPONSABLE
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 

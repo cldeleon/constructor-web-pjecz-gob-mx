@@ -8,15 +8,13 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal de Apelación Especializado en materia de Adolescentes
+> El Tribunal de Apelación Especializado en materia de Adolescentes es un órgano especializado del Poder Judicial, dotado de autonomía, independencia y plena jurisdicción, en los términos que establece la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza y demás disposiciones aplicables.
 
-* [Funciones](funciones/)
-* [Datos del Órgano](datos-del-órgano/)
-* [Directorio](directorio/)  
+## [Funciones](funciones/)
 
+## [Datos del órgano](datos-del-organo/)
 
+## [Directorio](directorio/)
 
-
-### Formularo de Contacto
 
 

@@ -8,16 +8,19 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-### Art. 21 Fracc. XI
 
-### RESPONSABLE
+### Art. 21 Fracc. XI Planes, Programas o Proyectos con Indicadores de Gestión
+
+Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área.
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área; los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área.
+A la fecha no se cuenta con información referente a planes, programas o proyectos con indicadores de gestión.
 
 

@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN XLII. INFORMACIÓN DESCLASIFICADA
 
-La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación .
+La información desclasificada, la cual deberá de permanecer dos años posteriores a partir de que perdió su clasificación.
 
 
 ### RESPONSABLE

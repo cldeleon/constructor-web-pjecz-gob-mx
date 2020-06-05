@@ -12,17 +12,15 @@ Modified: 2020-04-30 09:30:00
 
 Respecto de las concesiones, licencias, permisos y autorizaciones: su objeto, el nombre o  razón social del titular, el tipo y vigencia de las mismas;
 
-### RESPONSABLE
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-El presente apartado no aplica al Tribunal Superior de  Justicia del Estado de Coahuila de Zaragoza, al no estar facultado para otorgar concesiones, licencias, permisos o autorizaciones.
-
-Por lo que dicha fracción **no es aplicable.**
+Dentro de las Facultades del Poder Judicial del Estado de Coahuila de Zaragoza no está la de otorgar concesiones, licencias, permisos o autorizaciones, por lo que dicha fracción **no es aplicable.**
 
 Esta información se publica una vez por año y solo es actualizada cada que exista un cambio, de acuerdo al calendario de la IPO, publicado y aprobado.
 

@@ -10,15 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. III Directorio de Servidores Públicos
 
-### RESPONSABLE
+El directorio de los servidores públicos, con nombre, cargo o nombramiento asignado, nivel tabular, fecha de alta en el cargo, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policíacas;
+
+#### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
-
-El directorio de los servidores públicos, con nombre, cargo o nombramiento asignado, nivel tabular, fecha de alta en el cargo, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policíacas;
 
 
 ### 01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza

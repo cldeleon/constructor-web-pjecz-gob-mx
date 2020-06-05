@@ -8,14 +8,18 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos Jurisdiccionales - JUZGADOS POR MATERIA
 
-* [Civiles](civiles/)
-* [Familiares](familiares/)
-* [Letrados](letrados/)
-* [Mercantiles](mercantiles/)
-* [Mixtos](mixtos/)
-* [Penales](penales/)
+## [Civiles](civiles/)
+
+## [Familiares](familiares/)
+
+## [Letrados](letrados/)
+
+## [Mercantiles](mercantiles/)
+
+## [Mixtos](mixtos/)
+
+## [Penales](penales/)
 
 
 

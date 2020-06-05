@@ -11,7 +11,7 @@ Modified: 2020-05-04 09:12
 
 ## Dirección de Recursos Financieros
 
-#### C.P. Silvia Gabriela Saucedo Muñoz
+### C.P. Silvia Gabriela Saucedo Muñoz
 
 silviagabriela.saucedo@coahuila.gob.mx
 
@@ -21,7 +21,7 @@ Tel 844-438-03-50
 
 ## Dirección de Recursos Humanos
 
-#### Lic. Myriam Fuentes Pedraza
+### Lic. Myriam Fuentes Pedraza
 
 myriam.fuentes@coahuila.gob.mx
 
@@ -31,7 +31,7 @@ Tel 844-438-03-50
 
 ## Dirección de Recursos Materiales
 
-#### C.P. Rosalio Medina Martinez
+### C.P. Rosalio Medina Martinez
 
 Tel 844-438-03-50
 
@@ -39,7 +39,7 @@ Tel 844-438-03-50
 
 ## Dirección de Informática
 
-####Ing. Guillermo Valdes Lozano
+### Ing. Guillermo Valdes Lozano
 
 guillermo.valdes@pjec.gob.mx
 
@@ -49,11 +49,9 @@ Tel 844-438-03-50
 
 ## Unidades Administrativas
 
----
+## Unidad Administrativa Del Distrito Judicial De Torreon Y San Pedro
 
-### Unidad Administrativa Del Distrito Judicial De Torreon Y San Pedro
-
-#### C.P. De Cecilia La Rosa Garcia
+### C.P. De Cecilia La Rosa Garcia
 
 Tel 871-730-77-44 y 45, 46, 47, 48, 50, 54
 
@@ -61,9 +59,9 @@ cecilia.delarosa@coahuila.gob.mx
 
 ---
 
-### Unidad Administrativa Del Distrito Judicial De Monclova
+## Unidad Administrativa Del Distrito Judicial De Monclova
 
-#### Lic. Ma. Cristina Guerra Jaime
+### Lic. Ma. Cristina Guerra Jaime
 
 Tel 866-631-55-88 al 92
 
@@ -71,9 +69,9 @@ mariacristina.guerra@coahuila.gob.mx
 
 ---
 
-### Unidad Administrativa Del Distrito Judicial De Rio Grande
+## Unidad Administrativa Del Distrito Judicial De Rio Grande
 
-#### Lic. Sanjuanita Isael Gutierrez Tijerina
+### Lic. Sanjuanita Isael Gutierrez Tijerina
 
 Tel 878-795-19-44, 01-878-795-44-07 y 57
 
@@ -81,9 +79,9 @@ sanjuanita.gutierrez@coahuila.gob.mx
 
 ---
 
-### Unidad Jurídica
+## Unidad Jurídica
 
-#### Lic. Penelope Rodriguez Ayup
+### Lic. Penelope Rodriguez Ayup
 
 Tel 844-438-03-50
 
@@ -91,7 +89,7 @@ penelope.rodriguez@coahuila.gob.mx
 
 ---
 
-#### Directorio General
+## Directorio General
 
 [Poder Judicial del Estado de Coahuila de Zaragoza](/transparencia/articulo-21/f03-directorio/)
 

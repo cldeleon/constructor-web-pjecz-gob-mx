@@ -9,18 +9,14 @@ Modified: 2020-05-04 09:12
 
 
 
+**Primer Tribunal Distrital con residencia en Saltillo**
 
-
-### Primer Tribunal Distrital
-Con residencia en Saltillo
-
-
-Bulevar Venustiano Carranza 2673
+Boulevard Venustiano Carranza 2673
 Colonia Santiago
-Saltillo, Coahuila 
-C.P. 25240 
-Teléfono: 844 438 09 80			
+Saltillo, Coahuila
+C.P. 25240
 
+Teléfono: 844 438 09 80
 
 
 

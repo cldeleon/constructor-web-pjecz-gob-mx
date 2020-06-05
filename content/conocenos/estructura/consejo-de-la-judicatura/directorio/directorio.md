@@ -63,9 +63,7 @@ Analista. Ext. 6975.
 
 ---
 
-## Directorio General
-
-[Poder Judicial del Estado de Coahuila de Zaragoza](/transparencia/articulo-21/f03-directorio/)
+#### [Directorio General](/transparencia/articulo-21/f03-directorio/)
 
 
 

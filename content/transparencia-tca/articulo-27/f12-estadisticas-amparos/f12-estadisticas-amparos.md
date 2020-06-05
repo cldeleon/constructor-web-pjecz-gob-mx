@@ -8,20 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Artículo 27, 12. ESTADÍSTICAS DE AMPAROS
+## ART. 27, 12. ESTADÍSTICAS DE AMPAROS
 
 Estadísticas de amparos concedidos en contra de las resoluciones emitidas por la autoridad.
-
 
 ### RESPONSABLE
 
 Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conciliación y Arbitraje del Poder Judicial
 
-
 ### FECHA DE VALIDACIÓN
 
 11 de mayo del 2020
-
 
 
 ### 2017

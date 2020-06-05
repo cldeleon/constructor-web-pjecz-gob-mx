@@ -10,8 +10,9 @@ Modified: 2020-05-04 09:12
 
 
 Blvd. Isidro López Zertuche No. 2791
-segundo piso, Col. Los Maestros
-C.P. 25260 
+
+segundo piso, Col. Los Maestros C.P. 25260 
+
 Saltillo, Coahuila de Zaragoza.
 
 Correo electrónico: auditoriainterna@pjec.gob.mx

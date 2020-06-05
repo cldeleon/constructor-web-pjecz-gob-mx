@@ -11,7 +11,7 @@ Modified: 2020-05-04 09:12
 
 ![José Ignacio Máynez Varela](sr-josé-ignacio-máynez-varela.jpg)
 
-## Lic. José Ignacio Máynez Varela
+### Lic. José Ignacio Máynez Varela
 
 Magistrado Presidente de la Sala Regional
 
@@ -19,7 +19,7 @@ Magistrado Presidente de la Sala Regional
 
 ![José Francisco Gómez Gómez](sr-josé-francisco-gómez-gómez.jpg)
 
-## Lic. José Francisco Gómez Gómez
+### Lic. José Francisco Gómez Gómez
 
 Magistrado Sala Regional
 
@@ -27,7 +27,7 @@ Magistrado Sala Regional
 
 ![Ulises G. Hernández Torres](sr-ulises-g-hernández-torres.jpg)
 
-## Lic. Ulises G. Hernández Torres
+### Lic. Ulises G. Hernández Torres
 
 Magistrado Sala Regional
 
@@ -35,7 +35,7 @@ Magistrado Sala Regional
 
 ![Vladimir Kaiceros Barranco](sr-vladimir-kaiceros-barranco.jpg)
 
-## Lic. Vladimir Kaiceros Barranco
+### Lic. Vladimir Kaiceros Barranco
 
 Magistrado Sala Regional
 
@@ -43,7 +43,7 @@ Magistrado Sala Regional
 
 ![Carlos de Lara McGrath](sr-carlos-de-lara-mcgrath.jpg)
 
-## Lic. Carlos de Lara McGrath
+### Lic. Carlos de Lara McGrath
 
 Magistrado Sala Regional
 

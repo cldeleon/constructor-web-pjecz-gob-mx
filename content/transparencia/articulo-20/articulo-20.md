@@ -14,11 +14,11 @@ El sujeto obligado deberá difundir, dentro del primer mes de cada año, un cale
 
 Para la publicación de la información pública de oficio, los sujetos obligados utilizarán formatos de fácil comprensión. Se procurará, en la medida de lo posible, la traducción a lenguas indígenas.
 
-### RESPONSABLE
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo 2020
 
@@ -26,7 +26,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 ## Descargar
 
 
-* [transparencia-articulo-21-calendario-ipo-articulo-21-2020-V5.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/transparencia-articulo-21-calendario-ipo-articulo-21-2020-V5.pptx)
-* [transparencia-articulo-27-calendario-ipo-articulo-21-2020-V5.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/transparencia-articulo-27-calendario-ipo-articulo-21-2020-V5.pptx)
+* [Calendario IPO Art. 21.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario IPO Art. 21.pptx)
+* [Calendario IPO Art. 27.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario IPO Art. 27.pptx)
 
 

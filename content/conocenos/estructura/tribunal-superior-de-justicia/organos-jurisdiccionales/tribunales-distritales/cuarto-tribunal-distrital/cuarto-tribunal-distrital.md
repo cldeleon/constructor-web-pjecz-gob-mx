@@ -8,10 +8,8 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Cuarto Tribunal Distrital
 
-
-* [Datos del Órgano](datos-del-órgano/)
+* [Datos del Órgano](datos-del-organo/)
 * [Directorio](directorio/)
 
 

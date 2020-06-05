@@ -9,82 +9,79 @@ Modified: 2020-05-04 09:12
 
 
 
-### Directorio
-
-
-## Lic. Miguel Ángel Ramírez Ramos
+### Lic. Miguel Ángel Ramírez Ramos
 
 Magistrado(a) Distrital
 
 ---
 
-## Lic. David Uribe Gutiérrez	
+### Lic. David Uribe Gutiérrez
 
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-## Lic. Gloria Ledezma Flores  	
+### Lic. Gloria Ledezma Flores
 
 Secretario(a) de Acuerdo y Trámite
 
 ---
 
-## Lic. Luis Teodoro Olivares Hernández 
+### Lic. Luis Teodoro Olivares Hernández
 
 Actuario(a)
 
 ---
 
-## Lic. Elizabeth Zapata Rodríguez	
+### Lic. Elizabeth Zapata Rodríguez
 
 Actuario(a)
 
 ---
 
-## Magaly Denisse Ávila De La Paz	
+### Magaly Denisse Ávila De La Paz
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Llissely Hernández Zamora 
+### Llissely Hernández Zamora
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Wendy Daniela Vielma Álvarez
+### Wendy Daniela Vielma Álvarez
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Gloria Fermín González
+### Gloria Fermín González
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Ana Griselda Pérez Alonso
+### Ana Griselda Pérez Alonso
 
 Secretario(a) Taquimecanógrafo(a)
 
 ---
 
-## Myriam Gabriela Martínez Sánchez
+### Myriam Gabriela Martínez Sánchez
 
 Recepcionista
 
 ---
 
-## Margarita Castilleja Mendoza
+### Margarita Castilleja Mendoza
 
 Auxiliar Administrativo
 
 ---
 
-[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
+##### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

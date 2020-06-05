@@ -11,16 +11,13 @@ Modified: 2020-05-04 09:12
 
 ### Formulario de Contacto
 
-
 Lic. Laura González Rendón
-(844) 439-07-71	
+
+(844) 439-07-71
+
 laura.gonzalez06coahuila.gob.mx
 
 Blvd. Venustiano Carranza 2673, Santiago, 25240 Saltillo, Coah.
-
-
-
-
 
 
 

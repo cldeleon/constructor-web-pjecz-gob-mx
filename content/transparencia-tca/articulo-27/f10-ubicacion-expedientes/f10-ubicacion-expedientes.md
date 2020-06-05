@@ -8,9 +8,11 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 10. UBICACIÓN DE EXPEDIENTES
+## ART. 27, 10. UBICACIÓN DE EXPEDIENTES
 
-LINK A UBICACIÓN DE EXPEDIENTES DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE PENDIENTE
+Las y los abogados litigantes pueden registrarse en el Juzgado Civil, Mercantil y Familiar en el que tengan negocio judicial para realizar consultas a través de Internet en el Expediente Virtual.
+
+- [Ubicación de expediente virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 
 
 

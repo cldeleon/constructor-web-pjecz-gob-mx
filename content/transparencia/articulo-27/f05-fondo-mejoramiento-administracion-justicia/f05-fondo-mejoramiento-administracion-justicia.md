@@ -12,12 +12,46 @@ Modified: 2020-04-30 09:30:00
 
 El monto, destino y aplicación del Fondo para el Mejoramiento de la Administración de Justicia.
 
-### RESPONSABLE
+#### RESPONSABLE
 
 C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo del 2020
+
+
+### 2018
+
+
+* [01 ENERO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/01 ENERO.pdf)
+* [02 FEBRERO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/02 FEBRERO.pdf)
+* [03 MARZO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/03 MARZO.pdf)
+* [04 ABRIL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/04 ABRIL.pdf)
+* [05 MAYO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/05 MAYO.pdf)
+* [06 JUNIO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/06 JUNIO.pdf)
+* [07 JULIO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/07 JULIO.pdf)
+* [08 AGOSTO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/08 AGOSTO.pdf)
+* [09 SEPTIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/09 SEPTIEMBRE.pdf)
+* [10 OCTUBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/10 OCTUBRE.pdf)
+* [11 NOVIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/11 NOVIEMBRE.pdf)
+* [12 DICIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2018/12 DICIEMBRE.pdf)
+
+
+### 2019
+
+
+* [01 ENERO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/01 ENERO.pdf)
+* [02 FEBRERO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/02 FEBRERO.pdf)
+* [03 MARZO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/03 MARZO.pdf)
+* [04 ABRIL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/04 ABRIL.pdf)
+* [05 MAYO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/05 MAYO.pdf)
+* [06 JUNIO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/06 JUNIO.pdf)
+* [07 JULIO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/07 JULIO.pdf)
+* [08 AGOSTO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/08 AGOSTO.pdf)
+* [09 SEPTIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/09 SEPTIEMBRE.pdf)
+* [10 OCTUBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/10 OCTUBRE.pdf)
+* [11 NOVIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/11 NOVIEMBRE.pdf)
+* [12 DICIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/12 DICIEMBRE.pdf)
 
 

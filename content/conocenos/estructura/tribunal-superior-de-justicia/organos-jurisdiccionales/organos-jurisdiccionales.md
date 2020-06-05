@@ -8,6 +8,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+
 ## [Central de Actuarios](central-de-actuarios/)
 
 * [Saltillo](central-de-actuarios/saltillo/)
@@ -20,17 +21,8 @@ Modified: 2020-05-04 09:12
 * [Parras de la Fuente](juzgados-por-distrito/parras-de-la-fuente/)
 * [Río Grande](juzgados-por-distrito/rio-grande/)
 * [Sabinas](juzgados-por-distrito/sabinas/)
-* [San Pedro](juzgados-por-distrito/san-pedro/)
+* [San Pedro de las Colonias](juzgados-por-distrito/san-pedro/)
 * [Torreón](juzgados-por-distrito/torreon/)
-
-## [Juzgados por Materia](juzgados-por-materia/)
-
-* [Civiles](juzgados-por-materia/civiles/)
-* [Familiares](juzgados-por-materia/familiares/)
-* [Letrados](juzgados-por-materia/letrados/)
-* [Mercantiles](juzgados-por-materia/mercantiles/)
-* [Mixtos](juzgados-por-materia/mixtos/)
-* [Penales](juzgados-por-materia/penales/)
 
 ## [Pleno](pleno/)
 
@@ -53,5 +45,6 @@ Modified: 2020-05-04 09:12
 
 * [Conciliación y Arbitraje](tribunales-especializados/conciliacion-y-arbitraje/)
 * [Materia de Adolescentes](tribunales-especializados/materia-de-adolescentes/)
+
 
 

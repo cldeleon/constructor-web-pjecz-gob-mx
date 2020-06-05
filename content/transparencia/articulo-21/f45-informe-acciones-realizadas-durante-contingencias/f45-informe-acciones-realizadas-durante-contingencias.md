@@ -10,16 +10,16 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. XLV Acciones Realizadas Durante Contingencias
 
-### RESPONSABLE
+Los sujetos obligados que participen o coadyuven en el auxilio de comunidades en emergencia o desastre, deberán de difundir un informe de acciones realizadas durante la contingencia, en un plazo no mayor a 30 días;
+
+#### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
 4 de mayo de 2020
 
-Los sujetos obligados que participen o coadyuven en el auxilio de comunidades en emergencia o desastre, deberán de difundir un informe de acciones realizadas durante la contingencia, en un plazo no mayor a 30 días;
-
-Desde la entrada en vigor de la presente Ley de Acceso a la Información Publica para el Estado de Coahuila de Zaragoza, el Poder Judicial  no ha realizado ningún tipo de participación o coadyuvancia en auxilio a comunidades en emergencia o desastre, por lo tanto no se cuenta con informe de acciones, esto a partir del día 11/09/2015 a la fecha.
+Desde la entrada en vigor de la presente Ley de Acceso a la Información Publica para el Estado de Coahuila de Zaragoza, el Poder Judicial no ha realizado ningún tipo de participación o coadyuvancia en auxilio a comunidades en emergencia o desastre, por lo tanto no se cuenta con informe de acciones, esto a partir del día 11/09/2015 a la fecha.
 
 

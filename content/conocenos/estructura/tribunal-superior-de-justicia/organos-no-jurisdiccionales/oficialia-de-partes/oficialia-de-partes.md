@@ -8,7 +8,18 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
-## Tribunal Superior de Justicia - Órganos No Jurisdiccionales - OFICIALÍA DE PARTES
+
+Las Oficialías de Partes, son órganos administrativos de apoyo judicial de la Presidencia del Tribunal Superior de Justicia, a través de las cuales se reciben, registran y turnan según corresponda a los órganos jurisdiccionales en el Distrito Judicial al que pertenezca para su trámite correspondiente, los escritos con los que se inicie un procedimiento judicial y escritos de término que se presenten fuera del horario de labores de los tribunales o juzgados del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza.
+
+## [Funciones](funciones/)
+
+## [Datos del Órgano](datos-del-organo/)
+
+## [Trámites y Servicios](tramites-y-servicios/)
+
+## [Directorio](directorio/)
+
+## [Formulario de Contacto](formulario-de-contacto/)
 
 
 

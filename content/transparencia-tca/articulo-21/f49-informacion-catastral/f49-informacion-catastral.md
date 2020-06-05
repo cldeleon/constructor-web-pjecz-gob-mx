@@ -10,7 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 21, FRACCIÓN XLIX. INFORMACIÓN CATASTRAL
 
-La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales
+La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales.
 
 
 ### RESPONSABLE

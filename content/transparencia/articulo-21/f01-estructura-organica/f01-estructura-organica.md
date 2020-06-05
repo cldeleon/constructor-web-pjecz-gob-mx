@@ -10,7 +10,15 @@ Modified: 2020-04-30 09:30:00
 
 ### Art. 21, Fracc. I Estructura Orgánica
 
-El Poder Judicial del Estado de Coahuila cuenta con una estructura orgánica integrada por órganos jurisdiccionales, no jurisdiccionales y administrativos.
+Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.El Poder Judicial del Estado de Coahuila cuenta con una estructura orgánica integrada por órganos jurisdiccionales, no jurisdiccionales y administrativos.
+
+#### RESPONSABLE
+
+Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
+
+#### FECHA DE VALIDACIÓN
+
+4 de mayo de 2020
 
 La función jurisdiccional se ejerce por magistrados y jueces independientes, imparciales, responsables y sometidos únicamente al imperio de la ley, no existiendo entre ellos relación jerárquica de supra o de subordinación.
 
@@ -25,16 +33,6 @@ Además, corresponde llevar a cabo la capacitación y actualización del persona
 Los órganos administrativos tienen a su cargo tareas relativas a la administración de los recursos humanos, materiales y económicos del Poder Judicial.
 
 De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente estructura:
-
-### RESPONSABLE
-
-Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
-
-### FECHA DE VALIDACIÓN
-
-4 de mayo de 2020
-
-Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.
 
 
 ### 01 Estructura Jurisdiccional
@@ -208,6 +206,7 @@ Su estructura orgánica en un formato que permita vincular por cada eslabón de 
 * [Archivo General.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Archivo General.pptx)
 * [Auditoría Interna.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Auditoría Interna.pptx)
 * [Secretaría Técnica y de Transparencia.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Secretaría Técnica y de Transparencia.pptx)
+* [Unidad de Asuntos Legislativos 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos 2020-V4.pptx)
 * [Unidad de Asuntos Legislativos.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos.pptx)
 * [Unidad de Derechos Humanos.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Derechos Humanos.pptx)
 

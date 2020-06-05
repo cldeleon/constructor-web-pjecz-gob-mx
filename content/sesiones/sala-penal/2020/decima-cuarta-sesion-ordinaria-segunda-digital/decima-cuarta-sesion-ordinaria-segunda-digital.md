@@ -1,6 +1,6 @@
 Title: Décima Cuarta Sesión Ordinaria Segunda Digital
 Slug: sesiones-sala-penal-2020-decima-cuarta-sesion-ordinaria-segunda-digital
-Summary: Sesión Ordinaria de la Sala Penal
+Summary: Sesión Ordinaria de la Sala Penal, 22 de mayo 2020
 Tags: Sesiones
 URL: sesiones/sala-penal/2020/decima-cuarta-sesion-ordinaria-segunda-digital/
 Save_As: sesiones/sala-penal/2020/decima-cuarta-sesion-ordinaria-segunda-digital/index.html

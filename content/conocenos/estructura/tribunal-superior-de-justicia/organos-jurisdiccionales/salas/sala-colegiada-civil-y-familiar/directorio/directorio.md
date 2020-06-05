@@ -9,11 +9,9 @@ Modified: 2020-05-04 09:12
 
 
 
-### Directorio
-
 ![Iván Garza García](sc-iván-garza.jpg)
 
-##Lic. Iván Garza García
+### Lic. Iván Garza García
 
 Magistrado Presidente de la Sala Colegiada Civil y Familiar
 
@@ -21,40 +19,37 @@ Magistrado Presidente de la Sala Colegiada Civil y Familiar
 
 ![María del Carmen Galván Tello](sc-maría-de-carmen-galván-tello.jpg)
 
-##Dra. María del Carmen Galván Tello
+### Dra. María del Carmen Galván Tello
 
 Magistrada Sala Colegiada Civil y Familiar
 
 ---
 
-![María Eugenia Galindo Hernández](sc-maría-eugenia-galindo)
+![María Eugenia Galindo Hernández](sc-maría-eugenia-galindo.jpg)
 
-## Lic. María Eugenia Galindo Hernández
+### Lic. María Eugenia Galindo Hernández
 
 Magistrada Sala Colegiada Civil y Familiar
 
 ---
 
-![Gabriel Aguillón Rosales](sc-gabriel- aguillon-rosales.jpg)
+![Gabriel Aguillón Rosales](sc-gabriel-aguillon-rosales.jpg)
 
-##Lic. Gabriel Aguillón Rosales
-
-Magistrado Sala Colegiada Civil y Familiar
-
----
-
-![César Alejandro Saucedo Flores](sc-cesar-alejandro-saucedo-flores)
-
-## Lic. César Alejandro Saucedo Flores
+### Lic. Gabriel Aguillón Rosales
 
 Magistrado Sala Colegiada Civil y Familiar
 
 ---
 
-[Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
+![César Alejandro Saucedo Flores](sc-cesar-alejandro-saucedo-flores.jpg)
 
+### Lic. César Alejandro Saucedo Flores
 
+Magistrado Sala Colegiada Civil y Familiar
 
+---
+
+##### [Directorio General](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 
 

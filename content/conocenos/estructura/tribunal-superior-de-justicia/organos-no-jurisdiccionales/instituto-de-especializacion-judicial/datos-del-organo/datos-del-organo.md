@@ -9,14 +9,13 @@ Modified: 2020-05-04 09:12
 
 
 
-### Datos del Órgano
+Blvd. Venustiano Carranza 2673, Santiago, 25240 Saltillo, Coah.
 
-Dirección		Blvd. Venustiano Carranza 2673, Santiago, 25240 Saltillo, Coah.
-Teléfono 		(844) 438-09-80
-Correo de contacto	iejcoahuila@gmail.com
+Teléfono (844) 438-09-80
+
+Correo electrónico: iejcoahuila@gmail.com
 
 [Google Maps](https://goo.gl/maps/o9HhzrEm4GYh7TKeA)
-
 
 
 

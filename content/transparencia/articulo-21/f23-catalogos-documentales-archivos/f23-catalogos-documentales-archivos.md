@@ -8,14 +8,22 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
+### Artículo 21, Fracc. XXIII Catálogo Documental de Archivos 
 
-### Pendiente
+Los catálogos documentales de sus archivos administrativos de conformidad con lo establecido en esta ley
 
+#### RESPONSABLE
+
+Cada órgano jurisdiccional y unidad administrativa del Poder  Judicial del Estado de Coahuila de Zaragoza.
+
+#### FECHA DE VALIDACIÓN
+
+4 de mayo de 2020
 
 
 ## Descargar
 
 
-* [Catálogos Documentales abril-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F23 Catálogos Documentales de Archivos/Catálogos Documentales abril-2020-V4.xlsx)
+* [transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F23 Catálogos Documentales de Archivos/transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx)
 
 
