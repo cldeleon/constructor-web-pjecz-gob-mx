@@ -31,6 +31,7 @@ ARTICLE_PATHS = [
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
+    'armonizacion-contable',
     'aviso-de-privacidad',
     'conocenos',
     'consultas',
@@ -45,6 +46,7 @@ PAGE_PATHS = [
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
     'acuerdos',
+    'armonizacion-contable',
     'comunicados',
     'conocenos',
     'consultas',

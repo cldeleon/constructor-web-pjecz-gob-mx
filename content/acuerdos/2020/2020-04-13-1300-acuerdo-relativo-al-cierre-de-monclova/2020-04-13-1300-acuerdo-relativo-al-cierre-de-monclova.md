@@ -1,7 +1,7 @@
 Title: Acuerdo relativo al cierre de Monclova
 Slug: acuerdos-2020-2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova/
 Save_As: acuerdos/2020/2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova/index.html
 Date: 2020-04-13 13:00
@@ -76,16 +76,11 @@ Así lo acordo y firma el Magistrado Miguel Felipe Mery Ayup, Presidente del Tri
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
-## Descargar
-
-* [2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0200-acuerdo-relativo-al-cierre-de-monclova.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-13 1300 Acuerdo relativo al cierre de Monclova.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1300 Acuerdo relativo al cierre de Monclova/2020-04-13 1300 Acuerdo relativo al cierre de Monclova.pdf)
+* [Acuerdo relativo al cierre de Monclova.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1300 Acuerdo relativo al cierre de Monclova/Acuerdo relativo al cierre de Monclova.pdf)
 
 

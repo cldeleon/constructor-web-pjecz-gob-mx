@@ -1,7 +1,7 @@
 Title: Primera Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-primera-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 08 de enero 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-ordinaria/index.html
 Date: 2020-01-08 15:00:00

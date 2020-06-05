@@ -1,7 +1,7 @@
 Title: Décima Quinta Sesión Ordinaria
 Slug: sesiones-sala-civil-y-familiar-2020-decima-quinta-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Civil y Familiar, 28 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-civil-y-familiar/2020/decima-quinta-sesion-ordinaria/
 Save_As: sesiones/sala-civil-y-familiar/2020/decima-quinta-sesion-ordinaria/index.html
 Date: 2020-05-28 11:00:00

@@ -1,7 +1,7 @@
 Title: Décima Tercera Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-tercera-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 27 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-tercera-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-tercera-sesion-ordinaria/index.html
 Date: 2020-05-27 11:00:00

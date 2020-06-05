@@ -1,7 +1,7 @@
 Title: Acuerdo sobre cuestiones urgentes en Materia Familiar
 Slug: acuerdos-2020-2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar/
 Save_As: acuerdos/2020/2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar/index.html
 Date: 2020-04-06 12:00
@@ -92,16 +92,11 @@ Séptimo. Se ordena listar y cumplir el presente acuerdo. Así lo acordo y firma
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
-## Descargar
-
-* [2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0200-acuerdo-cuestiones-urgentes-en-materia-familiar.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-06 1200 Acuerdo sobre cuestiones urgentes en Materia Familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-06 1200 Acuerdo sobre cuestiones urgentes en Materia Familiar/2020-04-06 1200 Acuerdo sobre cuestiones urgentes en Materia Familiar.pdf)
+* [Acuerdo sobre cuestiones urgentes en Materia Familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-06 1200 Acuerdo sobre cuestiones urgentes en Materia Familiar/Acuerdo sobre cuestiones urgentes en Materia Familiar.pdf)
 
 

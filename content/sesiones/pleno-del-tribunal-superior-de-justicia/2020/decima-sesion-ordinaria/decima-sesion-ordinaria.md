@@ -1,7 +1,7 @@
 Title: Décima Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 11 de marzo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-sesion-ordinaria/index.html
 Date: 2020-03-11 15:00:00

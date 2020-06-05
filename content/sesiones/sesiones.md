@@ -1,7 +1,7 @@
 Title: Sesiones
 Slug: sesiones
 Summary: Sesiones del Poder Judicial del Estado de Coahuila de Zaragoza
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/
 Save_As: sesiones/index.html
 Date: 2020-01-01 12:00:00

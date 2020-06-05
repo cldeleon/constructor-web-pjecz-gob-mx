@@ -1,7 +1,7 @@
 Title: Acuerdos
 Slug: acuerdos
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/
 Save_As: acuerdos/index.html
 Date: 2020-05-01 12:00

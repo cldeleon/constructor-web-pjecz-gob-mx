@@ -1,7 +1,7 @@
 Title: Décimo Tercera Sesión Ordinaria Primera Digital
 Slug: sesiones-sala-penal-2020-decima-tercera-sesion-ordinaria-primera-digital
 Summary: Sesión Ordinaria de la Sala Penal, 14 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/
 Save_As: sesiones/sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/index.html
 Date: 2020-05-14 14:00:00

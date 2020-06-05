@@ -1,7 +1,7 @@
 Title: Acuerdo de audiencias en Materia Penal por Videoconferencias
 Slug: acuerdos-2020-2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias/
 Save_As: acuerdos/2020/2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias/index.html
 Date: 2020-04-06 12:00
@@ -113,16 +113,11 @@ Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 1. El contenido del acuerdo se encuentra disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza.
 2. El acuerdo está disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/content/uploads/2020/04/Acuerdo 010420-Covid-19.pdf
 
-## Descargar
-
-* [2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-06-0100-acuerdo-audiencias-en-materia-penal-por-videoconferencias.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-06 1200 Acuerdo de audiencias en Materia Penal por Videoconferencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-06 1200 Acuerdo de audiencias en Materia Penal por Videoconferencias/2020-04-06 1200 Acuerdo de audiencias en Materia Penal por Videoconferencias.pdf)
+* [Acuerdo de audiencias en Materia Penal por Videoconferencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-06 1200 Acuerdo de audiencias en Materia Penal por Videoconferencias/Acuerdo de audiencias en Materia Penal por Videoconferencias.pdf)
 
 

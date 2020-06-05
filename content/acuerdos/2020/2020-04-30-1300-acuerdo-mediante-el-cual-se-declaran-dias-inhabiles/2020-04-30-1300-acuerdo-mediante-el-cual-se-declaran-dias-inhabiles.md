@@ -1,7 +1,7 @@
 Title: Acuerdo mediante el cual se declaran días inhábiles
 Slug: acuerdos-2020-2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles/
 Save_As: acuerdos/2020/2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles/index.html
 Date: 2020-04-30 13:00
@@ -286,15 +286,11 @@ El Secretario General de Acuerdos
 
 **Lic. Gustavo Sergio López Arizpe**
 
-## Descargar
-
-* [2020-04-30-acuerdo-pleno-covid.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-30-acuerdo-pleno-covid.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-04-30 1300 Acuerdo mediante el cual se declaran días inhábiles.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-30 1300 Acuerdo mediante el cual se declaran días inhábiles/2020-04-30 1300 Acuerdo mediante el cual se declaran días inhábiles.pdf)
+* [Acuerdo mediante el cual se declaran días inhábiles.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-30 1300 Acuerdo mediante el cual se declaran días inhábiles/Acuerdo mediante el cual se declaran días inhábiles.pdf)
 
 

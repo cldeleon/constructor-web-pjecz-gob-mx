@@ -1,7 +1,7 @@
 Title: Décima Quinta Sesión Ordinaria
 Slug: sesiones-sala-penal-2020-decima-quinta-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Penal, 26 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-penal/2020/decima-quinta-sesion-ordinaria/
 Save_As: sesiones/sala-penal/2020/decima-quinta-sesion-ordinaria/index.html
 Date: 2020-05-26 11:00:00

@@ -1,7 +1,7 @@
 Title: Acuerdo Protocolo de Acceso a Edificios
 Slug: acuerdos-2020-2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios/
 Save_As: acuerdos/2020/2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios/index.html
 Date: 2020-05-13 12:00
@@ -302,15 +302,11 @@ El licenciado Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite
 
 EL SECRETARIO DE ACUERDO Y TRÁMITE.
 
-## Descargar
-
-* [2020-05-13-acuerdo-protocolo-acceso-edificios.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-05-13-acuerdo-protocolo-acceso-edificios.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-05-13 1200 Acuerdo Protocolo de Acceso a Edificios.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1200 Acuerdo Protocolo de Acceso a Edificios/2020-05-13 1200 Acuerdo Protocolo de Acceso a Edificios.pdf)
+* [Acuerdo Protocolo de Acceso a Edificios.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1200 Acuerdo Protocolo de Acceso a Edificios/Acuerdo Protocolo de Acceso a Edificios.pdf)
 
 

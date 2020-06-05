@@ -1,7 +1,7 @@
 Title: Séptima Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-septima-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 19 de febrero 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/septima-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/septima-sesion-ordinaria/index.html
 Date: 2020-02-19 15:00:00

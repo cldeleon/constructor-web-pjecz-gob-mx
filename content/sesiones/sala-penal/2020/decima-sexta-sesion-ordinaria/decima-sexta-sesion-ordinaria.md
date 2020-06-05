@@ -1,7 +1,7 @@
 Title: Décima Sexta Sesión Ordinaria
 Slug: sesiones-sala-penal-2020-decima-sexta-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Penal, 02 de junio 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-penal/2020/decima-sexta-sesion-ordinaria/
 Save_As: sesiones/sala-penal/2020/decima-sexta-sesion-ordinaria/index.html
 Date: 2020-06-02 11:00:00
