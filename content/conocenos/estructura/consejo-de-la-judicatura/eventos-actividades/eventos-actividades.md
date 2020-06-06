@@ -1,7 +1,7 @@
 Title: Eventos-Actividades
 Slug: conocenos-estructura-consejo-de-la-judicatura-eventos-actividades
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/eventos-actividades/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/eventos-actividades/index.html
 Date: 2020-05-04 09:12

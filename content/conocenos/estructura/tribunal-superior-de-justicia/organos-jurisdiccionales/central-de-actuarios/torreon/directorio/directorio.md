@@ -1,7 +1,7 @@
 Title: Directorio
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-central-de-actuarios-torreon-directorio
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/torreon/directorio/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/torreon/directorio/index.html
 Date: 2020-05-04 09:12

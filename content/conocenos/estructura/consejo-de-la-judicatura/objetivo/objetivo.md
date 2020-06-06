@@ -1,7 +1,7 @@
 Title: Objetivo
 Slug: conocenos-estructura-consejo-de-la-judicatura-objetivo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/objetivo/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/objetivo/index.html
 Date: 2020-05-04 09:12

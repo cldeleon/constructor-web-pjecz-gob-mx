@@ -1,7 +1,7 @@
 Title: Tribunal Superior de Justicia
 Slug: conocenos-estructura-tribunal-superior-de-justicia
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/index.html
 Date: 2020-05-04 09:12

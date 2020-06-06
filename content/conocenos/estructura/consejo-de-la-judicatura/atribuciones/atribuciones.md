@@ -1,7 +1,7 @@
 Title: Atribuciones
 Slug: conocenos-estructura-consejo-de-la-judicatura-atribuciones
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/atribuciones/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/atribuciones/index.html
 Date: 2020-05-04 09:12

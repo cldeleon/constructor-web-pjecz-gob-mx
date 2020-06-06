@@ -1,7 +1,7 @@
 Title: Bienvenida
 Slug: conocenos-quienes-somos-bienvenida
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/quienes-somos/bienvenida/
 Save_As: conocenos/quienes-somos/bienvenida/index.html
 Date: 2020-05-04 09:12

@@ -1,7 +1,7 @@
 Title: Órganos Jurisdiccionales
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/index.html
 Date: 2020-05-04 09:12

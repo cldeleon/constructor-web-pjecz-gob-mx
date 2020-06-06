@@ -1,7 +1,7 @@
 Title: Funciones
 Slug: conocenos-estructura-tribunal-superior-de-justicia-presidencia-unidad-de-derechos-humanos-e-igualdad-de-genero-funciones
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/presidencia/unidad-de-derechos-humanos-e-igualdad-de-genero/funciones/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/presidencia/unidad-de-derechos-humanos-e-igualdad-de-genero/funciones/index.html
 Date: 2020-05-04 09:12

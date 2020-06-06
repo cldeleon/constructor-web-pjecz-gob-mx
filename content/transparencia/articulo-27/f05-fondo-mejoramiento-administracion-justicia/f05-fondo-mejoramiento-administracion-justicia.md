@@ -1,7 +1,7 @@
 Title: Fondo para el Mejoramiento de la Administración Justicia
 Slug: transparencia-articulo-27-f05-fondo-mejoramiento-administracion-justicia
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f05-fondo-mejoramiento-administracion-justicia/
 Save_As: transparencia/articulo-27/f05-fondo-mejoramiento-administracion-justicia/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo del 2020
+4 de junio del 2020
 
 
 ### 2018
@@ -53,5 +53,14 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 * [10 OCTUBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/10 OCTUBRE.pdf)
 * [11 NOVIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/11 NOVIEMBRE.pdf)
 * [12 DICIEMBRE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2019/12 DICIEMBRE.pdf)
+
+
+### 2020
+
+
+* [01 Enero.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2020/01 Enero.pdf)
+* [02 Febrero.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2020/02 Febrero.pdf)
+* [03 Marzo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2020/03 Marzo.pdf)
+* [04 Abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/2020/04 Abril.pdf)
 
 

@@ -1,7 +1,7 @@
 Title: Presupuesto Asignado
 Slug: transparencia-articulo-27-f04-presupuesto-asignado
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f04-presupuesto-asignado/
 Save_As: transparencia/articulo-27/f04-presupuesto-asignado/index.html
 Date: 2020-04-30 09:30:00
@@ -18,8 +18,8 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo del 2020
+4 de junio del 2020
 
-[Presupuesto](https://www.pjecz.gob.mx/transparencia/articulo-21/f20-presupuesto-asignado/)
+##### [Presupuesto](https://www.pjecz.gob.mx/transparencia/articulo-21/f20-presupuesto-asignado/)
 
 

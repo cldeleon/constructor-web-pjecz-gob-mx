@@ -1,7 +1,7 @@
 Title: Estadísticas de amparos
 Slug: transparencia-articulo-27-f14-estadisticas-amparos
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f14-estadisticas-amparos/
 Save_As: transparencia/articulo-27/f14-estadisticas-amparos/index.html
 Date: 2020-04-30 09:30:00

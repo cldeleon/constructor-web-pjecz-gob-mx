@@ -1,7 +1,7 @@
 Title: Tribunal de Conciliación y Arbitraje
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunales-especializados-tribunal-de-conciliacion-y-arbitraje
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-conciliacion-y-arbitraje/index.html
 Date: 2020-05-04 09:12

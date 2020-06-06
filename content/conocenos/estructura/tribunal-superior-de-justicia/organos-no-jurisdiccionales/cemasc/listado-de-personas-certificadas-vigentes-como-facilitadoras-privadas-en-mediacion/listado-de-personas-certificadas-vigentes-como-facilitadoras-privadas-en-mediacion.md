@@ -1,7 +1,7 @@
 Title: Listado de Personas Certificadas Vigentes como facilitadoras Privadas en Mediación
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-cemasc-listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/index.html
 Date: 2020-05-04 09:12

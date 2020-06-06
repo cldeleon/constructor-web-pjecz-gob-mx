@@ -1,7 +1,7 @@
 Title: Nombramientos, Comisiones y Licencias
 Slug: transparencia-articulo-21-f04-nombramientos-comisiones-licencias
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/
 Save_As: transparencia/articulo-21/f04-nombramientos-comisiones-licencias/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ### Comisiones
@@ -66,6 +66,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [03 Marzo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/03 Marzo.pptx)
 * [04 Abril.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/04 Abril.pptx)
 * [05 Mayo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/05 Mayo.pptx)
+* [06 Junio 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/2020/06 Junio 2020.pptx)
 
 
 ### Licencias
@@ -111,6 +112,27 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 
 ### Nombramientos
+
+
+#### 01 Magistrados
+
+
+* [Magistrada María Eugenia Galindo Hernández.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrada María Eugenia Galindo Hernández.pdf)
+* [Magistrada María Luisa Valencia García.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrada María Luisa Valencia García.pdf)
+* [Magistrado Carlos de Lara McGrath.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Carlos de Lara McGrath.pdf)
+* [Magistrado César Alejandro Saucedo Flores.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado César Alejandro Saucedo Flores.pdf)
+* [Magistrado Gabriel Aguillón Rosales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Gabriel Aguillón Rosales.pdf)
+* [Magistrado Homero Ramos Gloria.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Homero Ramos Gloria.pdf)
+* [Magistrado Iván Garza García.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Iván Garza García.pdf)
+* [Magistrado José Ignacio Maynez Varela.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado José Ignacio Maynez Varela.pdf)
+* [Magistrado Juan Antonio Martínez Gómez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Juan Antonio Martínez Gómez.pdf)
+* [Magistrado Juan José Yañez Arreola.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Juan José Yañez Arreola.pdf)
+* [Magistrado Luis Efrén Ríos Vega.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Luis Efrén Ríos Vega.pdf)
+* [Magistrado Manuel Alberto Flores Hernández.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Manuel Alberto Flores Hernández.pdf)
+* [Magistrado María del Carmen Galván Tello.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado María del Carmen Galván Tello.pdf)
+* [Magistrado Miguel Felipe Mery Ayup.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Miguel Felipe Mery Ayup.pdf)
+* [Magistrado Ulises Guadalupe Hernández Torres.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Ulises Guadalupe Hernández Torres.pdf)
+* [Magistrado Vladimir Kaiceros Barranco.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/01 Magistrados/Magistrado Vladimir Kaiceros Barranco.pdf)
 
 
 #### Archivo General
@@ -195,31 +217,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 ##### Acuña
 
 
-* [AGUSTIN REYES CHAVEZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/AGUSTIN REYES CHAVEZ.pdf)
-* [MODESTO CORPUS GONZALEZ.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/MODESTO CORPUS GONZALEZ.pdf)
-* [RODRIGUEZ RIOS RIGOBERTO RAUL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/RODRIGUEZ RIOS RIGOBERTO RAUL.pdf)
-* [VICTOR HUGO QUIROZ ZAPATA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/VICTOR HUGO QUIROZ ZAPATA.pdf)
-
-
-#### Magistrados
-
-
-* [Magistrada María Eugenia Galindo Hernández.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrada María Eugenia Galindo Hernández.pdf)
-* [Magistrada María Luisa Valencia García.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrada María Luisa Valencia García.pdf)
-* [Magistrado Carlos de Lara McGrath.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Carlos de Lara McGrath.pdf)
-* [Magistrado César Alejandro Saucedo Flores.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado César Alejandro Saucedo Flores.pdf)
-* [Magistrado Gabriel Aguillón Rosales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Gabriel Aguillón Rosales.pdf)
-* [Magistrado Homero Ramos Gloria.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Homero Ramos Gloria.pdf)
-* [Magistrado Iván Garza García.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Iván Garza García.pdf)
-* [Magistrado José Ignacio Maynez Varela.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado José Ignacio Maynez Varela.pdf)
-* [Magistrado Juan Antonio Martínez Gómez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Juan Antonio Martínez Gómez.pdf)
-* [Magistrado Juan José Yañez Arreola.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Juan José Yañez Arreola.pdf)
-* [Magistrado Luis Efrén Ríos Vega.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Luis Efrén Ríos Vega.pdf)
-* [Magistrado Manuel Alberto Flores Hernández.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Manuel Alberto Flores Hernández.pdf)
-* [Magistrado María del Carmen Galván Tello.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado María del Carmen Galván Tello.pdf)
-* [Magistrado Miguel Felipe Mery Ayup.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Miguel Felipe Mery Ayup.pdf)
-* [Magistrado Ulises Guadalupe Hernández Torres.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Ulises Guadalupe Hernández Torres.pdf)
-* [Magistrado Vladimir Kaiceros Barranco.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Magistrados/Magistrado Vladimir Kaiceros Barranco.pdf)
+* [Agustín Reyes Chávez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/Agustín Reyes Chávez.pdf)
+* [Modesto Corpus Delgado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/Modesto Corpus Delgado.pdf)
+* [Victor Hugo Quiroz Zapzta.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Juzgados de Primera Instancia/Acuña/Victor Hugo Quiroz Zapzta.pdf)
 
 
 #### Oficialia de Partes

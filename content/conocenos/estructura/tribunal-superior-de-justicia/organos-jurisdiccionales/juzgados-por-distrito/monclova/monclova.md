@@ -1,7 +1,7 @@
 Title: Monclova
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-distrito-monclova
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/monclova/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/monclova/index.html
 Date: 2020-05-04 09:12

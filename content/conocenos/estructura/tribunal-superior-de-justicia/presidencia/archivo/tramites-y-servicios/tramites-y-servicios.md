@@ -1,7 +1,7 @@
 Title: Trámites y Servicios
 Slug: conocenos-estructura-tribunal-superior-de-justicia-presidencia-archivo-tramites-y-servicios
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/presidencia/archivo/tramites-y-servicios/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/presidencia/archivo/tramites-y-servicios/index.html
 Date: 2020-05-04 09:12

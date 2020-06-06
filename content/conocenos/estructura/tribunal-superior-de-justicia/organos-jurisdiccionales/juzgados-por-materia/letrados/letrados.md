@@ -1,7 +1,7 @@
 Title: Letrados
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-materia-letrados
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/letrados/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/letrados/index.html
 Date: 2020-05-04 09:12

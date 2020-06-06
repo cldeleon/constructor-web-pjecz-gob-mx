@@ -1,7 +1,7 @@
 Title: Conócenos
 Slug: conocenos
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/
 Save_As: conocenos/index.html
 Date: 2020-05-04 09:12
@@ -45,7 +45,6 @@ Modified: 2020-05-04 09:12
 
 ## [Directorio General](directorio-general/)
 
-* [Calendario de Labores](directorio-general/calendario-de-labores/)
 * [Consejeros](directorio-general/consejeros/)
 
 

@@ -1,7 +1,7 @@
 Title: Datos del órgano
 Slug: conocenos-estructura-consejo-de-la-judicatura-datos-del-organo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/datos-del-organo/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/datos-del-organo/index.html
 Date: 2020-05-04 09:12

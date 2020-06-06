@@ -1,7 +1,7 @@
 Title: Datos del órgano
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-instituto-estatal-de-defensoria-publica-datos-del-organo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/datos-del-organo/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/datos-del-organo/index.html
 Date: 2020-05-04 09:12

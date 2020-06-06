@@ -1,7 +1,7 @@
 Title: Listas de acuerdos
 Slug: transparencia-articulo-27-f07-listas-acuerdos
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f07-listas-acuerdos/
 Save_As: transparencia/articulo-27/f07-listas-acuerdos/index.html
 Date: 2020-04-30 09:30:00

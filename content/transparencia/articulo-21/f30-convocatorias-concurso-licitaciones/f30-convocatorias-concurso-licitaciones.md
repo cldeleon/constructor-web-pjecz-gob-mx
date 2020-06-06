@@ -1,7 +1,7 @@
 Title: Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación
 Slug: transparencia-articulo-21-f30-convocatorias-concurso-licitaciones
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f30-convocatorias-concurso-licitaciones/
 Save_As: transparencia/articulo-21/f30-convocatorias-concurso-licitaciones/index.html
 Date: 2020-04-30 09:30:00
@@ -14,7 +14,7 @@ Lic. José Manuel Gil Navarro, Oficial Mayor
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluyendo el o los contratos celebrados.
 

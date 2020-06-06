@@ -1,7 +1,7 @@
 Title: Remuneración Mensual por Puesto
 Slug: transparencia-articulo-21-f05-remuneracion-mensual-puesto
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f05-remuneracion-mensual-puesto/
 Save_As: transparencia/articulo-21/f05-remuneracion-mensual-puesto/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ## Descargar

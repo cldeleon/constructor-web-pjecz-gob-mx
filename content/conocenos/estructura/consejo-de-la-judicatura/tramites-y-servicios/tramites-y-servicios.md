@@ -1,7 +1,7 @@
 Title: Trámites y Servicios
 Slug: conocenos-estructura-consejo-de-la-judicatura-tramites-y-servicios
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/tramites-y-servicios/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/tramites-y-servicios/index.html
 Date: 2020-05-04 09:12

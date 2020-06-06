@@ -1,7 +1,7 @@
 Title: Mercantiles
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-materia-mercantiles
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/mercantiles/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-materia/mercantiles/index.html
 Date: 2020-05-04 09:12

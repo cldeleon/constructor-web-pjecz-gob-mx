@@ -1,14 +1,14 @@
 Title: Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias
 Slug: transparencia-articulo-21-f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/
 Save_As: transparencia/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/index.html
 Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-### Art. 21 Fracc. XIII Mecanismos de Solicitudes, Opinones, Quejas, Denuncias o Sugerencias 
+### Art. 21 Fracc. XIII Mecanismos de Solicitudes, Opinones, Quejas, Denuncias o Sugerencias
 
 Todo mecanismo de presentación directa de solicitudes, opiniones, quejas, denuncias, o sugerencias;
 
@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ## Descargar

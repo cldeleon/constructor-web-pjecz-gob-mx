@@ -1,15 +1,11 @@
 Title: Calendario de días inhábiles
 Slug: transparencia-articulo-27-f11-calendario-dias-inhabiles
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f11-calendario-dias-inhabiles/
 Save_As: transparencia/articulo-27/f11-calendario-dias-inhabiles/index.html
 Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
-
-
- 
-
 
 
 ## Descargar
@@ -26,6 +22,6 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo del 2020
+4 de junio del 2020
 
 

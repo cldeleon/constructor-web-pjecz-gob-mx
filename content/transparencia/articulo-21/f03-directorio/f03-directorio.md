@@ -1,7 +1,7 @@
 Title: Directorio de Servidores Públicos
 Slug: transparencia-articulo-21-f03-directorio
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f03-directorio/
 Save_As: transparencia/articulo-21/f03-directorio/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ### 01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza
@@ -53,10 +53,10 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 ### 03 Tribunales Distritales
 
 
-* [Cuarto Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Cuarto Tribunal Distrital.xlsx)
-* [Primer Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Primer Tribunal Distrital.xlsx)
-* [Segundo Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Segundo Tribunal Distrital.xlsx)
-* [Tercer Tribunal Distrital.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/Tercer Tribunal Distrital.xls)
+* [01 Primer Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/01 Primer Tribunal Distrital.xlsx)
+* [02 Segundo Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/02 Segundo Tribunal Distrital.xlsx)
+* [03 Tercer Tribunal Distrital.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/03 Tercer Tribunal Distrital.xls)
+* [04 Cuarto Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/04 Cuarto Tribunal Distrital.xlsx)
 
 
 ### 04 Oficialía Mayor

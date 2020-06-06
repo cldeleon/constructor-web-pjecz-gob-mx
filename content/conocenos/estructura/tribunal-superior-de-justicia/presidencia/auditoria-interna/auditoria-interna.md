@@ -1,7 +1,7 @@
 Title: Auditoria Interna
 Slug: conocenos-estructura-tribunal-superior-de-justicia-presidencia-auditoria-interna
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/presidencia/auditoria-interna/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/presidencia/auditoria-interna/index.html
 Date: 2020-05-04 09:12

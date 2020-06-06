@@ -1,7 +1,7 @@
 Title: Licitaciones
 Slug: transparencia-licitaciones
 Summary: .
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/licitaciones/
 Save_As: transparencia/licitaciones/index.html
 Date: 2020-04-30 09:30:00

@@ -1,7 +1,7 @@
 Title: Directorio
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-visitaduria-judicial-general-directorio
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/visitaduria-judicial-general/directorio/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/visitaduria-judicial-general/directorio/index.html
 Date: 2020-05-04 09:12

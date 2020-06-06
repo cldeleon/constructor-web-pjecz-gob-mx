@@ -1,7 +1,7 @@
 Title: San Pedro
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-distrito-san-pedro
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/san-pedro/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/san-pedro/index.html
 Date: 2020-05-04 09:12

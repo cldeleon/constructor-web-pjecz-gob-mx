@@ -1,7 +1,7 @@
 Title: Juzgados por distrito
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-distrito
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/index.html
 Date: 2020-05-04 09:12

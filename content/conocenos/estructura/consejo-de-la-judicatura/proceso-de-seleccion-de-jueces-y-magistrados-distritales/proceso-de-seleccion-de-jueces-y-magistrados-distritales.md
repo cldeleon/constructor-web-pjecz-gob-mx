@@ -1,7 +1,7 @@
 Title: Proceso de Selección de Jueces y Magistrados Distritales
 Slug: conocenos-estructura-consejo-de-la-judicatura-proceso-de-seleccion-de-jueces-y-magistrados-distritales
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/index.html
 Date: 2020-05-04 09:12

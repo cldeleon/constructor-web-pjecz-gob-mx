@@ -1,7 +1,7 @@
 Title: Lista de peritos
 Slug: transparencia-articulo-27-f20-lista-peritos
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f20-lista-peritos/
 Save_As: transparencia/articulo-27/f20-lista-peritos/index.html
 Date: 2020-04-30 09:30:00

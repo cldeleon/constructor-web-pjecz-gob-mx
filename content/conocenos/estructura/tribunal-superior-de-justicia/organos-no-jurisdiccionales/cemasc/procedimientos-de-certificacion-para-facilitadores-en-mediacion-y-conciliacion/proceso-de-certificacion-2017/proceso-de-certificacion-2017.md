@@ -1,7 +1,7 @@
 Title: Proceso de Certificacion 2017
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-cemasc-procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion-proceso-de-certificacion-2017
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/proceso-de-certificacion-2017/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/proceso-de-certificacion-2017/index.html
 Date: 2020-05-04 09:12

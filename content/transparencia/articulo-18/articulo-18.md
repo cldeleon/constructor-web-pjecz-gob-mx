@@ -1,7 +1,7 @@
 Title: Artículo 18
 Slug: transparencia-articulo-18
 Summary: Transparencia, Artículo 18
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-18/
 Save_As: transparencia/articulo-18/index.html
 Date: 2020-04-30 09:30:00
@@ -32,6 +32,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo 2020
+4 de junio de  2020
 
 

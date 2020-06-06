@@ -1,7 +1,7 @@
 Title: Listado de Servidores Públicos Sancionados
 Slug: transparencia-articulo-21-f47-sanciones-servidores-publicos
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f47-sanciones-servidores-publicos/
 Save_As: transparencia/articulo-21/f47-sanciones-servidores-publicos/index.html
 Date: 2020-04-30 09:30:00
@@ -16,12 +16,12 @@ El listado de servidores públicos con sanciones definitivas, especificando la c
 
 #### RESPONSABLE
 
-Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+Consejo de la Judicatura del Poder Poder Judicial del Estado de Coahuila de Zaragoza
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
-A la fecha de actualización del presente rubro, no hay servidores públicos Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario. 
+A la fecha de actualización del presente rubro, no hay servidores públicos Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario.
 
 

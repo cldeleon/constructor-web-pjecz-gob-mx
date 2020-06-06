@@ -1,7 +1,7 @@
 Title: Catálogos Documentales de Archivos
 Slug: transparencia-articulo-21-f23-catalogos-documentales-archivos
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f23-catalogos-documentales-archivos/
 Save_As: transparencia/articulo-21/f23-catalogos-documentales-archivos/index.html
 Date: 2020-04-30 09:30:00
@@ -24,6 +24,6 @@ Cada órgano jurisdiccional y unidad administrativa del Poder  Judicial del Esta
 ## Descargar
 
 
-* [transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F23 Catálogos Documentales de Archivos/transparencia-21-XXIII-catalogo-documentales-pjecz-abril-2020-V4.xlsx)
+* [Catálogo de Archivos Documentales.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F23 Catálogos Documentales de Archivos/Catálogo de Archivos Documentales.xlsx)
 
 

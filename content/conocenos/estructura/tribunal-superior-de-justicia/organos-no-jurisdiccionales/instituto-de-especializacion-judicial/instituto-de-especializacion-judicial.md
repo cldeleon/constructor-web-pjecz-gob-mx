@@ -1,7 +1,7 @@
 Title: Instituto de Especialización Judicial
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-instituto-de-especializacion-judicial
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/index.html
 Date: 2020-05-04 09:12

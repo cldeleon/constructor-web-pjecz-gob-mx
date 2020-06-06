@@ -1,7 +1,7 @@
 Title: Oficialía de Partes
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-oficialia-de-partes
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/oficialia-de-partes/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/oficialia-de-partes/index.html
 Date: 2020-05-04 09:12

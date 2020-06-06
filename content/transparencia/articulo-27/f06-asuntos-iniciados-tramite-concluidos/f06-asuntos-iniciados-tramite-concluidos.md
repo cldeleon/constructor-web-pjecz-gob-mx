@@ -1,7 +1,7 @@
 Title: Asuntos iniciados, en trámite y concluidos
 Slug: transparencia-articulo-27-f06-asuntos-iniciados-tramite-concluidos
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f06-asuntos-iniciados-tramite-concluidos/
 Save_As: transparencia/articulo-27/f06-asuntos-iniciados-tramite-concluidos/index.html
 Date: 2020-04-30 09:30:00

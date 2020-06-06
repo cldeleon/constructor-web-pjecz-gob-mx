@@ -1,7 +1,7 @@
 Title: CEMASC
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-cemasc
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/index.html
 Date: 2020-05-04 09:12

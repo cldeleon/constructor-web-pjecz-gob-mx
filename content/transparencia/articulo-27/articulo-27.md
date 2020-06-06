@@ -1,7 +1,7 @@
 Title: Artículo 27
 Slug: transparencia-articulo-27
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/
 Save_As: transparencia/articulo-27/index.html
 Date: 2020-04-30 09:30:00

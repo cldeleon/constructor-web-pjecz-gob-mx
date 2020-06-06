@@ -1,7 +1,7 @@
 Title: Artículo 21
 Slug: transparencia-articulo-21
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/
 Save_As: transparencia/articulo-21/index.html
 Date: 2020-04-30 09:30:00
@@ -14,7 +14,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo del 2020
+4 de junio del 2020
 
 Los sujetos obligados deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 

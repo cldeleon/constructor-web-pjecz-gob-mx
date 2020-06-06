@@ -1,7 +1,7 @@
 Title: Formulario de Contacto
 Slug: conocenos-estructura-consejo-de-la-judicatura-formulario-de-contacto
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/formulario-de-contacto/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/formulario-de-contacto/index.html
 Date: 2020-05-04 09:12

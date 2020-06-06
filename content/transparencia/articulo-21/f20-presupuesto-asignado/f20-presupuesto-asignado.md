@@ -1,7 +1,7 @@
 Title: Presupuesto Asignado
 Slug: transparencia-articulo-21-f20-presupuesto-asignado
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f20-presupuesto-asignado/
 Save_As: transparencia/articulo-21/f20-presupuesto-asignado/index.html
 Date: 2020-04-30 09:30:00
@@ -12,11 +12,11 @@ Modified: 2020-04-30 09:30:00
 
 ### RESPONSABLE
 
-Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+C.P. Silvia Gabriela Saucedo Muñoz
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado en lo general y por programa;
 

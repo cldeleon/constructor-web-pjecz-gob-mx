@@ -1,7 +1,7 @@
 Title: Salas
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-salas
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/index.html
 Date: 2020-05-04 09:12

@@ -1,7 +1,7 @@
 Title: Consejo de la Judicatura
 Slug: conocenos-estructura-consejo-de-la-judicatura
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/index.html
 Date: 2020-05-04 09:12

@@ -1,12 +1,11 @@
 Title: Servicios y Trámites
 Slug: transparencia-articulo-21-f12-servicios-tramites
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f12-servicios-tramites/
 Save_As: transparencia/articulo-21/f12-servicios-tramites/index.html
 Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
-
 
 
 ### Art. 21 Fracc. XII Servicios y Trámites
@@ -19,9 +18,9 @@ Cada una de las áreas responsables que brindan el Servicio o Trámite del Poder
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
-* [Registro Estatal de Deudores Alimentarios Morosos](https://www.pjecz.gob.mx/servicios/registro-estatal-de-deudores-alimentarios-morosos/)
+* [Registro Estatal de Deudores Alimentarios Morosos](https://www.dropbox.com/s/tu3ax9o75dbey1q/REDAM.JPG?dl=0)
 * [Instituto Estatal de Defensoría Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/tramites-y-servicios/)
 * [Medios Alternos de Solución de Conflictos](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/tramites-y-servicios/)
 * [Instituto de Especialización Judicial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-de-especializacion-judicial/tramites-y-servicios/)
