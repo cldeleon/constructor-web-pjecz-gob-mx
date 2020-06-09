@@ -1,7 +1,7 @@
 Title: Servicios y Trámites
 Slug: transparencia-tca-articulo-21-f12-servicios-tramites
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f12-servicios-tramites/
 Save_As: transparencia-tca/articulo-21/f12-servicios-tramites/index.html
 Date: 2020-04-30 09:30:00
@@ -16,7 +16,7 @@ Cada una de las Áreas responsables que brindan el Servicio o Trámite del Tribu
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 El Tribunal de Conciliación y Arbitraje del Poder Judicial:
 

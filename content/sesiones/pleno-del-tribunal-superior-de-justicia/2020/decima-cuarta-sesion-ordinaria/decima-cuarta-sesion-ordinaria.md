@@ -1,6 +1,6 @@
 Title: Décima Cuarta Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-cuarta-sesion-ordinaria
-Summary: Sesión Ordinaria del Pleno del TSJ, 3 de junio 2020
+Summary: Sesión Ordinaria del Pleno del TSJ, 03 de junio 2020
 Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/index.html

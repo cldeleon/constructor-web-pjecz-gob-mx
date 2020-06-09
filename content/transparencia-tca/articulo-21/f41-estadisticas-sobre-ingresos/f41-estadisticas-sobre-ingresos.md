@@ -1,7 +1,7 @@
 Title: Estadísticas sobre los Ingresos
 Slug: transparencia-tca-articulo-21-f41-estadisticas-sobre-ingresos
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f41-estadisticas-sobre-ingresos/
 Save_As: transparencia-tca/articulo-21/f41-estadisticas-sobre-ingresos/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza y no está dentro de sus funciones y facultades la de generar y concentrar la información del presente rubro. A continuación se proporciona el enlace a la información correspondiente:
 

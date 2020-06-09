@@ -1,7 +1,7 @@
 Title: Directorio
 Slug: transparencia-tca-articulo-27-f03-directorio
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f03-directorio/
 Save_As: transparencia-tca/articulo-27/f03-directorio/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 
 ## Descargar

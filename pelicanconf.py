@@ -33,6 +33,7 @@ ARTICLE_PATHS = [
 PAGE_PATHS = [
     'armonizacion-contable',
     'aviso-de-privacidad',
+    'citas',
     'conocenos',
     'consultas',
     'licencias',
@@ -47,6 +48,7 @@ PAGE_PATHS = [
 STATIC_PATHS = [
     'acuerdos',
     'armonizacion-contable',
+    'citas',
     'comunicados',
     'conocenos',
     'consultas',

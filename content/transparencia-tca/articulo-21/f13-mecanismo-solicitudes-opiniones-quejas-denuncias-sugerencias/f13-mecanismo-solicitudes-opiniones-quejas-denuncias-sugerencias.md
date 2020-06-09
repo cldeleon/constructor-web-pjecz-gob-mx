@@ -1,7 +1,7 @@
 Title: Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias
 Slug: transparencia-tca-articulo-21-f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/
 Save_As: transparencia-tca/articulo-21/f13-mecanismo-solicitudes-opiniones-quejas-denuncias-sugerencias/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 Todo mecanismo de presentación directa de solicitudes, opiniones, quejas, denuncias, o sugerencias
 
-
 ### RESPONSABLE
 
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje.
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
-
+05 de junio del 2020
 
 
 ## Descargar

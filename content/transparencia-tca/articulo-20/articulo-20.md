@@ -1,7 +1,7 @@
 Title: Artículo 20
 Slug: transparencia-tca-articulo-20
 Summary: Transparencia TCA, Artículo 20
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-20/
 Save_As: transparencia-tca/articulo-20/index.html
 Date: 2020-04-30 09:30:00

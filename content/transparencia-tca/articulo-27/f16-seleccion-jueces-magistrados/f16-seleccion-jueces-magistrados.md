@@ -1,7 +1,7 @@
 Title: Proceso de Selección de Magistrados
 Slug: transparencia-tca-articulo-27-f16-seleccion-jueces-magistrados
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados/
 Save_As: transparencia-tca/articulo-27/f16-seleccion-jueces-magistrados/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Cons
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 [Proceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)
 

@@ -1,7 +1,7 @@
 Title: Presupuesto Asignado
 Slug: transparencia-tca-articulo-21-f20-presupuesto-asignado
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f20-presupuesto-asignado/
 Save_As: transparencia-tca/articulo-21/f20-presupuesto-asignado/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 El Tribunal de Conciliación y Arbitraje es un Órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza, compete a la unidad administrativa correspondiente, la generación de la información a que se refiere el presente rubro, en este caso, a la Dirección de Recursos Financieros de la Oficialía Mayor del Poder Judicial.
 

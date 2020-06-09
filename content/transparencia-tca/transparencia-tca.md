@@ -1,7 +1,7 @@
 Title: Transparencia Tribunal de Conciliación y Arbitraje
 Slug: transparencia-tca
 Summary: Pendiente
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/
 Save_As: transparencia-tca/index.html
 Date: 2020-01-01 15:00:00

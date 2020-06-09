@@ -1,7 +1,7 @@
 Title: Formatos de procedimientos
 Slug: transparencia-tca-articulo-27-f11-formatos-procedimientos
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f11-formatos-procedimientos/
 Save_As: transparencia-tca/articulo-27/f11-formatos-procedimientos/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 
 ## Descargar

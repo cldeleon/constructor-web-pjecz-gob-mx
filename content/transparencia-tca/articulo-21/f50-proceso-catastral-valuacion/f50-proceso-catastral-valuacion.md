@@ -1,7 +1,7 @@
 Title: Proceso Catastral de Valuación
 Slug: transparencia-tca-articulo-21-f50-proceso-catastral-valuacion
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f50-proceso-catastral-valuacion/
 Save_As: transparencia-tca/articulo-21/f50-proceso-catastral-valuacion/index.html
 Date: 2020-04-30 09:30:00

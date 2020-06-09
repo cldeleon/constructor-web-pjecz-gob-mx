@@ -1,7 +1,7 @@
 Title: Otra Información
 Slug: transparencia-tca-articulo-21-f52-otra-informacion
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f52-otra-informacion/
 Save_As: transparencia-tca/articulo-21/f52-otra-informacion/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 [Calendario de actualización, artículo 21](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2020/Calendario%20de%20Actualizacion%20Art%2021%20TCA%202020.ppt)
 

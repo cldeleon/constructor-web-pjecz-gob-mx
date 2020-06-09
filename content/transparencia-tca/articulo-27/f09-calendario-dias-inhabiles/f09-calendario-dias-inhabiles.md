@@ -1,7 +1,7 @@
 Title: Calendario de Días Inhábiles
 Slug: transparencia-tca-articulo-27-f09-calendario-dias-inhabiles
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f09-calendario-dias-inhabiles/
 Save_As: transparencia-tca/articulo-27/f09-calendario-dias-inhabiles/index.html
 Date: 2020-04-30 09:30:00
@@ -16,7 +16,7 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 
 ## Descargar
