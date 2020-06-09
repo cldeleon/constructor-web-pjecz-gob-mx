@@ -1,7 +1,7 @@
 Title: Sesiones del Tribunal Constitucional
 Slug: sesiones-tribunal-constitucional
 Summary: Sesiones del Tribunal Constitucional
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/tribunal-constitucional/
 Save_As: sesiones/tribunal-constitucional/index.html
 Date: 2020-01-01 12:00:00

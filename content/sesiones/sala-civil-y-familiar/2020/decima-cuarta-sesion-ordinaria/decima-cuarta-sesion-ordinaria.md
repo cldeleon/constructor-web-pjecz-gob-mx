@@ -1,7 +1,7 @@
 Title: Décima Cuarta Sesión Ordinaria
 Slug: sesiones-sala-civil-y-familiar-2020-decima-cuarta-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Civil y Familiar, 21 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-civil-y-familiar/2020/decima-cuarta-sesion-ordinaria/
 Save_As: sesiones/sala-civil-y-familiar/2020/decima-cuarta-sesion-ordinaria/index.html
 Date: 2020-05-21 11:00:00

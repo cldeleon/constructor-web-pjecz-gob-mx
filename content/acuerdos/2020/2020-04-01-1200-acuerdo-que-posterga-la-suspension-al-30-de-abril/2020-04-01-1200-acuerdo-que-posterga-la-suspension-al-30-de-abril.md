@@ -1,7 +1,7 @@
 Title: Acuerdo que posterga la suspensión al 30 de abril
 Slug: acuerdos-2020-2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril/
 Save_As: acuerdos/2020/2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril/index.html
 Date: 2020-04-01 12:00
@@ -103,16 +103,11 @@ Listese y cúmplase. Así lo acordó y firma el Magistrado Miguel Felipe Mery Ay
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
-## Descargar
-
-* [2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-01-0100-acuerdo-posterga-suspensión-al-30-abril.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-01 1200 Acuerdo que posterga la suspensión al 30 de abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-01 1200 Acuerdo que posterga la suspensión al 30 de abril/2020-04-01 1200 Acuerdo que posterga la suspensión al 30 de abril.pdf)
+* [Acuerdo que posterga la suspensión al 30 de abril.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-01 1200 Acuerdo que posterga la suspensión al 30 de abril/Acuerdo que posterga la suspensión al 30 de abril.pdf)
 
 

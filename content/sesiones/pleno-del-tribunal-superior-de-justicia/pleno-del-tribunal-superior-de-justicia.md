@@ -1,7 +1,7 @@
 Title: Sesiones del Pleno del Tribunal Superior de Justicia
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia
 Summary: Sesiones del Pleno del Tribunal Superior de Justicia
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/index.html
 Date: 2020-01-01 12:00:00
@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Décima Quinta Sesión Ordinaria](2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria](2020/decima-cuarta-sesion-ordinaria/)
 - [Décima Tercera Sesión Ordinaria](2020/decima-tercera-sesion-ordinaria/)
 - [Décima Segunda Sesión Ordinaria](2020/decima-segunda-sesion-ordinaria/)

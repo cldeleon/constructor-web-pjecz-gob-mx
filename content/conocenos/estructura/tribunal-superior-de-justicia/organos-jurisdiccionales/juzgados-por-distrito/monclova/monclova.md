@@ -1,7 +1,7 @@
 Title: Monclova
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-distrito-monclova
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/monclova/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/monclova/index.html
 Date: 2020-05-04 09:12
@@ -17,7 +17,7 @@ Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 Teléfono: 866-631-5588 y 866-631-5589
 
 ## Juzgado Segundo de Primera Instancia en Materia Civil
-.
+
 Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
 Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 

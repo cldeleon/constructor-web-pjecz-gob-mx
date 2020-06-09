@@ -1,7 +1,7 @@
 Title: Datos del órgano
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-salas-sala-colegiada-civil-y-familiar-datos-del-organo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/sala-colegiada-civil-y-familiar/datos-del-organo/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/sala-colegiada-civil-y-familiar/datos-del-organo/index.html
 Date: 2020-05-04 09:12

@@ -1,7 +1,7 @@
 Title: Las tesis aisladas y jurisdiccionales
 Slug: transparencia-tca-articulo-27-f14-tesis-aisladas
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f14-tesis-aisladas/
 Save_As: transparencia-tca/articulo-27/f14-tesis-aisladas/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 A la fecha que se actualiza no se han generado tesis aisladas y jurisprudenciales por el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza
 

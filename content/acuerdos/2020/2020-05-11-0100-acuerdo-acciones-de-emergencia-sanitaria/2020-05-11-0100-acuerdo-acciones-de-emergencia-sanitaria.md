@@ -1,7 +1,7 @@
 Title: Acuerdo Acciones de Emergencia Sanitaria
 Slug: acuerdos-2020-2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria/
 Save_As: acuerdos/2020/2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria/index.html
 Date: 2020-05-11 01:00
@@ -66,15 +66,11 @@ Lístese y cúmplase. Así lo acordo y firma el Magistrado Miguel Felipe Mery Ay
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
-## Descargar
-
-* [2020-05-11-acuerdo-acciones-emergencia-sanitaria.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-05-11-acuerdo-acciones-emergencia-sanitaria.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-05-11 0100 Acuerdo Acciones de Emergencia Sanitaria.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-11 0100 Acuerdo Acciones de Emergencia Sanitaria/2020-05-11 0100 Acuerdo Acciones de Emergencia Sanitaria.pdf)
+* [Acuerdo Acciones de Emergencia Sanitaria.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-11 0100 Acuerdo Acciones de Emergencia Sanitaria/Acuerdo Acciones de Emergencia Sanitaria.pdf)
 
 

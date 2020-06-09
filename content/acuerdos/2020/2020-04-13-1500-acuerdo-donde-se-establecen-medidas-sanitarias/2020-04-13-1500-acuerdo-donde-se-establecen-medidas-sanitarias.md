@@ -1,7 +1,7 @@
 Title: Acuerdo donde se establecen medidas sanitarias
 Slug: acuerdos-2020-2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias/
 Save_As: acuerdos/2020/2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias/index.html
 Date: 2020-04-13 15:00
@@ -90,16 +90,11 @@ Al día hábil siguiente, se incluyó en la Lista de Acuerdos. Conste.
 
 1. El contenido del acuerdo se encuentra disponible en el portal de internet del Poder Judicial del Estado de Coahuila de Zaragoza: https://www.pjecz.gob.mx/comunicado-covid-19/
 
-## Descargar
-
-* [2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0400-acuerdo-establecen-medidas-sanitarias.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-13 1500 Acuerdo donde se establecen medidas sanitarias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1500 Acuerdo donde se establecen medidas sanitarias/2020-04-13 1500 Acuerdo donde se establecen medidas sanitarias.pdf)
+* [Acuerdo donde se establecen medidas sanitarias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1500 Acuerdo donde se establecen medidas sanitarias/Acuerdo donde se establecen medidas sanitarias.pdf)
 
 

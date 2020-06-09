@@ -1,7 +1,7 @@
 Title: Transparencia
 Slug: transparencia
 Summary: .
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/
 Save_As: transparencia/index.html
 Date: 2020-01-01 15:00:00

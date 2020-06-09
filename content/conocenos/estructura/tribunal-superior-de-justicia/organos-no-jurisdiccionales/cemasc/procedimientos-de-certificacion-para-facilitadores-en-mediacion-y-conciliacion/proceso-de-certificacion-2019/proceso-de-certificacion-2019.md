@@ -1,7 +1,7 @@
 Title: Proceso de Certificación 2019
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-cemasc-procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion-proceso-de-certificacion-2019
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/proceso-de-certificacion-2019/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/proceso-de-certificacion-2019/index.html
 Date: 2020-05-04 09:12

@@ -1,7 +1,7 @@
 Title: Primer Tribunal Distrital
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunales-distritales-primer-tribunal-distrital
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-distritales/primer-tribunal-distrital/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-distritales/primer-tribunal-distrital/index.html
 Date: 2020-05-04 09:12

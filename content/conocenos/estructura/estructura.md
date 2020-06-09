@@ -1,7 +1,7 @@
 Title: Estructura
 Slug: conocenos-estructura
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/
 Save_As: conocenos/estructura/index.html
 Date: 2020-05-04 09:12

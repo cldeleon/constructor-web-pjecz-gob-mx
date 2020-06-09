@@ -1,7 +1,7 @@
 Title: Remuneración Mensual por Puesto
 Slug: transparencia-tca-articulo-21-f05-remuneracion-mensual-puesto
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f05-remuneracion-mensual-puesto/
 Save_As: transparencia-tca/articulo-21/f05-remuneracion-mensual-puesto/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 La remuneración mensual por puesto de todos los servidores públicos por sueldo o por honorarios, incluyendo todas las percepciones, así como el tipo de seguridad social con el que cuentan
 
-
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 
 ## Descargar

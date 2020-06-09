@@ -1,13 +1,14 @@
 Title: Consejeros
 Slug: conocenos-directorio-general-consejeros
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/directorio-general/consejeros/
 Save_As: conocenos/directorio-general/consejeros/index.html
 Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+## Directorio General
 
 ![Miguel Felipe Mery Ayup](miguel-felipe-mery-ayup.jpg)
 

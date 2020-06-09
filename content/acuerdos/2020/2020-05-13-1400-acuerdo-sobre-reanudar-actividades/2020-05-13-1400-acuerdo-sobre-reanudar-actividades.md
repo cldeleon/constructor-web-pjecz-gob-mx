@@ -1,7 +1,7 @@
 Title: Acuerdo sobre reanudar actividades
 Slug: acuerdos-2020-2020-05-13-1400-acuerdo-sobre-reanudar-actividades
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-05-13-1400-acuerdo-sobre-reanudar-actividades/
 Save_As: acuerdos/2020/2020-05-13-1400-acuerdo-sobre-reanudar-actividades/index.html
 Date: 2020-05-13 14:00
@@ -160,15 +160,11 @@ El Secretario General de Acuerdos
 
 **Lic. Gustavo Sergio López Arizpe**
 
-## Descargar
-
-* [2020-05-13-0300-acuerdo-pleno-se-reanudan-actividades.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-05-13-0300-acuerdo-pleno-se-reanudan-actividades.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-05-13 1400 Acuerdo sobre reanudar actividades.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1400 Acuerdo sobre reanudar actividades/2020-05-13 1400 Acuerdo sobre reanudar actividades.pdf)
+* [Acuerdo sobre reanudar actividades.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1400 Acuerdo sobre reanudar actividades/Acuerdo sobre reanudar actividades.pdf)
 
 

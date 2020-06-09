@@ -1,7 +1,7 @@
 Title: Parras de la Fuente
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-juzgados-por-distrito-parras-de-la-fuente
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/parras-de-la-fuente/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/juzgados-por-distrito/parras-de-la-fuente/index.html
 Date: 2020-05-04 09:12

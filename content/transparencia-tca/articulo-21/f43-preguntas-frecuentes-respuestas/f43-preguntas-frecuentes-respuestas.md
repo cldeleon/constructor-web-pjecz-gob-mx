@@ -1,7 +1,7 @@
 Title: Preguntas Frecuentes y sus Respuestas
 Slug: transparencia-tca-articulo-21-f43-preguntas-frecuentes-respuestas
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f43-preguntas-frecuentes-respuestas/
 Save_As: transparencia-tca/articulo-21/f43-preguntas-frecuentes-respuestas/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 Las preguntas más frecuentes y sus respectivas respuestas.
 
-
 ### RESPONSABLE
 
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje.
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
-
+05 de junio del 2020
 
 
 ### 2018
@@ -64,5 +61,6 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 * [02 Preguntas frecuentes TCA Febrero 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/2020/02 Preguntas frecuentes TCA Febrero 2020.xls)
 * [03 Preguntas frecuentes TCA Marzo 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/2020/03 Preguntas frecuentes TCA Marzo 2020.xls)
 * [04 Preguntas frecuentes TCA Abril 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/2020/04 Preguntas frecuentes TCA Abril 2020.xls)
+* [05 Preguntas frecuentes TCA Mayo 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/2020/05 Preguntas frecuentes TCA Mayo 2020.xls)
 
 

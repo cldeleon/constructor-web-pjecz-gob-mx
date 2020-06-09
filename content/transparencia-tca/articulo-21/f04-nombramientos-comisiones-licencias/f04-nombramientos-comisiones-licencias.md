@@ -1,7 +1,7 @@
 Title: Nombramientos, Comisiones y Licencias
 Slug: transparencia-tca-articulo-21-f04-nombramientos-comisiones-licencias
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f04-nombramientos-comisiones-licencias/
 Save_As: transparencia-tca/articulo-21/f04-nombramientos-comisiones-licencias/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 Los nombramientos, comisiones y licencias de los servidores públicos.
 
-
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 
 ### Comisiones
@@ -161,6 +158,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [Joel Alonso Arzola Vásquez.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Joel Alonso Arzola Vásquez.pdf)
 * [Liliana Ortiz Herrera.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Liliana Ortiz Herrera.pdf)
 * [María del Refugio Luna Cézares.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/María del Refugio Luna Cézares.pdf)
+* [Matías Cárdenas Barba.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Matías Cárdenas Barba.pdf)
 * [Rita Gabriela García Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Rita Gabriela García Muñoz.pdf)
 * [Roberto Alejandro Ramírez Maldonado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Roberto Alejandro Ramírez Maldonado.pdf)
 * [Rogelio Padilla Muñoz.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Nombramientos/Personal jurisdiccional u homólogo/Rogelio Padilla Muñoz.pdf)

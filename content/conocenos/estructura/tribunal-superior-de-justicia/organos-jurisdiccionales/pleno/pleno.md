@@ -1,7 +1,7 @@
 Title: Pleno
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-pleno
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/pleno/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/pleno/index.html
 Date: 2020-05-04 09:12

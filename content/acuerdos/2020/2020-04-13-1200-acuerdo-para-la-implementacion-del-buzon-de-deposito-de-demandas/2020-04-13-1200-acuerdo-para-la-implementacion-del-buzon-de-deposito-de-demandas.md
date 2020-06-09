@@ -1,7 +1,7 @@
 Title: Acuerdo para la implementación del Buzón de Depósito de Demandas
 Slug: acuerdos-2020-2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas/
 Save_As: acuerdos/2020/2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas/index.html
 Date: 2020-04-13 12:00
@@ -136,16 +136,11 @@ Así lo acordo y firma el Magistrado Miguel Felipe Mery Ayup, Presidente del Tri
 
 Al día hábil siguiente, se incluyó en la Lista de Acuerdos.
 
-## Descargar
-
-* [2020-04-13-0100-acuerdo-implementacion-buzon-deposito-de-demandas.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-13-0100-acuerdo-implementacion-buzon-deposito-de-demandas.pdf)
-
-
 
 
 ## Descargar
 
 
-* [2020-04-13 1200 Acuerdo para la implementación del Buzón de Depósito de Demandas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1200 Acuerdo para la implementación del Buzón de Depósito de Demandas/2020-04-13 1200 Acuerdo para la implementación del Buzón de Depósito de Demandas.pdf)
+* [Acuerdo para la implementación del Buzón de Depósito de Demandas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-13 1200 Acuerdo para la implementación del Buzón de Depósito de Demandas/Acuerdo para la implementación del Buzón de Depósito de Demandas.pdf)
 
 

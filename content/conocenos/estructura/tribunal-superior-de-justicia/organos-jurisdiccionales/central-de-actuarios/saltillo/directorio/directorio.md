@@ -1,7 +1,7 @@
 Title: Directorio
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-central-de-actuarios-saltillo-directorio
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/saltillo/directorio/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/saltillo/directorio/index.html
 Date: 2020-05-04 09:12

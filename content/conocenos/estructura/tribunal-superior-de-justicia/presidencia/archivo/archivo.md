@@ -1,7 +1,7 @@
 Title: Archivo
 Slug: conocenos-estructura-tribunal-superior-de-justicia-presidencia-archivo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/presidencia/archivo/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/presidencia/archivo/index.html
 Date: 2020-05-04 09:12

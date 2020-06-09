@@ -1,7 +1,7 @@
 Title: Décima Sexta Sesión Ordinaria
 Slug: sesiones-sala-civil-y-familiar-2020-decima-sexta-sesion-ordinaria
-Summary: Sesión Ordinaria de la Sala Civil y Familiar
-Tags: 
+Summary: Sesión Ordinaria de la Sala Civil y Familiar, 04 de junio 2020
+Category: Sesiones
 URL: sesiones/sala-civil-y-familiar/2020/decima-sexta-sesion-ordinaria/
 Save_As: sesiones/sala-civil-y-familiar/2020/decima-sexta-sesion-ordinaria/index.html
 Date: 2020-06-04 11:00:00

@@ -1,7 +1,7 @@
 Title: Declaración Patrimonial
 Slug: transparencia-articulo-21-f06-declaracion-patrimonial
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f06-declaracion-patrimonial/
 Save_As: transparencia/articulo-21/f06-declaracion-patrimonial/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 * [Declaraciones Patrimoniales de los Servidores Públicos](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)
 

@@ -1,7 +1,7 @@
 Title: Segunda Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-segunda-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 15 de enero 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-ordinaria/index.html
 Date: 2020-01-15 15:00:00

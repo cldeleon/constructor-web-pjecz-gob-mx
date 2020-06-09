@@ -1,7 +1,7 @@
 Title: Presentación de quejas
 Slug: conocenos-estructura-consejo-de-la-judicatura-presentacion-de-quejas
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/index.html
 Date: 2020-05-04 09:12

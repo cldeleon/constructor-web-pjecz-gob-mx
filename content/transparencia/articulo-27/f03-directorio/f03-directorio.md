@@ -1,7 +1,7 @@
 Title: Directorio de los Órganos Jurisdiccionales y Administrativos
 Slug: transparencia-articulo-27-f03-directorio
 Summary: Transparencia, Artículo 27
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-27/f03-directorio/
 Save_As: transparencia/articulo-27/f03-directorio/index.html
 Date: 2020-04-30 09:30:00
@@ -18,8 +18,8 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo del 2020
+4 de junio del 2020
 
-[Directorio](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
+##### [Directorio de los Órganos Jurisdiccionales y Administrativos](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 
 

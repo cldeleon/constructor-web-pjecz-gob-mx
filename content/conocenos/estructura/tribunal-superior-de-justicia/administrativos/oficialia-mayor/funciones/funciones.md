@@ -1,7 +1,7 @@
 Title: Funciones
 Slug: conocenos-estructura-tribunal-superior-de-justicia-administrativos-oficialia-mayor-funciones
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/administrativos/oficialia-mayor/funciones/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/administrativos/oficialia-mayor/funciones/index.html
 Date: 2020-05-04 09:12

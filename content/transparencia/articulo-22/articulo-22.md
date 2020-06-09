@@ -1,7 +1,7 @@
 Title: Artículo 22
 Slug: transparencia-articulo-22
 Summary: Transparencia, Artículo 22
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-22/
 Save_As: transparencia/articulo-22/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 Este rubro de información **no aplica**, toda vez que no está dentro de sus atribuciones, las cuales se establecen en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 

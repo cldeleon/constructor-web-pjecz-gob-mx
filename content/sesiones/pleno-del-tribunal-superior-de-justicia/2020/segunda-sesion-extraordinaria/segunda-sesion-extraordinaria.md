@@ -1,7 +1,7 @@
 Title: Segunda Sesión Extraordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-segunda-sesion-extraordinaria
 Summary: Sesión Extraordinaria del Pleno del TSJ, 30 de abril 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-extraordinaria/index.html
 Date: 2020-04-30 11:05:00

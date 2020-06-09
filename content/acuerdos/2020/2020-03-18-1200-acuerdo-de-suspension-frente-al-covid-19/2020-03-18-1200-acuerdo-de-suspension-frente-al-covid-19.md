@@ -1,7 +1,7 @@
 Title: Acuerdo de Suspensión frente al COVID-19
 Slug: acuerdos-2020-2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19/
 Save_As: acuerdos/2020/2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19/index.html
 Date: 2020-03-18 12:00
@@ -266,15 +266,11 @@ del Poder Judicial del Estado y remitir las comunicaciones oficiales a
 las instancias competentes para su conocimiento y debido
 cumplimiento.
 
-## Descargar
-
-* [2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-03-18-0100-acuerdo-c048-2020-suspension-covid-19.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-03-18 1200 Acuerdo de Suspensión frente al COVID-19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-03-18 1200 Acuerdo de Suspensión frente al COVID-19/2020-03-18 1200 Acuerdo de Suspensión frente al COVID-19.pdf)
+* [Acuerdo de Suspensión frente al COVID-19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-03-18 1200 Acuerdo de Suspensión frente al COVID-19/Acuerdo de Suspensión frente al COVID-19.pdf)
 
 

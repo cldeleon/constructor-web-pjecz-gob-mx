@@ -1,7 +1,7 @@
 Title: Balances y Estados Financieros
 Slug: transparencia-articulo-21-f25-balances-estados-financieros
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f25-balances-estados-financieros/
 Save_As: transparencia/articulo-21/f25-balances-estados-financieros/index.html
 Date: 2020-04-30 09:30:00
@@ -34,6 +34,15 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 ### 2019
 
 
+* [1ER TRIM FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/1ER TRIM FINAL.pdf)
+* [2DO AVANCE FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/2DO AVANCE FINAL.pdf)
+* [4IAGF 19 PJEC COMPLETO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/4IAGF 19 PJEC COMPLETO.pdf)
 * [Cuarto avance de Gestión Financiera 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/Cuarto avance de Gestión Financiera 2019.pdf)
+
+
+### 2020
+
+
+ 
 
 

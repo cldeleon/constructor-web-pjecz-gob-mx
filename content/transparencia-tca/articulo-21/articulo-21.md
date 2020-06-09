@@ -1,7 +1,7 @@
 Title: Artículo 21
 Slug: transparencia-tca-articulo-21
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/
 Save_As: transparencia-tca/articulo-21/index.html
 Date: 2020-04-30 09:30:00

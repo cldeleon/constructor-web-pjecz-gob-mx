@@ -1,7 +1,7 @@
 Title: Décima Tercera Sesión Ordinaria
 Slug: sesiones-sala-civil-y-familiar-2020-decima-tercera-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Civil y Familiar, 08 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/
 Save_As: sesiones/sala-civil-y-familiar/2020/decima-tercera-sesion-ordinaria/index.html
 Date: 2020-05-08 12:00:00

@@ -1,7 +1,7 @@
 Title: Votos Particulares
 Slug: sesiones-votos-particulares
 Summary: Votos Particulares
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/votos-particulares/
 Save_As: sesiones/votos-particulares/index.html
 Date: 2020-01-01 12:00:00

@@ -1,7 +1,7 @@
 Title: Auditorías Practicadas y Concluídas
 Slug: transparencia-articulo-21-f27-auditorias-practicadas-concluidas
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f27-auditorias-practicadas-concluidas/
 Save_As: transparencia/articulo-21/f27-auditorias-practicadas-concluidas/index.html
 Date: 2020-04-30 09:30:00
@@ -18,6 +18,6 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 

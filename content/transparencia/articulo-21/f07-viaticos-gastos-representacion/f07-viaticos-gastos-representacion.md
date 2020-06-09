@@ -1,7 +1,7 @@
 Title: Viáticos y Gastos de Representación
 Slug: transparencia-articulo-21-f07-viaticos-gastos-representacion
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f07-viaticos-gastos-representacion/
 Save_As: transparencia/articulo-21/f07-viaticos-gastos-representacion/index.html
 Date: 2020-04-30 09:30:00

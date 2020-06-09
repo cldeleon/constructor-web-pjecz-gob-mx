@@ -1,7 +1,7 @@
 Title: Reconocimiento al Personal del Sector Salud
 Slug: comunicados-2020-2020-04-16-1200-reconocimiento-al-personal-del-sector-salud
 Summary: .
-Tags: Comunicados
+Category: Comunicados
 URL: comunicados/2020/2020-04-16-1200-reconocimiento-al-personal-del-sector-salud/
 Save_As: comunicados/2020/2020-04-16-1200-reconocimiento-al-personal-del-sector-salud/index.html
 Date: 2020-04-16 12:00

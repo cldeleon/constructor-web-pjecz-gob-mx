@@ -1,7 +1,7 @@
 Title: Perfil de Puestos y Currículum Vitae
 Slug: transparencia-tca-articulo-21-f08-perfil-puestos-curriculum-vitae
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f08-perfil-puestos-curriculum-vitae/
 Save_As: transparencia-tca/articulo-21/f08-perfil-puestos-curriculum-vitae/index.html
 Date: 2020-04-30 09:30:00
@@ -12,20 +12,17 @@ Modified: 2020-04-30 09:30:00
 
 El perfil de los puestos y el currículum de todos los servidores públicos. Se exceptúa la publicación del currículum de los miembros de las corporaciones policiacas.
 
-
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
+05 de junio de 2020
 
 Perfil del puesto
 
 [Ley Orgánica del Poder Judicial](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
-
 
 
 ### Currículum Magistrados

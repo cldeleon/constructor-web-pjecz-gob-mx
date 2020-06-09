@@ -1,7 +1,7 @@
 Title: Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales
 Slug: acuerdos-2020-2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales/
 Save_As: acuerdos/2020/2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales/index.html
 Date: 2020-05-13 13:00
@@ -325,15 +325,11 @@ El licenciado Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite
 
 EL SECRETARIO DE ACUERDO Y TRÁMITE.
 
-## Descargar
-
-* [2020-05-13-acuerdo-protocolo-atencion-organos-jurisdiccionales.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-05-13-acuerdo-protocolo-atencion-organos-jurisdiccionales.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-05-13 1300 Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1300 Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales/2020-05-13 1300 Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales.pdf)
+* [Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-05-13 1300 Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales/Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales.pdf)
 
 

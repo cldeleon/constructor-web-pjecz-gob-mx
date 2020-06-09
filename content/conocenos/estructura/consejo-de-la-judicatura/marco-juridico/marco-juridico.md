@@ -1,7 +1,7 @@
 Title: Marco Jurídico
 Slug: conocenos-estructura-consejo-de-la-judicatura-marco-juridico
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/marco-juridico/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/marco-juridico/index.html
 Date: 2020-05-04 09:12

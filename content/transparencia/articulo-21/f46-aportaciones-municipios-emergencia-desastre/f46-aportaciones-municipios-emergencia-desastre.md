@@ -1,7 +1,7 @@
 Title: Aportaciones a Municipios en Emergencia o Desastre
 Slug: transparencia-articulo-21-f46-aportaciones-municipios-emergencia-desastre
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f46-aportaciones-municipios-emergencia-desastre/
 Save_As: transparencia/articulo-21/f46-aportaciones-municipios-emergencia-desastre/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 Desde la entrada en vigor de la presente Ley de Acceso a la Información Publica para el Estado de Coahuila de Zaragoza, el el Poder Judicial del Estado de Coahuila de Zaragoza no ha realizado ningún tipo de aportación a municipios o comunidades en emergencia o desastre, esto a partir del día 11/09/2015 a la fecha.
 

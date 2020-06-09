@@ -1,7 +1,7 @@
 Title: Informe Anual de Actividades
 Slug: transparencia-articulo-21-f40-informe-anual-actividades
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f40-informe-anual-actividades/
 Save_As: transparencia/articulo-21/f40-informe-anual-actividades/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ### 2016

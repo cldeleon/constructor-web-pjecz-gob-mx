@@ -1,7 +1,7 @@
 Title: Tercera Sesión Extraordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-tercera-sesion-extraordinaria
 Summary: Sesión Extraordinaria del Pleno del TSJ, 13 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/tercera-sesion-extraordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/tercera-sesion-extraordinaria/index.html
 Date: 2020-05-13 11:00:00

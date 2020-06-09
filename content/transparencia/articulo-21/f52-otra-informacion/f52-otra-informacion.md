@@ -1,7 +1,7 @@
 Title: Otra Información
 Slug: transparencia-articulo-21-f52-otra-informacion
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f52-otra-informacion/
 Save_As: transparencia/articulo-21/f52-otra-informacion/index.html
 Date: 2020-04-30 09:30:00
@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
 

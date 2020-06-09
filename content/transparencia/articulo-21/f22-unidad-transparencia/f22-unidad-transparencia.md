@@ -1,7 +1,7 @@
 Title: Unidad de Transparencia
 Slug: transparencia-articulo-21-f22-unidad-transparencia
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f22-unidad-transparencia/
 Save_As: transparencia/articulo-21/f22-unidad-transparencia/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 ##### [Unidad y Comité de Transparencia](https://www.dropbox.com/s/ks5lfcd4p2d6d5n/Unidad%20de%20Transparencia.ppsx?dl=0)
 

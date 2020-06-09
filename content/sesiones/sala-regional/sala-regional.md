@@ -1,7 +1,7 @@
 Title: Sesiones de la Sala Regional
 Slug: sesiones-sala-regional
 Summary: Sesiones de la Sala Regional
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-regional/
 Save_As: sesiones/sala-regional/index.html
 Date: 2020-01-01 12:00:00

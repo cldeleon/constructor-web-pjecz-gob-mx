@@ -1,7 +1,7 @@
 Title: Solicitudes de Información y Respuestas
 Slug: transparencia-tca-articulo-21-f24-solicitudes-informacion-respuestas
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f24-solicitudes-informacion-respuestas/
 Save_As: transparencia-tca/articulo-21/f24-solicitudes-informacion-respuestas/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 Las solicitudes de acceso a la información pública, las quejas presentadas y las respuestas que se les dé, incluyendo, en su caso, la información entregada, a través del sistema de solicitudes de acceso a la información.
 
-
 ### RESPONSABLE
 
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 
 ### 2018

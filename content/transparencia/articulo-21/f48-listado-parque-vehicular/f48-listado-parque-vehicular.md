@@ -1,7 +1,7 @@
 Title: Listado del Parque Vehicular
 Slug: transparencia-articulo-21-f48-listado-parque-vehicular
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f48-listado-parque-vehicular/
 Save_As: transparencia/articulo-21/f48-listado-parque-vehicular/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 
 ## Descargar

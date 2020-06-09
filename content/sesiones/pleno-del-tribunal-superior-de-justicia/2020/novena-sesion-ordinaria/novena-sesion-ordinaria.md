@@ -1,7 +1,7 @@
 Title: Novena Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-novena-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 04 de marzo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/novena-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/novena-sesion-ordinaria/index.html
 Date: 2020-03-04 15:00:00

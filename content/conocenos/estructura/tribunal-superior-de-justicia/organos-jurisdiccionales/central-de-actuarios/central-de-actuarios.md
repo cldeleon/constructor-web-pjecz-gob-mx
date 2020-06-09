@@ -1,7 +1,7 @@
 Title: Central de Actuarios
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-central-de-actuarios
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/central-de-actuarios/index.html
 Date: 2020-05-04 09:12

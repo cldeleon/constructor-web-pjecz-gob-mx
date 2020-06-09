@@ -1,7 +1,7 @@
 Title: Trámites y Servicios
 Slug: tramites-y-servicios
 Summary: .
-Tags: Trámites y Servicios
+Category: Trámites y Servicios
 URL: tramites-y-servicios/
 Save_As: tramites-y-servicios/index.html
 Date: 2020-05-04 09:12
@@ -9,11 +9,9 @@ Modified: 2020-05-04 09:12
 
 
 
-
-
 | **Fracción** | **Responsable**                                           | **Concepto**                                                 | **Importe** | **Fomento a la  educación y de la seguridad pública en el estado 22.5%** | **Total a pagar** |            **Tiempo máximo de  entrega**             | **Enlace**                                                   |
 | :----------: | :-------------------------------------------------------- | :----------------------------------------------------------- | :---------: | :----------------------------------------------------------: | :---------------: | :--------------------------------------------------: | ------------------------------------------------------------ |
-|      I       | Instituto  Estatal de Defensoría Pública                  | El taller de  Orientación prematrimonial que imparte el Poder Judicial del Estado por  conducto del Instituto Estatal de Defensoría pública |   200.00    |                            45.00                             |      245.00       |                         N/A                          | [Ver Infografía](l-TOP.png)                                  |
+|      I       | Instituto  Estatal de Defensoría Pública                  | El taller de  Orientación prematrimonial que imparte el Poder Judicial del Estado por  conducto del Instituto Estatal de Defensoría pública |   200.00    |                            45.00                             |      245.00       |                         N/A                          | [Ver Infografía](1-top.png)                                  |
 |      II      | Oficialía Mayor                                           | Bases de  Licitación Pública Nacional para obra pública y servicios relacionados con la  misma |   2000.00   |                            450.00                            |      2450.00      |                         N/A                          | [Ver Infografía](2-licitaciones-p.png)                     |
 |      IV      | CEMASC                                                    | Curso de  preparación en materia de mediación, por parte del Centro de Medios Alternos  de Solución de Controversias |   200.00    |                            45.00                             |      245.00       | Dependiendo de  la Institución que solicita el curso | [Ver Infografía](4-curso-de-preparacion-en-materia-de-mediacion.png) |
 |      V       | CEMASC                                                    | Certificación  de Mediadores                                 |   500.00    |                            112.50                            |      612.50       |                 45-60 días  hábiles                  | [Ver Infografía](5-certificacion-de-mediadores.jpg)          |
@@ -27,9 +25,6 @@ Modified: 2020-05-04 09:12
 |     XIII     | Oficialía Mayor                                           | Reposición de  credencial Institucional                      |   150.00    |                            33.75                             |      183.75       |                                                      | [Ver Infografía](13-reposicion-de-credencial-institucional.png) |
 |     XIV      | CEMASC                                                    | Validación de  contenidos de capacitación en materia de mecanismos alternativos de  controversias |   2500.00   |                            562.50                            |      3062.50      |                   5-8 días hábiles                   | [Ver Infografía](14-validacion-de-contenidos.png)           |
 |     XVI      | Instituto de  Especialización Judicial                    | Renta de  instalaciones para la impartición de cursos, talleres, conferencias,  encuentros, seminarios, coloquios y demás actividades académicas, por parte  de particulares e instituciones privadas |   500.00    |                            112.50                            |      612.50       |                         N/A                          | [Ver Infografía](16-renta-de-instalaciones.png)             |
-
-
-
 
 
 

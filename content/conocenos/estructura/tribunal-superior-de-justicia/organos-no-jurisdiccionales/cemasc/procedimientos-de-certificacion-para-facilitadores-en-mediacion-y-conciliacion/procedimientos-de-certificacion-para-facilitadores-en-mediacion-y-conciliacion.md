@@ -1,7 +1,7 @@
 Title: Procedimientos de certificación para facilitadores en mediación y conciliación
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-cemasc-procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/index.html
 Date: 2020-05-04 09:12

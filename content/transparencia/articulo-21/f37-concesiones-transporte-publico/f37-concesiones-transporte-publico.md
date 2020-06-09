@@ -1,7 +1,7 @@
 Title: Concesiones de Transporte Público
 Slug: transparencia-articulo-21-f37-concesiones-transporte-publico
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f37-concesiones-transporte-publico/
 Save_As: transparencia/articulo-21/f37-concesiones-transporte-publico/index.html
 Date: 2020-04-30 09:30:00
@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 ##### Nota Informativa
 

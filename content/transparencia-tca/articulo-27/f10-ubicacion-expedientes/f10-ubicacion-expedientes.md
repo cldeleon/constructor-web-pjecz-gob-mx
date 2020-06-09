@@ -1,7 +1,7 @@
 Title: Ubicación de los expedientes
 Slug: transparencia-tca-articulo-27-f10-ubicacion-expedientes
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f10-ubicacion-expedientes/
 Save_As: transparencia-tca/articulo-27/f10-ubicacion-expedientes/index.html
 Date: 2020-04-30 09:30:00

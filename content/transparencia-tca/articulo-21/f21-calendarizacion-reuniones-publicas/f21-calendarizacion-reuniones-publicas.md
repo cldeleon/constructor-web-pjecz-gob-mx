@@ -1,7 +1,7 @@
 Title: Calendariación de Reuniones Públicas
 Slug: transparencia-tca-articulo-21-f21-calendarizacion-reuniones-publicas
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f21-calendarizacion-reuniones-publicas/
 Save_As: transparencia-tca/articulo-21/f21-calendarizacion-reuniones-publicas/index.html
 Date: 2020-04-30 09:30:00
@@ -12,21 +12,17 @@ Modified: 2020-04-30 09:30:00
 
 El calendario de las sesiones o reuniones públicas a que se convoquen, y en su caso, la minuta o acta correspondiente.
 
-
 ### RESPONSABLE
 
 Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conciliación y Arbitraje
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
-El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del Pleno del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en la que se emitió mediante Acuerdo No. 004/2010, en su parte conducente, lo siguiente: "Se aprueba el Calendario de Sesiones Ordinarias del Tribunal de Conciliación y  Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en el sentido de que las Sesiones Ordinarias se llevarán a cabo los días miércoles hábiles de cada semana, sin perjuicio de las sesiones extraordinarias a que convoque el Presidente de éste órgano jurisdiccional. Lo anterior en cumplimiento a los dispuesto por los artículos 185 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y, 25-O-1, 25-O-3 fracciones III, IV, XI y xv, 25-O-4 fracciones II, III, IV y V de la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza."
-
+El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del Pleno del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en la que se emitió mediante Acuerdo No. 004/2010, en su parte conducente, lo siguiente: "Se aprueba el Calendario de Sesiones Ordinarias del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en el sentido de que las Sesiones Ordinarias se llevarán a cabo los días miércoles hábiles de cada semana, sin perjuicio de las sesiones extraordinarias a que convoque el Presidente de éste órgano jurisdiccional. Lo anterior en cumplimiento a los dispuesto por los artículos 185 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y, 25-O-1, 25-O-3 fracciones III, IV, XI y xv, 25-O-4 fracciones II, III, IV y V de la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza."
 
 
 ### 2018

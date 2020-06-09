@@ -1,7 +1,7 @@
 Title: Directorio de Servidores Públicos
 Slug: transparencia-tca-articulo-21-f03-directorio
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f03-directorio/
 Save_As: transparencia-tca/articulo-21/f03-directorio/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 El directorio de los servidores públicos, con nombre, cargo o nombramiento asignado, nivel tabular, fecha de alta en el cargo, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policiacas.
 
-
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 
 ## Descargar

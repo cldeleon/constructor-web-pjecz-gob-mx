@@ -1,7 +1,7 @@
 Title: Viáticos y Gastos de Representación
 Slug: transparencia-tca-articulo-21-f07-viaticos-gastos-representacion
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f07-viaticos-gastos-representacion/
 Save_As: transparencia-tca/articulo-21/f07-viaticos-gastos-representacion/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 El importe por concepto de viáticos a partir del jefe de departamento y, en su caso, de gastos de representación
 
-
 ### RESPONSABLE
 
 C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
-
+05 de junio de 2020
 
 
 ### 2018

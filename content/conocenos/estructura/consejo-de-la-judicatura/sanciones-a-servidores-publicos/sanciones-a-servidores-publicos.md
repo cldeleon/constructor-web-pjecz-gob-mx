@@ -1,7 +1,7 @@
 Title: Sanciones a Servidores Publicos
 Slug: conocenos-estructura-consejo-de-la-judicatura-sanciones-a-servidores-publicos
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/sanciones-a-servidores-publicos/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/sanciones-a-servidores-publicos/index.html
 Date: 2020-05-04 09:12

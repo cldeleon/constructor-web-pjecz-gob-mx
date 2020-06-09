@@ -1,7 +1,7 @@
 Title: Décima Primera Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-primera-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 18 de marzo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-primera-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-primera-sesion-ordinaria/index.html
 Date: 2020-03-18 15:00:00

@@ -43,6 +43,9 @@ def cli(config, rama):
     if config.rama == 'Acuerdos':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/acuerdos/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/acuerdos/plantillas'
+    elif config.rama == 'Armonización Contable':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/armonizacion-contable/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/armonizacion-contable/plantillas'
     elif config.rama == 'Comunicados':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/comunicados/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/comunicados/plantillas'
@@ -168,6 +171,8 @@ def crear(config):
             click.echo(sobreescribir_archivo(rama.destino_md_ruta, rama.contenido()))
             for imagen in rama.imagenes:
                 click.echo(copiar_archivo(imagen, rama.destino_ruta))
+        for imagen in universal.imagenes:
+            click.echo(copiar_archivo(imagen, universal.destino_ruta))
 
 cli.add_command(mostrar)
 cli.add_command(crear)

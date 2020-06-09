@@ -1,7 +1,7 @@
 Title: Marco Normativo
 Slug: transparencia-tca-articulo-21-f02-marco-normativo
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f02-marco-normativo/
 Save_As: transparencia-tca/articulo-21/f02-marco-normativo/index.html
 Date: 2020-04-30 09:30:00
@@ -12,16 +12,13 @@ Modified: 2020-04-30 09:30:00
 
 El marco normativo aplicable a los sujetos obligados, en el que deberá incluirse el periódico oficial, las leyes, códigos, reglamentos, decretos, reglas de operación, manuales administrativos, acuerdos, circulares, lineamientos y políticas emitidas aplicables en el ámbito de su competencia.
 
-
 ### RESPONSABLE
 
 Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de Conciliación y Arbitraje
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
-
+05 de junio del 2020
 
 
 ### 06 Reglamentos

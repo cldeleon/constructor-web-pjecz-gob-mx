@@ -1,7 +1,7 @@
 Title: Otra Información
 Slug: transparencia-tca-articulo-27-f15-otra-informacion
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f15-otra-informacion/
 Save_As: transparencia-tca/articulo-27/f15-otra-informacion/index.html
 Date: 2020-04-30 09:30:00
@@ -18,8 +18,8 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
-[Otra información ](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
+[Otra información](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
 
 

@@ -1,7 +1,7 @@
 Title: Primera Sesión Extraordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-primera-sesion-extraordinaria
 Summary: Sesión Extraordinaria del Pleno del TSJ, 15 de abril 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-extraordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-extraordinaria/index.html
 Date: 2020-04-15 15:00:00

@@ -1,7 +1,7 @@
 Title: Administrativos
 Slug: conocenos-estructura-tribunal-superior-de-justicia-administrativos
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/administrativos/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/administrativos/index.html
 Date: 2020-05-04 09:12

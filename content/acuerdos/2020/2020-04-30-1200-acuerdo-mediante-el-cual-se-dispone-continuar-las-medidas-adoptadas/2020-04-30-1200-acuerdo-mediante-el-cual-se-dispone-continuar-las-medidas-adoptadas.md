@@ -1,7 +1,7 @@
 Title: Acuerdo mediante el cual se dispone continuar las medidas adoptadas
 Slug: acuerdos-2020-2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas/
 Save_As: acuerdos/2020/2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas/index.html
 Date: 2020-04-30 12:00
@@ -173,15 +173,11 @@ Los encargados de las Oficialías Comunes de Partes del Poder Judicial del Estad
 
 El licenciado Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura del Poder Judicial del Estado, CERTIFICA: De conformidad con lo previsto en el artículo 28 fracciones V y XIII del Reglamento Interior del Consejo de la Judicatura del Estado, este Acuerdo General 50/2020 del Pleno del Consejo de la Judicatura relativo al esquema de trabajo y medidas de contingencia en los órganos jurisdiccionales por la emergencia sanitaria derivada del virus COVID-19 fue aprobado por el Pleno del Consejo en sesión de 30 de abril de 2020, por unanimidad de votos de los señores Consejeros: Magistrado Presidente Miguel Felipe Mery Ayup, Consejeros José Luis Chapa Resendez, Homero Ramos Gloria, Luis Martin Granados Salinas, Paul Iracheta Pérez, Eva de la Fuente Rivas y Juan Antonio García Villa. Saltillo, Coahuila de Zaragoza, a 01 de mayo de 2020. Va en dieciséis (16) fojas útiles.- DOY FE.
 
-## Descargar
-
-* [2020-04-30-acuerdo-general-c-050-2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/acuerdos/2020-04-30-acuerdo-general-c-050-2020.pdf)
-
 
 
 ## Descargar
 
 
-* [2020-04-30 1200 Acuerdo mediante el cual se dispone continuar las medidas adoptadas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-30 1200 Acuerdo mediante el cual se dispone continuar las medidas adoptadas/2020-04-30 1200 Acuerdo mediante el cual se dispone continuar las medidas adoptadas.pdf)
+* [Acuerdo mediante el cual se dispone continuar las medidas adoptadas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Acuerdos/2020/2020-04-30 1200 Acuerdo mediante el cual se dispone continuar las medidas adoptadas/Acuerdo mediante el cual se dispone continuar las medidas adoptadas.pdf)
 
 

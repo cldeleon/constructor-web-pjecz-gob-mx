@@ -1,7 +1,7 @@
 Title: Acuerdo C-063-2020 Supresión Juzgados
 Slug: acuerdos-2020-2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados
 Summary: .
-Tags: Acuerdos
+Category: Acuerdos
 URL: acuerdos/2020/2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados/
 Save_As: acuerdos/2020/2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados/index.html
 Date: 2020-05-22 10:00
@@ -102,7 +102,7 @@ Así lo acordaron y firman los miembros integrantes del Consejo de la Judicatura
 
 El licenciado Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura del Poder Judicial del Estado,  C E R T I F I C A: De conformidad con lo previsto en el artículo 28 fracciones V y XIII del Reglamento Interior del Consejo de la Judicatura del Estado, que el ACUERDO C-063/2020, MEDIANTE EL CUAL SE DETERMINA LA SUPRESIÓN DE LOS JUZGADOS CUARTO Y QUINTO DE PRIMERA INSTANCIA EN MATERIA PENAL DEL DISTRITO JUDICIAL DE TORREÓN Y DEL JUZGADO SEGUNDO DE PRIMERA INSTANCIA EN MATERIA PENAL DEL DISTRITO JUDICIAL DE RÍO GRANDE, fue aprobado por el Pleno del Consejo en sesión de 22 de mayo de 2020, por unanimidad de votos de los Consejeros presentes: Magistrado Homero Ramos Gloria, José Luis Chapa Resendez,  Luis Martín Granados Salinas, Paul Iracheta Pérez y Juan Antonio García Villa. Saltillo, Coahuila de Zaragoza, a 22 de mayo de 2020. Va en cinco (05) fojas útiles.- DOY FE.-
 
-EL SECRETARIO DE ACUERDO Y TRÁMITE
+**EL SECRETARIO DE ACUERDO Y TRÁMITE**
 
 
 

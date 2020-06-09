@@ -1,7 +1,7 @@
 Title: Artículo 20
 Slug: transparencia-articulo-20
 Summary: Transparencia, Artículo 20
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-20/
 Save_As: transparencia/articulo-20/index.html
 Date: 2020-04-30 09:30:00
@@ -20,13 +20,13 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo 2020
+4 de junio 2020
 
 
 ## Descargar
 
 
-* [Calendario IPO Art. 21.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario IPO Art. 21.pptx)
-* [Calendario IPO Art. 27.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario IPO Art. 27.pptx)
+* [Calendario actualización IPO articulo 21.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario actualización IPO articulo 21.pptx)
+* [Calendario actualización IPO articulo 27.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 20/Calendario actualización IPO articulo 27.pptx)
 
 

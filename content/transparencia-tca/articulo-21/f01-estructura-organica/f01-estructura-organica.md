@@ -1,7 +1,7 @@
 Title: Estructura Orgánica
 Slug: transparencia-tca-articulo-21-f01-estructura-organica
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f01-estructura-organica/
 Save_As: transparencia-tca/articulo-21/f01-estructura-organica/index.html
 Date: 2020-04-30 09:30:00
@@ -18,16 +18,13 @@ La función jurisdiccional es ejercida por magistrados y jueces que se conducen 
 
 Este Poder Judicial se integra entre otros, por Tribunales especializados por materia, entre los que se encuentra el Tribunal de Conciliación y Arbitraje.
 
-
 ### RESPONSABLE
 
 Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
-
+05 de junio del 2020
 
 
 ## Descargar

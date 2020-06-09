@@ -43,11 +43,12 @@
     <script src="https://cdn.datatables.net/1.10.20/js/jquery.dataTables.min.js"></script>
     <script src="https://cdn.datatables.net/1.10.20/js/dataTables.bootstrap4.min.js"></script>
     <!-- JavaScripts propios -->
+    <script src="{{ SITEURL }}/theme/js/cambiar-tablas.js"></script>
     <script src="{{ SITEURL }}/theme/js/cambiar-tema.js"></script>
 {% if page %}
     {% if page.javascripts %}
         {% for javascript in page.javascripts %}
-{{ javascript }}
+    {{ javascript }}
         {% endfor %}
     {% endif %}
 {% endif %}

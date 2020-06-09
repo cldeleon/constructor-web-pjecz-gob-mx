@@ -1,7 +1,7 @@
 Title: Sesiones del Consejo de la Judicatura
 Slug: sesiones-consejo-de-la-judicatura
 Summary: Sesiones del Consejo de la Judicatura
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/consejo-de-la-judicatura/
 Save_As: sesiones/consejo-de-la-judicatura/index.html
 Date: 2020-01-01 12:00:00

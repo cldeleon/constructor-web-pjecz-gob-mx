@@ -1,7 +1,7 @@
 Title: Asuntos Iniciados, en Trámite y Resueltos
 Slug: transparencia-tca-articulo-27-f05-asuntos-iniciados-tramite-concluidos
 Summary: Transparencia TCA, Artículo 27
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-27/f05-asuntos-iniciados-tramite-concluidos/
 Save_As: transparencia-tca/articulo-27/f05-asuntos-iniciados-tramite-concluidos/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 
 ### 2017

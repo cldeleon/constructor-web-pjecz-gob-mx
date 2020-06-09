@@ -1,7 +1,7 @@
 Title: Décima Segunda Sesión Ordinaria
 Slug: sesiones-sala-regional-2020-decima-segunda-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Regional, 14 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-regional/2020/decima-segunda-sesion-ordinaria/
 Save_As: sesiones/sala-regional/2020/decima-segunda-sesion-ordinaria/index.html
 Date: 2020-05-14 11:00:00

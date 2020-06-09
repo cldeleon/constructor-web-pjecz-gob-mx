@@ -1,7 +1,7 @@
 Title: Estructura Orgánica
 Slug: transparencia-articulo-21-f01-estructura-organica
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f01-estructura-organica/
 Save_As: transparencia/articulo-21/f01-estructura-organica/index.html
 Date: 2020-04-30 09:30:00
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+4 de junio de 2020
 
 La función jurisdiccional se ejerce por magistrados y jueces independientes, imparciales, responsables y sometidos únicamente al imperio de la ley, no existiendo entre ellos relación jerárquica de supra o de subordinación.
 
@@ -151,13 +151,13 @@ De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente
 #### 02 Centro de Medios Alternos de Solución de Controversias
 
 
-* [Acuña.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Acuña.pptx)
-* [Monclova.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Monclova.pptx)
-* [Piedras Negras.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Piedras Negras.pptx)
-* [Sabinas.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Sabinas.pptx)
-* [Saltillo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Saltillo.pptx)
-* [San Pedro.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/San Pedro.pptx)
-* [Torreón.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Torreón.pptx)
+* [Centro de Medios Alternos de Solución de Controversias - Monclova.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias - Monclova.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – Acuña.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Acuña.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – Piedras Negras.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Piedras Negras.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – Sabinas.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Sabinas.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – Saltillo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Saltillo.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – San Pedro.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – San Pedro.pptx)
+* [Centro de Medios Alternos de Solución de Controversias – Torreón.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/02 Estructura no Jurisdiccional/02 Centro de Medios Alternos de Solución de Controversias/Centro de Medios Alternos de Solución de Controversias – Torreón.pptx)
 
 
 #### 03 Instituto Estatal de Defensoría Pública
@@ -206,7 +206,6 @@ De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente
 * [Archivo General.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Archivo General.pptx)
 * [Auditoría Interna.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Auditoría Interna.pptx)
 * [Secretaría Técnica y de Transparencia.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Secretaría Técnica y de Transparencia.pptx)
-* [Unidad de Asuntos Legislativos 2020-V4.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos 2020-V4.pptx)
 * [Unidad de Asuntos Legislativos.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos.pptx)
 * [Unidad de Derechos Humanos.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/01 Presidencia del Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Derechos Humanos.pptx)
 

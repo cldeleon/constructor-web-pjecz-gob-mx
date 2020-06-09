@@ -1,7 +1,7 @@
 Title: Catálogo de Información Adicional
 Slug: transparencia-tca-articulo-21-f44-catalogo-informacion-adicional
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f44-catalogo-informacion-adicional/
 Save_As: transparencia-tca/articulo-21/f44-catalogo-informacion-adicional/index.html
 Date: 2020-04-30 09:30:00
@@ -42,7 +42,7 @@ Derechos Humanos e Igualdad de Género - Poder Judicial del Estado de Coahuila d
 
 Edictos de Declaración de Ausencia
 
-[Edictos en Línea](<https://www.pjecz.gob.mx/consultas/edictos/>)
+[Edictos en Línea](https://www.pjecz.gob.mx/consultas/edictos/)
 
 [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 

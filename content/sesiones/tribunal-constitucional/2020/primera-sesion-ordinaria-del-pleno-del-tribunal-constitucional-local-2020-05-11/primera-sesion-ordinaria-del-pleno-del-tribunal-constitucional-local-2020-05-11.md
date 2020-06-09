@@ -1,7 +1,7 @@
 Title: Primera Sesión Ordinaria
 Slug: sesiones-tribunal-constitucional-2020-primera-sesion-ordinaria-del-pleno-del-tribunal-constitucional-local-2020-05-11
 Summary: Sesión Ordinaria del Tribunal Constitucional, 11 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/tribunal-constitucional/2020/primera-sesion-ordinaria-del-pleno-del-tribunal-constitucional-local-2020-05-11/
 Save_As: sesiones/tribunal-constitucional/2020/primera-sesion-ordinaria-del-pleno-del-tribunal-constitucional-local-2020-05-11/index.html
 Date: 2020-05-11 11:00:00

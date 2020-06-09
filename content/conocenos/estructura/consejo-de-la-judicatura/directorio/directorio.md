@@ -1,7 +1,7 @@
 Title: Directorio
 Slug: conocenos-estructura-consejo-de-la-judicatura-directorio
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/consejo-de-la-judicatura/directorio/
 Save_As: conocenos/estructura/consejo-de-la-judicatura/directorio/index.html
 Date: 2020-05-04 09:12

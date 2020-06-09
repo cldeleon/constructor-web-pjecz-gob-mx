@@ -1,7 +1,7 @@
 Title: Funciones
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-salas-sala-colegiada-civil-y-familiar-funciones
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/sala-colegiada-civil-y-familiar/funciones/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/sala-colegiada-civil-y-familiar/funciones/index.html
 Date: 2020-05-04 09:12

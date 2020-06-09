@@ -1,7 +1,7 @@
 Title: Décima Primera Sesión Ordinaria
 Slug: sesiones-sala-regional-2020-decima-primera-sesion-ordinaria
 Summary: Sesión Ordinaria de la Sala Regional, 08 de mayo 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/sala-regional/2020/decima-primera-sesion-ordinaria/
 Save_As: sesiones/sala-regional/2020/decima-primera-sesion-ordinaria/index.html
 Date: 2020-05-08 11:00:00

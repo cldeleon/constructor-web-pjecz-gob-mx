@@ -1,7 +1,7 @@
 Title: Planes, Programas o Proyectos con Indicadores de Gestión
 Slug: transparencia-tca-articulo-21-f11-planes-programas-proyectos-indicadores-gestion
 Summary: Transparencia TCA, Artículo 21
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-21/f11-planes-programas-proyectos-indicadores-gestion/
 Save_As: transparencia-tca/articulo-21/f11-planes-programas-proyectos-indicadores-gestion/index.html
 Date: 2020-04-30 09:30:00
@@ -12,18 +12,14 @@ Modified: 2020-04-30 09:30:00
 
 Los planes, programas o proyectos con los indicadores de gestión, de resultados y sus metas, que permitan evaluar su desempeño por área.
 
-
 ### RESPONSABLE
 
 Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
-
 ### FECHA DE VALIDACIÓN
 
-11 de mayo de 2020
+05 de junio de 2020
 
-
-A la fecha de actualización no se cuenta con nueva información referente a  planes, programas o proyectos con indicadores de gestión.
-
+A la fecha de actualización no se cuenta con nueva información referente a planes, programas o proyectos con indicadores de gestión.
 
 

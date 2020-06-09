@@ -1,7 +1,7 @@
 Title: Artículo 22
 Slug: transparencia-tca-articulo-22
 Summary: Transparencia TCA, Artículo 22
-Tags: Transparencia TCA
+Category: Transparencia TCA
 URL: transparencia-tca/articulo-22/
 Save_As: transparencia-tca/articulo-22/index.html
 Date: 2020-04-30 09:30:00
@@ -32,10 +32,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+05 de junio del 2020
 
 Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.
-
 
 
 ## Descargar

@@ -1,7 +1,7 @@
 Title: Tribunal Constitucional
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunal-constitucional
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunal-constitucional/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunal-constitucional/index.html
 Date: 2020-05-04 09:12

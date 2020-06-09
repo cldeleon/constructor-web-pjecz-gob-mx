@@ -1,7 +1,7 @@
 Title: Tribunales Especializados
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-jurisdiccionales-tribunales-especializados
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/index.html
 Date: 2020-05-04 09:12

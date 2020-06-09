@@ -1,7 +1,7 @@
 Title: Quienes Somos
 Slug: conocenos-quienes-somos
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/quienes-somos/
 Save_As: conocenos/quienes-somos/index.html
 Date: 2020-05-04 09:12

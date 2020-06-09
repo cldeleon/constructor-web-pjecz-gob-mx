@@ -1,7 +1,7 @@
 Title: Quinta Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-quinta-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 05 de febrero 2020
-Tags: Sesiones
+Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/quinta-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/quinta-sesion-ordinaria/index.html
 Date: 2020-02-05 15:00:00

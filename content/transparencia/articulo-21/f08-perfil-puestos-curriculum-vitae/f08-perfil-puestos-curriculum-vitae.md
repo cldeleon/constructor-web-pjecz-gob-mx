@@ -1,7 +1,7 @@
 Title: Perfil de Puestos y Currículum Vitae
 Slug: transparencia-articulo-21-f08-perfil-puestos-curriculum-vitae
 Summary: Transparencia, Artículo 21
-Tags: Transparencia
+Category: Transparencia
 URL: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/
 Save_As: transparencia/articulo-21/f08-perfil-puestos-curriculum-vitae/index.html
 Date: 2020-04-30 09:30:00
@@ -25,5 +25,25 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 
 ### Magistrados
+
+
+#### Sala Colegiada Civil y Familiar
+
+
+* [Iván Garza García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/Iván Garza García.docx)
+* [Maria Eugenia Galindo Hernández.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/Maria Eugenia Galindo Hernández.docx)
+* [María del Carmen Galván Tello.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/María del Carmen Galván Tello.docx)
+
+
+#### Sala Colegiada Penal
+
+
+* [Homero Ramos Gloria.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Homero Ramos Gloria.docx)
+* [Luis Efrén Ríos Vega.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Luis Efrén Ríos Vega.docx)
+* [Manuel Alberto Flores Hernández.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Manuel Alberto Flores Hernández.docx)
+* [María Luisa Valencia García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/María Luisa Valencia García.docx)
+
+
+#### Sala Regional
 
 

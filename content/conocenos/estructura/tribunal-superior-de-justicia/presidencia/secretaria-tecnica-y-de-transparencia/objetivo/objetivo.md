@@ -1,7 +1,7 @@
 Title: Objetivo
 Slug: conocenos-estructura-tribunal-superior-de-justicia-presidencia-secretaria-tecnica-y-de-transparencia-objetivo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/presidencia/secretaria-tecnica-y-de-transparencia/objetivo/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/presidencia/secretaria-tecnica-y-de-transparencia/objetivo/index.html
 Date: 2020-05-04 09:12

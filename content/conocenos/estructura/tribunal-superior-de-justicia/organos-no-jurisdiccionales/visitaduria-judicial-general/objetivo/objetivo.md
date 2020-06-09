@@ -1,7 +1,7 @@
 Title: Objetivo
 Slug: conocenos-estructura-tribunal-superior-de-justicia-organos-no-jurisdiccionales-visitaduria-judicial-general-objetivo
 Summary: .
-Tags: Conócenos
+Category: Conócenos
 URL: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/visitaduria-judicial-general/objetivo/
 Save_As: conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/visitaduria-judicial-general/objetivo/index.html
 Date: 2020-05-04 09:12
