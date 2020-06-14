@@ -12,7 +12,6 @@ Modified: 2020-04-30 09:30:00
 
 ### CONSULTA
 
-LINK A LA AGENDA DE AUDIENCIAS DEL TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE 
-
+[Agenda de Audiencias](https://www.pjecz.gob.mx/consultas/agenda-audiencias/)
 
 

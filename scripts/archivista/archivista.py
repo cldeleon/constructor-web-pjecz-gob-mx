@@ -31,7 +31,7 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 
 
 @click.group()
-@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Comunicados, Conócenos, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
+@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Armonización Contable, Comunicados, Conócenos, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
 @pass_config
 def cli(config, rama):
     click.echo('Hola, ¡soy Archivista!')

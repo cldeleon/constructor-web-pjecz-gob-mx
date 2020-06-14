@@ -77,5 +77,8 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 * [01 Asuntos iniciados-tramite-resueltos TCA 2020 Enero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2020/01 Asuntos iniciados-tramite-resueltos TCA 2020 Enero.xlsx)
 * [02 Asuntos iniciados-tramite-resueltos TCA 2020 Febrero.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2020/02 Asuntos iniciados-tramite-resueltos TCA 2020 Febrero.ppt)
+* [03 Asuntos iniciados-tramite-resueltos TCA 2020 Marzo.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2020/03 Asuntos iniciados-tramite-resueltos TCA 2020 Marzo.ppt)
+* [04 Asuntos iniciados-tramite-resueltos TCA 2020 Abril.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2020/04 Asuntos iniciados-tramite-resueltos TCA 2020 Abril.ppt)
+* [05 Asuntos iniciados-tramite-resueltos TCA 2020 Mayo.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F05 Asuntos Iniciados, en Trámite y Resueltos/2020/05 Asuntos iniciados-tramite-resueltos TCA 2020 Mayo.ppt)
 
 

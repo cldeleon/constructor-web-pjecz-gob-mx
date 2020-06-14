@@ -60,7 +60,10 @@ El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del
 ### 2020
 
 
-* [01 Reuniones Publicas TCA 2020 Enero.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/01 Reuniones Publicas TCA 2020 Enero.pdf)
-* [02 Reuniones Publicas TCA 2020 Febrero.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/02 Reuniones Publicas TCA 2020 Febrero.pdf)
+* [01 Calendario de Reuniones públicas TCA Enero 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/01 Calendario de Reuniones públicas TCA Enero 2020.pdf)
+* [02 Calendario de Reuniones públicas TCA Febrero 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/02 Calendario de Reuniones públicas TCA Febrero 2020.pdf)
+* [03 Calendario de Reuniones públicas TCA Marzo 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/03 Calendario de Reuniones públicas TCA Marzo 2020.pdf)
+* [04 Calendario de Reuniones públicas TCA Abril 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/04 Calendario de Reuniones públicas TCA Abril 2020.pdf)
+* [05 Calendario de Reuniones públicas TCA Mayo 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/2020/05 Calendario de Reuniones públicas TCA Mayo 2020.pdf)
 
 

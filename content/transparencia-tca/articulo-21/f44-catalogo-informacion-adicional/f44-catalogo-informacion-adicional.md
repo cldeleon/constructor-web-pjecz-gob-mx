@@ -34,6 +34,8 @@ Armonización Contable
 
 Conatrib - Unidad de Derechos Humanos
 
+[Conócenos](https://www.pjecz.gob.mx/conocenos/)
+
 [Consulta de Boletas](https://www.pjecz.gob.mx/consultas/boletas/)
 
 Derechos Humanos e Igualdad de Género - Poder Judicial del Estado de Coahuila de Zaragoza
@@ -46,6 +48,8 @@ Edictos de Declaración de Ausencia
 
 [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 
+[Listas Especiales](https://www.pjecz.gob.mx/consultas/listas-especiales/)
+
 Observatorio Judicial
 
 Peritos Auxiliares de la Administración de Justicia
@@ -53,6 +57,10 @@ Peritos Auxiliares de la Administración de Justicia
 [Presentación de Quejas](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
 [Sesiones](https://www.pjecz.gob.mx/sesiones/)
+
+[Sentencias con Votos particulares](https://www.pjecz.gob.mx/sesiones/votos-particulares/)
+
+[Sistema de Citas      ](https://www.pjecz.gob.mx/citas/)
 
 [Versión Pública de Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 

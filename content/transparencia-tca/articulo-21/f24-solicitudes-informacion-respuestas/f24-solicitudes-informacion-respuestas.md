@@ -62,5 +62,6 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 * [02 Solicitudes de Informacion 2020 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/02 Solicitudes de Informacion 2020 Febrero.xls)
 * [03 Solicitudes de Informacion 2020 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/03 Solicitudes de Informacion 2020 Marzo.xls)
 * [04 Solicitudes de Informacion 2020 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/04 Solicitudes de Informacion 2020 Abril.xls)
+* [05 Solicitudes de Informacion 2020 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/05 Solicitudes de Informacion 2020 Mayo.xls)
 
 
