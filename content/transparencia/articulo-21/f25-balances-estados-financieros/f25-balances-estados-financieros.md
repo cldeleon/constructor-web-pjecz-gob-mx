@@ -37,13 +37,13 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 * [1ER TRIM FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/1ER TRIM FINAL.pdf)
 * [2DO AVANCE FINAL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/2DO AVANCE FINAL.pdf)
 * [4IAGF 19 PJEC COMPLETO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/4IAGF 19 PJEC COMPLETO.pdf)
+* [CUENTA PUBLICA 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/CUENTA PUBLICA 2019.pdf)
 * [Cuarto avance de Gestión Financiera 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2019/Cuarto avance de Gestión Financiera 2019.pdf)
 
 
 ### 2020
 
 
-* [CUENTA PUBLICA 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2020/CUENTA PUBLICA 2019.pdf)
 * [PRIMER AVANCE 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2020/PRIMER AVANCE 2020.pdf)
 
 

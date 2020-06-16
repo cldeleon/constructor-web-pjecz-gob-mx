@@ -33,9 +33,12 @@ Modified: 2020-06-01 12:00
 * [2018 (03) Tercer Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2018 (03) Tercer Trimestre GPCP.pdf)
 * [2018 (04) Segundo Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2018 (04) Segundo Trimestre GPCP.pdf)
 * [2018 (05) Primer Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2018 (05) Primer Trimestre GPCP.pdf)
+* [2019 (01) Anual GCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2019 (01) Anual GCP.pdf)
+* [2019 (02) Cuarto Trimestre GCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2019 (02) Cuarto Trimestre GCP.pdf)
 * [2019 (03) Tercer Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2019 (03) Tercer Trimestre GPCP.pdf)
 * [2019 (04) Segundo Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2019 (04) Segundo Trimestre GPCP.pdf)
 * [2019 (05) Primer Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2019 (05) Primer Trimestre GPCP.pdf)
+* [2020 (05) Primer Trimestre GPCP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.01 Gasto por Categoría Programática/2020 (05) Primer Trimestre GPCP.pdf)
 
 
 ### 2.03.02 Programas y Proyectos de Inversión
@@ -57,9 +60,12 @@ Modified: 2020-06-01 12:00
 * [2018 (03) Tercer Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2018 (03) Tercer Trimestre PPI.pdf)
 * [2018 (04) Segundo Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2018 (04) Segundo Trimestre PPI.pdf)
 * [2018 (05) Primer Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2018 (05) Primer Trimestre PPI.pdf)
+* [2019 (01) Anual PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2019 (01) Anual PPI.pdf)
+* [2019 (02) Cuarto Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2019 (02) Cuarto Trimestre PPI.pdf)
 * [2019 (03) Tercer Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2019 (03) Tercer Trimestre PPI.pdf)
 * [2019 (04) Segundo Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2019 (04) Segundo Trimestre PPI.pdf)
 * [2019 (05) Primer Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2019 (05) Primer Trimestre PPI.pdf)
+* [2020 (05) Primer Trimestre PPI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.02 Programas y Proyectos de Inversión/2020 (05) Primer Trimestre PPI.pdf)
 
 
 ### 2.03.03 Indicadores de Resultados
@@ -83,14 +89,20 @@ Modified: 2020-06-01 12:00
 * [2018 (04) CuartoTrimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2018 (04) CuartoTrimestre IR.pdf)
 * [2018 (04) Segundo Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2018 (04) Segundo Trimestre IR.pdf)
 * [2018 (05) Primer Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2018 (05) Primer Trimestre IR.pdf)
+* [2019 (01) Anual IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2019 (01) Anual IR.pdf)
+* [2019 (02) Cuarto Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2019 (02) Cuarto Trimestre IR.pdf)
 * [2019 (03) Tercer Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2019 (03) Tercer Trimestre IR.pdf)
 * [2019 (04) Segundo Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2019 (04) Segundo Trimestre IR.pdf)
 * [2019 (05) Primer Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2019 (05) Primer Trimestre IR.pdf)
+* [2020 (05) Primer Trimestre IR.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.03 Información Programática/2.03.03 Indicadores de Resultados/2020 (05) Primer Trimestre IR.pdf)
 
 
 ## Artículos y periodicidad
 
-- Pendiente
+
+- 2.03.01 Gasto por Categoría Programática: Artículo 46 III a), 47,51, y 58, Trimestral-Anual
+- 2.03.02 Programas y Proyectos de Inversión: Artículo 46 III b), 47,51, y 58, Trimestral-Anual
+- 2.03.03 Indicadores de Resultados: Artículo 46 III c, 47,51, y 58, Trimestral-Anual
 
 
 

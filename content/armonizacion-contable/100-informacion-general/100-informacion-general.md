@@ -40,7 +40,7 @@ Modified: 2020-06-01 12:00
 * [2017 (04) Segundo Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2017 (04) Segundo Trimestre BM.pdf)
 * [2017 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2017 (05) Primer Trimestre BM.pdf)
 * [2018 (01) Anual BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (01) Anual BM.pdf)
-* [2018 (02) Cuarto Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (02) Cuarto Trimestre BI.pdf)
+* [2018 (02) Cuarto Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (02) Cuarto Trimestre BM.pdf)
 * [2018 (03) Tercer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (03) Tercer Trimestre BM.pdf)
 * [2018 (04) Segundo Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (04) Segundo Trimestre BM.pdf)
 * [2018 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2018 (05) Primer Trimestre BM.pdf)
@@ -49,6 +49,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (03) Tercer Trimestre BM.pdf)
 * [2019 (04) Segundo Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (04) Segundo Trimestre BM.pdf)
 * [2019 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (05) Primer Trimestre BM.pdf)
+* [2020 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2020 (05) Primer Trimestre BM.pdf)
 
 
 ### 1.03 Inventario de los Bienes Inmuebles
@@ -77,11 +78,12 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (03) Tercer Trimestre BI.pdf)
 * [2019 (04) Segundo Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (04) Segundo Trimestre BI.pdf)
 * [2019 (05) Primer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (05) Primer Trimestre BI.pdf)
+* [2020 (05) Primer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2020 (05) Primer Trimestre BI.pdf)
 
 
 ## Artículos y periodicidad
 
-- 1.01 Cuenta Pública: Artículo Cuarto Transitorio Fraciión IV, Anual
+- 1.01 Cuenta Pública: Artículo Cuarto Transitorio Fracción IV, Anual
 - 1.02 Inventario de los Bienes Muebles: Artículo 23, 27 y 51, Semestral
 - 1.03 Inventario de los Bienes Inmuebles: Artículo 23, 27 y 51, Semestral
 

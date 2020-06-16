@@ -1,6 +1,6 @@
 Title: Décima Octava Sesión Ordinaria
 Slug: sesiones-sala-penal-2020-decima-octava-sesion-ordinaria
-Summary: Sesión Ordinaria de la Sala Penal, 16 de junio 2021
+Summary: Sesión Ordinaria de la Sala Penal, 16 de junio 2020
 Category: Sesiones
 URL: sesiones/sala-penal/2020/decima-octava-sesion-ordinaria/
 Save_As: sesiones/sala-penal/2020/decima-octava-sesion-ordinaria/index.html

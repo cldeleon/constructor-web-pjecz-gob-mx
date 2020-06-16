@@ -27,9 +27,17 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 ### Magistrados
 
 
+#### Presidencia
+
+
+* [Miguel Felipe Mery Ayup.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Presidencia/Miguel Felipe Mery Ayup.docx)
+
+
 #### Sala Colegiada Civil y Familiar
 
 
+* [César Alejandro Saucedo Flores.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/César Alejandro Saucedo Flores.docx)
+* [Gabriel Aguillón Rosales.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/Gabriel Aguillón Rosales.docx)
 * [Iván Garza García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/Iván Garza García.docx)
 * [Maria Eugenia Galindo Hernández.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/Maria Eugenia Galindo Hernández.docx)
 * [María del Carmen Galván Tello.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Civil y Familiar/María del Carmen Galván Tello.docx)
@@ -39,11 +47,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 
 * [Homero Ramos Gloria.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Homero Ramos Gloria.docx)
+* [Juan José Yáñez Arreola.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Juan José Yáñez Arreola.docx)
 * [Luis Efrén Ríos Vega.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Luis Efrén Ríos Vega.docx)
 * [Manuel Alberto Flores Hernández.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/Manuel Alberto Flores Hernández.docx)
 * [María Luisa Valencia García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Magistrados/Sala Colegiada Penal/María Luisa Valencia García.docx)
-
-
-#### Sala Regional
 
 

@@ -52,9 +52,9 @@ Modified: 2020-06-01 12:00
 
 ## Artículos y periodicidad
 
-- 4.01 Ley de Ingresos: Artículo 65 Anual
-- 4.02 Presupuesto de Egresos: Artículo 65 Anual
-- 4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación: Artículo 65 Anual
+- 4.01 Ley de Ingresos: Artículo 65, Anual
+- 4.02 Presupuesto de Egresos: Artículo 65, Anual
+- 4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación: Artículo 65, Anual
 
 
 
