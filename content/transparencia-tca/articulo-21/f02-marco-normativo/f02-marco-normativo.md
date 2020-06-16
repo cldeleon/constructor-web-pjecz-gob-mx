@@ -54,7 +54,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 ### 1. Constituciones
 
-* [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_060320.pdf)
+* [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_080520.pdf)
 * [Constitución Política del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa01.pdf)
 
 
@@ -103,7 +103,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 [Ley General de Transparencia y Acceso a la Información Pública](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf)
 
 
-4. Leyes Estatales
+4. **Leyes Estatales**
 
 \- [Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa09.pdf)
 
@@ -123,14 +123,14 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 \- [Ley de Rendición de Cuentas y Fiscalización Superior del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa216.pdf)
 
-\- [Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/portal/wpcontent/uploads/2014/11/coa35.pdf)
+\- [Ley de Responsabilidades de los Servidores Públicos Estatales y Municipales del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/portal/wp-content/uploads/2014/11/coa35.pdf)
 
 \- [Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
 
 \- [Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa195.pdf)
 
 
-5. Códigos
+5. **Códigos**
 
 \- [Código Civil para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa02.pdf)
 

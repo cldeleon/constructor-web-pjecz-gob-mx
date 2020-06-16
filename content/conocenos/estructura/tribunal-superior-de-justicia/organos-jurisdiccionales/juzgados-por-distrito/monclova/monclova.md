@@ -17,7 +17,7 @@ Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 Teléfono: 866-631-5588 y 866-631-5589
 
 ## Juzgado Segundo de Primera Instancia en Materia Civil
-
+.
 Domicilio: Avenida Ciudad Deportiva No. 1500 Esquina Av. Estadio.
 Fraccionamiento Ciudad Deportiva, C.P. 25750 Monclova, Coahuila.
 

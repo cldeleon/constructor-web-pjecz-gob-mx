@@ -43,7 +43,10 @@ Modified: 2020-04-30 09:30:00
 ### 2020
 
 
-* [01 Amparos enero-2020.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/01 Amparos enero-2020.xlsx)
-* [02 Amparos febrero-2020.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/02 Amparos febrero-2020.xlsx)
+* [01 Enero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/01 Enero.xlsx)
+* [02 Febrero.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/02 Febrero.xlsx)
+* [03 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/03 Marzo.xlsx)
+* [04 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/04 Abril.xlsx)
+* [05 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F14 Estadísticas de amparos/2020/05 Mayo.xlsx)
 
 

@@ -43,6 +43,10 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 ### 2020
 
 
+* [CUENTA PUBLICA 2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2020/CUENTA PUBLICA 2019.pdf)
+* [PRIMER AVANCE 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F25 Balances y Estados Financieros/2020/PRIMER AVANCE 2020.pdf)
+
+
  
 
 

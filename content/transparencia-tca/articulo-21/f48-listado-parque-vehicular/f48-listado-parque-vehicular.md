@@ -14,12 +14,16 @@ El listado del parque vehicular donde se identifique el modelo, año y número d
 
 ### RESPONSABLE
 
-Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje.
+C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+11 de junio del 2020
 
-A la fecha de actualización del presente rubro, no hay vehículos asignados al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza.
+
+## Descargar
+
+
+* [Listado de parque vehicular TCA 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F48 Listado del Parque Vehicular/Listado de parque vehicular TCA 2020.ppt)
 
 
