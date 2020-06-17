@@ -75,7 +75,7 @@ class Base(object):
         return(archivos_markdown)
 
     def alimentar(self):
-        if self.alimentado == False:
+        if self.alimentado is False:
             # Secciones iniciales: archivos makdown cuyo nombre secciones_comienzan_con
             for archivo_markdown in self.obtener_archivos_markdown_iniciales(self.insumos_ruta):
                 seccion = Seccion()
@@ -118,10 +118,10 @@ class Base(object):
             self.imagenes = self.obtener_archivos_imagenes(self.insumos_ruta)
 
     def contenido(self):
-        if self.alimentado == False:
+        if self.alimentado is False:
             self.alimentar()
 
     def __repr__(self):
-        if self.alimentado == False:
+        if self.alimentado is False:
             self.alimentar()
         return('<Base>')

@@ -23,12 +23,12 @@ class Metadatos(object):
                         'creado': renglon['creado'],
                         'modificado': renglon['modificado'],
                         'oculto': renglon['oculto'],
-                        }
+                    }
             self.cargado = True
 
     def consultar(self, identificador):
         """ Consultar por identificador """
-        if self.cargado == False:
+        if self.cargado is False:
             self.cargar()
         if identificador in self.metadatos:
             return(self.metadatos[identificador])

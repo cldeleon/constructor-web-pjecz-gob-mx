@@ -12,3 +12,9 @@ Modified: 2020-06-17 11:00:00
 <p><a href="https://vimeo.com/429393215">D&Eacute;CIMA SEXTA SESI&Oacute;N ORDINARIA DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA</a> from <a href="https://vimeo.com/user103229504">PODER JUDICIAL DE COAHUILA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+## Descargar
+
+
+* [Orden del día 2020-06-17.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Sexta Sesión Ordinaria/Orden del día 2020-06-17.docx)
+
+

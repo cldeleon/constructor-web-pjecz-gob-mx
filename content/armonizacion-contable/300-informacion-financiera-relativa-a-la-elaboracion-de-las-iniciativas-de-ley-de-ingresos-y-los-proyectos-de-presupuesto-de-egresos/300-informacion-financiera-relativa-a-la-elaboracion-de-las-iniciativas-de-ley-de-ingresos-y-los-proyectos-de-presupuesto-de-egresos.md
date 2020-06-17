@@ -24,7 +24,8 @@ Modified: 2020-06-01 12:00
 * [2018 Estado II.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2018 Estado II.pdf)
 * [2019 Consejo II.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2019 Consejo II.pdf)
 * [2019 Estado II.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2019 Estado II.pdf)
-* [2020 ESTADO II.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2020 ESTADO II.pdf)
+* [2020 CONSEJO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2020 CONSEJO.pdf)
+* [2020 ESTADO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/3.00 Información Financiera Relativa a la Elaboración de las Iniciativas de Ley de Ingresos y los Proyectos de Presupuesto de Egresos/3.01 Iniciativa de Ingresos/2020 ESTADO.pdf)
 
 
 ### 3.02 Información Adicional a la Iniciativa de Ingresos

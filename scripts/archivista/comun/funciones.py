@@ -12,12 +12,14 @@ def cambiar_acentos(text):
     text = text.decode("utf-8")
     return(str(text))
 
+
 def cambiar_a_ruta_segura(text):
     """ Crea una ruta segura en minúsculas, espacios a guiones y sin caracteres acentuados, pero mantiene diagonales """
     text = cambiar_acentos(text.lower())
     text = re.sub('[ ]+', '-', text)
     text = re.sub('[^0-9a-zA-Z_/-]', '', text)
     return(text)
+
 
 def cambiar_a_identificador(text):
     """ Crea un identificador en minúsculas, guiones y sin caracteres acentuados """
@@ -27,6 +29,7 @@ def cambiar_a_identificador(text):
     text = re.sub('[^0-9a-zA-Z_-]', '', text)
     return(text)
 
+
 def sobreescribir_archivo(destino, contenido):
     """ Sobreescribir un archivo """
     if not os.path.exists(os.path.dirname(destino)):
@@ -34,6 +37,7 @@ def sobreescribir_archivo(destino, contenido):
     with open(destino, 'w') as file:
         file.write(contenido)
     return(' Sobreescribir ' + os.path.basename(destino))
+
 
 def copiar_archivo(archivo_ruta, directorio_ruta):
     """ Copiar un archivo """
@@ -43,6 +47,7 @@ def copiar_archivo(archivo_ruta, directorio_ruta):
         return(f' Copiar {nombre}')
     else:
         return(f' FALLÓ copiar {archivo_ruta}')
+
 
 def obtener_metadatos_del_nombre(nombre, fecha_hora_por_defecto):
     """ Obtener AAAA-MM-DD HHMM TITULO """

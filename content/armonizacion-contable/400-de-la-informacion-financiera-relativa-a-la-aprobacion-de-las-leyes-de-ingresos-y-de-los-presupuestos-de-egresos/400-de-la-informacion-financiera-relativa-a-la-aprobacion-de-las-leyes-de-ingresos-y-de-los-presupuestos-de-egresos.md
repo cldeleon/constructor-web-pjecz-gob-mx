@@ -24,6 +24,8 @@ Modified: 2020-06-01 12:00
 * [2018 Estado LI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.01 Ley de Ingresos/2018 Estado LI.pdf)
 * [2019 Consejo LI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.01 Ley de Ingresos/2019 Consejo LI.pdf)
 * [2019 Estado LI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.01 Ley de Ingresos/2019 Estado LI.pdf)
+* [2020 Consejo LI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.01 Ley de Ingresos/2020 Consejo LI.pdf)
+* [2020 ESTADO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.01 Ley de Ingresos/2020 ESTADO.pdf)
 
 
 ### 4.02 Presupuesto de Egresos
@@ -34,6 +36,7 @@ Modified: 2020-06-01 12:00
 * [2017 PE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.02 Presupuesto de Egresos/2017 PE.pdf)
 * [2018 PE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.02 Presupuesto de Egresos/2018 PE.pdf)
 * [2019 PE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.02 Presupuesto de Egresos/2019 PE.pdf)
+* [2020 PE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.02 Presupuesto de Egresos/2020 PE.pdf)
 
 
 ### 4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación
@@ -48,6 +51,7 @@ Modified: 2020-06-01 12:00
 * [2018 Estado DACAA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación/2018 Estado DACAA.pdf)
 * [2019 Consejo DACAA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación/2019 Consejo DACAA.pdf)
 * [2019 Estado DACAA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación/2019 Estado DACAA.pdf)
+* [2020 ESTADO DACAA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/4.00 De la Información Financiera Relativa a la Aprobación de las Leyes de Ingresos y de los Presupuestos de Egresos/4.03 Dictámenes, Acuerdos de Comisión, Actas de Aprobación/2020 ESTADO DACAA.pdf)
 
 
 ## Artículos y periodicidad

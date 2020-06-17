@@ -1,5 +1,4 @@
 from comun.base import Base
-from comun.seccion import Seccion
 
 
 class Fraccion(Base):
@@ -7,9 +6,9 @@ class Fraccion(Base):
 
     def __init__(self, articulo, rama, ordinal, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
-            insumos_ruta = f'{articulo.insumos_ruta}/F{ordinal.zfill(2)} {titulo}',
-            secciones_comienzan_con = f'F{ordinal.zfill(2)} {titulo}',
-            )
+            insumos_ruta=f'{articulo.insumos_ruta}/F{ordinal.zfill(2)} {titulo}',
+            secciones_comienzan_con=f'F{ordinal.zfill(2)} {titulo}',
+        )
         self.articulo = articulo
         self.rama = rama
         self.ordinal = ordinal
@@ -25,7 +24,7 @@ class Fraccion(Base):
 
     def alimentar(self):
         super().alimentar()
-        if self.alimentado == False:
+        if self.alimentado is False:
             # Juntar Secciones
             self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
@@ -35,16 +34,16 @@ class Fraccion(Base):
         super().contenido()
         plantilla = self.articulo.transparencia.plantillas_env.get_template('fraccion.md.jinja2')
         return(plantilla.render(
-            title = self.titulo,
-            slug = f'transparencia-{self.rama}-{self.pagina}',
-            summary = self.resumen,
-            tags = self.etiquetas,
-            url = f'transparencia/{self.rama}/{self.pagina}/',
-            save_as = f'transparencia/{self.rama}/{self.pagina}/index.html',
-            date = self.creado,
-            modified = self.modificado,
-            secciones = self.secciones,
-            ))
+            title=self.titulo,
+            slug=f'transparencia-{self.rama}-{self.pagina}',
+            summary=self.resumen,
+            tags=self.etiquetas,
+            url=f'transparencia/{self.rama}/{self.pagina}/',
+            save_as=f'transparencia/{self.rama}/{self.pagina}/index.html',
+            date=self.creado,
+            modified=self.modificado,
+            secciones=self.secciones,
+        ))
 
     def __repr__(self):
         super().__repr__()

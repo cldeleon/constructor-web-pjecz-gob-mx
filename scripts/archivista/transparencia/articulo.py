@@ -9,9 +9,9 @@ class Articulo(Base):
 
     def __init__(self, transparencia, rama, pagina, titulo, resumen, etiquetas, creado, modificado, oculto):
         super().__init__(
-            insumos_ruta = f'{transparencia.insumos_ruta}/{titulo}',
-            secciones_comienzan_con = titulo,
-            )
+            insumos_ruta=f'{transparencia.insumos_ruta}/{titulo}',
+            secciones_comienzan_con=titulo,
+        )
         self.transparencia = transparencia
         self.rama = rama
         self.pagina = pagina
@@ -26,24 +26,24 @@ class Articulo(Base):
 
     def alimentar(self):
         super().alimentar()
-        if self.alimentado == False:
+        if self.alimentado is False:
             # Alimentar fracciones
             with open(self.transparencia.metadatos_csv) as puntero:
                 lector = csv.DictReader(puntero)
                 for renglon in lector:
                     if renglon['rama'] == self.rama and int(renglon['ordinal']) > 0:
                         fraccion = Fraccion(
-                            articulo = self,
-                            rama = renglon['rama'],
-                            ordinal = renglon['ordinal'],
-                            pagina = renglon['pagina'],
-                            titulo = renglon['titulo'],
-                            resumen = renglon['resumen'],
-                            etiquetas = renglon['etiquetas'],
-                            creado = renglon['creado'],
-                            modificado = renglon['modificado'],
-                            oculto = renglon['oculto'],
-                            )
+                            articulo=self,
+                            rama=renglon['rama'],
+                            ordinal=renglon['ordinal'],
+                            pagina=renglon['pagina'],
+                            titulo=renglon['titulo'],
+                            resumen=renglon['resumen'],
+                            etiquetas=renglon['etiquetas'],
+                            creado=renglon['creado'],
+                            modificado=renglon['modificado'],
+                            oculto=renglon['oculto'],
+                        )
                         fraccion.alimentar()
                         self.fracciones.append(fraccion)
             # Agregar Seccion con el listado de vínculos a las fracciones
@@ -61,16 +61,16 @@ class Articulo(Base):
         super().contenido()
         plantilla = self.transparencia.plantillas_env.get_template('articulo.md.jinja2')
         return(plantilla.render(
-            title = self.titulo,
-            slug = f'transparencia-{self.rama}',
-            summary = self.resumen,
-            tags = self.etiquetas,
-            url = f'transparencia/{self.rama}/',
-            save_as = f'transparencia/{self.rama}/index.html',
-            date = self.creado,
-            modified = self.modificado,
-            secciones = self.secciones,
-            ))
+            title=self.titulo,
+            slug=f'transparencia-{self.rama}',
+            summary=self.resumen,
+            tags=self.etiquetas,
+            url=f'transparencia/{self.rama}/',
+            save_as=f'transparencia/{self.rama}/index.html',
+            date=self.creado,
+            modified=self.modificado,
+            secciones=self.secciones,
+        ))
 
     def __repr__(self):
         super().__repr__()

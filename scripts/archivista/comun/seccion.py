@@ -17,7 +17,7 @@ class Seccion(object):
             self.cargado = True
 
     def gatos(self):
-        if self.nivel >=1 and self.nivel <= 6:
+        if self.nivel >= 1 and self.nivel <= 6:
             return('#' * self.nivel)
         else:
             return('##')
@@ -62,7 +62,7 @@ class Seccion(object):
     def __repr__(self):
         if self.cargado:
             mensajes = []
-            if self.archivo_markdown_ruta != None:
+            if self.archivo_markdown_ruta is not None:
                 mensajes.append(os.path.basename(self.archivo_markdown_ruta))
             elif self.markdown != '':
                 mensajes.append('+md+')

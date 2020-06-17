@@ -9,9 +9,9 @@ class Transparencia(Base):
 
     def __init__(self, insumos_ruta, salida_ruta, metadatos_csv, plantillas_env):
         super().__init__(
-            insumos_ruta = insumos_ruta,
-            secciones_comienzan_con = 'Transparencia',
-            )
+            insumos_ruta=insumos_ruta,
+            secciones_comienzan_con='Transparencia',
+        )
         self.salida_ruta = salida_ruta
         self.metadatos_csv = metadatos_csv
         self.plantillas_env = plantillas_env
@@ -24,7 +24,7 @@ class Transparencia(Base):
 
     def alimentar(self):
         super().alimentar()
-        if self.alimentado == False:
+        if self.alimentado is False:
             # Alimentar articulos
             alimentados = []
             with open(self.metadatos_csv) as puntero:
@@ -32,16 +32,16 @@ class Transparencia(Base):
                 for renglon in lector:
                     if renglon['rama'] not in alimentados:
                         articulo = Articulo(
-                            transparencia = self,
-                            rama = renglon['rama'],
-                            pagina = renglon['pagina'],
-                            titulo = renglon['titulo'],
-                            resumen = renglon['resumen'],
-                            etiquetas = renglon['etiquetas'],
-                            creado = renglon['creado'],
-                            modificado = renglon['modificado'],
-                            oculto = renglon['oculto'],
-                            )
+                            transparencia=self,
+                            rama=renglon['rama'],
+                            pagina=renglon['pagina'],
+                            titulo=renglon['titulo'],
+                            resumen=renglon['resumen'],
+                            etiquetas=renglon['etiquetas'],
+                            creado=renglon['creado'],
+                            modificado=renglon['modificado'],
+                            oculto=renglon['oculto'],
+                        )
                         articulo.alimentar()
                         self.articulos.append(articulo)
                         alimentados.append(renglon['rama'])
@@ -60,16 +60,16 @@ class Transparencia(Base):
         super().contenido()
         plantilla = self.plantillas_env.get_template('transparencia.md.jinja2')
         return(plantilla.render(
-            title = self.titulo,
-            slug = 'transparencia',
-            summary = self.resumen,
-            tags = self.etiquetas,
-            url = 'transparencia/',
-            save_as = 'transparencia/index.html',
-            date = self.creado,
-            modified = self.modificado,
-            secciones = self.secciones,
-            ))
+            title=self.titulo,
+            slug='transparencia',
+            summary=self.resumen,
+            tags=self.etiquetas,
+            url='transparencia/',
+            save_as='transparencia/index.html',
+            date=self.creado,
+            modified=self.modificado,
+            secciones=self.secciones,
+        ))
 
     def __repr__(self):
         super().__repr__()

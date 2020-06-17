@@ -7,16 +7,18 @@ Date: 2020-04-22 16:30
 Modified: 2020-06-01 16:29
 
 
-## [Agenda de Audiencias](agenda-audiencias/)
+### [Abogados Registrados](abogados-registrados/)
 
-## [Consulta de Boletas](boletas/)
+### [Agenda de Audiencias](agenda-audiencias/)
 
-## [Edictos](edictos/)
+### [Consulta de Boletas](boletas/)
 
-## [Expediente Virtual](expediente-virtual/)
+### [Edictos](edictos/)
 
-## [Listas de Acuerdos](listas-de-acuerdos/)
+### [Expediente Virtual](expediente-virtual/)
 
-## [Listas Especiales](listas-especiales/)
+### [Listas de Acuerdos](listas-de-acuerdos/)
 
-## [Versión Pública de Sentencias](sentencias/)
+### [Listas Especiales](listas-especiales/)
+
+### [Versión Pública de Sentencias](sentencias/)

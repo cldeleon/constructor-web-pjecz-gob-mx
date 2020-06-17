@@ -18,6 +18,7 @@ Modified: 2020-06-01 12:00
 * [2017 PAE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.01 Programa Anual de Evaluaciones/2017 PAE.pdf)
 * [2018 PAE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.01 Programa Anual de Evaluaciones/2018 PAE.pdf)
 * [2019 PAE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.01 Programa Anual de Evaluaciones/2019 PAE.pdf)
+* [2020 PAE.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.01 Programa Anual de Evaluaciones/2020 PAE.pdf)
 
 
 ### 6.02 Evaluación de Recursos
