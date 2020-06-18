@@ -26,7 +26,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ##### [Misión, Visión y Valores](https://www.pjecz.gob.mx/conocenos/quienes-somos/mision-vision-y-valores/)
 
-##### Armonización Contable
+##### [Armonización Contable](https://www.pjecz.gob.mx/armonizacion-contable/)
 
 ##### [Aviso de Privacidad](https://www.pjecz.gob.mx/aviso-de-privacidad/)
 

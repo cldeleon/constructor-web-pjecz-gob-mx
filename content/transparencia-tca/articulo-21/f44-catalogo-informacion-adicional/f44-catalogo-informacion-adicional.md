@@ -22,9 +22,9 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
 
-Abogados registrados ante el Tribunal Superior de Justicia
+[Abogados registrados ante el Tribunal Superior de Justicia](https://www.pjecz.gob.mx/consultas/abogados-registrados/)
 
-Armonización Contable
+[Armonización Contable](https://www.pjecz.gob.mx/armonizacion-contable/)
 
 [Aviso de Privacidad](https://www.pjecz.gob.mx/aviso-de-privacidad/)
 
@@ -52,7 +52,7 @@ Edictos de Declaración de Ausencia
 
 Observatorio Judicial
 
-Peritos Auxiliares de la Administración de Justicia
+[Peritos Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-27/f20-lista-peritos/)
 
 [Presentación de Quejas](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
@@ -60,7 +60,7 @@ Peritos Auxiliares de la Administración de Justicia
 
 [Sentencias con Votos particulares](https://www.pjecz.gob.mx/sesiones/votos-particulares/)
 
-[Sistema de Citas      ](https://www.pjecz.gob.mx/citas/)
+[Sistema de Citas](https://www.pjecz.gob.mx/citas/)
 
 [Versión Pública de Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 

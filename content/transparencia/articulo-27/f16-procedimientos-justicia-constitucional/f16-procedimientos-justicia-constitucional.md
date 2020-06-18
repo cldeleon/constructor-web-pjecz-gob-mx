@@ -8,7 +8,8 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
- 
+#### [Procedimientos de certificación para facilitadores en mediación y conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
 
+##### 
 
 
