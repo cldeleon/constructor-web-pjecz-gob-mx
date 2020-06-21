@@ -221,7 +221,7 @@ Modified: 2020-06-01 12:00
     - Funcional - Programática: Artículo 46-II-b, iii, 47, 51 y 58, Trimestral - Anual
 - 2.02.03 Endeudamiento Neto, Financiamiento menos Armonización: Artículo 46 II c), 47, 51 y 58 Trimestral - Anual
 - 2.02.04 Intereses de la Deuda: Artículo 46 II d), 47, 51 y 58 Trimestral-Anual
-- 2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal: Artículo 46 II d), 47, 51 y 58 Trimestral-Anual
+- 2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal: Artículo 46 II e), 47, 51 y 58 Trimestral-Anual
 
 
 
