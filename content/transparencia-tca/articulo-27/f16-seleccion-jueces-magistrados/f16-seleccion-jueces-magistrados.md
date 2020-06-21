@@ -14,7 +14,7 @@ El proceso de selección de magistrados.
 
 ### RESPONSABLE
 
-Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
+Lic. Rosalba Ixchel Rodríguez Villagrana, Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
 
 ### FECHA DE VALIDACIÓN
 

@@ -27,7 +27,6 @@ Modified: 2020-01-01 15:00:00
 * [Artículo 21](articulo-21/)
 * [Artículo 22](articulo-22/)
 * [Artículo 27](articulo-27/)
-* [Licitaciones](licitaciones/)
 
 
 ### Derechos ARCO
