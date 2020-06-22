@@ -53,6 +53,7 @@ Status: draft
 - [Décima Quinta Sesión Ordinaria](sala-penal/2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria Segunda Digital](sala-penal/2020/decima-cuarta-sesion-ordinaria-segunda-digital/)
 - [Décimo Tercera Sesión Ordinaria Primera Digital](sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/)
+- [Votos Partculares](sala-penal/2020/votos-particulares/)
 
 ## Sala Regional
 

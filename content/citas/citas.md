@@ -19,7 +19,7 @@ Modified: 2020-06-08 08:30
 
 ## Acceso al sistema, ayuda y manuales
 
-- [Manual como archivo PDF](manual-del-sistema-de-citas-en-linea-usuario.pdf)
+- [Manual como archivo PDF](https://storage.googleapis.com/pjecz-gob-mx/Citas/manual-del-sistema-de-citas-en-linea-usuario.pdf)
 - [Infografía](infografia-del-sistema-de-citas-en-linea.jpg)
 - [Ayuda vía WhatsApp](https://wa.link/wrm9zq)
 
