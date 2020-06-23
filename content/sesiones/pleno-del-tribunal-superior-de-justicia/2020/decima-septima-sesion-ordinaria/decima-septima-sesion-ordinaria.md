@@ -1,6 +1,6 @@
 Title: Décima Séptima Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-septima-sesion-ordinaria
-Summary: Sesión Ordinaria del Pleno del TSJ, 24 de junio 2021
+Summary: Sesión Ordinaria del Pleno del TSJ, 24 de junio 2020
 Category: Sesiones
 URL: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/
 Save_As: sesiones/pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/index.html

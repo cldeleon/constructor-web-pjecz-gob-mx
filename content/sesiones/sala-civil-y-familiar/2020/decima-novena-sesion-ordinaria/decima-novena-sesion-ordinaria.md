@@ -1,6 +1,6 @@
 Title: Décima Novena Sesión Ordinaria
 Slug: sesiones-sala-civil-y-familiar-2020-decima-novena-sesion-ordinaria
-Summary: Sesión Ordinaria de la Sala Civil y Familiar, 00 de junio 2021
+Summary: Sesión Ordinaria de la Sala Civil y Familiar, 25 de junio 2020
 Category: Sesiones
 URL: sesiones/sala-civil-y-familiar/2020/decima-novena-sesion-ordinaria/
 Save_As: sesiones/sala-civil-y-familiar/2020/decima-novena-sesion-ordinaria/index.html
