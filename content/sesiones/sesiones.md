@@ -12,6 +12,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Séptima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-sexta-sesion-ordinaria/)
 - [Décima Quinta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/)
@@ -36,6 +37,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Novena Sesión Ordinaria](sala-civil-y-familiar/2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](sala-civil-y-familiar/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](sala-civil-y-familiar/2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-sexta-sesion-ordinaria/)
@@ -47,6 +49,7 @@ Status: draft
 
 ### 2020
 
+- [Décima Novena Sesión Ordinaria](sala-penal/2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](sala-penal/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](sala-penal/2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](sala-penal/2020/decima-sexta-sesion-ordinaria/)

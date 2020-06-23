@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Décima Novena Sesión Ordinaria](2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](2020/decima-sexta-sesion-ordinaria/)

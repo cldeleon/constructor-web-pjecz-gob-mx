@@ -10,13 +10,12 @@ Status: draft
 
 ## 2020
 
+- [Décima Novena Sesión Ordinaria](sala-penal/2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](sala-penal/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](2020/decima-sexta-sesion-ordinaria/)
 - [Décima Quinta Sesión Ordinaria](2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria Segunda Digital](2020/decima-cuarta-sesion-ordinaria-segunda-digital/)
 - [Décima Tercera Sesión Ordinaria Primera Digital](2020/decima-tercera-sesion-ordinaria-primera-digital/)
-- [Votos Particulares](2020/votos-particulares/)
-
 
 
