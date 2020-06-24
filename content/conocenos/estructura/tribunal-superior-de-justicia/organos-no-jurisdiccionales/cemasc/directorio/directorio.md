@@ -150,7 +150,7 @@ alma.silva@coahuila.gob.mx
 
 ---
 
-### Lic. Yuridia Yajaira Mendoza Cruz
+### Lic. Yuriria Yajaira Mendoza Cruz
 
 Mediadora-Conciliadora
 
@@ -193,6 +193,5 @@ francisco.estrada@coahuila.gob.mx
 Mediadora-Conciliadora
 
 brendamaria.molina@coahuila.gob.mx
-
 
 

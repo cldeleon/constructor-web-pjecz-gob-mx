@@ -20,6 +20,6 @@ Lic. Rosalba Ixchel Rodríguez Villagrana, Guillermo Alejandro David Pérez, Sec
 
 05 de junio del 2020
 
-[Proceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)
+[P](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)[roceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)
 
 

@@ -72,6 +72,8 @@ Status: draft
 - [Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020](tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/)
 - [Primera Sesión Ordinaria del Pleno del Tribunal Constitucional Local 2020-05-11](tribunal-constitucional/2020/primera-sesion-ordinaria-del.pleno-del-tribunal-constitucional-local-2020-05-11)
 
+## [Votos Disidentes](votos-disidentes/)
+
 ## [Votos Particulares](votos-particulares/)
 
 

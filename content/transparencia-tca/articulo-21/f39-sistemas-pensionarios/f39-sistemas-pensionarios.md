@@ -24,6 +24,6 @@ De conformidad con lo dispuesto por los artículos 22 fracción XXXI de la Ley O
 
 A continuación se proporciona el enlace que el Instituto de Pensiones pone a disposición para acceder a esta información:
 
-<http://www.coahuilatransparente.gob.mx/BD/EstadoqueGuardanlasPensiones/IPPTSEPensiones11316.pdf>
+[http://www.coahuilatransparente.gob.mx/BD/EstadoqueGuardanlasPensiones/IPPTSEPensiones11316.pdf](http://www.coahuilatransparente.gob.mx/BD/EstadoqueGuardanlasPensiones/IPPTSEPensiones11317.pdf)
 
 

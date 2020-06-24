@@ -10,8 +10,12 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, 10. UBICACIÓN DE EXPEDIENTES
 
-Las y los abogados litigantes pueden registrarse en el Juzgado Civil, Mercantil y Familiar en el que tengan negocio judicial para realizar consultas a través de Internet en el Expediente Virtual.
+II. Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General: 
 
-* 
+....
+
+10\. Ubicación de los expedientes
+
+Ubicación de Expedientes
 
 

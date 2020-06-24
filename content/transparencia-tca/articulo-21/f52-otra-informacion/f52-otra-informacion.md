@@ -14,6 +14,8 @@ Cualquier otra información que sea de utilidad o resulte relevante para el cono
 
 ### RESPONSABLE
 
+Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
+
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje.
 
 ### FECHA DE VALIDACIÓN

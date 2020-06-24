@@ -22,6 +22,6 @@ Lic. Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Cons
 
 A la fecha de actualización del presente rubro, no hay servidores públicos del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario. Para acceder a la información respecto de servidores públicos sancionados del Poder Judicial, puede ingresar en el siguiente enlace:
 
-[Servidores públicos sancionados](https://www.pjecz.gob.mx/transparencia/articulo-21/f47-sanciones-servidores-publicos/)
+[Servidores públicos sancionados](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/sanciones-a-servidores-publicos/)
 
 

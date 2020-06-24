@@ -21,8 +21,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 05 de junio de 2020
 
 * [Declaraciones patrimoniales](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)
-
-
- 
+* Listado de servidores públicos que no rindieron declaración patrimonial
 
 

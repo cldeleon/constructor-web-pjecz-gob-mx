@@ -13,6 +13,8 @@ Modified: 2020-05-04 09:12
 
 ### Maestro Carlos Javier García Mata
 
+Magistrado Distrital Comisionado 
+
 Visitador Judicial General
 
 ---
@@ -24,6 +26,14 @@ Visitador Judicial
 ---
 
 ### Maestro José María García de la Peña
+
+Visitador Judicial
+
+---
+
+### Licendiada Mariana del Rocio Hernández Mata
+
+Juez(a) comisionada
 
 Visitador Judicial
 

@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+11 de junio del 2020
 
 [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
 
@@ -32,25 +32,17 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Calendario de Labores](https://www.pjecz.gob.mx/conocenos/directorio-general/calendario-de-labores/)
 
-Conatrib - Unidad de Derechos Humanos
-
 [Conócenos](https://www.pjecz.gob.mx/conocenos/)
 
 [Consulta de Boletas](https://www.pjecz.gob.mx/consultas/boletas/)
 
-Derechos Humanos e Igualdad de Género - Poder Judicial del Estado de Coahuila de Zaragoza
-
 [Defensorí­a Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
-
-Edictos de Declaración de Ausencia
 
 [Edictos en Línea](https://www.pjecz.gob.mx/consultas/edictos/)
 
 [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 
 [Listas Especiales](https://www.pjecz.gob.mx/consultas/listas-especiales/)
-
-Observatorio Judicial
 
 [Peritos Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-27/f20-lista-peritos/)
 

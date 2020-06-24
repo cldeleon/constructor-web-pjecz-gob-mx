@@ -21,37 +21,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 05 de junio del 2020
 
 
-### 06 Reglamentos
-
-
-* [01 Reglamento de la Función Actuarial de los Órganos Jurisdiccionales del Poder Judicial del Estado de Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/06 Reglamentos/01 Reglamento de la Función Actuarial de los Órganos Jurisdiccionales del Poder Judicial del Estado de Coahuila.pdf)
-* [02 Reglamento Interior de la Oficialía Mayor del Poder Judicial del Estado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/06 Reglamentos/02 Reglamento Interior de la Oficialía Mayor del Poder Judicial del Estado.pdf)
-* [03 Reglamento Interior de la Secretaría Técnica y Transparencia del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/06 Reglamentos/03 Reglamento Interior de la Secretaría Técnica y Transparencia del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-* [04 Reglamento Interior del Archivo General, Archivos Regionales y Distritales del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/06 Reglamentos/04 Reglamento Interior del Archivo General, Archivos Regionales y Distritales del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-* [05 Reglamento para el Examen de Méritos del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/06 Reglamentos/05 Reglamento para el Examen de Méritos del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-
-
-### 07 Lineamientos
-
-
-* [01 Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/01 Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-* [02 Lineamientos Generales para el uso de Lenguaje Incluyente, No Sexista y No Discriminatorio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/02 Lineamientos Generales para el uso de Lenguaje Incluyente, No Sexista y No Discriminatorio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-* [03 Lineamientos para el otorgamiento de Viáticos y Pasajes del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/03 Lineamientos para el otorgamiento de Viáticos y Pasajes del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-* [04 Lineamientos para el uso de los Vehículos Oficiales comprendidos dentro del Patrimonio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/07 Lineamientos/04 Lineamientos para el uso de los Vehículos Oficiales comprendidos dentro del Patrimonio del Poder Judicial del Estado de Coahuila de Zaragoza.pdf)
-
-
-### 08 Protocolos de Actuación
-
-
-* [01 Protocolo de Actuación para quienes imparten justicia en casos que involucren a personas migrantes y sujetas de protección internacional.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/01 Protocolo de Actuación para quienes imparten justicia en casos que involucren a personas migrantes y sujetas de protección internacional.pdf)
-* [02 Protocolo de Actuación para quienes imparten justicia en casos que involucren derechos de personas, comunidades y pueblos indígenas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/02 Protocolo de Actuación para quienes imparten justicia en casos que involucren derechos de personas, comunidades y pueblos indígenas.pdf)
-* [03 Protocolo de Actuación para quienes imparten justicia en casos que involucren la orientación sexual o la identidad de género.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/03 Protocolo de Actuación para quienes imparten justicia en casos que involucren la orientación sexual o la identidad de género.pdf)
-* [04 Protocolo de Actuación para quienes imparten justicia en casos que involucren niñas, niños y adolescentes.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/04 Protocolo de Actuación para quienes imparten justicia en casos que involucren niñas, niños y adolescentes.pdf)
-* [05 Protocolo para la Elaboración del Resumen de la Glosa de debate en los Órganos Jurisdiccionales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/05 Protocolo para la Elaboración del Resumen de la Glosa de debate en los Órganos Jurisdiccionales.pdf)
-* [06 Protocolo para quienes imparten justicia en casos que involucren derechos de personas con discapacidad.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/06 Protocolo para quienes imparten justicia en casos que involucren derechos de personas con discapacidad.pdf)
-* [07 Protocolo para la Elaboración de Versiones Públicas de las Sentencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F02 Marco Normativo/08 Protocolos de Actuación/07 Protocolo para la Elaboración de Versiones Públicas de las Sentencias.pdf)
-
-
 ### 1. Constituciones
 
 * [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_080520.pdf)
@@ -137,5 +106,48 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 \- [Código Procesal Civil para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa03.pdf)
 
 \- [Código Municipal](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa07.pdf)
+
+
+6. **Reglamentos**
+
+[Reglamento de la Función Actuarial de los Órganos Jurisdiccionales del Poder Judicial del Estado de Coahuila](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/01%20Reglamento%20de%20la%20Funci%C3%B3n%20Actuarial%20de%20los%20%C3%93rganos%20Jurisdiccionales%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila.pdf).
+
+[Reglamento Interior de la Oficialía Mayor del Poder Judicial del Estado.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/02%20Reglamento%20Interior%20de%20la%20Oficial%C3%ADa%20Mayor%20del%20Poder%20Judicial%20del%20Estado.pdf)
+
+[Reglamento Interior de la Secretaría Técnica y Transparencia del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/03%20Reglamento%20Interior%20de%20la%20Secretar%C3%ADa%20T%C3%A9cnica%20y%20Transparencia%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+[Reglamento Interior del Archivo General, Archivos Regionales y Distritales del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/04%20Reglamento%20Interior%20del%20Archivo%20General,%20Archivos%20Regionales%20y%20Distritales%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+[Reglamento para el Examen de Méritos del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/05%20Reglamento%20para%20el%20Examen%20de%20M%C3%A9ritos%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+
+7. **Protocolos de Actuación**
+
+[Protocolo de Actuación para quienes imparten justicia en casos que involucren a personas migrantes y sujetas de protección internacional.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/01%20Protocolo%20de%20Actuaci%C3%B3n%20para%20quienes%20imparten%20justicia%20en%20casos%20que%20involucren%20a%20personas%20migrantes%20y%20sujetas%20de%20protecci%C3%B3n%20internacional.pdf)
+
+[Protocolo de Actuación para quienes imparten justicia en casos que involucren derechos de personas, comunidades y pueblos indígenas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/02%20Protocolo%20de%20Actuaci%C3%B3n%20para%20quienes%20imparten%20justicia%20en%20casos%20que%20involucren%20derechos%20de%20personas,%20comunidades%20y%20pueblos%20ind%C3%ADgenas.pdf)
+
+[Protocolo de Actuación para quienes imparten justicia en casos que involucren la orientación sexual o la identidad de género.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/03%20Protocolo%20de%20Actuaci%C3%B3n%20para%20quienes%20imparten%20justicia%20en%20casos%20que%20involucren%20la%20orientaci%C3%B3n%20sexual%20o%20la%20identidad%20de%20g%C3%A9nero.pdf)
+
+[Protocolo de Actuación para quienes imparten justicia en casos que involucren niñas, niños y adolescentes.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/04%20Protocolo%20de%20Actuaci%C3%B3n%20para%20quienes%20imparten%20justicia%20en%20casos%20que%20involucren%20ni%C3%B1as,%20ni%C3%B1os%20y%20adolescentes.pdf)
+
+[Protocolo para la Elaboración del Resumen de la Glosa de debate en los Órganos Jurisdiccionales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/05%20Protocolo%20para%20la%20Elaboraci%C3%B3n%20del%20Resumen%20de%20la%20Glosa%20de%20debate%20en%20los%20%C3%93rganos%20Jurisdiccionales.pdf)
+
+[Protocolo para quienes imparten justicia en casos que involucren derechos de personas con discapacidad.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/06%20Protocolo%20para%20quienes%20imparten%20justicia%20en%20casos%20que%20involucren%20derechos%20de%20personas%20con%20discapacidad.pdf)
+
+[Protocolo para la Elaboración de Versiones Públicas de las Sentencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/07%20Protocolo%20para%20la%20Elaboraci%C3%B3n%20de%20Versiones%20P%C3%BAblicas%20de%20las%20Sentencias.pdf)
+
+### **1. Constituciones**
+
+
+8. **Lineamientos**
+
+[Lineamientos Generales en materia de Transparencia y Acceso a la Información del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/07%20Lineamientos/01%20Lineamientos%20Generales%20en%20materia%20de%20Transparencia%20y%20Acceso%20a%20la%20Informaci%C3%B3n%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+[Lineamientos Generales para el uso de Lenguaje Incluyente, No Sexista y No Discriminatorio del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/07%20Lineamientos/02%20Lineamientos%20Generales%20para%20el%20uso%20de%20Lenguaje%20Incluyente,%20No%20Sexista%20y%20No%20Discriminatorio%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+[Lineamientos para el otorgamiento de Viáticos y Pasajes del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/07%20Lineamientos/03%20Lineamientos%20para%20el%20otorgamiento%20de%20Vi%C3%A1ticos%20y%20Pasajes%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
+
+[Lineamientos para el uso de los Vehículos Oficiales comprendidos dentro del Patrimonio del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/07%20Lineamientos/04%20Lineamientos%20para%20el%20uso%20de%20los%20Veh%C3%ADculos%20Oficiales%20comprendidos%20dentro%20del%20Patrimonio%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
 
 

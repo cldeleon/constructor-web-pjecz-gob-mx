@@ -39,8 +39,10 @@ Su domicilio se encuentra en: Bulevar Isidro López Zertuche 2791 Segundo Piso, 
 2. Recepción de promociones y demandas en horario de 09:00 a.m. a 14:30 p.m., de lunes a viernes.
 3. Se integra por 3 Magistrados:
 
-* Magistrado Eva de la Fuente Rivas.
-* Magistrada Eduardo Prado García.
-* Magistrado Bernador González Morales.
+   Magistrado Eva de la Fuente Rivas.
+
+   Magistrada Eduardo Prado García.
+
+   Magistrado Bernador González Morales.
 
 

@@ -23,6 +23,7 @@ Modified: 2020-05-04 09:12
 * [Datos del órgano](sala-colegiada-penal/datos-del-organo/)
 * [Directorio](sala-colegiada-penal/directorio/)
 * [Formulario de Contacto](sala-colegiada-penal/formulario-de-contacto/)
+* [Votos Particulares 2020](/sesiones/sala-penal/2020/votos-particulares/)
 
 ## [Sala Regional](sala-regional/)
 
