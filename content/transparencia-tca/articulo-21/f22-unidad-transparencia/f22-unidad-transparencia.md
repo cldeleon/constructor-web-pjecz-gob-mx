@@ -26,7 +26,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 ## Descargar
 
 
+* [Acuerdo Consejo de la Judicatura -  Comité.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F22 Unidad de Transparencia/Acuerdo Consejo de la Judicatura -  Comité.pdf)
 * [Unidad de Transparencia.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F22 Unidad de Transparencia/Unidad de Transparencia.pdf)
-* [Unidad de Transparencia.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F22 Unidad de Transparencia/Unidad de Transparencia.ppt)
 
 

@@ -61,6 +61,18 @@ Las cuestiones de inconstitucionalidad local son promovidas por las partes de un
 * [Citación sentencia 3.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Citación para Sentencia/Citación sentencia 3.pdf)
 
 
+### Controversia Constitucional CC-2-2019
+
+
+* [Acuerdo Audiencia CC-2-2019 L.E.R.V.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Controversia Constitucional CC-2-2019/Acuerdo Audiencia CC-2-2019 L.E.R.V.pdf)
+
+
+### Controversia Constitucional CC-3-2019
+
+
+* [Acuerdo Audiencia CC-3-2019 M.C.G.T.pdf](https://storage.googleapis.com/pjecz-gob-mx/Conócenos/Estructura/Tribunal Superior de Justicia/Órganos Jurisdiccionales/Tribunal Constitucional/Controversia Constitucional CC-3-2019/Acuerdo Audiencia CC-3-2019 M.C.G.T.pdf)
+
+
 ### Demanda de Acción de Inconstitucionalidad y Anexos, mayo 2020
 
 

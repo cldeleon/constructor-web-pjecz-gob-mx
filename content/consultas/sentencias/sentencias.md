@@ -18,7 +18,7 @@ JavaScripts: consultas-sentencias.js
 
 <table id="listaDeSentencias" class="table" style="width:100%">
 <thead>
-<th>Fecha</th>
+<th>Fecha de Publicación</th>
 <th>Sentencia</th>
 <th>Expediente</th>
 <th>P. Género</th>

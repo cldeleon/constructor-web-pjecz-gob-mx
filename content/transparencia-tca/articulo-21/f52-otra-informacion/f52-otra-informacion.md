@@ -26,11 +26,13 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Calendario de actualización, artículo 27](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2020/Calendario%20de%20Actualizacion%20Art%2027%20TCA%202020.ppt)
 
-[Informe de Labores](https://www.pjecz.gob.mx/transparencia/articulo-21/f40-informe-anual-actividades/)
+[Informe de Labores](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f40-informe-anual-actividades/)
 
 [Listado de personas certificadas como facilitadoras privadas en Mediación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/)
 
 [Procedimiento de certificación para facilitadores en mediación y conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
+
+[Trámites y Servicios](https://www.pjecz.gob.mx/tramites-y-servicios/)
 
 
 ## Descargar

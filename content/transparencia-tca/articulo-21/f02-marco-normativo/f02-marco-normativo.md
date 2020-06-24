@@ -20,13 +20,12 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 05 de junio del 2020
 
+### 
 
-### 1. Constituciones
+1. **Constituciones**
 
 * [Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/1_080520.pdf)
 * [Constitución Política del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa01.pdf)
-
-
 
 2. **Normativa Internacional**
 
@@ -56,7 +55,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 [Convención Interamericana para la Eliminación de todas las Formas de Discriminación contra las Personas con Discapacidad](http://legislacion.scjn.gob.mx/Buscador/Paginas/wfOrdenamientoDetalle.aspx?q=V95NcogKxHpUN4bFbjWt9mO5KMX9V49kbRI/4gnIq5uXvtQzNNYo6FamMLeXv/+z)
 
-
 3. **Leyes Federales**
 
 [Ley de Amparo, Reglamentaria de los artículos 103 y 107 de la Constitución Política de los Estados Unidos Mexicanos](http://www.diputados.gob.mx/LeyesBiblio/pdf/LAmp_150618.pdf)
@@ -70,7 +68,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 [Ley General de Responsabilidades Administrativas](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA_191119.pdf)
 
 [Ley General de Transparencia y Acceso a la Información Pública](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf)
-
 
 4. **Leyes Estatales**
 
@@ -98,7 +95,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 \- [Ley para el Desarrollo e Inclusión de las Personas con Discapacidad del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa195.pdf)
 
-
 5. **Códigos**
 
 \- [Código Civil para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa02.pdf)
@@ -106,7 +102,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 \- [Código Procesal Civil para el Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa03.pdf)
 
 \- [Código Municipal](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa07.pdf)
-
 
 6. **Reglamentos**
 
@@ -119,7 +114,6 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 [Reglamento Interior del Archivo General, Archivos Regionales y Distritales del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/04%20Reglamento%20Interior%20del%20Archivo%20General,%20Archivos%20Regionales%20y%20Distritales%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
 
 [Reglamento para el Examen de Méritos del Poder Judicial del Estado de Coahuila de Zaragoza.](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/06%20Reglamentos/05%20Reglamento%20para%20el%20Examen%20de%20M%C3%A9ritos%20del%20Poder%20Judicial%20del%20Estado%20de%20Coahuila%20de%20Zaragoza.pdf)
-
 
 7. **Protocolos de Actuación**
 
@@ -137,8 +131,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 [Protocolo para la Elaboración de Versiones Públicas de las Sentencias.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2021/F02%20Marco%20Normativo/08%20Protocolos%20de%20Actuaci%C3%B3n/07%20Protocolo%20para%20la%20Elaboraci%C3%B3n%20de%20Versiones%20P%C3%BAblicas%20de%20las%20Sentencias.pdf)
 
-### **1. Constituciones**
-
+### 
 
 8. **Lineamientos**
 
