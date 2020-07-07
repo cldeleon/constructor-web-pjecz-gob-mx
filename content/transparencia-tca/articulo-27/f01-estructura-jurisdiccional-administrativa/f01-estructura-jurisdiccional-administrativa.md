@@ -16,12 +16,13 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
+* [01 Estructura Orgánica TCA 2020 - Art 27.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F01 Estructura Jurisdiccional y Administrativa/01 Estructura Orgánica TCA 2020 - Art 27.pdf)
 * [01 Estructura Orgánica TCA 2020 - Art 27.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F01 Estructura Jurisdiccional y Administrativa/01 Estructura Orgánica TCA 2020 - Art 27.pptx)
 
 

@@ -18,12 +18,13 @@ EL órgano jurisdiccional y unidad administrativa del Tribunal de Conciliación 
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+01 de julio de 2020
 
 
 ## Descargar
 
 
+* [Catálogos Documentales de Archivos.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F23 Catálogos Documentales de Archivos/Catálogos Documentales de Archivos.pdf)
 * [Catálogos Documentales de Archivos.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F23 Catálogos Documentales de Archivos/Catálogos Documentales de Archivos.ppt)
 
 

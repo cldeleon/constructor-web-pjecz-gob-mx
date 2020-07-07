@@ -1,7 +1,7 @@
 Title: Acuerdo sobre cuestiones urgentes en Materia Familiar
 Slug: acuerdos-2020-2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar/
 Save_As: acuerdos/2020/2020-04-06-1200-acuerdo-sobre-cuestiones-urgentes-en-materia-familiar/index.html
 Date: 2020-04-06 12:00

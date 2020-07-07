@@ -1,7 +1,7 @@
 Title: Acuerdo relativo al cierre de Monclova
 Slug: acuerdos-2020-2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova/
 Save_As: acuerdos/2020/2020-04-13-1300-acuerdo-relativo-al-cierre-de-monclova/index.html
 Date: 2020-04-13 13:00

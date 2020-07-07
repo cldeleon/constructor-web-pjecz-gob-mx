@@ -11,6 +11,8 @@ Modified: 2020-06-01 16:29
 
 ### [Agenda de Audiencias](agenda-audiencias/)
 
+### [Calendario de Labores](calendario-de-labores/)
+
 ### [Consulta de Boletas](boletas/)
 
 ### [Edictos](edictos/)

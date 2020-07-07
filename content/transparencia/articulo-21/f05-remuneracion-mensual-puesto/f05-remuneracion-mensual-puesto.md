@@ -18,12 +18,12 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 
-## Descargar
+### Remuneración Mensual
 
 
-* [Tabulador.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F05 Remuneración Mensual por Puesto/Tabulador.xlsx)
+* [Tabulador.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F05 Remuneración Mensual por Puesto/Remuneración Mensual/Tabulador.xlsx)
 
 

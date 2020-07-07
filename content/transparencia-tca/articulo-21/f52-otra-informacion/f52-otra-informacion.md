@@ -20,7 +20,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 [Calendario de actualización, artículo 21](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2020/Calendario%20de%20Actualizacion%20Art%2021%20TCA%202020.ppt)
 
@@ -30,7 +30,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Listado de personas certificadas como facilitadoras privadas en Mediación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/listado-de-personas-certificadas-vigentes-como-facilitadoras-privadas-en-mediacion/)
 
-[Procedimiento de certificación para facilitadores en mediación y conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
+[Procedimiento de certificación para facilitadores en Mediación y Conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
 
 [Trámites y Servicios](https://www.pjecz.gob.mx/tramites-y-servicios/)
 
@@ -40,6 +40,8 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 * [Calendario días Inhábiles 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F52 Otra Información/Calendario días Inhábiles 2020.pdf)
 * [Tabla de Actualizacion TCA  Obligaciones de transparencia comunes Art. 70.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F52 Otra Información/Tabla de Actualizacion TCA  Obligaciones de transparencia comunes Art. 70.doc)
+* [Tabla de Actualizacion TCA  Obligaciones de transparencia comunes Art. 70.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F52 Otra Información/Tabla de Actualizacion TCA  Obligaciones de transparencia comunes Art. 70.pdf)
 * [Tabla de Aplicabilidad TCA Obligaciones de transparencia comunes Art. 70.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F52 Otra Información/Tabla de Aplicabilidad TCA Obligaciones de transparencia comunes Art. 70.doc)
+* [Tabla de Aplicabilidad TCA Obligaciones de transparencia comunes Art. 70.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F52 Otra Información/Tabla de Aplicabilidad TCA Obligaciones de transparencia comunes Art. 70.pdf)
 
 

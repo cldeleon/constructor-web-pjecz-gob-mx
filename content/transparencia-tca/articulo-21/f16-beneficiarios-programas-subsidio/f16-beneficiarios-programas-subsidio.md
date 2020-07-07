@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 No Aplica lo dispuesto en la fracción XVI del artículo 21 de la ley de Acceso a la Informacion Pública paa el Estado de Cohuila de Zaragoza, referente a "Los nombres de los beneficiarios de los programas de subsidio, estímulo y/o apoyos otorgados".
 

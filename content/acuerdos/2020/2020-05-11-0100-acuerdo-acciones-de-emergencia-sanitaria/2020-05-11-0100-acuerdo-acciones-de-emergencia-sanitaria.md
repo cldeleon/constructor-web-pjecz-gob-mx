@@ -1,7 +1,7 @@
 Title: Acuerdo Acciones de Emergencia Sanitaria
 Slug: acuerdos-2020-2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria/
 Save_As: acuerdos/2020/2020-05-11-0100-acuerdo-acciones-de-emergencia-sanitaria/index.html
 Date: 2020-05-11 01:00

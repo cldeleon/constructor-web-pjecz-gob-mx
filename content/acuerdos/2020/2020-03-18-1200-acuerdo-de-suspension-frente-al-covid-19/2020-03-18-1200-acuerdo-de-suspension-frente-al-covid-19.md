@@ -1,7 +1,7 @@
 Title: Acuerdo de Suspensión frente al COVID-19
 Slug: acuerdos-2020-2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19/
 Save_As: acuerdos/2020/2020-03-18-1200-acuerdo-de-suspension-frente-al-covid-19/index.html
 Date: 2020-03-18 12:00

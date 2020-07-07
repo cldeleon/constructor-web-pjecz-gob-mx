@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+02 de julio del 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza y no está dentro de sus funciones y facultades la de generar y concentrar la información del presente rubro. A continuación se proporciona el enlace a la información correspondiente:
 

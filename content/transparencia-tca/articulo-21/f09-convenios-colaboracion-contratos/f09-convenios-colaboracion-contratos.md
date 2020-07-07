@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+01 de julio de 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judicial y dentro de sus funciones no se comprende la de suscribir Convenios de Colaboración o Contratos, lo anterior de conformidad con lo que determinan los artículos 25-O-2 y 25-O-3, de la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 

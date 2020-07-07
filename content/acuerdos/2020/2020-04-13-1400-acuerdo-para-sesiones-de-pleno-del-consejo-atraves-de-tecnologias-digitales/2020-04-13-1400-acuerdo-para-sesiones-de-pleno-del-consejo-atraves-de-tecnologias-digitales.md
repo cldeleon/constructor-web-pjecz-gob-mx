@@ -1,7 +1,7 @@
 Title: Acuerdo para Sesiones de Pleno del Consejo através de Tecnologías Digitales
 Slug: acuerdos-2020-2020-04-13-1400-acuerdo-para-sesiones-de-pleno-del-consejo-atraves-de-tecnologias-digitales
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-13-1400-acuerdo-para-sesiones-de-pleno-del-consejo-atraves-de-tecnologias-digitales/
 Save_As: acuerdos/2020/2020-04-13-1400-acuerdo-para-sesiones-de-pleno-del-consejo-atraves-de-tecnologias-digitales/index.html
 Date: 2020-04-13 14:00

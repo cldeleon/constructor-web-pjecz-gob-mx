@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+01 de julio de 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder Judicial del Estado de Coahuila de Zaragoza y corresponde a la Oficialía Mayor del Poder Judicial de esta entidad federativa, a través de las áreas competentes, atender sus requerimientos en materia de recursos humanos, recursos materiales y recursos financieros.
 
@@ -26,6 +26,6 @@ El Tribunal de Conciliación y Arbitraje es un órgano especializado del Poder J
 ## Descargar
 
 
-* [Tabulador 2020.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F05 Remuneración Mensual por Puesto/Tabulador 2020.xlsx)
+* [Tabulador.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F05 Remuneración Mensual por Puesto/Tabulador.xlsx)
 
 

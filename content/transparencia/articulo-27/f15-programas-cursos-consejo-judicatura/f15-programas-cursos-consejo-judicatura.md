@@ -8,12 +8,20 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 15. Programas y Cursos del Consejo dela Judicatura 
+## Art. 27, 15. Programas y Cursos del Consejo dela Judicatura
 
 Los programas y cursos del Consejo de la Judicatura, así como las convocatorias a concursos para ocupar cargos jurisdiccionales y los resultados de los mismos y de los exámenes de los participantes;
 
+### RESPONSABLE
+
+Lic. Rosalba Ixchel Rodíguez Villagrana, Secretaria de Acuerdo y Trámite
+
 ### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de junio del 2020
+
+**Nota Informativa:**
+
+A la fecha de validación no se han emitido cursos ni convocatorias por parte del Consejo de la Judicatura.
 
 

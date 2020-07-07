@@ -18,36 +18,38 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 La Visitaduría Judicial General realiza las visitas señalas en la Ley Orgánica del Poder Judicial del Estado, a todos los órganos jurisdiccionales que lo integra y del cual el Tribunal de Conciliación y Arbitraje forma parte como órgano especializado.
 
-Visitaduría Judicial General:
+**Visitaduría Judicial General:**
 
-* Carlos Javier García Mata
+##### *Carlos Javier García Mata*
 
-  Magistrado Distrital Comisionado 
+Magistrado Distrital Comisionado
 
-  Visitador Judicial General 
-* José María García De La Peña
+Visitador Judicial General
 
-     Visitador Judicial
+##### *José María García De La Peña*
 
-* Javier Antonio Vela Díaz
+Visitador Judicial
 
-     Visitador Judicial
+##### Javier Antonio Vela Díaz
 
-* Israel Hiram Zamora Salas
+Visitador Judicial
 
-     Visitador Judicial
+##### *Israel Hiram Zamora Salas*
 
-* Mariana Del Rocío Hernández Mata
-* Jueza Comisionada a la Visitaduría Judicial General
+Visitador Judicial
 
-     Visitadora Judicial
+##### *Mariana Del Rocío Hernández Mata*
 
-* María Angélica Girón García
+Jueza Comisionada a la Visitaduría Judicial General
 
-  Visitadora Judicial
+Visitadora Judicial
+
+##### *María Angélica Girón García*
+
+Visitadora Judicial
 
 

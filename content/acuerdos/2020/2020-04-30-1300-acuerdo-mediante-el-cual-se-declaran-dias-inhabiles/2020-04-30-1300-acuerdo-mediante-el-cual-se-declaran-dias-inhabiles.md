@@ -1,7 +1,7 @@
 Title: Acuerdo mediante el cual se declaran días inhábiles
 Slug: acuerdos-2020-2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles/
 Save_As: acuerdos/2020/2020-04-30-1300-acuerdo-mediante-el-cual-se-declaran-dias-inhabiles/index.html
 Date: 2020-04-30 13:00

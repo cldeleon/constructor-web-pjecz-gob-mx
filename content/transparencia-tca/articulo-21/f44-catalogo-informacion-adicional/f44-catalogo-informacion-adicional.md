@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de junio del 2020
+01 de julio del 2020
 
 [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
 
@@ -30,13 +30,13 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Informe de Labores](https://www.pjecz.gob.mx/transparencia/articulo-21/f40-informe-anual-actividades/)
 
-[Calendario de Labores](https://www.pjecz.gob.mx/conocenos/directorio-general/calendario-de-labores/)
+[Calendario de Labores](https://www.pjecz.gob.mx/consultas/calendario-de-labores/)
 
 [Conócenos](https://www.pjecz.gob.mx/conocenos/)
 
 [Consulta de Boletas](https://www.pjecz.gob.mx/consultas/boletas/)
 
-[Defensorí­a Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
+[Instituto Estatal de Defensorí­a Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
 
 [Edictos en Línea](https://www.pjecz.gob.mx/consultas/edictos/)
 
@@ -46,7 +46,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 [Peritos Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-27/f20-lista-peritos/)
 
-[Presentación de Quejas](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
+[Requisitos: Presentación de Quejas](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
 [Sesiones](https://www.pjecz.gob.mx/sesiones/)
 

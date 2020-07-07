@@ -12,8 +12,6 @@ Status: draft
 
 ### 2020
 
-- [Décima Séptima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/)
-- [Décima Sexta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-sexta-sesion-ordinaria/)
 - [Décima Quinta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/)
 - [Décima Tercera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-tercera-sesion-ordinaria/)
@@ -33,12 +31,27 @@ Status: draft
 - [Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/segunda-sesion-ordinaria/)
 - [Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/primera-sesion-ordinaria/)
 
+
+
+### 2019
+
+- [Cuadragésima Séptima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-septima-sesion-ordinaria/)
+- [Cuadragésima Sexta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-sexta-sesion-ordinaria/)
+- [Cuadragésima Quinta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-quinta-sesion-ordinaria/)
+- [Cuadragésima Cuarta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-cuarta-sesion-ordinaria/)
+- [Cuadragésima Tercera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-tercera-sesion-ordinaria/)
+- [Cuadragésima Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2019/cuadragesima-primera-sesion-ordinaria/)
+
+
+
+
+
+
+
 ## Sala Civil y Familiar
 
 ### 2020
 
-- [Décima Novena Sesión Ordinaria](sala-civil-y-familiar/2020/decima-novena-sesion-ordinaria/)
-- [Décima Octava Sesión Ordinaria](sala-civil-y-familiar/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](sala-civil-y-familiar/2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-sexta-sesion-ordinaria/)
 - [Décima Quinta Sesión Ordinaria](sala-civil-y-familiar/2020/decima-quinta-sesion-ordinaria/)
@@ -49,14 +62,11 @@ Status: draft
 
 ### 2020
 
-- [Décima Novena Sesión Ordinaria](sala-penal/2020/decima-novena-sesion-ordinaria/)
-- [Décima Octava Sesión Ordinaria](sala-penal/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](sala-penal/2020/decima-septima-sesion-ordinaria/)
 - [Décima Sexta Sesión Ordinaria](sala-penal/2020/decima-sexta-sesion-ordinaria/)
 - [Décima Quinta Sesión Ordinaria](sala-penal/2020/decima-quinta-sesion-ordinaria/)
 - [Décima Cuarta Sesión Ordinaria Segunda Digital](sala-penal/2020/decima-cuarta-sesion-ordinaria-segunda-digital/)
 - [Décimo Tercera Sesión Ordinaria Primera Digital](sala-penal/2020/decima-tercera-sesion-ordinaria-primera-digital/)
-- [Votos Particulares](sala-penal/2020/votos-particulares/)
 
 ## Sala Regional
 
@@ -71,8 +81,6 @@ Status: draft
 
 - [Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020](tribunal-constitucional/2020/audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020/)
 - [Primera Sesión Ordinaria del Pleno del Tribunal Constitucional Local 2020-05-11](tribunal-constitucional/2020/primera-sesion-ordinaria-del.pleno-del-tribunal-constitucional-local-2020-05-11)
-
-## [Votos Disidentes](votos-disidentes/)
 
 ## [Votos Particulares](votos-particulares/)
 

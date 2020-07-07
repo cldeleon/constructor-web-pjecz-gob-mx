@@ -1,7 +1,7 @@
 Title: Acuerdo de audiencias en Materia Penal por Videoconferencias
 Slug: acuerdos-2020-2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias/
 Save_As: acuerdos/2020/2020-04-06-1200-acuerdo-de-audiencias-en-materia-penal-por-videoconferencias/index.html
 Date: 2020-04-06 12:00

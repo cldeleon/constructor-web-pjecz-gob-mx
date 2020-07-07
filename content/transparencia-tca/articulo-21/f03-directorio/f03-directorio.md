@@ -18,12 +18,13 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+01 de julio de 2020
 
 
 ## Descargar
 
 
+* [Directorio TCA 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F03 Directorio de Servidores Públicos/Directorio TCA 2020.pdf)
 * [Directorio TCA 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F03 Directorio de Servidores Públicos/Directorio TCA 2020.ppt)
 
 

@@ -1,7 +1,7 @@
 Title: Acuerdo C-077-2020 Sistema de Citas
 Slug: acuerdos-2020-2020-06-03-1200-acuerdo-c-077-2020-sistema-de-citas
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-06-03-1200-acuerdo-c-077-2020-sistema-de-citas/
 Save_As: acuerdos/2020/2020-06-03-1200-acuerdo-c-077-2020-sistema-de-citas/index.html
 Date: 2020-06-03 12:00

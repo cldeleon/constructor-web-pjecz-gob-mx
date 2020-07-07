@@ -18,12 +18,12 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 
-## Descargar
+### Indices de Información Resevada
 
 
-* [Información Reservada.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F34 Índices de Información Reservada/Información Reservada.pptx)
+* [Información Reservada.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F34 Índices de Información Reservada/Indices de Información Resevada/Información Reservada.pptx)
 
 

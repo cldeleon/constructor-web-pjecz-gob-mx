@@ -24,7 +24,7 @@ V. Deberán de utilizarán formatos abiertos y de fácil comprensión.(sic)
 
 * [Plataforma Nacional de Transparencia](http://www.plataformadetransparencia.org.mx/web/guest/inicio)
 * [Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza](http://189.254.130.35/infocoahuila/)
-* [Buzón de Quejas y Sugerencias](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
+* [Buzón de Quejas y Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSfIDia75tIVsCu-YW9tPVPo-Vzghj0xrNnZyr3ane4Yo5aNzg/viewform)
 
 ### RESPONSABLE
 
@@ -32,6 +32,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio de  2020
+1 de julio de 2020
 
 

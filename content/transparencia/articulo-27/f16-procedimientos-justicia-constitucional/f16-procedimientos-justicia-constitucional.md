@@ -8,6 +8,18 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
+## Art. 27, 16. Procedimientos de Justicia Constitucional
+
+Los procedimientos de justicia constitucional local que incluya desde el inicio hasta su resolución;
+
+### RESPONSABLE
+
+Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del Tribunal Superior de Justicia
+
+### FECHA DE VALIDACIÓN
+
+1 de junio del 2020
+
 #### [Procedimientos de certificación para facilitadores en mediación y conciliación](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/cemasc/procedimientos-de-certificacion-para-facilitadores-en-mediacion-y-conciliacion/)
 
 ##### 

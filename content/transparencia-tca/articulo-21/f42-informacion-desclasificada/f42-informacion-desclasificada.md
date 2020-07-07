@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+02 de julio del 2020
 
 A la fecha no se ha dictado Acuerdo de desclasificación por el Comité de Información, al que está sujeto el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en virtud de que por ley los expedientes judiciales del Tribunal se encuentran clasificados como reservados, en tanto no se dicte sentencia que cause ejecutoria.
 

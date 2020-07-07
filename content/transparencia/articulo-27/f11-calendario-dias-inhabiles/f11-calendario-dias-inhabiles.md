@@ -8,10 +8,7 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Descargar
-
-
-* [Calendario días Inhábiles 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F11 Calendario de días inhábiles/Calendario días Inhábiles 2020.pdf)
+### Calendario de Labores
 
 
 ## Art. 27, 11. CALENDARIO DE DÍAS INHÁBILES
@@ -22,6 +19,10 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de julio del 2020
+
+##### [Calendario de días inhábiles](https://www.dropbox.com/s/957v1gcdwisbj8o/Calendario%20d%C3%ADas%20Inh%C3%A1biles%202020.pdf?dl=0)
+
+##### [Calendario de labores](https://www.pjecz.gob.mx/consultas/calendario-de-labores/)
 
 

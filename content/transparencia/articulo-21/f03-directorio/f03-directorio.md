@@ -18,7 +18,9 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
+
+Derivado de los movimientos de personal para atender a las necesidades de trabajo dentro de los órganos Jurisdiccionales, no Jurisdiccionales y Administrativos del poder judicial, algunos datos del personal tales como su fotografía, número de empleado y correo electrónico se encuentran en proceso de asignación y actualización, los cuáles serán publicados en cuánto dicho proceso haya concluido.
 
 
 ### 01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza
@@ -36,6 +38,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [Presidencia.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Presidencia.xlsx)
 * [Sala Colegiada Civil y Familiar.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Colegiada Civil y Familiar.xlsx)
 * [Sala Colegiada Penal.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Colegiada Penal.xlsx)
+* [Sala Regional.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Sala Regional.xls)
 * [Secretaría Técnica y de Transparencia.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Secretaría Técnica y de Transparencia.xlsx)
 * [Unidad de Asuntos Legislativos.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Asuntos Legislativos.xls)
 * [Unidad de Derechos Humanos e Igualdad de Género.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/01 Tribunal Superior de Justicia del Estado de Coahuila de Zaragoza/Unidad de Derechos Humanos e Igualdad de Género.xlsx)
@@ -45,8 +48,8 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 ### 02 Tribunales Especializados
 
 
+* [Directorio TCA 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Directorio TCA 2020.ppt)
 * [Tribunal de Apelacion Especializado en Materia de Adolescentes.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Tribunal de Apelacion Especializado en Materia de Adolescentes.xlsx)
-* [Tribunal de Conciliación y Arbitraje.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/02 Tribunales Especializados/Tribunal de Conciliación y Arbitraje.ppt)
 
 
 ### 03 Tribunales Distritales
@@ -83,7 +86,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [Juzgados Sabinas.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Sabinas.xlsx)
 * [Juzgados Saltillo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Saltillo.xlsx)
 * [Juzgados San Pedro.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados San Pedro.xls)
-* [Juzgados Torreòn.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Torreòn.xlsx)
+* [Juzgados Torreón.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Torreón.xlsx)
 
 
 ### 06 Unidades Administrativas

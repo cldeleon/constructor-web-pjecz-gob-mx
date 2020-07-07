@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 Las preguntas más frecuentes y sus respectivas respuestas;
 
@@ -38,6 +38,10 @@ Las preguntas más frecuentes y sus respectivas respuestas;
 4. ¿Cuál es el nombre del Magistrado Presidente?
 
 * Magistrado Miguel Felipe Mery Ayup
+
+5. ¿En donde puedo presentar una solicitud de empleo?
+
+* A la Oficialía Mayor del Poder Judicial del Estado de Coahuila ubicada en Blvd. Isidro López Zertuche # 2791, Colonia Los Maestros, Saltillo Coahuila con atención a la Licenciada Myriam Fuentes Pedroza.
 
 
  

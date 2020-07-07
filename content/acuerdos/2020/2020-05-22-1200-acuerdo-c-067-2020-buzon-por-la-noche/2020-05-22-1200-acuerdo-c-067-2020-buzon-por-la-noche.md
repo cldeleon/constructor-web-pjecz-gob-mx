@@ -1,7 +1,7 @@
 Title: Acuerdo C-067-2020 Buzón por la noche
 Slug: acuerdos-2020-2020-05-22-1200-acuerdo-c-067-2020-buzon-por-la-noche
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-22-1200-acuerdo-c-067-2020-buzon-por-la-noche/
 Save_As: acuerdos/2020/2020-05-22-1200-acuerdo-c-067-2020-buzon-por-la-noche/index.html
 Date: 2020-05-22 12:00

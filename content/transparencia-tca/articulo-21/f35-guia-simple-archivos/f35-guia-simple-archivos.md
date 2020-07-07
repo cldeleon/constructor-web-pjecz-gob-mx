@@ -18,12 +18,13 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
+* [Guía simple de archivos TCA 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos TCA 2020.pdf)
 * [Guía simple de archivos TCA 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos TCA 2020.ppt)
 
 

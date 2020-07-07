@@ -10,6 +10,8 @@ Status: draft
 
 ## 2020
 
+- [Vigésima Primera Sesión Ordinaria](sala-penal/2020/vigesima-primera-sesion-ordinaria/)
+- [Vigésima Sesión Ordinaria](sala-penal/2020/vigesima-sesion-ordinaria/)
 - [Décima Novena Sesión Ordinaria](sala-penal/2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](sala-penal/2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](2020/decima-septima-sesion-ordinaria/)

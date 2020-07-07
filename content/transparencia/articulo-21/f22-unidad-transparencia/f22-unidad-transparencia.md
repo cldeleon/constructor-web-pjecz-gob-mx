@@ -18,14 +18,17 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 ##### [Unidad y Comité de Transparencia](https://www.dropbox.com/s/ks5lfcd4p2d6d5n/Unidad%20de%20Transparencia.ppsx?dl=0)
 
 
-## Descargar
+### Acuerto del Comité
 
 
-* [Acuerdo Comité.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F22 Unidad de Transparencia/Acuerdo Comité.pdf)
+* [Acuerdo Comité.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F22 Unidad de Transparencia/Acuerto del Comité/Acuerdo Comité.pdf)
+
+
+### Unidad y Comité de Transparencia
 
 

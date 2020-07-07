@@ -18,12 +18,13 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
+* [Funciones TCA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F02 Funciones/Funciones TCA.pdf)
 * [Funciones TCA.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F02 Funciones/Funciones TCA.ppt)
 
 

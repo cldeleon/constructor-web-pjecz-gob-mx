@@ -10,7 +10,9 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, 15. OTRA INFORMACIÓN
 
-Cualquier otra información que se considere relevante a juicio del Pleno del Tribunal
+**II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
+
+##### **15.** **[Cualquier otra información](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)**[ que se considere relevante a juicio del Pleno del Tribunal;](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
 
 ### RESPONSABLE
 
@@ -18,8 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
-
-[Otra información](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
+01 de julio del 2020
 
 

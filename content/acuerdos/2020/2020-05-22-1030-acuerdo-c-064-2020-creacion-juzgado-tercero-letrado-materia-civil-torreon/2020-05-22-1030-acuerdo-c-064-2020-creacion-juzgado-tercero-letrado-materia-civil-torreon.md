@@ -1,7 +1,7 @@
 Title: Acuerdo C-064-2020 Creación Juzgado Tercero Letrado Materia Civil Torreón
 Slug: acuerdos-2020-2020-05-22-1030-acuerdo-c-064-2020-creacion-juzgado-tercero-letrado-materia-civil-torreon
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-22-1030-acuerdo-c-064-2020-creacion-juzgado-tercero-letrado-materia-civil-torreon/
 Save_As: acuerdos/2020/2020-05-22-1030-acuerdo-c-064-2020-creacion-juzgado-tercero-letrado-materia-civil-torreon/index.html
 Date: 2020-05-22 10:30

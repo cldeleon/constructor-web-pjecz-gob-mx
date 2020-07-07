@@ -1,7 +1,7 @@
 Title: Acuerdo Protocolo de Acceso a Edificios
 Slug: acuerdos-2020-2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios/
 Save_As: acuerdos/2020/2020-05-13-1200-acuerdo-protocolo-de-acceso-a-edificios/index.html
 Date: 2020-05-13 12:00

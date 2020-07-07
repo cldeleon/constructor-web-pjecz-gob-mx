@@ -14,7 +14,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de julio del 2020
 
 Los sujetos obligados deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 

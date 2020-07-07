@@ -26,6 +26,8 @@ Modified: 2020-05-04 09:12
 
 ## [Consejeros](/conocenos/directorio-general/consejeros/)
 
+## [Acuerdos](/category/acuerdos-del-consejo.html)
+
 ## [Sanciones a Servidores Públicos](sanciones-a-servidores-publicos/)
 
 ## [Proceso de Selección de Jueces y Magistrados Distritales](proceso-de-seleccion-de-jueces-y-magistrados-distritales/)

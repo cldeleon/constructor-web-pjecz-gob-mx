@@ -1,7 +1,7 @@
 Title: Acuerdo Protocolos en Audiencias Vía Remota
 Slug: acuerdos-2020-2020-06-03-1200-acuerdo-protocolos-en-audiencias-via-remota
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-06-03-1200-acuerdo-protocolos-en-audiencias-via-remota/
 Save_As: acuerdos/2020/2020-06-03-1200-acuerdo-protocolos-en-audiencias-via-remota/index.html
 Date: 2020-06-03 12:00

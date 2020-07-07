@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 ##### Nota Informativa
 

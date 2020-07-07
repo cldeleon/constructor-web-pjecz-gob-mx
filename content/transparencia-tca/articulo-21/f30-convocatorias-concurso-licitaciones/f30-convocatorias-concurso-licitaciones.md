@@ -18,7 +18,7 @@ Lic. José Manuel Gil Navarro, Oficial Mayor.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza y dentro de sus funciones no se comprende la de generar, recabar o concentrar la información del presente rubro, la unidad que atiende lo referente a ello es la Oficialía Mayor del Poder Judicial.
 

@@ -12,10 +12,14 @@ Modified: 2020-04-30 09:30:00
 
 Las y los abogados litigantes pueden registrarse en el Juzgado Civil, Mercantil y Familiar en el que tengan negocio judicial para realizar consultas a través de Internet en el Expediente Virtual.
 
+### RESPONSABLE
+
+Órganos Jurisdiccionales 
+
 ### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de Julio del 2020
 
-## [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
+## [Ubicación de Expedientes](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php)
 
 

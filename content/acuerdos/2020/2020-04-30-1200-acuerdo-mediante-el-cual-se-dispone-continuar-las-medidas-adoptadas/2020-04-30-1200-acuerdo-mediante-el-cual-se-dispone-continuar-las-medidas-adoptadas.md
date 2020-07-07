@@ -1,7 +1,7 @@
 Title: Acuerdo mediante el cual se dispone continuar las medidas adoptadas
 Slug: acuerdos-2020-2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas/
 Save_As: acuerdos/2020/2020-04-30-1200-acuerdo-mediante-el-cual-se-dispone-continuar-las-medidas-adoptadas/index.html
 Date: 2020-04-30 12:00

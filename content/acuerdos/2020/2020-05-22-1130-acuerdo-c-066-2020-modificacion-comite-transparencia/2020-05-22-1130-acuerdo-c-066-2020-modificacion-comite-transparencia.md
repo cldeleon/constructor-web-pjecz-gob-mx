@@ -1,7 +1,7 @@
 Title: Acuerdo C-066-2020 Modificación Comité Transparencia
 Slug: acuerdos-2020-2020-05-22-1130-acuerdo-c-066-2020-modificacion-comite-transparencia
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-22-1130-acuerdo-c-066-2020-modificacion-comite-transparencia/
 Save_As: acuerdos/2020/2020-05-22-1130-acuerdo-c-066-2020-modificacion-comite-transparencia/index.html
 Date: 2020-05-22 11:30

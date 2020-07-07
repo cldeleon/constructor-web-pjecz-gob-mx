@@ -18,12 +18,12 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 **Nota Informativa:**
 
 Dentro de las facultades y funciones del Poder Judicial del Estado de Coahuila de Zaragoza no se comprende la de generar, recabar o concentrar la información del presente rubro, compete a la Secretaría de Fiscalización y Rendición de Cuentas del Gobierno del Estado, integrar el padrón de proveedores y contratistas, de conformidad con el artículo 31 fracción X de la Ley Orgánica de la Administración Pública del Estado de Coahuila que indica corresponde a la Secretaría de Fiscalización y Rendición de Cuentas el despacho de… "llevar el padrón de proveedores y contratistas, vigilar el cumplimiento de sus obligaciones, extendiendo la verificación a las obligaciones fiscales y laborales".
 
-###### Dicha información puede ser consultada en la siguiente **[liga](https://www.sefircoahuila.gob.mx/empresarios/ppc/).**
+###### Dicha información puede ser consultada en la siguiente liga: <https://www.sefircoahuila.gob.mx/empresarios/ppc/>
 
 

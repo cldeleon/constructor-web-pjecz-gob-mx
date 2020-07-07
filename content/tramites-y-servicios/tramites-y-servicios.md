@@ -1,6 +1,6 @@
 Title: Trámites y Servicios
 Slug: tramites-y-servicios
-Summary: .
+Summary: Trámites y Servicios del Poder Judicial del Estado de Coahuila de Zaragoza.
 Category: Trámites y Servicios
 URL: tramites-y-servicios/
 Save_As: tramites-y-servicios/index.html

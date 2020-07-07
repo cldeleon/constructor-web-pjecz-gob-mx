@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de julio del 2020
 
 ##### [Directorio de los Órganos Jurisdiccionales y Administrativos](https://www.pjecz.gob.mx/transparencia/articulo-21/f03-directorio/)
 

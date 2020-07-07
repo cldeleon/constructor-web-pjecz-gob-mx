@@ -18,12 +18,12 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 De conformidad con lo dispuesto por los artículos 22 fracción XXXI de la Ley Orgánica de la Administración Pública del Estado de Coahuila de Zaragoza y el artículo 76 de la Ley de Pensiones del Estado de Coahuila de Zaragoza, es competencia del Instituto de Pensiones para los Trabajadores al Servicio del Estado lo relativo a la administración de los fondos de pensiones de los servidores públicos.
 
 A continuación se proporciona el enlace que el Instituto de Pensiones pone a disposición para acceder a esta información:
 
-[Estado que Guardan las pensiones ](http://www.coahuilatransparente.gob.mx/BD/EstadoqueGuardanlasPensiones/IPPTSEPensiones11317.pdf)
+[Estado que Guardan las pensiones](http://www.coahuilatransparente.gob.mx/BD/EstadoqueGuardanlasPensiones/IPPTSEPensiones11317.pdf)
 
 

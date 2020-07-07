@@ -1,7 +1,7 @@
 Title: Acuerdo donde se establecen medidas sanitarias
 Slug: acuerdos-2020-2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias/
 Save_As: acuerdos/2020/2020-04-13-1500-acuerdo-donde-se-establecen-medidas-sanitarias/index.html
 Date: 2020-04-13 15:00

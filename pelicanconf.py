@@ -3,7 +3,7 @@
 from __future__ import unicode_literals
 
 # Tema
-#THEME = 'themes/startbootstrap-business-frontpage'
+# THEME = 'themes/startbootstrap-business-frontpage'
 THEME = 'themes/pjecz-2020-04'
 
 # Para desarrollo
@@ -27,31 +27,35 @@ ARTICLE_PATHS = [
     'acuerdos',
     'comunicados',
     'sesiones',
-    ]
+]
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
     'armonizacion-contable',
     'aviso-de-privacidad',
+    'buzon-electronico',
     'citas',
     'conocenos',
     'consultas',
+    'edictos-de-declaracion-de-ausencia',
     'licencias',
     'politicas-de-uso',
     'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
-    ]
+]
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
     'acuerdos',
     'armonizacion-contable',
+    'buzon-electronico',
     'citas',
     'comunicados',
     'conocenos',
     'consultas',
+    'edictos-de-declaracion-de-ausencia',
     'json',
     'tramites-y-servicios',
     'transparencia',
@@ -59,7 +63,7 @@ STATIC_PATHS = [
     'CNAME',
     'favicon.ico',
     'robots.txt',
-    ]
+]
 
 # NO usar el directorio como la categoria
 USE_FOLDER_AS_CATEGORY = False
@@ -70,8 +74,8 @@ ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}/index.html'
 
 # En cada pagina debe haber metadatos url y save_as
 # por lo que no necesitamos esto
-#PAGE_URL = 'directorio/directorio/'
-#PAGE_SAVE_AS = 'directorio/directorio/index.html'
+# PAGE_URL = 'directorio/directorio/'
+# PAGE_SAVE_AS = 'directorio/directorio/index.html'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'

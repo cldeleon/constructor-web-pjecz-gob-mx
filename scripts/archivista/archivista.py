@@ -31,7 +31,7 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 
 
 @click.group()
-@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Armonización Contable, Comunicados, Conócenos, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
+@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Armonización Contable, Comunicados, Conócenos, Edictos de Declaración de Ausencia, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
 @pass_config
 def cli(config, rama):
     click.echo('Hola, ¡soy Archivista!')
@@ -52,6 +52,9 @@ def cli(config, rama):
     elif config.rama == 'Conócenos':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/conocenos/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/conocenos/plantillas'
+    elif config.rama == 'Edictos de Declaración de Ausencia':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/edictos-declaracion-ausencia/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/edictos-declaracion-ausencia/plantillas'
     elif config.rama == 'Sesiones':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/sesiones/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/sesiones/plantillas'
@@ -88,7 +91,8 @@ def cli(config, rama):
         loader=FileSystemLoader(plantillas_ruta),
         trim_blocks=True,
         lstrip_blocks=True,
-        )
+    )
+
 
 @cli.command()
 @pass_config
@@ -101,7 +105,7 @@ def mostrar(config):
             salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
-            )
+        )
         click.echo(transparencia)
     elif config.rama == 'Transparencia TCA':
         transparenciatca = TransparenciaTCA(
@@ -109,7 +113,7 @@ def mostrar(config):
             salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
-            )
+        )
         click.echo(transparenciatca)
     else:
         universal = Universal(
@@ -117,13 +121,14 @@ def mostrar(config):
             salida_ruta=config.salida_ruta,
             metadatos=config.metadatos,
             plantillas_env=config.plantillas_env,
-            titulo = config.rama,
-            resumen = '.',
-            etiquetas = config.rama,
-            creado = config.creado,
-            modificado = config.modificado,
-            )
+            titulo=config.rama,
+            resumen='.',
+            etiquetas=config.rama,
+            creado=config.creado,
+            modificado=config.modificado,
+        )
         click.echo(universal)
+
 
 @cli.command()
 @pass_config
@@ -136,7 +141,7 @@ def crear(config):
             salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
-            )
+        )
         click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{transparencia.destino}', transparencia.contenido()))
         for articulo in transparencia.articulos:
             click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido()))
@@ -148,7 +153,7 @@ def crear(config):
             salida_ruta=config.salida_ruta,
             metadatos_csv=config.metadatos_csv,
             plantillas_env=config.plantillas_env,
-            )
+        )
         click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{transparenciatca.destino}', transparenciatca.contenido()))
         for articulo in transparenciatca.articulos:
             click.echo(sobreescribir_archivo(f'{config.salida_ruta}/{articulo.destino}', articulo.contenido()))
@@ -160,12 +165,12 @@ def crear(config):
             salida_ruta=config.salida_ruta,
             metadatos=config.metadatos,
             plantillas_env=config.plantillas_env,
-            titulo = config.rama,
-            resumen = '.',
-            etiquetas = config.rama,
-            creado = config.creado,
-            modificado = config.modificado,
-            )
+            titulo=config.rama,
+            resumen='.',
+            etiquetas=config.rama,
+            creado=config.creado,
+            modificado=config.modificado,
+        )
         click.echo(sobreescribir_archivo(universal.destino_md_ruta, universal.contenido()))
         for rama in universal.ramas:
             click.echo(sobreescribir_archivo(rama.destino_md_ruta, rama.contenido()))
@@ -173,6 +178,7 @@ def crear(config):
                 click.echo(copiar_archivo(imagen, rama.destino_ruta))
         for imagen in universal.imagenes:
             click.echo(copiar_archivo(imagen, universal.destino_ruta))
+
 
 cli.add_command(mostrar)
 cli.add_command(crear)

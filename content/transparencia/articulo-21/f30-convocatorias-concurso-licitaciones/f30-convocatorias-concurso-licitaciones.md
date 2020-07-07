@@ -59,6 +59,7 @@ Los resultados sobre procedimientos de adjudicación directa, invitación restri
 * [03 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/Adjudicaciones/2020/03 Marzo.xlsx)
 * [04 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/Adjudicaciones/2020/04 Abril.xlsx)
 * [05 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/Adjudicaciones/2020/05 Mayo.xlsx)
+* [06 Junio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F30 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación/Adjudicaciones/2020/06 Junio.xlsx)
 
 
  

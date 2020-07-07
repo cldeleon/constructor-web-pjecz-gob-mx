@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-11 de mayo del 2020
+01 de julio del 2020
 
 No aplica lo dispuesto en la fracción L del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "El proceso catastral de valuación de los predio".
 

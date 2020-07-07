@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 Artículo 260 Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza
 
@@ -28,6 +28,6 @@ Las asociaciones de abogados legalmente constituidas y registradas, quedan debid
 ## Descargar
 
 
-* [Tabla.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F14 Mecanismo de Participación Ciudadana/Tabla.doc)
+* [Mecanismo participación ciudadana.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F14 Mecanismo de Participación Ciudadana/Mecanismo participación ciudadana.doc)
 
 

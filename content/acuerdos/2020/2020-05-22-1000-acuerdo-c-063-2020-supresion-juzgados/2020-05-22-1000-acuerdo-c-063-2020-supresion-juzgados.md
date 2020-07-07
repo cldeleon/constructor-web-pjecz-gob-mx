@@ -1,7 +1,7 @@
 Title: Acuerdo C-063-2020 Supresión Juzgados
 Slug: acuerdos-2020-2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados/
 Save_As: acuerdos/2020/2020-05-22-1000-acuerdo-c-063-2020-supresion-juzgados/index.html
 Date: 2020-05-22 10:00

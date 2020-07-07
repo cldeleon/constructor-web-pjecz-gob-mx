@@ -1,7 +1,7 @@
 Title: Acuerdo sobre reanudar actividades
 Slug: acuerdos-2020-2020-05-13-1400-acuerdo-sobre-reanudar-actividades
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-13-1400-acuerdo-sobre-reanudar-actividades/
 Save_As: acuerdos/2020/2020-05-13-1400-acuerdo-sobre-reanudar-actividades/index.html
 Date: 2020-05-13 14:00

@@ -1,6 +1,6 @@
 Title: Sistema de Citas
 Slug: citas
-Summary: Sistema para agendar las visitas a los Órganos Jurisdiccionales del PJECZ.
+Summary: Sistema para agendar las visitas a los Órganos Jurisdiccionales del Poder Judicial del Estado de Coahuila de Zaragoza.
 URL: citas/
 Save_As: citas/index.html
 Date: 2020-06-08 08:30

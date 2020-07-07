@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 No Aplica lo dispuesto en la fracción XVIII del artículo 21 de la ley de Acceso a la Informacion Pública paa el Estado de Cohuila de Zaragoza, referente a "Listado de personas físicas o morales a quienes, por cualquier motivo, se les entregue o permita usar recursos públicos, incluyendo, en su caso, montos, criterios y convocatoria".
 

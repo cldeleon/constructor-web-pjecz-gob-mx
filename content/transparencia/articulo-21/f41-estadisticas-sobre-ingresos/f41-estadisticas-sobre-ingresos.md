@@ -18,23 +18,16 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
+
+# 
+
+### 
 
 
-### 2018
+### Estadísticas sobre los Ingresos
 
 
-* [01 INGRESOS PRIMER TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/01 INGRESOS PRIMER TRIMESTRE 2018.xlsx)
-* [02 INGRESOS SEGUNDO TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/02 INGRESOS SEGUNDO TRIMESTRE 2018.xlsx)
-* [03 INGRESOS TERCER TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/03 INGRESOS TERCER TRIMESTRE 2018.xlsx)
-* [04 INGRESOS CUARTO TRIMESTRE 2018.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2018/04 INGRESOS CUARTO TRIMESTRE 2018.xlsx)
-
-
-### 2019
-
-
-* [01 INGRESOS AL PRIMER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/01 INGRESOS AL PRIMER TRIMESTRE 2019.xlsx)
-* [02 INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/02 INGRESOS AL SEGUNDO TRIMESTRE 2019.xlsx)
-* [03 INGRESOS AL TERCER TRIMESTRE 2019.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/2019/03 INGRESOS AL TERCER TRIMESTRE 2019.xlsx)
+* [Estadísticas sobre los ingresos2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F41 Estadísticas sobre los Ingresos/Estadísticas sobre los Ingresos/Estadísticas sobre los ingresos2020.pptx)
 
 

@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+01 de julio de 2020
 
 A la fecha de actualización no se cuenta con nueva información referente a planes, programas o proyectos con indicadores de gestión.
 

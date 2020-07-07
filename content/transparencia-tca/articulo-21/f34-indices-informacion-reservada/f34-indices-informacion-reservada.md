@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 De conformidad con el artículo 60 fracción VII de la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza, se clasifica como información reservada, aplicable al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza: “Los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio en tanto la sentencia no haya causado ejecutoria. Una vez que dicha resolución cause ejecutoria los expedientes serán públicos.
 

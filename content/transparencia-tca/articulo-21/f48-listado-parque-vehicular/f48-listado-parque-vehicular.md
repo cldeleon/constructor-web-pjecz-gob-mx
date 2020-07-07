@@ -18,12 +18,13 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-11 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
 * [Listado de parque vehicular TCA 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F48 Listado del Parque Vehicular/Listado de parque vehicular TCA 2020.ppt)
+* [Listado de parque vehicular TCA 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F48 Listado del Parque Vehicular/Listado de parque vehicular TCA 2020.xls)
 
 

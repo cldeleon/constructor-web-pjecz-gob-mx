@@ -10,31 +10,21 @@ Modified: 2020-04-30 09:30:00
 
 ## Artículo 22
 
-El Poder Judicial del Estado de Coahuila cuenta con una estructura orgánica integrada por órganos jurisdiccionales, no jurisdiccionales y administrativos.
-
-La función jurisdiccional se ejerce por magistrados y jueces independientes, imparciales, responsables y sometidos únicamente al imperio de la ley, no existiendo entre ellos relación jerárquica de supra o de subordinación.
-
-El Poder Judicial cuenta con dos órganos de gobierno: el Tribunal Superior de Justicia y el Consejo de la Judicatura. De igual manera, lo componen tribunales especializados por materia.
-
-Al Consejo de la Judicatura competen funciones de administración, vigilancia y disciplina. Además se cuenta con una Visitaduría Judicial General.
-
-A los órganos no jurisdiccionales corresponden funciones que versan sobre las materias de mediación, defensoría pública y biopsicosocial.
-
-Además, corresponde llevar a cabo la capacitación y actualización del personal jurisdiccional al Instituto de Especialización Judicial.
-
-Los órganos administrativos tienen a su cargo tareas relativas a la administración de los recursos humanos, materiales y económicos del Poder Judicial.
-
-De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente estructura:
-
 ### RESPONSABLE
 
-Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
+Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de Conciliación y Arbitraje
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
-Su estructura orgánica en un formato que permita vincular por cada eslabón de la misma, nivel tabular, las facultades y responsabilidades que le corresponden de conformidad con las disposiciones aplicables, y los puestos públicos vacantes de dicha estructura, así como los requisitos para poder acceder a los mismos.
+No Aplica los dispuesto en el artículo 22 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "gasto de publicidad oficial".
+
+Lo anterior en virtud de que dentro de las funciones y atribuciones del Tribunal de Conciliación y Arbitraje del Poder Judicial no comprende la de celebrar convenios o contratos.
+
+No obstante el Poder Judicial ha celebrado convenios de colaboración con Radio Coahuila y la Universidad Autónoma de Coahuila, el primero en el marco del fortalecimiento de la política de comunicación del Poder Judicial del Estado de Coahuila de Zaragoza, y el segundo para la capacitación y asistencia técnica en materia de mecanismos alternativos de solución de controversias, apoyo en la producción y difusión de materia audio visual, y la realización de prácticas profesionales y prestación de servicio social, en este contexto, se proporciona la siguiente información:
+
+### 
 
 
 ## Descargar

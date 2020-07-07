@@ -1,7 +1,7 @@
 Title: Acuerdo para la implementación del Buzón de Depósito de Demandas
 Slug: acuerdos-2020-2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas/
 Save_As: acuerdos/2020/2020-04-13-1200-acuerdo-para-la-implementacion-del-buzon-de-deposito-de-demandas/index.html
 Date: 2020-04-13 12:00

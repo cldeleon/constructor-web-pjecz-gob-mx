@@ -14,11 +14,11 @@ Un listado de las instituciones de beneficencia que reciban recursos públicos d
 
 #### RESPONSABLE
 
-C.P. Silvia Gabriela Saucedo Muñoz
+C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Públicos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 **NO APLICA**
 

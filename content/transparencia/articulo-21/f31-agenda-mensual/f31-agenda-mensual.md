@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 Dentro de las funciones Poder Judicial del Estado de Coahuila de Zaragoza no se comprende la de organizar eventos de este tipo, no obstante, de efectuar en algún momento estas actividades, serán publicadas en el apartado correspondiente.
 

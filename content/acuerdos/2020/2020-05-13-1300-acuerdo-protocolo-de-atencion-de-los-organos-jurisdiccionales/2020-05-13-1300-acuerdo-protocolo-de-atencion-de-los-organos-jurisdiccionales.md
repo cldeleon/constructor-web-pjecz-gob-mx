@@ -1,7 +1,7 @@
 Title: Acuerdo Protocolo de Atención de los Órganos Jurisdiccionales
 Slug: acuerdos-2020-2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales/
 Save_As: acuerdos/2020/2020-05-13-1300-acuerdo-protocolo-de-atencion-de-los-organos-jurisdiccionales/index.html
 Date: 2020-05-13 13:00

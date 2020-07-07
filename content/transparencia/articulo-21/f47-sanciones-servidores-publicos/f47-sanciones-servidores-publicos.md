@@ -20,8 +20,8 @@ Consejo de la Judicatura del Poder Poder Judicial del Estado de Coahuila de Zara
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
-A la fecha de actualización del presente rubro, no hay servidores públicos Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario.
+##### [Sanciones a Servidores Públicos](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/sanciones-a-servidores-publicos/)
 
 

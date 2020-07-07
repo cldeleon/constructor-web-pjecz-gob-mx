@@ -10,20 +10,22 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, 14. TESIS AISLADAS
 
-Las tesis aisladas y jurisprudenciales publicadas en el Boletín de Información Judicial o en el Periódico Oficial del Gobierno del Estado.
+**II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
+
+###### **14. Las tesis aisladas y jurisprudenciales publicadas en el Boletín de Información Judicial o en el Periódico Oficial del Gobierno del Estado;**
 
 ### RESPONSABLE
 
 Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal de Conciliación y Arbitraje
 
-### FECHA DE VALIDACIÓN
+#### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+02 de julio del 2020
 
 A la fecha que se actualiza no se han generado tesis aisladas y jurisprudenciales por el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza
 
 Si desea conocer las tesis aisladas y jurisprudenciales emitidas por los órganos jurisdiccionales del Poder Judicial del Estado de Coahuila de Zaragoza, puede ingresar en el siguiente enlace:
 
-[Tesis aisladas](https://www.pjecz.gob.mx/transparencia/articulo-27/f19-tesis-aisladas/)
+##### **[Tesis Aisladas](https://www.pjecz.gob.mx/transparencia/articulo-27/f19-tesis-aisladas/)**
 
 

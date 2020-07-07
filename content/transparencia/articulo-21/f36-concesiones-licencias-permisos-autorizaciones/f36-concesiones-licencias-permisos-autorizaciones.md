@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 Dentro de las Facultades del Poder Judicial del Estado de Coahuila de Zaragoza no está la de otorgar concesiones, licencias, permisos o autorizaciones, por lo que dicha fracción **no es aplicable.**
 

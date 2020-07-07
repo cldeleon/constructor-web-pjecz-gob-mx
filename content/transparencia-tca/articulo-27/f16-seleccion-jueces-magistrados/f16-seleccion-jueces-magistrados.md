@@ -10,16 +10,16 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, 16. PROCESO DE SELECCIÓN DE MAGISTRADOS
 
-El proceso de selección de magistrados.
+**II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
+
+##### **16.** **[El proceso de selección de magistrados.](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)**
 
 ### RESPONSABLE
 
-Lic. Rosalba Ixchel Rodríguez Villagrana, Guillermo Alejandro David Pérez, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
+Lic. Rosalba Ixchel Rodríguez Villagrana, Secretario de Acuerdo y Trámite del Consejo de la Judicatura
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
-
-[P](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces/)[roceso y mecanismos utilizados para la selección de Magistrados Distritales y jueces de primera instancia y letrados en las materia civil, familiar, penal y mercantil. - Requisitos legales](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)
+01 de julio del 2020
 
 

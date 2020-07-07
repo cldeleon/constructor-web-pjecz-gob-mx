@@ -18,12 +18,13 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
+* [TCA Formato Procedimiento Ordinario Laboral Burocratico.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F11 Formatos de procedimientos/TCA Formato Procedimiento Ordinario Laboral Burocratico.pdf)
 * [TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F11 Formatos de procedimientos/TCA Formato Procedimiento Ordinario Laboral Burocratico.ppt)
 
 

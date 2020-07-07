@@ -8,6 +8,18 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
+## Art. 27, 9. Sentencias
+
+Las sentencias que hayan causado ejecutoria en su versión pública;
+
+#### RESPONSABLE
+
+Órganos Jurisdiccionales 
+
+#### FECHA DE VALIDACIÓN
+
+1 de julio del 2020
+
 ## [Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 

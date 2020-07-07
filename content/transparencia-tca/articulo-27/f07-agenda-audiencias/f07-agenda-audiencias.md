@@ -10,8 +10,16 @@ Modified: 2020-04-30 09:30:00
 
 ## ART. 27, FRACCIÓN 7. AGENDA DE AUDIENCIAS
 
-### CONSULTA
+**II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
-[Agenda de Audiencias](https://www.pjecz.gob.mx/consultas/agenda-audiencias/)
+##### **7.** **A[genda de audiencias](https://www.pjecz.gob.mx/consultas/agenda-audiencias/)**[ a realizarse, incluyendo número de expediente, nombre de las partes, fecha, hora, y juzgado en que se desahogará;](https://www.pjecz.gob.mx/consultas/agenda-audiencias/)
+
+### RESPONSABLE
+
+Cada órgano jurisdiccional
+
+### FECHA DE VALIDACIÓN
+
+03 de julio del 2020
 
 

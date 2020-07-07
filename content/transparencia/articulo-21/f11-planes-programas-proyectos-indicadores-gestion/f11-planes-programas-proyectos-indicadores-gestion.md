@@ -18,10 +18,16 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 ##### Nota Informativa
 
-A la fecha no se cuenta con información referente a planes, programas o proyectos con indicadores de gestión.
+A la fecha no se cuenta con nueva información referente a planes, programas o proyectos con indicadores de gestión.
+
+
+## Descargar
+
+
+* [Plan Integral de Desarrollo y Fortalecimiento 2016-2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F11 Planes, Programas o Proyectos con Indicadores de Gestión/Plan Integral de Desarrollo y Fortalecimiento 2016-2020.pdf)
 
 

@@ -18,13 +18,13 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de julio del 2020
 
 [Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
 
 ##### [Presidencia](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/presentacion-de-quejas/)
 
-##### Órganos Jurisdiccionales 
+##### Órganos Jurisdiccionales
 
 [Sala Colegiada Civil y Familiar](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/salas/sala-colegiada-civil-y-familiar/funciones/)
 
@@ -42,7 +42,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 [Tribunal de Apelación Especializado en Materia de Adolescentes](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-jurisdiccionales/tribunales-especializados/tribunal-de-apelacion-especializado-en-materia-de-adolescentes/funciones/)
 
-##### Órganos no Jurisdiccionales 
+##### Órganos no Jurisdiccionales
 
 [Centro de Evaluación Psicosocial](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/centro-de-evaluacion-psicosocial/funciones/)
 

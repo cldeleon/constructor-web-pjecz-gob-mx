@@ -28,12 +28,12 @@ Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio de 2020
+03 de julio de 2020
 
 ### ENLACES
 
 * [Plataforma Nacional de Transparencia](https://www.plataformadetransparencia.org.mx/web/guest/inicio)
 * [Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza](http://189.254.130.35/infocoahuila/)
-* Buzón de Quejas y Sugerencias
+* [Buzón de Sugerencias](https://docs.google.com/forms/d/e/1FAIpQLSfIDia75tIVsCu-YW9tPVPo-Vzghj0xrNnZyr3ane4Yo5aNzg/viewform)
 
 

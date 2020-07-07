@@ -18,10 +18,10 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
-No Aplica lo dispuesto en la fracción XVIII del artículo 21 de la ley de Acceso a la Informacion Pública paa el Estado de Cohuila de Zaragoza, referente a "Un listado de las instituciones de beneficencia que reciban recursos públicos del sujeto obligado".
+No Aplica lo dispuesto en la fracción XVIII del artículo 21 de la ley de Acceso a la Informacion Pública para el Estado de Cohuila de Zaragoza, referente a "Un listado de las instituciones de beneficencia que reciban recursos públicos del sujeto obligado".
 
-Lo anterior considerando que ni la Constitución Política del Estado de Coahuila de Zaragoza, ni la Ley Orgánia del Poder Judicial del Estado de Coahuila de Zaragoza, facultan al Tribunal de Conciliación y Arbtraje, por medio de su titular u otra persona, para entregar recursos públicos a instituciones de beneficencia.
+Lo anterior considerando que ni la Constitución Política del Estado de Coahuila de Zaragoza, ni la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, facultan al Tribunal de Conciliación y Arbitraje, por medio de su titular u otra persona, para entregar recursos públicos a instituciones de beneficencia.
 
 

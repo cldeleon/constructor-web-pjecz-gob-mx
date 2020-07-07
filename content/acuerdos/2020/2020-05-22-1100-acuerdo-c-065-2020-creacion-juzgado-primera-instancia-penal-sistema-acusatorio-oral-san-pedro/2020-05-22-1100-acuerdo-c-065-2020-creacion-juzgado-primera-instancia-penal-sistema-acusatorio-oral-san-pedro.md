@@ -1,7 +1,7 @@
 Title: Acuerdo C-065-2020 Creación Juzgado Primera Instancia Penal Sistema Acusatorio Oral San Pedro
 Slug: acuerdos-2020-2020-05-22-1100-acuerdo-c-065-2020-creacion-juzgado-primera-instancia-penal-sistema-acusatorio-oral-san-pedro
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-05-22-1100-acuerdo-c-065-2020-creacion-juzgado-primera-instancia-penal-sistema-acusatorio-oral-san-pedro/
 Save_As: acuerdos/2020/2020-05-22-1100-acuerdo-c-065-2020-creacion-juzgado-primera-instancia-penal-sistema-acusatorio-oral-san-pedro/index.html
 Date: 2020-05-22 11:00

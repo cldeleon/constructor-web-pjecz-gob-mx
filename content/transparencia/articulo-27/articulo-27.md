@@ -8,8 +8,9 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-### Art. 27
+### Art. 27 
 
+Además de lo señalado en el artículo 73 de la Ley General y el artículo 21 del presente ordenamiento, el Poder Judicial del Estado, deberá publicar la siguiente información:
 
 
 ## Fracciones

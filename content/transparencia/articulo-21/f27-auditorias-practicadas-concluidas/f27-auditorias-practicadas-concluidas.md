@@ -18,6 +18,63 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
+
+
+### 01 Auditorías 2020
+
+
+* [Auditorías.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/01 Auditorías 2020/Auditorías.pptx)
+
+
+### 02 Auditorías 2019
+
+
+### 03 Auditorías 2018
+
+
+* [01 Enero Marzo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/03 Auditorías 2018/01 Enero Marzo.pdf)
+* [02 Abril- Junio.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/03 Auditorías 2018/02 Abril- Junio.pdf)
+* [03 Julio- Septiembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/03 Auditorías 2018/03 Julio- Septiembre.pdf)
+
+
+### 04 Auditorías 2017
+
+
+* [01 Enero- Marzo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/04 Auditorías 2017/01 Enero- Marzo.pdf)
+* [02 Abril- Junio.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/04 Auditorías 2017/02 Abril- Junio.pdf)
+* [03 Julio- Septiembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/04 Auditorías 2017/03 Julio- Septiembre.pdf)
+* [04 Octubre-Diciembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/04 Auditorías 2017/04 Octubre-Diciembre.pdf)
+
+
+### 05 Auditorías 2016
+
+
+* [01 Enero-Marzo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/05 Auditorías 2016/01 Enero-Marzo.pdf)
+* [02 Abril- Junio.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/05 Auditorías 2016/02 Abril- Junio.pdf)
+* [03 Julio-Septiembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/05 Auditorías 2016/03 Julio-Septiembre.pdf)
+* [04 Octubre-Diciembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/05 Auditorías 2016/04 Octubre-Diciembre.pdf)
+
+
+### 06 Auditorías 2015
+
+
+* [01 Enero-Marzo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/06 Auditorías 2015/01 Enero-Marzo.pdf)
+* [02 Abril-Junio.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/06 Auditorías 2015/02 Abril-Junio.pdf)
+* [03 Julio-Septiembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/06 Auditorías 2015/03 Julio-Septiembre.pdf)
+* [04 Octubre-Diciembre.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/06 Auditorías 2015/04 Octubre-Diciembre.pdf)
+
+
+### 07 Auditorías 2014
+
+
+* [Auditorías.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/07 Auditorías 2014/Auditorías.pptx)
+
+
+### 08 Auditorías 2013
+
+
+* [Abril-Junio-2013.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/08 Auditorías 2013/Abril-Junio-2013.pdf)
+* [Anual.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/08 Auditorías 2013/Anual.pdf)
 
 

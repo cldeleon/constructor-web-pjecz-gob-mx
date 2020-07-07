@@ -12,12 +12,12 @@ Modified: 2020-04-30 09:30:00
 
 ### RESPONSABLE
 
-C.P. Gabriela Saucedo Muñoz
+C.P. Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+1 de julio del 2020
 
-##### [Sistema Pensionario ](https://www.pjecz.gob.mx/transparencia/articulo-21/f39-sistemas-pensionarios/)
+##### [Sistema Pensionario](https://www.pjecz.gob.mx/transparencia/articulo-21/f39-sistemas-pensionarios/)
 
 

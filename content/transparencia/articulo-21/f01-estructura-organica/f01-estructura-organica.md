@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 La función jurisdiccional se ejerce por magistrados y jueces independientes, imparciales, responsables y sometidos únicamente al imperio de la ley, no existiendo entre ellos relación jerárquica de supra o de subordinación.
 
@@ -59,10 +59,10 @@ De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente
 #### 03 Tribunales Distritales
 
 
-* [Cuarto Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/Cuarto Tribunal Distrital.pptx)
-* [Primer Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/Primer Tribunal Distrital.pptx)
-* [Segundo Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/Segundo Tribunal Distrital.pptx)
-* [Tercer Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/Tercer Tribunal Distrital.pptx)
+* [01 Primer Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/01 Primer Tribunal Distrital.pptx)
+* [02 Segundo Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/02 Segundo Tribunal Distrital.pptx)
+* [03 Tercer Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/03 Tercer Tribunal Distrital.pptx)
+* [04 Cuarto Tribunal Distrital.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/03 Tribunales Distritales/04 Cuarto Tribunal Distrital.pptx)
 
 
 #### 04 Juzgados de Primera Instancia
@@ -103,9 +103,7 @@ De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente
 ##### 04 Penales
 
 
-* [Juzgado Penal Piedras Negras.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/04 Juzgados de Primera Instancia/04 Penales/Juzgado Penal Piedras Negras.pptx)
 * [Juzgado Penal Saltillo.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/04 Juzgados de Primera Instancia/04 Penales/Juzgado Penal Saltillo.pptx)
-* [Juzgados Penales Torreón.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/01 Estructura Jurisdiccional/04 Juzgados de Primera Instancia/04 Penales/Juzgados Penales Torreón.pptx)
 
 
 ##### 05 Materia Penal del Sistema Acusatorio y Oral

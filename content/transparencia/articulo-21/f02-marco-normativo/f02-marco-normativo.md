@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+1 de julio de 2020
 
 
 ### 01 Constituciones
@@ -36,7 +36,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 * [Convención Interamericana sobre Conflictos de Leyes en materia de Adopción de Menores.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención Interamericana sobre Conflictos de Leyes en materia de Adopción de Menores.pdf)
 * [Convención Interamericana sobre Desaparición Forzada de Personas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención Interamericana sobre Desaparición Forzada de Personas.pdf)
 * [Convención Interamericana sobre restitución internacional de menores.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención Interamericana sobre restitución internacional de menores.pdf)
-* [Convención Internacional para la Protección de Todas las Personas contra las Desapariciones Forzadas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención Internacional para la Protección de Todas las Personas contra las Desapariciones Forzadas.pdf)
 * [Convención sobre la Eliminación de Todas las Formas de Discriminación Contra la Mujer (CEDAW).pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención sobre la Eliminación de Todas las Formas de Discriminación Contra la Mujer (CEDAW).pdf)
 * [Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención sobre los Derechos de las Personas con Discapacidad y Protocolo Facultativo.pdf)
 * [Convención sobre los Derechos del Niño.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/02 Normativa Internacional/Convención sobre los Derechos del Niño.pdf)

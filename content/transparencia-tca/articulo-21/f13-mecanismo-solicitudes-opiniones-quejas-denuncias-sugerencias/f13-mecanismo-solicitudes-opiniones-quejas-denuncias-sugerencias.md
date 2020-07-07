@@ -18,12 +18,12 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-05 de junio del 2020
+01 de julio del 2020
 
 
 ## Descargar
 
 
-* [Tabla.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F13 Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias/Tabla.doc)
+* [Mecanismos.doc](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F13 Mecanismo de Solicitudes, Opiniones, Quejas, Denuncias o Sugerencias/Mecanismos.doc)
 
 

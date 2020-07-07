@@ -18,59 +18,62 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-4 de mayo de 2020
+1 de julio de 2020
 
 
-### 2017
+### 01 Solicitudes 2020
 
 
-* [07 Julio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/07 Julio.xlsx)
-* [08 Agosto.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/08 Agosto.xlsx)
-* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/09 Septiembre.xls)
-* [10 Octubre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/10 Octubre.xlsx)
-* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/11 Noviembre.xls)
-* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2017/12 Diciembre.xls)
+* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/01 Enero.xls)
+* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/02 Febrero.xls)
+* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/03 Marzo.xls)
+* [04 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/04 Abril.xls)
+* [05 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/05 Mayo.xls)
+* [06 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/01 Solicitudes 2020/06 Junio.xls)
 
 
-### 2018
+### 02 Solicitudes 2019
 
 
-* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/01 Enero.xls)
-* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/02 Febrero.xls)
-* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/03 Marzo.xls)
-* [04 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/04 Abril.xls)
-* [05 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/05 Mayo.xls)
-* [06 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/06 Junio.xls)
-* [07 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/07 Julio.xls)
-* [08 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/08 Agosto.xls)
-* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/09 Septiembre.xls)
-* [10 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/10 Octubre.xls)
-* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/11 Noviembre.xls)
-* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2018/12 Diciembre.xls)
+* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/01 Enero.xls)
+* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/02 Febrero.xls)
+* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/03 Marzo.xls)
+* [04 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/04 Abril.xls)
+* [05 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/05 Mayo.xls)
+* [06 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/06 Junio.xls)
+* [07 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/07 Julio.xls)
+* [08 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/08 Agosto.xls)
+* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/09 Septiembre.xls)
+* [10 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/10 Octubre.xls)
+* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/11 Noviembre.xls)
+* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/02 Solicitudes 2019/12 Diciembre.xls)
 
 
-### 2019
+### 03 Solicitudes 2018
 
 
-* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/01 Enero.xls)
-* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/02 Febrero.xls)
-* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/03 Marzo.xls)
-* [04 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/04 Abril.xls)
-* [05 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/05 Mayo.xls)
-* [06 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/06 Junio.xls)
-* [07 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/07 Julio.xls)
-* [08 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/08 Agosto.xls)
-* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/09 Septiembre.xls)
-* [10 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/10 Octubre.xls)
-* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/11 Noviembre.xls)
-* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2019/12 Diciembre.xls)
+* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/01 Enero.xls)
+* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/02 Febrero.xls)
+* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/03 Marzo.xls)
+* [04 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/04 Abril.xls)
+* [05 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/05 Mayo.xls)
+* [06 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/06 Junio.xls)
+* [07 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/07 Julio.xls)
+* [08 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/08 Agosto.xls)
+* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/09 Septiembre.xls)
+* [10 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/10 Octubre.xls)
+* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/11 Noviembre.xls)
+* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/03 Solicitudes 2018/12 Diciembre.xls)
 
 
-### 2020
+### 04 Solicitudes 2017
 
 
-* [01 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/01 Enero.xls)
-* [02 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/02 Febrero.xls)
-* [03 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/2020/03 Marzo.xls)
+* [07 Julio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/07 Julio.xlsx)
+* [08 Agosto.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/08 Agosto.xlsx)
+* [09 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/09 Septiembre.xls)
+* [10 Octubre.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/10 Octubre.xlsx)
+* [11 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/11 Noviembre.xls)
+* [12 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F24 Solicitudes de Información y Respuestas/04 Solicitudes 2017/12 Diciembre.xls)
 
 

@@ -1,7 +1,7 @@
 Title: Acuerdo que posterga la suspensión al 30 de abril
 Slug: acuerdos-2020-2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril
 Summary: .
-Category: Acuerdos
+Category: Acuerdos del Consejo
 URL: acuerdos/2020/2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril/
 Save_As: acuerdos/2020/2020-04-01-1200-acuerdo-que-posterga-la-suspension-al-30-de-abril/index.html
 Date: 2020-04-01 12:00
