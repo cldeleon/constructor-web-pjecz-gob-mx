@@ -12,3 +12,9 @@ Modified: 2020-07-08 11:00:00
 <p><a href="https://vimeo.com/435718838">D&Eacute;CIMA NOVENA SESI&Oacute;N ORDINARIA DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA</a> from <a href="https://vimeo.com/user103229504">PODER JUDICIAL DE COAHUILA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+## Descargar
+
+
+* [Orden del día 2020-07-08.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Novena Sesión Ordinaria/Orden del día 2020-07-08.docx)
+
+
