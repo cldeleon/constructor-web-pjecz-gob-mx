@@ -32,7 +32,7 @@ Consejero de Tribunal Distrital.
 
 ---
 
-### Lic. Paul Iracheta Pérez
+### Lic. Obed Santibáñez Cabrales
 
 Consejero Juez de Primera Instancia.
 
