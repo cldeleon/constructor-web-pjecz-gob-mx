@@ -24,6 +24,6 @@ El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judi
 
 A continuación se proporciona el enlace a la información correspondiente:
 
-[Balances de estados financieros](https://www.pjecz.gob.mx/armonizacion-contable/)
+[Balances de estados financieros](https://www.pjecz.gob.mx/transparencia/articulo-21/f25-balances-estados-financieros/)
 
 
