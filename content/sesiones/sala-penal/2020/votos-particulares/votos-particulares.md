@@ -1,12 +1,12 @@
-Title: Votos Particulares
+Title: Votos Particulares de la Sala Penal
 Slug: sesiones-sala-penal-2020-votos-particulares
-Summary: .
+Summary: Votos Particulares de la Sala Penal en 2020
 Category: Sesiones
 URL: sesiones/sala-penal/2020/votos-particulares/
 Save_As: sesiones/sala-penal/2020/votos-particulares/index.html
 Date: 2020-01-01 12:00:00
 Modified: 2020-01-01 12:00:00
-
+Status: draft
 
 ## Sala Penal - 2020
 

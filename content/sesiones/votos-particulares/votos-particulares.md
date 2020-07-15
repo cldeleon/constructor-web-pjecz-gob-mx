@@ -1,6 +1,6 @@
-Title: Votos Particulares
+Title: Votos Particulares del Pleno
 Slug: sesiones-votos-particulares
-Summary: Votos Particulares
+Summary: Votos Particulares del Pleno del Tribunal Superior de Justicia
 Category: Sesiones
 URL: sesiones/votos-particulares/
 Save_As: sesiones/votos-particulares/index.html

@@ -29,6 +29,7 @@ Lic. Nancy Anabel López Castillo, Titular de la Unidad de Evaluación y Estadí
 * [03 Marzo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F06 Asuntos iniciados, en trámite y concluidos/01 Año 2020/03 Marzo.xlsx)
 * [04 Abril.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F06 Asuntos iniciados, en trámite y concluidos/01 Año 2020/04 Abril.xlsx)
 * [05 Mayo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F06 Asuntos iniciados, en trámite y concluidos/01 Año 2020/05 Mayo.xlsx)
+* [06 Junio.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F06 Asuntos iniciados, en trámite y concluidos/01 Año 2020/06 Junio.xlsx)
 
 
 ### 02 Año 2019

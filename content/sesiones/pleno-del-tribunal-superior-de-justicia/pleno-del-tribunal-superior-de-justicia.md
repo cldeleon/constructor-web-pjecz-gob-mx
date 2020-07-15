@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Vigésima Sesión Ordinaria](2020/vigesima-sesion-ordinaria/)
 - [Décima Novena Sesión Ordinaria](2020/decima-novena-sesion-ordinaria/)
 - [Décima Octava Sesión Ordinaria](2020/decima-octava-sesion-ordinaria/)
 - [Décima Séptima Sesión Ordinaria](2020/decima-septima-sesion-ordinaria/)
@@ -34,6 +35,7 @@ Status: draft
 - [Primera Sesión Ordinaria](2020/primera-sesion-ordinaria/)
 
 
+
 ## 2019
 
 - [Cuadragésima Séptima Sesión Ordinaria](2019/cuadragesima-septima-sesion-ordinaria/)
@@ -42,6 +44,9 @@ Status: draft
 - [Cuadragésima Cuarta Sesión Ordinaria](2019/cuadragesima-cuarta-sesion-ordinaria/)
 - [Cuadragésima Tercera Sesión Ordinaria](2019/cuadragesima-tercera-sesion-ordinaria/)
 - [Cuadragésima Primera Sesión Ordinaria](2019/cuadragesima-primera-sesion-ordinaria/)
+
+​	
+
 
 
 

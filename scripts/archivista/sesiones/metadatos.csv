@@ -1,9 +1,17 @@
 identificador,titulo,resumen,etiquetas,creado,modificado,oculto
 sesiones,Sesiones,Sesiones del Poder Judicial del Estado de Coahuila de Zaragoza,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-consejo-de-la-judicatura,Sesiones del Consejo de la Judicatura,Sesiones del Consejo de la Judicatura,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
-sesiones-votos-particulares,Votos Particulares,Votos Particulares,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-votos-particulares,Votos Particulares del Pleno,Votos Particulares del Pleno del Tribunal Superior de Justicia,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-votos-disidentes,Votos Disidentes del Pleno,Votos Disidentes del Pleno del Tribunal Superior de Justicia,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-pleno-del-tribunal-superior-de-justicia,Sesiones del Pleno del Tribunal Superior de Justicia,Sesiones del Pleno del Tribunal Superior de Justicia,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-pleno-del-tribunal-superior-de-justicia-2019,Sesiones del Pleno del Tribunal Superior de Justicia en 2019,Sesiones del Pleno del Tribunal Superior de Justicia en 2019,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-pleno-del-tribunal-superior-de-justicia-2020,Sesiones del Pleno del Tribunal Superior de Justicia en 2020,Sesiones del Pleno del Tribunal Superior de Justicia en 2020,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-primera-sesion-ordinaria,Cuadragésima Primera Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 06 de noviembre de 2019",Sesiones,2019-11-06 15:00:00,2019-11-06 15:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-tercera-sesion-ordinaria,Cuadragésima Tercera Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 21 de noviembre 2019",Sesiones,2019-11-21 15:00:00,2019-11-21 15:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-cuarta-sesion-ordinaria,Cuadragésima Cuarta Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 27 de noviembre 2019",Sesiones,2019-11-27 15:00:00,2019-11-27 15:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-quinta-sesion-ordinaria,Cuadragésima Quinta Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 04 de diciembre 2019",Sesiones,2019-12-04 15:00:00,2019-12-04 15:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-sexta-sesion-ordinaria,Cuadragésima Sexta Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 10 de diciembre 2019",Sesiones,2019-12-10 15:00:00,2019-12-10 15:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2019-cuadragesima-septima-sesion-ordinaria,Cuadragésima Séptima Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 20 de diciembre 2019",Sesiones,2019-12-20 15:00:00,2019-12-20 15:00:00,0
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-primera-sesion-ordinaria,Primera Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 08 de enero 2020",Sesiones,2020-01-08 15:00:00,2020-01-08 15:00:00,0
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-segunda-sesion-ordinaria,Segunda Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 15 de enero 2020",Sesiones,2020-01-15 15:00:00,2020-01-15 15:00:00,0
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-tercera-sesion-ordinaria,Tercera Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 22 de enero 2020",Sesiones,2020-01-22 15:00:00,2020-01-22 15:00:00,0
@@ -26,6 +34,7 @@ sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-sexta-sesion-ordina
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-septima-sesion-ordinaria,Décima Séptima Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 24 de junio 2020",Sesiones,2020-06-24 11:00:00,2020-06-24 11:00:00,0
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-octava-sesion-ordinaria,Décima Octava Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 01 de julio 2020",Sesiones,2020-07-01 11:00:00,2020-07-01 11:00:00,0
 sesiones-pleno-del-tribunal-superior-de-justicia-2020-decima-novena-sesion-ordinaria,Décima Novena Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 08 de julio 2020",Sesiones,2020-07-08 11:00:00,2020-07-08 11:00:00,0
+sesiones-pleno-del-tribunal-superior-de-justicia-2020-vigesima-sesion-ordinaria,Vigésima Sesión Ordinaria,"Sesión Ordinaria del Pleno del TSJ, 17 de julio 2020",Sesiones,2020-07-17 11:00:00,2020-07-17 11:00:00,0
 sesiones-tribunal-constitucional,Sesiones del Tribunal Constitucional,Sesiones del Tribunal Constitucional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-tribunal-constitucional-2020,Sesiones del Tribunal Constitucional en 2020,Sesiones del Tribunal Constitucional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-tribunal-constitucional-2020-audiencia-de-alegatos-de-demanda-de-accion-de-inconstiticionalidad-local-ail-3-2020,Audiencia de Alegatos de Demanda de Acción de Inconstiticionalidad Local AIL-3/2020,"Audiencia de Alegatos, 06 de mayo 2020",Sesiones,2020-05-06 14:00:00,2020-05-06 14:00:00,0
@@ -41,8 +50,10 @@ sesiones-sala-civil-y-familiar-2020-decima-octava-sesion-ordinaria,Décima Octav
 sesiones-sala-civil-y-familiar-2020-decima-novena-sesion-ordinaria,Décima Novena Sesión Ordinaria,"Sesión Ordinaria de la Sala Civil y Familiar, 25 de junio 2020",Sesiones,2020-06-25 11:00:00,2020-06-25 11:00:00,0
 sesiones-sala-civil-y-familiar-2020-vigesima-sesion-ordinaria,Vigésima Sesión Ordinaria,"Sesión Ordinaria de la Sala Civil y Familiar, 02 de julio 2020",Sesiones,2020-07-02 11:00:00,2020-07-02 11:00:00,0
 sesiones-sala-civil-y-familiar-2020-vigesima-primera-sesion-ordinaria,Vigésima Primera Sesión Ordinaria,"Sesión Ordinaria de la Sala Civil y Familiar, 09 de julio 2020",Sesiones,2020-07-09 11:00:00,2020-07-09 11:00:00,0
+sesiones-sala-civil-y-familiar-2020-vigesima-segunda-sesion-ordinaria,Vigésima Segunda Sesión Ordinaria,"Sesión Ordinaria de la Sala Civil y Familiar, 16 de julio 2020",Sesiones,2020-07-16 11:00:00,2020-07-16 11:00:00,0
 sesiones-sala-penal,Sesiones de la Sala Penal,Sesiones de la Sala Penal,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-sala-penal-2020,Sesiones de la Sala Penal en 2020,Sesiones de la Sala Penal,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
+sesiones-sala-penal-2020-votos-particulares,Votos Particulares de la Sala Penal,Votos Particulares de la Sala Penal en 2020,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-sala-penal-2020-decima-tercera-sesion-ordinaria-primera-digital,Décimo Tercera Sesión Ordinaria Primera Digital,"Sesión Ordinaria de la Sala Penal, 14 de mayo 2020",Sesiones,2020-05-14 14:00:00,2020-05-14 14:00:00,1
 sesiones-sala-penal-2020-decima-cuarta-sesion-ordinaria-segunda-digital,Décima Cuarta Sesión Ordinaria Segunda Digital,"Sesión Ordinaria de la Sala Penal, 22 de mayo 2020",Sesiones,2020-05-22 11:00:00,2020-05-22 11:00:00,0
 sesiones-sala-penal-2020-decima-quinta-sesion-ordinaria,Décima Quinta Sesión Ordinaria,"Sesión Ordinaria de la Sala Penal, 26 de mayo 2020",Sesiones,2020-05-26 11:00:00,2020-05-26 11:00:00,0
@@ -52,6 +63,7 @@ sesiones-sala-penal-2020-decima-octava-sesion-ordinaria,Décima Octava Sesión O
 sesiones-sala-penal-2020-decima-novena-sesion-ordinaria,Décima Novena Sesión Ordinaria,"Sesión Ordinaria de la Sala Penal, 23 de junio 2020",Sesiones,2020-06-23 11:00:00,2020-06-23 11:00:00,0
 sesiones-sala-penal-2020-vigesima-sesion-ordinaria-tercera-digital,Vigésima Sesión Ordinaria Tercera Digital,"Sesión Ordinaria de la Sala Penal, 30 de junio 2020",Sesiones,2020-06-30 11:00:00,2020-06-30 11:00:00,0
 sesiones-sala-penal-2020-vigesima-primera-sesion-ordinaria-cuarta-digital,Vigésima Primera Sesión Ordinaria Cuarta Digital,"Sesión Ordinaria de la Sala Penal, 07 de julio 2020",Sesiones,2020-07-07 11:00:00,2020-07-07 11:00:00,0
+sesiones-sala-penal-2020-vigesima-segunda-sesion-ordinaria-quinta-digital,Vigésima Segunda Sesión Ordinaria Quinta Digital,"Sesión Ordinaria de la Sala Penal, 14 de julio 2020",Sesiones,2020-07-14 11:00:00,2020-07-14 11:00:00,0
 sesiones-sala-regional,Sesiones de la Sala Regional,Sesiones de la Sala Regional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-sala-regional-2020,Sesiones de la Sala Regional en 2020,Sesiones de la Sala Regional,Sesiones,2020-01-01 12:00:00,2020-01-01 12:00:00,1
 sesiones-sala-regional-2020-decima-primera-sesion-ordinaria,Décima Primera Sesión Ordinaria,"Sesión Ordinaria de la Sala Regional, 08 de mayo 2020",Sesiones,2020-05-08 11:00:00,2020-05-08 11:00:00,0

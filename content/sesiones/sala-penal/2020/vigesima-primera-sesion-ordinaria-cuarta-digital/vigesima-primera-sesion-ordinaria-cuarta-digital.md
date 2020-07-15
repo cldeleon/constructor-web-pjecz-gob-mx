@@ -14,6 +14,6 @@ Modified: 2020-07-07 11:00:00
 ## Descargar
 
 
-* [Lista de proyectos a discución 2020-07-07.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Vigésima Primera Sesión Ordinaria Cuarta Digital/Lista de proyectos a discución 2020-07-07.docx)
+* [Lista de proyectos a discusión 2020-07-07.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Vigésima Primera Sesión Ordinaria Cuarta Digital/Lista de proyectos a discusión 2020-07-07.docx)
 
 

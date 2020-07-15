@@ -1,7 +1,6 @@
 import os
 from comun.base import Base
 from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura, obtener_metadatos_del_nombre
-from comun.seccion import Seccion
 
 
 class Rama(Base):
@@ -9,9 +8,9 @@ class Rama(Base):
 
     def __init__(self, creador, directorio):
         super().__init__(
-            insumos_ruta = directorio.path,
-            secciones_comienzan_con = directorio.name,
-            )
+            insumos_ruta=directorio.path,
+            secciones_comienzan_con=directorio.name,
+        )
         self.plantillas_env = creador.plantillas_env
         # Definir URL y guardar_como
         rama_relativa = cambiar_a_ruta_segura(self.insumos_ruta[len(creador.insumos_ruta) + 1:])
@@ -44,7 +43,7 @@ class Rama(Base):
 
     def alimentar(self):
         super().alimentar()
-        if self.alimentado == False:
+        if not self.alimentado:
             # Juntar Secciones
             self.secciones = self.secciones_iniciales + self.secciones_intermedias + self.secciones_finales
             # Levantar bandera
@@ -54,17 +53,17 @@ class Rama(Base):
         super().contenido()
         plantilla = self.plantillas_env.get_template('universal.md.jinja2')
         return(plantilla.render(
-            title = self.titulo,
-            slug = self.identificador,
-            summary = self.resumen,
-            tags = self.etiquetas,
-            url = self.url,
-            save_as = self.guardar_como,
-            date = self.creado,
-            modified = self.modificado,
-            secciones = self.secciones,
-            oculto = self.oculto,
-            ))
+            title=self.titulo,
+            slug=self.identificador,
+            summary=self.resumen,
+            tags=self.etiquetas,
+            url=self.url,
+            save_as=self.guardar_como,
+            date=self.creado,
+            modified=self.modificado,
+            secciones=self.secciones,
+            oculto=self.oculto,
+        ))
 
     def __repr__(self):
         super().__repr__()
@@ -74,6 +73,10 @@ class Rama(Base):
                 salidas.append('    ' + str(seccion))
             for imagen in self.imagenes:
                 salidas.append('    (' + os.path.basename(imagen) + ')')
-            return(f'<Rama> {self.creado} "{self.titulo}"\n' + '\n'.join(salidas))
+            if self.oculto:
+                oculto = 'OCULTO'
+            else:
+                oculto = ''
+            return(f'<Rama> {self.creado} {oculto} "{self.titulo}"\n' + '\n'.join(salidas))
         else:
             return(f'<Rama> {self.creado} "{self.titulo}" SIN SECCIONES')
