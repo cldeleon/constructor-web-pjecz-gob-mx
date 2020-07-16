@@ -73,7 +73,7 @@ class Rama(Base):
                 salidas.append('    ' + str(seccion))
             for imagen in self.imagenes:
                 salidas.append('    (' + os.path.basename(imagen) + ')')
-            if self.oculto:
+            if self.oculto == '1':
                 oculto = 'OCULTO'
             else:
                 oculto = ''

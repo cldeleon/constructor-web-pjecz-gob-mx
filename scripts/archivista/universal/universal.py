@@ -1,6 +1,6 @@
 import os
 from comun.base import Base
-from comun.funciones import cambiar_a_identificador, cambiar_a_ruta_segura
+from comun.funciones import cambiar_a_identificador
 from universal.rama import Rama
 
 
@@ -9,9 +9,9 @@ class Universal(Base):
 
     def __init__(self, insumos_ruta, salida_ruta, metadatos, plantillas_env, titulo, resumen, etiquetas, creado, modificado):
         super().__init__(
-            insumos_ruta = insumos_ruta,
-            secciones_comienzan_con = titulo,
-            )
+            insumos_ruta=insumos_ruta,
+            secciones_comienzan_con=titulo,
+        )
         self.insumos_ruta = insumos_ruta
         self.salida_ruta = salida_ruta
         self.metadatos = metadatos
@@ -51,7 +51,7 @@ class Universal(Base):
 
     def alimentar(self):
         super().alimentar()
-        if self.alimentado == False:
+        if self.alimentado is False:
             # Rastrear los directorios y acumular ramas
             for directorio in self.rastrear_directorios(self.insumos_ruta):
                 posible_md_nombre = os.path.basename(directorio.path)
@@ -67,17 +67,17 @@ class Universal(Base):
         super().contenido()
         plantilla = self.plantillas_env.get_template('universal.md.jinja2')
         return(plantilla.render(
-            title = self.titulo,
-            slug = self.identificador,
-            summary = self.resumen,
-            tags = self.etiquetas,
-            url = self.url,
-            save_as = self.guardar_como,
-            date = self.creado,
-            modified = self.modificado,
-            secciones = self.secciones,
-            oculto = self.oculto,
-            ))
+            title=self.titulo,
+            slug=self.identificador,
+            summary=self.resumen,
+            tags=self.etiquetas,
+            url=self.url,
+            save_as=self.guardar_como,
+            date=self.creado,
+            modified=self.modificado,
+            secciones=self.secciones,
+            oculto=self.oculto,
+        ))
 
     def __repr__(self):
         super().__repr__()
