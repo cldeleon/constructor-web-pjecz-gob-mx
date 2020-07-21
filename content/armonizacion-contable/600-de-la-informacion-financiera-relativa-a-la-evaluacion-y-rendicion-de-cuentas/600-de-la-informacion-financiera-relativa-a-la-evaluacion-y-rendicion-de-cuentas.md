@@ -24,6 +24,7 @@ Modified: 2020-06-01 12:00
 ### 6.02 Evaluación de Recursos
 
 
+* [2020 (04) Segundo Trimestre ER.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.02 Evaluación de Recursos/2020 (04) Segundo Trimestre ER.pdf)
 * [2020 (05) Primer Trimestre ER.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.02 Evaluación de Recursos/2020 (05) Primer Trimestre ER.pdf)
 
 
@@ -42,6 +43,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EDGF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.03 Ejercicio y Destino de Gasto Federalizado/2019 (03) Tercer Trimestre EDGF.pdf)
 * [2019 (04) Segundo Trimestre EDGF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.03 Ejercicio y Destino de Gasto Federalizado/2019 (04) Segundo Trimestre EDGF.pdf)
 * [2019 (05) Primer Trimestre EDGF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.03 Ejercicio y Destino de Gasto Federalizado/2019 (05) Primer Trimestre EDGF.pdf)
+* [2020 (04) Segundo Trimestre EDGF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.03 Ejercicio y Destino de Gasto Federalizado/2020 (04) Segundo Trimestre EDGF.pdf)
 * [2020 (05) Primer Trimestre EDGF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/6.00 De la Información Financiera Relativa a la Evaluación y Rendición de Cuentas/6.03 Ejercicio y Destino de Gasto Federalizado/2020 (05) Primer Trimestre EDGF.pdf)
 
 

@@ -38,6 +38,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EAI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.01 Estado Analítico de Ingresos/2019 (03) Tercer Trimestre EAI.pdf)
 * [2019 (04) Segundo Trimestre EAI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.01 Estado Analítico de Ingresos/2019 (04) Segundo Trimestre EAI.pdf)
 * [2019 (05) Primer Trimestre EAI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.01 Estado Analítico de Ingresos/2019 (05) Primer Trimestre EAI.pdf)
+* [2020 (04) Segundo Trimestre EAI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.01 Estado Analítico de Ingresos/2020 (04) Segundo Trimestre EAI.pdf)
 * [2020 (05) Primer Trimestre EAI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.01 Estado Analítico de Ingresos/2020 (05) Primer Trimestre EAI.pdf)
 
 
@@ -70,6 +71,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EAEPE-Admva.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/01 Administrativa/2019 (03) Tercer Trimestre EAEPE-Admva.pdf)
 * [2019 (04) Segundo Trimestre EAEPE-Admva.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/01 Administrativa/2019 (04) Segundo Trimestre EAEPE-Admva.pdf)
 * [2019 (05) Primer Trimestre EAEPE-Admva.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/01 Administrativa/2019 (05) Primer Trimestre EAEPE-Admva.pdf)
+* [2020 (04) Segundo Trimestre EAEP-Admva.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/01 Administrativa/2020 (04) Segundo Trimestre EAEP-Admva.pdf)
 * [2020 (05) Primer Trimestre EAEPE-Admva.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/01 Administrativa/2020 (05) Primer Trimestre EAEPE-Admva.pdf)
 
 
@@ -99,6 +101,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EAEPE_EOG.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/02 Económica y por Objeto del Gasto/2019 (03) Tercer Trimestre EAEPE_EOG.pdf)
 * [2019 (04) Segundo Trimestre EAEPE-EOG.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/02 Económica y por Objeto del Gasto/2019 (04) Segundo Trimestre EAEPE-EOG.pdf)
 * [2019 (05) Primer Trimestre EAEPE-EOG.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/02 Económica y por Objeto del Gasto/2019 (05) Primer Trimestre EAEPE-EOG.pdf)
+* [2020 (04) Segundo Trimestre EAEP- EOG.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/02 Económica y por Objeto del Gasto/2020 (04) Segundo Trimestre EAEP- EOG.pdf)
 * [2020 (05) Primer Trimestre EAEPE-EOG.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/02 Económica y por Objeto del Gasto/2020 (05) Primer Trimestre EAEPE-EOG.pdf)
 
 
@@ -128,6 +131,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EAEPE-FP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/03 Funcional - Programática/2019 (03) Tercer Trimestre EAEPE-FP.pdf)
 * [2019 (04) Segundo Trimestre EAEPE-FP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/03 Funcional - Programática/2019 (04) Segundo Trimestre EAEPE-FP.pdf)
 * [2019 (05) Primer Trimestre EAEPE-FP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/03 Funcional - Programática/2019 (05) Primer Trimestre EAEPE-FP.pdf)
+* [2020 (04) Segundo Trimestre EAEP- FP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/03 Funcional - Programática/2020 (04) Segundo Trimestre EAEP- FP.pdf)
 * [2020 (05) Primer Trimestre EAEPE-FP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.02 Estado Analítico del Ejercicio del Presupuesto de Egresos/03 Funcional - Programática/2020 (05) Primer Trimestre EAEPE-FP.pdf)
 
 
@@ -157,6 +161,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre ENFMA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.03 Endeudamiento Neto, Financiamiento menos Armonización/2019 (03) Tercer Trimestre ENFMA.pdf)
 * [2019 (04) Segundo Trimestre ENFMA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.03 Endeudamiento Neto, Financiamiento menos Armonización/2019 (04) Segundo Trimestre ENFMA.pdf)
 * [2019 (05) Primer Trimestre ENFMA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.03 Endeudamiento Neto, Financiamiento menos Armonización/2019 (05) Primer Trimestre ENFMA.pdf)
+* [2020 (04) Segundo Trimestre ENFMA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.03 Endeudamiento Neto, Financiamiento menos Armonización/2020 (04) Segundo Trimestre ENFMA.pdf)
 * [2020 (05) Primer Trimestre ENFMA.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.03 Endeudamiento Neto, Financiamiento menos Armonización/2020 (05) Primer Trimestre ENFMA.pdf)
 
 
@@ -186,6 +191,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre IPID.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.04 Intereses de la Deuda/2019 (03) Tercer Trimestre IPID.pdf)
 * [2019 (04) SegundoTrimestre IPID.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.04 Intereses de la Deuda/2019 (04) SegundoTrimestre IPID.pdf)
 * [2019 (05) Primer Trimestre IPID.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.04 Intereses de la Deuda/2019 (05) Primer Trimestre IPID.pdf)
+* [2020 (04) Segundo Trimestre IPID.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.04 Intereses de la Deuda/2020 (04) Segundo Trimestre IPID.pdf)
 * [2020 (05) Primer Trimestre IPID.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.04 Intereses de la Deuda/2020 (05) Primer Trimestre IPID.pdf)
 
 
@@ -209,6 +215,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre FFROIPF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal/2019 (03) Tercer Trimestre FFROIPF.pdf)
 * [2019 (04) Segundo Trimestre FFROIPF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal/2019 (04) Segundo Trimestre FFROIPF.pdf)
 * [2019 (05) Primer Trimestre FFROIPF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal/2019 (05) Primer Trimestre FFROIPF.pdf)
+* [2020 (04) Segundo Trimestre FFROIPF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal/2020 (04) Segundo Trimestre FFROIPF.pdf)
 * [2020 (05) Primer Trimestre FFROIPF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/2.00 Información Financiera Gubernamental/2.02 Información Presupuestaria/2.02.05 Un Flujo de Fondos que Resuma todas las Operaciones y los Indicadores de la Postura Fiscal/2020 (05) Primer Trimestre FFROIPF.pdf)
 
 

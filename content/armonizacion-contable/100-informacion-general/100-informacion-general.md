@@ -49,6 +49,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (03) Tercer Trimestre BM.pdf)
 * [2019 (04) Segundo Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (04) Segundo Trimestre BM.pdf)
 * [2019 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2019 (05) Primer Trimestre BM.pdf)
+* [2020 (04) Segundo Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2020 (04) Segundo Trimestre BM.pdf)
 * [2020 (05) Primer Trimestre BM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.02 Inventario de los Bienes Muebles/2020 (05) Primer Trimestre BM.pdf)
 
 
@@ -78,6 +79,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (03) Tercer Trimestre BI.pdf)
 * [2019 (04) Segundo Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (04) Segundo Trimestre BI.pdf)
 * [2019 (05) Primer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2019 (05) Primer Trimestre BI.pdf)
+* [2020 (04) Segundo Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2020 (04) Segundo Trimestre BI.pdf)
 * [2020 (05) Primer Trimestre BI.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/1.00 Información General/1.03 Inventario de los Bienes Inmuebles/2020 (05) Primer Trimestre BI.pdf)
 
 

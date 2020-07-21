@@ -50,15 +50,16 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre ASSES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.03 Ayudas y Subsidios a los Sectores Económicos y Sociales/2019 (03) Tercer Trimestre ASSES.pdf)
 * [2019 (04) Segundo Trimestre ASSES ASSES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.03 Ayudas y Subsidios a los Sectores Económicos y Sociales/2019 (04) Segundo Trimestre ASSES ASSES.pdf)
 * [2019 (05) Primer Trimestre ASSES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.03 Ayudas y Subsidios a los Sectores Económicos y Sociales/2019 (05) Primer Trimestre ASSES.pdf)
+* [2020 (04) Segundo Trimestres ASSES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.03 Ayudas y Subsidios a los Sectores Económicos y Sociales/2020 (04) Segundo Trimestres ASSES.pdf)
 * [2020 (05) Primer Trimestre ASSES.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.03 Ayudas y Subsidios a los Sectores Económicos y Sociales/2020 (05) Primer Trimestre ASSES.pdf)
 
 
 ### 5.04 Programas con Recursos Federales
 
 
-* [2017 (01) Anual PRF PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2017 (01) Anual PRF PRF.pdf)
+* [2017 (01) Anual PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2017 (01) Anual PRF.pdf)
 * [2017 (02) Cuarto Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2017 (02) Cuarto Trimestre PRF.pdf)
-* [2018 (01) Anual PRF PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2018 (01) Anual PRF PRF.pdf)
+* [2018 (01) Anual PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2018 (01) Anual PRF.pdf)
 * [2018 (02) Cuarto Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2018 (02) Cuarto Trimestre PRF.pdf)
 * [2018 (03) Tercer Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2018 (03) Tercer Trimestre PRF.pdf)
 * [2018 (04) SegundoTrimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2018 (04) SegundoTrimestre PRF.pdf)
@@ -68,6 +69,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2019 (03) Tercer Trimestre PRF.pdf)
 * [2019 (04) SegundoTrimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2019 (04) SegundoTrimestre PRF.pdf)
 * [2019 (05) Primer Trimestre  PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2019 (05) Primer Trimestre  PRF.pdf)
+* [2020 (04) Segundo Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2020 (04) Segundo Trimestre PRF.pdf)
 * [2020 (05) Primer Trimestre PRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.04 Programas con Recursos Federales/2020 (05) Primer Trimestre PRF.pdf)
 
 
@@ -86,6 +88,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre CBP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.05 Cuentas Bancarias Productivas/2019 (03) Tercer Trimestre CBP.pdf)
 * [2019 (04) Segundo Trimestre CBP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.05 Cuentas Bancarias Productivas/2019 (04) Segundo Trimestre CBP.pdf)
 * [2019 (05) Primer Trimestre CBP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.05 Cuentas Bancarias Productivas/2019 (05) Primer Trimestre CBP.pdf)
+* [2020 (04) Segundo Trimestre CBP.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.05 Cuentas Bancarias Productivas/2020 (04) Segundo Trimestre CBP.pdf)
 * [2020 (05) Primer Trimestre CBP .pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.05 Cuentas Bancarias Productivas/2020 (05) Primer Trimestre CBP .pdf)
 
 
@@ -104,6 +107,7 @@ Modified: 2020-06-01 12:00
 * [2019 (03) Tercer Trimestre EDRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.06 Ejercicio y Destino de los Recursos Federales/2019 (03) Tercer Trimestre EDRF.pdf)
 * [2019 (04) Segundo Trimestre EDRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.06 Ejercicio y Destino de los Recursos Federales/2019 (04) Segundo Trimestre EDRF.pdf)
 * [2019 (05) Primer Trimestre EDRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.06 Ejercicio y Destino de los Recursos Federales/2019 (05) Primer Trimestre EDRF.pdf)
+* [2020 (04) Segundo Trimestre EDRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.06 Ejercicio y Destino de los Recursos Federales/2020 (04) Segundo Trimestre EDRF.pdf)
 * [2020 (05) Primer Trimestre EDRF.pdf](https://storage.googleapis.com/pjecz-gob-mx/Armonización Contable/5.00 De la Información Relativa al Ejercicio del Presupuesto/5.06 Ejercicio y Destino de los Recursos Federales/2020 (05) Primer Trimestre EDRF.pdf)
 
 
