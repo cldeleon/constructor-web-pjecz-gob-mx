@@ -12,6 +12,7 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/vigesima-primera-sesion-ordinaria/)
 * [Vigésima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/vigesima-sesion-ordinaria/)
 * [Décima Novena Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-novena-sesion-ordinaria/)
 * [Décima Octava Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-octava-sesion-ordinaria/)
@@ -49,6 +50,7 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-tercera-sesion-ordinaria/)
 * [Vigésima Segunda Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-segunda-sesion-ordinaria/)
 * [Vigésima Primera Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-primera-sesion-ordinaria/)
 * [Vigésima Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-sesion-ordinaria/)
@@ -64,6 +66,7 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Tercera Sesión Ordinaria Sexta Digital](sala-penal/2020/vigesima-tercera-sesion-ordinaria-sexta-digital/)
 * [Vigésima Segunda Sesión Ordinaria Quinta Digital](sala-penal/2020/vigesima-segunda-sesion-ordinaria-quinta-digital/)
 * [Vigésima Primera Sesión Ordinaria Cuarta Digital](sala-penal/2020/vigesima-primera-sesion-ordinaria-cuarta-digital/)
 * [Vigésima Sesión Ordinaria Tercera Digital](sala-penal/2020/vigesima-sesion-ordinaria-tercera-digital/)
