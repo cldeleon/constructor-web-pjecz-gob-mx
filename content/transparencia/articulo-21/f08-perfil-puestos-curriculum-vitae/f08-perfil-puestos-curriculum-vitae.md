@@ -52,3 +52,6 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [María Luisa Valencia García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Curriculum/Sala Colegiada Penal/María Luisa Valencia García.docx)
 
 
+#### Sala Regional
+
+
