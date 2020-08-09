@@ -1,0 +1,14 @@
+Title: {{ title }}
+Slug: {{ slug }}
+Summary: {{ summary }}
+Category: Observatorio
+URL: {{ url }}
+Save_As: {{ save_as }}
+Date: {{ date }}
+Modified: {{ modified }}
+{% if oculto == '1' %}Status: draft{% endif %}
+
+
+{% for seccion in secciones %}
+{{ seccion.contenido() }}
+{% endfor %}

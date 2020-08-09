@@ -31,7 +31,7 @@ pass_config = click.make_pass_decorator(Config, ensure=True)
 
 
 @click.group()
-@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Armonización Contable, Comunicados, Conócenos, Edictos de Declaración de Ausencia, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
+@click.option('--rama', default='Transparencia', type=str, help='Acuerdos, Armonización Contable, Comunicados, Conócenos, Edictos de Declaración de Ausencia, Observatorio Judicial, Sesiones, Trámites y Servicios, Transparencia o Transparencia TCA')
 @pass_config
 def cli(config, rama):
     click.echo('Hola, ¡soy Archivista!')
@@ -55,6 +55,9 @@ def cli(config, rama):
     elif config.rama == 'Edictos de Declaración de Ausencia':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/edictos-declaracion-ausencia/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/edictos-declaracion-ausencia/plantillas'
+    elif config.rama == 'Observatorio Judicial':
+        config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/observatorio-judicial/metadatos.csv'
+        plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/observatorio-judicial/plantillas'
     elif config.rama == 'Sesiones':
         config.metadatos_csv = f'{config.pelican_ruta}/scripts/archivista/sesiones/metadatos.csv'
         plantillas_ruta = f'{config.pelican_ruta}/scripts/archivista/sesiones/plantillas'

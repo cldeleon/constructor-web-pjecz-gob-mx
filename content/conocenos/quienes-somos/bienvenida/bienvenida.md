@@ -32,8 +32,6 @@ Asumimos la honestidad y la imparcialidad como valores intrínsecos a nuestra fu
 
 Reciban un cordial saludo y con ello la certeza de que este Tribunal tiene la puerta abierta para juntos lograr un estado con Justicia y Legalidad.
 
-**Magistrado Miguel Felipe Mery Ayup**
+<p class="text-center pb-0 mb-0" style="font-size: 1.2em"><b>Magistrado Miguel Felipe Mery Ayup</b></p>
 
-Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza
-
-
+<p class="text-center">Presidente del Tribunal Superior de Justicia y del Consejo de la Judicatura del Estado de Coahuila de Zaragoza</p>
