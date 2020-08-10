@@ -39,6 +39,10 @@ El Observatorio Judicial es un componente fundamental de una justicia que se imp
 
 ## [Actividades](actividades/)
 
+## [Recomendaciones](recomendaciones/)
+
+## [Biblioteca Digital](biblioteca-digital/)
+
 ## Organizaciones e Instituciones que están representadas en el Observatorio
 
 <div class="row p-4 bg-dark">
@@ -77,6 +81,12 @@ El Observatorio Judicial es un componente fundamental de una justicia que se imp
         <a href="https://pc29laguna.org.mx/"><img src="ic_pc29.png"></a>
     </div>
 </div>
+
+## Contacto
+
+- Saltillo, Coahuila de Zaragoza
+- Teléfono 844-439-1439
+- Correo electrónico <mailto:observatoriojudicialcoahuila@pjec.gob.mx>
 
 
 

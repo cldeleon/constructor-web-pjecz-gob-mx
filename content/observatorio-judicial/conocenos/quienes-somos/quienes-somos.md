@@ -8,6 +8,8 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
+<img class="img-fluid" src="quienes-somos.jpg" alt="Observatorio Judicial del Estado de Coahuila">
+
 ### Observatorio Judicial
 
 #### Poder Judicial del Estado de Coahuila de Zaragoza
@@ -18,7 +20,10 @@ Para su operación, el Observatorio Judicial está integrado por un Consejo Téc
 
 El Consejo Técnico General está integrado por representantes de los sectores privado, social y académico cuyo cargo es honorífico.
 
-Los Observadores Ciudadanos forman un órgano auxiliar del Consejo Técnico General y de los Capítulos Regionales; se integra por ciudadanas y ciudadanos seleccionados para realizar, en el ámbito de competencia del Observatorio Judicial, visitas de supervisión y vigilancia en los órganos jurisdiccionales y no jurisdiccionales del Poder Judicial. 
+Los Observadores Ciudadanos forman un órgano auxiliar del Consejo Técnico General y de los Capítulos Regionales; se integra por ciudadanas y ciudadanos seleccionados para realizar, en el ámbito de competencia del Observatorio Judicial, visitas de supervisión y vigilancia en los órganos jurisdiccionales y no jurisdiccionales del Poder Judicial.
+
+<div style="padding:55% 0 0 0;position:relative;"><iframe src="https://player.vimeo.com/video/446513407" style="position:absolute;top:0;left:0;width:100%;height:100%;" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe></div><script src="https://player.vimeo.com/api/player.js"></script>
+<p><a href="https://vimeo.com/446513407">Comisi&oacute;n Nacional de Tribunales Superiores de Justicia</a> from <a href="https://vimeo.com/user103229504">PODER JUDICIAL DE COAHUILA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
 
