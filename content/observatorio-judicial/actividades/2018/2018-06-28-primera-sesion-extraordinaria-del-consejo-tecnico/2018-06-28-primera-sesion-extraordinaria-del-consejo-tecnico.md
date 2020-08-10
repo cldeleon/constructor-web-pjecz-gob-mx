@@ -8,7 +8,13 @@ Date: 2018-06-28
 Modified: 2018-06-28
 
 
- 
+<img src="foto_1.jpg" class="img-fluid">
+
+<img src="foto_2.jpg" class="img-fluid">
+
+<img src="foto_3.jpg" class="img-fluid"> 
+
+<img src="foto_4.jpg" class="img-fluid"> 
 
 
 

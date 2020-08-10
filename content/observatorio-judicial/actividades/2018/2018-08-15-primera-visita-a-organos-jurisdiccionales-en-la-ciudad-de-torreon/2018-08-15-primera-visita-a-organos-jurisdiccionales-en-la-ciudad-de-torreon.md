@@ -8,7 +8,11 @@ Date: 2018-08-15
 Modified: 2018-08-15
 
 
- 
+<img src="foto_1.jpg" class="img-fluid"> 
+
+<img src="foto_2.jpg" class="img-fluid"> 
+
+<img src="foto_3.jpg" class="img-fluid"> 
 
 
 

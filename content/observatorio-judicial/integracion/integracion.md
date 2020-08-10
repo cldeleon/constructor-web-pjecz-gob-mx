@@ -80,8 +80,6 @@ Directora General del Consejo Cívico de Instituciones de Coahuila, A.C.
 
 ---
 
-![Miguel Wong Sánchez Ibarra](miguel-wong-sánchez-ibarra/foto.jpg)
-
 ### Lic. Miguel Wong Sánchez Ibarra
 
 Presidente del Consejo Cívico de las Instituciones Laguna

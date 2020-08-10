@@ -10,12 +10,14 @@ Modified: 2018-04-17
 
 Acta de la Primera Sesión Ordinaria del Consejo Técnico
 del Observatorio Judicial del Poder Judicial del Estado
-de Coahuila de Zaragoza
+de Coahuila de Zaragoza.
+
 En la ciudad de Saltillo, Coahuila de Zaragoza siendo las once horas con cuarenta y cinco
 minutos (11:45) del día diecisiete (17) de abril del año dos mil dieciocho (2018), dio inicio
 en la Sala de Plenos del Tribunal Superior de Justicia, ubicada en el Palacio de Justicia, la
 primera sesión ordinaria del Consejo Técnico del Observatorio Judicial del Poder Judicial
 del Estado de Coahuila de Zaragoza, en adelante el Consejo Técnico.
+
 En primer término, conforme lo señalado por el artículo 20 del Reglamento Interior del
 Observatorio Judicial del Poder Judicial, la Secretaria Técnica del Consejo, Katia E.
 Palacio Ramírez dio cuenta de la asistencia de las y los integrantes del Consejo Técnico:
@@ -27,6 +29,7 @@ el Ingeniero Miguel Ángel Rodríguez Calderón, en su calidad de representante 
 del Ingeniero Salvador Hernández Vélez, el Licenciado Juan Antonio Sifuentes Terrazas,
 el Licenciado Jorge Hernán Tafich Martínez, la Contadora Pública Alejandra Wade
 Villanueva y el Licenciado Miguel Wong Sánchez Ibarra.
+
 Cumplido lo anterior y verificado el quórum legal para el desarrollo de la sesión, la
 Magistrada Miriam Cárdenas Cantú, Consejera Presidenta del Consejo Técnico, dio
 lectura al orden del día propuesto para el desarrollo de la sesión,a fin de someterlo a
@@ -45,11 +48,13 @@ la notificación. Sobre ese particular, la Consejera Presidenta comentó que se 
 trabajando actualmente en un sistema de digitalización que, incluso, prevé el uso de una
 firma electrónica y, apuntó también, que se está trabajando en la plataforma digital en
 materia penal y que, recién inicia operaciones.
+
 Por otro lado, el Consejero Técnico Ingeniero Juan Carlos López Villarreal abordó el tema
 de la reforma laboral y preguntó a qué área del Poder Judicial estarán adscritos los
 órganos laborales, a lo que la Consejera Presidenta expresó que los tribunales laborales
 serán órganos autónomos de carácter unitario. Comentó además que se trabajará en la
 capacitación de personal.
+
 En uso de la voz, el Consejero Técnico Licenciado Juan Antonio Sifuentes Terrazas aludió
 al observatorio ciudadano que opera en la Junta de Conciliación y Arbitraje ubicada en
 Torreón y explicó sobre cómo funciona y los mecanismos que han implementado al
@@ -57,6 +62,7 @@ interior del mismo. Por lo que la Consejera Presidenta reitera que será el prop
 Técnico el que decidirá la mecánica de trabajo del propio Consejo Técnico a partir de
 propuestas sobre qué información desean conocer y las áreas a visitar por la y los
 Consejeros Técnicos.
+
 Más adelante la Consejera Presidenta procedió a presentar las cargas de trabajo que
 actualmente tiene el Poder Judicial; al respecto, la Consejera Técnica Alejandra Wade
 preguntó acerca del tiempo estimado de resolución de cada asunto y, sobre ello, la
@@ -68,6 +74,7 @@ calidad, a lo que la Consejera Presidenta explicó que aún no se cuenta con el 
 respecto, la Consejera Técnica Alejandra Wade propuso que el Observatorio Judicial
 pueda definir indicadores y con base en su seguimiento, se pueda medir la calidad en el
 Poder Judicial.
+
 En uso de la voz, el Consejero Técnico Juan Carlos López Villarreal hace la propuesta de
 que se ofrezca a la y los Consejeros un curso inductivo sobre el funcionamiento del Poder
 Judicial, con el que se pueda conocer más a detalle sobre las actividades que se realizan
@@ -76,7 +83,6 @@ Consejo Técnico, acordando que dicho curso se lleve a cabo en dos sesiones: Una
 ciudad de Torreón y otra en la de Saltillo. La primera de ellas en fecha 23 de abril, por lo
 que el Consejero Técnico Maestro Guillermo Prieto Salinas amablemente ofreció para ese
 fin las instalaciones de la rectoría de la Universidad Iberoamericana y, para el curso de 
-
 Saltillo, se acordó se desarrolle en las instalaciones del Instituto de Especialización
 Judicial, en el día en que la y los Consejeros Técnicos acuerden conforme a sus agendas.
 Por otro lado y con el propósito de dar cumplimiento a las disposiciones reglamentarias
@@ -86,30 +92,27 @@ Observatorio, las y los integrantes del Consejo Técnico acordaron enviar a más
 temporales, así como de las personas a quienes consideren aptas para integrar los
 Capítulos Regionales en Saltillo y Torreón. También acordaron que para analizar y
 aprobar lo correspondiente, celebrarán una sesión extraordinaria.
+
 Una vez agotados los asuntos listados en el orden del día y no habiendo otro asunto que
 tratar, la Consejera Presienta dio por concluidos los trabajos de la primera sesión
 ordinaria del Consejo Técnico del Observatorio Judicial siendo las trece horas (13:00) del
 día de su inicio, firmando para debida constancia quienes en ella participaron.
 
-- Consejera Presidenta
-- Mag. Miriam Cárdenas Cantú
-- Secretaria Técnica Coordinador General
-- Dra. Katia Palacio Ramírez Mag. Carlos Javier García Mata
-- Consejera Técnica Consejero Técnico
-- C.P. Alejandra Wade V. Ing. Juan Carlos López Villarreal
-- Consejero Técnico Consejero Técnico
-- Ing. Luis Arizpe Jiménez Ing. Salvador Hernández Vélez
-- Consejero Técnico Consejero Técnico
-- Lic. Jorge H. Tafich Martínez Lic. Juan Antonio Sifuentes Terrazas
-- Consejero Técnico Consejero Técnico
-- Lic. Miguel Wong Sanchez Ibarra Lic. Alberto Lara Fernández
-- Consejero Técnico
-- Mtro. Guillermo Prieto Solís
+- Consejera Presidenta, Mag. Miriam Cárdenas Cantú
+- Secretaria Técnica Coordinador General, Dra. Katia Palacio Ramírez Mag. Carlos Javier García Mata
+- Consejera Técnica Consejero Técnico, C.P. Alejandra Wade V. Ing. Juan Carlos López Villarreal
+- Consejero Técnico Consejero Técnico, Ing. Luis Arizpe Jiménez Ing. Salvador Hernández Vélez
+- Consejero Técnico Consejero Técnico, Lic. Jorge H. Tafich Martínez Lic. Juan Antonio Sifuentes Terrazas
+- Consejero Técnico Consejero Técnico, Lic. Miguel Wong Sanchez Ibarra Lic. Alberto Lara Fernández
+- Consejero Técnico, Mtro. Guillermo Prieto Solís
+
+
+
 
 
 ## Descargar
 
-- [Abril 17 del 2018 - Acta de la Primera Sesión Ordinaria del Consejo Técnico del Observatorio Judicial](#)
 
+* [Acta de la 1a Sesion Ordinaria del Consejo Tecnico.pdf](https://storage.googleapis.com/pjecz-gob-mx/Observatorio Judicial/Actividades/2018/2018-04-17 Acta de la Primera Sesión Ordinaria del Consejo Técnico del Observatorio Judicial/Acta de la 1a Sesion Ordinaria del Consejo Tecnico.pdf)
 
 
