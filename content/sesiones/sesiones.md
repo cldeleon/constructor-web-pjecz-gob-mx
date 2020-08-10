@@ -12,11 +12,12 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Segunda Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/vigesima-segunda-sesion-ordinaria/)
 * [Vigésima Primera Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/vigesima-primera-sesion-ordinaria/)
 * [Vigésima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/vigesima-sesion-ordinaria/)
 * [Décima Novena Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-novena-sesion-ordinaria/)
 * [Décima Octava Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-octava-sesion-ordinaria/)
-* [Décima Séptima Sesión Ordinaria](https://pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/)
+* [Décima Séptima Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-septima-sesion-ordinaria/)
 * [Décima Sexta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-sexta-sesion-ordinaria/)
 * [Décima Quinta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-quinta-sesion-ordinaria/)
 * [Décima Cuarta Sesión Ordinaria](pleno-del-tribunal-superior-de-justicia/2020/decima-cuarta-sesion-ordinaria/)
@@ -50,6 +51,7 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Cuarta Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-cuarta-sesion-ordinaria/)
 * [Vigésima Tercera Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-tercera-sesion-ordinaria/)
 * [Vigésima Segunda Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-segunda-sesion-ordinaria/)
 * [Vigésima Primera Sesión Ordinaria](sala-civil-y-familiar/2020/vigesima-primera-sesion-ordinaria/)
@@ -66,6 +68,7 @@ Status: draft
 
 ### 2020
 
+* [Vigésima Cuarta Sesión Ordinaria Séptima Digital](sala-penal/2020/vigesima-cuarta-sesion-ordinaria-septima-digital/)
 * [Vigésima Tercera Sesión Ordinaria Sexta Digital](sala-penal/2020/vigesima-tercera-sesion-ordinaria-sexta-digital/)
 * [Vigésima Segunda Sesión Ordinaria Quinta Digital](sala-penal/2020/vigesima-segunda-sesion-ordinaria-quinta-digital/)
 * [Vigésima Primera Sesión Ordinaria Cuarta Digital](sala-penal/2020/vigesima-primera-sesion-ordinaria-cuarta-digital/)
@@ -95,5 +98,6 @@ Status: draft
 * [Primera Sesión Ordinaria del Pleno del Tribunal Constitucional Local 2020-05-11](tribunal-constitucional/2020/primera-sesion-ordinaria-del.pleno-del-tribunal-constitucional-local-2020-05-11)
 
 ## [Votos Particulares](votos-particulares/)
+
 
 

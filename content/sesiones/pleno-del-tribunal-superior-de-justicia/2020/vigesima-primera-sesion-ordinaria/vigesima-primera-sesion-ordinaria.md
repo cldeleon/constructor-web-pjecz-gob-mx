@@ -1,4 +1,4 @@
-Title: Vigésima Sesión Ordinaria
+Title: Vigésima Primera Sesión Ordinaria
 Slug: sesiones-pleno-del-tribunal-superior-de-justicia-2020-vigesima-primera-sesion-ordinaria
 Summary: Sesión Ordinaria del Pleno del TSJ, 03 de agosto 2020
 Category: Sesiones

@@ -10,6 +10,7 @@ Status: draft
 
 ## 2020
 
+- [Vigésima Cuarta Sesión Ordinaria Séptima Digital](sala-penal/2020/vigesima-cuarta-sesion-ordinaria-septima-digital/)
 - [Vigésima Tercera Sesión Ordinaria Sexta Digital](sala-penal/2020/vigesima-tercera-sesion-ordinaria-sexta-digital/)
 - [Vigésima Segunda Sesión Ordinaria Quinta Digital](sala-penal/2020/vigesima-segunda-sesion-ordinaria-quinta-digital/)
 - [Vigésima Primera Sesión Ordinaria Cuarta Digital](sala-penal/2020/vigesima-primera-sesion-ordinaria-cuarta-digital/)
