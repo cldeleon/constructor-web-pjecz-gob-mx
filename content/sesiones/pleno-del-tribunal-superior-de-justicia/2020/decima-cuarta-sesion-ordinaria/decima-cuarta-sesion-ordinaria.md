@@ -12,3 +12,9 @@ Modified: 2020-06-03 11:00:00
 <p><a href="https://vimeo.com/424905736">D&Eacute;CIMA CUARTA SESI&Oacute;N ORDINARIA DEL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA</a> from <a href="https://vimeo.com/user103229504">PODER JUDICIAL DE COAHUILA</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
 
+## Descargar
+
+
+* [Acta 2020-06-03.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Cuarta Sesión Ordinaria/Acta 2020-06-03.pdf)
+
+

@@ -13,6 +13,12 @@ Modified: 2020-04-15 15:00:00
 
 
 
+## Descargar
+
+
+* [Actas 2020-04-15.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Primera Sesión Extraordinaria/Actas 2020-04-15.pdf)
+
+
 ### Magistrada María del Carmen Galván Tello
 
 

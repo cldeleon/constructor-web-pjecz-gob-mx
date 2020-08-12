@@ -16,6 +16,7 @@ Modified: 2020-05-27 11:00:00
 ## Descargar
 
 
+* [Acta 2020-05-27.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Tercera Sesión Ordinaria/Acta 2020-05-27.pdf)
 * [Orden del día 2020-05-27.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Tercera Sesión Ordinaria/Orden del día 2020-05-27.docx)
 
 

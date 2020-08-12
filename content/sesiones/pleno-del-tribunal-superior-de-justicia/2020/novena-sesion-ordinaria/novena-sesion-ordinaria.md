@@ -16,6 +16,7 @@ Modified: 2020-03-04 15:00:00
 ## Descargar
 
 
+* [Acta 2020-03-04.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Novena Sesión Ordinaria/Acta 2020-03-04.pdf)
 * [Orden del día 2020-03-04.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Novena Sesión Ordinaria/Orden del día 2020-03-04.docx)
 
 

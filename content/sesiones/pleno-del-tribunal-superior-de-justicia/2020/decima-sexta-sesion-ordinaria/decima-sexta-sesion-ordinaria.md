@@ -15,6 +15,7 @@ Modified: 2020-06-17 11:00:00
 ## Descargar
 
 
+* [Acta 2020-06-17.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Sexta Sesión Ordinaria/Acta 2020-06-17.pdf)
 * [Orden del día 2020-06-17.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Sexta Sesión Ordinaria/Orden del día 2020-06-17.docx)
 
 

@@ -16,6 +16,7 @@ Modified: 2020-04-30 11:05:00
 ## Descargar
 
 
+* [Acta 2020-04-30.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Segunda Sesión Extraordinaria/Acta 2020-04-30.pdf)
 * [Orden del día 2020-04-30.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Segunda Sesión Extraordinaria/Orden del día 2020-04-30.docx)
 
 

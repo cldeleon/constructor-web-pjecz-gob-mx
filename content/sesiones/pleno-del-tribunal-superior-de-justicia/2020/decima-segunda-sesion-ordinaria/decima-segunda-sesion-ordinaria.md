@@ -16,6 +16,7 @@ Modified: 2020-05-20 11:00:00
 ## Descargar
 
 
+* [Acta 2020-05-20.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Segunda Sesión Ordinaria/Acta 2020-05-20.pdf)
 * [Orden del día 2020-05-20.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Segunda Sesión Ordinaria/Orden del día 2020-05-20.docx)
 
 

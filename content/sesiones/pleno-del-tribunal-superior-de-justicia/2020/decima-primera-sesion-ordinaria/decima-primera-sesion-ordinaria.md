@@ -16,6 +16,7 @@ Modified: 2020-03-18 15:00:00
 ## Descargar
 
 
+* [Acta 2020-03-18.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Primera Sesión Ordinaria/Acta 2020-03-18.pdf)
 * [Orden del día 2020-03-18.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Décima Primera Sesión Ordinaria/Orden del día 2020-03-18.docx)
 
 

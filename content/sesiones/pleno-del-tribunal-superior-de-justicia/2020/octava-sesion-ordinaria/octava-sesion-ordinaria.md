@@ -16,6 +16,7 @@ Modified: 2020-02-26 15:00:00
 ## Descargar
 
 
+* [Acta 2020-08-26.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Octava Sesión Ordinaria/Acta 2020-08-26.pdf)
 * [Orden del día 2020-02-26.docx](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Pleno del Tribunal Superior de Justicia/2020/Octava Sesión Ordinaria/Orden del día 2020-02-26.docx)
 
 
