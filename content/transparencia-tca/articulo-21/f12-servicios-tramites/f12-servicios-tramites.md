@@ -16,11 +16,11 @@ Cada una de las Áreas responsables que brindan el Servicio o Trámite del Tribu
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 El Tribunal de Conciliación y Arbitraje del Poder Judicial:
 
-1. Resuelve controversias entre:
+Resuelve controversias entre:
 
 a) El Poder Legislativo y sus trabajadores;
 
@@ -36,8 +36,8 @@ f) Los trabajadores al servicio de la educación y sus sindicatos, con cualquier
 
 Su domicilio se encuentra en: Bulevar Isidro López Zertuche 2791 Segundo Piso, Colonia Los Maestros. C.P. 25236. Teléfono: (844) 415.74.41
 
-2. Recepción de promociones y demandas en horario de 09:00 a.m. a 14:30 p.m., de lunes a viernes.
+* Recepción de promociones y demandas en horario de 08:00 a.m. a 16:00 p.m., de lunes a viernes.
 
-   [Trámites y Servicios](https://www.pjecz.gob.mx/tramites-y-servicios/)
+###### **[Trámites y Servicios del Poder Judicial del Estado de Coahuila de Zargoza](https://www.pjecz.gob.mx/tramites-y-servicios/)**
 
 

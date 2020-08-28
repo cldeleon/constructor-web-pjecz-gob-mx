@@ -20,7 +20,9 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
+
+[Acuerdos del Consejo de la Judicatura](https://www.pjecz.gob.mx/category/acuerdos-del-consejo.html)
 
 [Calendario de actualización, artículo 21](https://storage.googleapis.com/pjecz-gob-mx/Transparencia%20TCA/Art%C3%ADculo%2020/Calendario%20de%20Actualizacion%20Art%2021%20TCA%202020.ppt)
 

@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 El Tribunal de Conciliación y Arbitraje del Estado de Coahuila de Zaragoza no ha recibido a la fecha, aportaciones en dinero o en especie de personas físicas o morales, nacionales o internacionales, a través de los centros de acopio o en las instituciones de crédito, para ayudar a los municipios o comunidades en emergencia o desastre. No obstante de recibirse por el Poder Judicial este tipo de aportaciones, se difundirá la información por el órgano competente para dar cumplimiento al artículo 21 fracción XLVI de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza.
 

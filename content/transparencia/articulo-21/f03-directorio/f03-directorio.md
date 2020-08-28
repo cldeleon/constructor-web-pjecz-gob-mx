@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Derivado de los movimientos de personal para atender a las necesidades de trabajo dentro de los órganos Jurisdiccionales, no Jurisdiccionales y Administrativos del poder judicial, algunos datos del personal tales como su fotografía, número de empleado y correo electrónico se encuentran en proceso de asignación y actualización, los cuáles serán publicados en cuánto dicho proceso haya concluido.
 
@@ -57,7 +57,7 @@ Derivado de los movimientos de personal para atender a las necesidades de trabaj
 
 * [01 Primer Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/01 Primer Tribunal Distrital.xlsx)
 * [02 Segundo Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/02 Segundo Tribunal Distrital.xlsx)
-* [03 Tercer Tribunal Distrital.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/03 Tercer Tribunal Distrital.xls)
+* [03 Tercer Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/03 Tercer Tribunal Distrital.xlsx)
 * [04 Cuarto Tribunal Distrital.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/03 Tribunales Distritales/04 Cuarto Tribunal Distrital.xlsx)
 
 
@@ -66,7 +66,7 @@ Derivado de los movimientos de personal para atender a las necesidades de trabaj
 
 * [Dirección de Informática.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Informática.xlsx)
 * [Dirección de Infraestructura.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Infraestructura.xlsx)
-* [Dirección de Inovación.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Inovación.xlsx)
+* [Dirección de Innovación.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Innovación.xlsx)
 * [Dirección de Nóminas.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Nóminas.xlsx)
 * [Dirección de Recursos Financieros.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Recursos Financieros.xlsx)
 * [Dirección de Recursos Humanos.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/04 Oficialía Mayor/Dirección de Recursos Humanos.xlsx)
@@ -78,7 +78,7 @@ Derivado de los movimientos de personal para atender a las necesidades de trabaj
 ### 05 Juzgados de Primera Instancia
 
 
-* [Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xls)
+* [Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Administracion de los Juzgdos Penales del Sistema Acusatorio y Oral.xlsx)
 * [Juzgados Acuña.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Acuña.xlsx)
 * [Juzgados Monclova.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Monclova.xlsx)
 * [Juzgados Parras.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/05 Juzgados de Primera Instancia/Juzgados Parras.xls)
@@ -94,7 +94,7 @@ Derivado de los movimientos de personal para atender a las necesidades de trabaj
 
 * [Unidad Administrativa  Monclova.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa  Monclova.xlsx)
 * [Unidad Administrativa Piedras Negras.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa Piedras Negras.xlsx)
-* [Unidad Administrativa Saltillo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa Saltillo.xls)
+* [Unidad Administrativa Saltillo.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa Saltillo.xlsx)
 * [Unidad Administrativa San Pedro - Torreón.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F03 Directorio de Servidores Públicos/06 Unidades Administrativas/Unidad Administrativa San Pedro - Torreón.xlsx)
 
 

@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Este rubro de información **no aplica**, toda vez que no está dentro de sus atribuciones, las cuales se establecen en la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza.
 
@@ -28,9 +28,13 @@ Asimismo el convenio de colaboración con la Universidad Autónoma de Coahuila q
 
 **CONVENIOS DE COLABORACIÓN**
 
-* [Radio Coahuila - Poder Judicial del Estado de Coahuila](https://www.dropbox.com/s/c8cy9thnn5ni4nd/Convenio%20Radio%20Coahuila.pdf?dl=0)
-* [Universidad Autónoma de Coahuila - Poder Judicial del Estado de Coahuila](https://www.dropbox.com/home/Art.%2022?preview=Convenio-UAdeC.pdf)
-
 ### 
+
+
+## Descargar
+
+
+* [Convenio Radio Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 22/Convenio Radio Coahuila.pdf)
+* [Convenio-UAdeC.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 22/Convenio-UAdeC.pdf)
 
 

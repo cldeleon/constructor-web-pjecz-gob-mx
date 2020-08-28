@@ -18,7 +18,7 @@ Lic. Carlos Javier García Mata, Visitador Judicial General
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio  del 2020
+07 de agosto de 2020
 
 
 ### 01 Año 2020
@@ -306,5 +306,50 @@ Lic. Carlos Javier García Mata, Visitador Judicial General
 * [Transparencia-27-10-segunda-visita-distrito-torreon-juzgado-tercero-familiar.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/04 Año 2017/Transparencia-27-10-segunda-visita-distrito-torreon-juzgado-tercero-familiar.pdf)
 * [Transparencia-27-10-segunda-visita-distrito-torreon-juzgado-tercero-mercantil.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/04 Año 2017/Transparencia-27-10-segunda-visita-distrito-torreon-juzgado-tercero-mercantil.pdf)
 * [Transparencia-27-10-segunda-visita-distrito-torreon-segundo-tribunal-distrital.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/04 Año 2017/Transparencia-27-10-segunda-visita-distrito-torreon-segundo-tribunal-distrital.pdf)
+
+
+### 05 Año 2016
+
+
+#### Primera Visita
+
+
+* [transparencia-27-10-actas-de-visitas-acuna-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-acuna-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-monclova-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-monclova-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-parras-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-parras-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-piedras-negras-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-piedras-negras-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-sabinas-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-sabinas-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-saltillo-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-saltillo-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-san-pedro-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-san-pedro-1-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-torreon-1-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Primera Visita/transparencia-27-10-actas-de-visitas-torreon-1-2016.pdf)
+
+
+#### Segunda Visita
+
+
+* [transparencia-27-10-actas-de-visitas-acuna-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-acuna-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-monclova-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-monclova-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-parras-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-parras-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-piedras-negras-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-piedras-negras-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-sabinas-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-sabinas-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-saltillo-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-saltillo-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-san-pedro-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-san-pedro-2-2016.pdf)
+* [transparencia-27-10-actas-de-visitas-torreon-2-2016.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/05 Año 2016/Segunda Visita/transparencia-27-10-actas-de-visitas-torreon-2-2016.pdf)
+
+
+### 06 Año 2015
+
+
+* [transparencia-27-10-actas-de-visitas-acuna-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-acuna-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-monclova-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-monclova-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-parras-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-parras-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-piedras-negras-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-piedras-negras-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-sabinas-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-sabinas-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-saltillo-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-saltillo-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-san-pedro-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-san-pedro-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-torreon-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-torreon-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-tribunal-adolescentes-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-tribunal-adolescentes-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-tribunal-de-conciliacion-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-tribunal-de-conciliacion-2015.pdf)
+* [transparencia-27-10-actas-de-visitas-tribunal-electoral-2015.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F10 Actas de las visitas de inspección/06 Año 2015/transparencia-27-10-actas-de-visitas-tribunal-electoral-2015.pdf)
 
 

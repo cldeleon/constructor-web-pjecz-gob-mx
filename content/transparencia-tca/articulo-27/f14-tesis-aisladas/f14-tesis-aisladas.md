@@ -20,12 +20,12 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 #### FECHA DE VALIDACIÓN
 
-02 de julio del 2020
+10 de agosto del 2020
 
 A la fecha que se actualiza no se han generado tesis aisladas y jurisprudenciales por el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza
 
 Si desea conocer las tesis aisladas y jurisprudenciales emitidas por los órganos jurisdiccionales del Poder Judicial del Estado de Coahuila de Zaragoza, puede ingresar en el siguiente enlace:
 
-##### **[Tesis Aisladas](https://www.pjecz.gob.mx/transparencia/articulo-27/f19-tesis-aisladas/)**
+###### **[Tesis Aisladas - Poder Judicial](https://www.pjecz.gob.mx/transparencia/articulo-27/f19-tesis-aisladas/)**
 
 

@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 La función jurisdiccional se ejerce por magistrados y jueces independientes, imparciales, responsables y sometidos únicamente al imperio de la ley, no existiendo entre ellos relación jerárquica de supra o de subordinación.
 
@@ -219,7 +219,7 @@ De esta manera, el Poder Judicial del Estado de Coahuila cuenta con la siguiente
 
 * [Dirección de Informática.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Informática.pptx)
 * [Dirección de Infraestructura Física.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Infraestructura Física.pptx)
-* [Dirección de Inovación.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Inovación.pptx)
+* [Dirección de Innovación.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Innovación.pptx)
 * [Dirección de Nóminas.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Nóminas.pptx)
 * [Dirección de Recursos Financieros.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Recursos Financieros.pptx)
 * [Dirección de Recursos Humanos.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F01 Estructura Orgánica/03 Estructura Administrativa/03 Oficialía Mayor/Dirección de Recursos Humanos.pptx)

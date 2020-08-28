@@ -18,7 +18,7 @@ Cada una de las áreas responsables que brindan el Servicio o Trámite del Poder
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+14 de agosto de 2020
 
 ##### [Trámites y Servicios](https://www.pjecz.gob.mx/tramites-y-servicios/)
 

@@ -12,14 +12,14 @@ Modified: 2020-04-30 09:30:00
 
 **II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
-##### **6.** **[Las listas de acuerdos](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)**[, las sentencias relevantes con los respectivos votos particulares si los hubiere;](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)
+#### **6.** **[Las listas de acuerdos](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)**[, las sentencias relevantes con los respectivos votos particulares si los hubiere;](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos/)
 
 ### RESPONSABLE
 
-Cada órgano jurisdccional
+Cada órgano jurisdiccional
 
 ### FECHA DE VALIDACIÓN
 
-03 de julio del 2020
+10 de agosto del 2020
 
 

@@ -12,7 +12,7 @@ Modified: 2020-04-30 09:30:00
 
 **II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
-##### **15.** **[Cualquier otra información](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)**[ que se considere relevante a juicio del Pleno del Tribunal;](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
+#### **15.** **[Cualquier otra información](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)**[ que se considere relevante a juicio del Pleno del Tribunal;](https://www.pjecz.gob.mx/transparencia-tca/articulo-21/f52-otra-informacion/)
 
 ### RESPONSABLE
 
@@ -20,6 +20,6 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 

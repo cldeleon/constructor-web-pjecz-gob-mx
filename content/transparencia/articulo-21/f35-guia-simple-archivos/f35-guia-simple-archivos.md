@@ -18,12 +18,12 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 
 ## Descargar
 
 
-* [Guía simple de archivos.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos.xls)
+* [Guía simple de archivos.xlsx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F35 Guía Simple de Archivos/Guía simple de archivos.xlsx)
 
 

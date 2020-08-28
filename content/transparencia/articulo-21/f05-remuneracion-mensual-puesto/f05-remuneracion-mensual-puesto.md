@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 
 ### Remuneración Mensual

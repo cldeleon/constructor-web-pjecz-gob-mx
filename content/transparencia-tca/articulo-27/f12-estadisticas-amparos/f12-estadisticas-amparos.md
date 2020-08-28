@@ -18,7 +18,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-03 de julio del 2020
+10 de agosto del 2020
 
 
 ### 01. 2020
@@ -30,6 +30,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 * [04 Amparos TCA 2020 Abril.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F12 Estadísticas de amparos/01. 2020/04 Amparos TCA 2020 Abril.ppt)
 * [05 Amparos TCA 2020 Mayo.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F12 Estadísticas de amparos/01. 2020/05 Amparos TCA 2020 Mayo.ppt)
 * [06 Amparos TCA 2020 Junio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F12 Estadísticas de amparos/01. 2020/06 Amparos TCA 2020 Junio.ppt)
+* [07 Amparos TCA 2020 Julio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 27/F12 Estadísticas de amparos/01. 2020/07 Amparos TCA 2020 Julio.ppt)
 
 
 ### 02. 2019

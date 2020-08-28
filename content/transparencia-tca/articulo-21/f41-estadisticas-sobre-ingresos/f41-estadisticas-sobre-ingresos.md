@@ -8,7 +8,7 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-**ART. 21, FRACCIÓN XLI. ESTADÍSTICAS SOBRE INGRESOS**
+## **ART. 21, FRACCIÓN XLI. ESTADÍSTICAS SOBRE INGRESOS**
 
 Estadísticas o indicadores sobre los ingresos derivados de impuestos, derechos, productos o aprovechamientos.
 
@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-02 de julio del 2020
+10 de agosto del 2020
 
 El Tribunal de Conciliación y Arbitraje es un órgano integrante del Poder Judicial del Estado de Coahuila de Zaragoza y no está dentro de sus funciones y facultades la de generar y concentrar la información del presente rubro. A continuación se proporciona el enlace a la información correspondiente:
 

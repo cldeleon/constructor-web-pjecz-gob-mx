@@ -18,18 +18,16 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 #### Visitadores
 
 * Carlos Javier García Mata
 
   Magistrado Distrital Comisionado ( Visitador Judicial General )
-
 * José María García De La Peña
 
   Visitador
-
 * Javier Antonio Vela Díaz
 
   Visitador

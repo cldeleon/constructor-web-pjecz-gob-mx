@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ##### [Presupuesto](https://www.pjecz.gob.mx/transparencia/articulo-21/f20-presupuesto-asignado/)
 

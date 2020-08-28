@@ -14,11 +14,11 @@ Las sentencias que hayan causado ejecutoria en su versión pública;
 
 #### RESPONSABLE
 
-Órganos Jurisdiccionales 
+Órganos Jurisdiccionales
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ## [Sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 

@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 
 ### 01. 2020
@@ -30,6 +30,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 * [04 Preguntas frecuentes TCA Abril 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/01. 2020/04 Preguntas frecuentes TCA Abril 2020.xls)
 * [05 Preguntas frecuentes TCA Mayo 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/01. 2020/05 Preguntas frecuentes TCA Mayo 2020.xls)
 * [06 Preguntas frecuentes TCA Junio 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/01. 2020/06 Preguntas frecuentes TCA Junio 2020.xls)
+* [07 Preguntas frecuentes TCA Julio 2020.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F43 Preguntas Frecuentes y sus Respuestas/01. 2020/07 Preguntas frecuentes TCA Julio 2020.xls)
 
 
 ### 02. 2019

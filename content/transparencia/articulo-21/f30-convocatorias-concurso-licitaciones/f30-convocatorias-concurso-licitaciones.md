@@ -14,7 +14,7 @@ Lic. José Manuel Gil Navarro, Oficial Mayor
 
 ### FECHA DE VALIDACIÓN
 
-4 de junio de 2020
+14 de agosto de 2020
 
 Los resultados sobre procedimientos de adjudicación directa, invitación restringida y licitación de cualquier naturaleza, incluyendo el o los contratos celebrados.
 

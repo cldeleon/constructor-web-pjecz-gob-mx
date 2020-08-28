@@ -8,17 +8,17 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-## Art. 27, 13. Formatos de los procedimientos 
+## Art. 27, 13. Formatos de los procedimientos
 
 Los principales indicadores sobre la actividad jurisdiccional que deberán incluir, al menos, los asuntos iniciados, en trámite y resueltos;
 
 #### RESPONSABLE
 
-Órganos Jurisdiccionales 
+Órganos Jurisdiccionales
 
 #### FECHA DE VALIDACIÓN
 
-4 de junio del 2020
+07 de agosto de 2020
 
 
 ### Juicio Mercantil

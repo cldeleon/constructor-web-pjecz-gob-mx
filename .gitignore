@@ -11,4 +11,9 @@ __pycache__
 *.xls
 *.xlsx
 *.zip
-output
+output/
+content/armonizacion-contable/
+content/comunicados/
+content/conocenos/
+content/derechos-humanos/
+content/observatorio-judicial/

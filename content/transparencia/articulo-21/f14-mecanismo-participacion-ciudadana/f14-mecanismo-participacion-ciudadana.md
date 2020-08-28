@@ -18,26 +18,16 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 ###### Art. 260 Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza
 
-Las asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia
+Las asociaciones de abogados legalmente constituidas y registradas, quedan debidamente autorizadas para gestionar ante la Autoridad Judicial que corresponda, lo que estimen conducente para la mejor administración de justicia**.**
 
-* **Mecanismo de Participación Ciudadana**
 
-  Las Asociaciones de Abogados
-* **Forma de Participación**
+## Descargar
 
-  Gestionar lo que estimen conducente para mejorar la administración de justicia
-* **Autoridad ante la que se debe presentar**
 
-  Autoridad Judicial
-* **Requisitos**
-
-  La A.C. deberá estar legalmente constituida y registrada
-* **Formatos**
-
-  A criterio de los interesados
+* [Mecanismos de Participación Ciudadana.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F14 Mecanismo de Participación Ciudadana/Mecanismos de Participación Ciudadana.pptx)
 
 

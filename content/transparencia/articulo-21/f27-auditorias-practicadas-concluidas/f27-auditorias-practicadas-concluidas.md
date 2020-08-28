@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 
 ### 01 Auditorías 2020
@@ -28,6 +28,9 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 
 ### 02 Auditorías 2019
+
+
+* [Auditorías 2019.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F27 Auditorías Practicadas y Concluídas/02 Auditorías 2019/Auditorías 2019.pptx)
 
 
 ### 03 Auditorías 2018

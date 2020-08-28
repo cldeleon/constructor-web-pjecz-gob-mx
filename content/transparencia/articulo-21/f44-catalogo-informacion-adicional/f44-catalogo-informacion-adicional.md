@@ -20,11 +20,9 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 ##### [Mensajes y Ponencias del Magistrado Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
-
-##### [Misión, Visión y Valores](https://www.pjecz.gob.mx/conocenos/quienes-somos/mision-vision-y-valores/)
 
 ##### [Armonización Contable](https://www.pjecz.gob.mx/armonizacion-contable/)
 

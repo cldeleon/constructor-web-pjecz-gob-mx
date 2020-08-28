@@ -16,7 +16,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 No Aplica los dispuesto en el artículo 22 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "gasto de publicidad oficial".
 
@@ -24,7 +24,6 @@ Lo anterior en virtud de que dentro de las funciones y atribuciones del Tribunal
 
 No obstante el Poder Judicial ha celebrado convenios de colaboración con Radio Coahuila y la Universidad Autónoma de Coahuila, el primero en el marco del fortalecimiento de la política de comunicación del Poder Judicial del Estado de Coahuila de Zaragoza, y el segundo para la capacitación y asistencia técnica en materia de mecanismos alternativos de solución de controversias, apoyo en la producción y difusión de materia audio visual, y la realización de prácticas profesionales y prestación de servicio social, en este contexto, se proporciona la siguiente información:
 
-### 
 
 
 ## Descargar

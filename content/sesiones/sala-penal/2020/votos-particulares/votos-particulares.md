@@ -17,10 +17,13 @@ Los votos particulares emitidos por Magistradas y Magistrados.
 ## Descargar
 
 
+* [Magistrado Luis Efrén Ríos Vega - Tesis jurisprudenciales y aisladas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega - Tesis jurisprudenciales y aisladas.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 02-2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 02-2020.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 13-2020-O.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 13-2020-O.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 17-2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 17-2020.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 19-2020-O.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 19-2020-O.pdf)
+* [Magistrado Luis Efrén Ríos Vega Toca Penal 25_2020-O.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 25_2020-O.pdf)
+* [Magistrado Luis Efrén Ríos Vega Toca Penal 26-2020-T.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 26-2020-T.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 28-2020-E.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 28-2020-E.pdf)
 * [Magistrado Luis Efrén Ríos Vega Toca Penal 49-2019.pdf](https://storage.googleapis.com/pjecz-gob-mx/Sesiones/Sala Penal/2020/Votos Particulares/Magistrado Luis Efrén Ríos Vega Toca Penal 49-2019.pdf)
 

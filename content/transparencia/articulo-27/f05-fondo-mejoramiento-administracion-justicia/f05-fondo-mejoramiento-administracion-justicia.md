@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 
 ### 01 Año 2020
@@ -28,6 +28,8 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 * [02 FEBRERO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/01 Año 2020/02 FEBRERO.pdf)
 * [03 MARZO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/01 Año 2020/03 MARZO.pdf)
 * [04 ABRIL.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/01 Año 2020/04 ABRIL.pdf)
+* [05 MAYO.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/01 Año 2020/05 MAYO.pptx)
+* [06 JUNIO.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 27/F05 Fondo para el Mejoramiento de la Administración Justicia/01 Año 2020/06 JUNIO.pptx)
 
 
 ### 02 Año 2019

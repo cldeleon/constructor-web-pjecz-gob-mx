@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 ##### [Eventos-Actividades](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/eventos-actividades/)
 
@@ -32,8 +32,13 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 ##### 01 Minutas 2020
 
 
-* [Minutas Enero 2020.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/Minutas Enero 2020.docx)
-* [Minutas Febrero 2020.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/Minutas Febrero 2020.docx)
+* [01 Minutas Enero 2020.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/01 Minutas Enero 2020.docx)
+* [02 Minutas Febrero 2020.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/02 Minutas Febrero 2020.docx)
+* [03 Minutas Marzo 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/03 Minutas Marzo 2020.pptx)
+* [04 Minutas Abril 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/04 Minutas Abril 2020.pptx)
+* [05 Minutas Mayo 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/05 Minutas Mayo 2020.pptx)
+* [06 Minutas Junio 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/06 Minutas Junio 2020.pptx)
+* [07 Minutas Julio 2020.pptx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F21 Calendariación de Reuniones Públicas/Minutas/Sala Colegiada Penal/01 Minutas 2020/07 Minutas Julio 2020.pptx)
 
 
 ##### 02 Minutas 2019

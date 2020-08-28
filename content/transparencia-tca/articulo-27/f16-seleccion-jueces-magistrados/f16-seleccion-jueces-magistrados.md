@@ -12,7 +12,7 @@ Modified: 2020-04-30 09:30:00
 
 **II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
-##### **16.** **[El proceso de selección de magistrados.](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)**
+#### **16.** **[El proceso de selección de magistrados.](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)**
 
 ### RESPONSABLE
 
@@ -20,6 +20,6 @@ Lic. Rosalba Ixchel Rodríguez Villagrana, Secretario de Acuerdo y Trámite del 
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 

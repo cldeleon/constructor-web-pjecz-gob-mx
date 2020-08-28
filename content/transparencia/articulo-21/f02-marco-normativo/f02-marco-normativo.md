@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+14 de agosto de 2020
 
 
 ### 01 Constituciones
@@ -50,11 +50,11 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 * [Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley Federal de los Trabajadores al Servicio del Estado, Reglamentaria del Apartado B del Artículo 123 Constitucional.pdf)
 * [Ley Federal del Trabajo.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley Federal del Trabajo.pdf)
 * [Ley Federal para la Protección de Personas que Intervienen el Procedimiento Penal.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley Federal para la Protección de Personas que Intervienen el Procedimiento Penal.pdf)
+* [Ley General Transparencia y Acceso a la Información Pública.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General Transparencia y Acceso a la Información Pública.pdf)
 * [Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Acceso de las Mujeres a una Vida Libre de Violencia.pdf)
 * [Ley General de Contabilidad Gubernamental.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Contabilidad Gubernamental.pdf)
 * [Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Protección de Datos Personales en Posesión de Sujetos Obligados.pdf)
 * [Ley General de Responsabilidades Administrativas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Responsabilidades Administrativas.pdf)
-* [Ley General de Transparencia y Acceso a la Información Pública.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Transparencia y Acceso a la Información Pública.pdf)
 * [Ley General de Títulos y Operaciones de Crédito.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Títulos y Operaciones de Crédito.pdf)
 * [Ley General de Víctimas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de Víctimas.pdf)
 * [Ley General de los Derechos de Niñas, Niños y Adolescentes.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F02 Marco Normativo/03 Leyes Federales/Ley General de los Derechos de Niñas, Niños y Adolescentes.pdf)

@@ -18,24 +18,28 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
-
-A la fecha no se han generado nuevas actas de entrega-recepción
+07 de agosto de 2020
 
 
-## Descargar
+### 01 2020
 
 
-* [ACTA-ENTREGA-RECEPCIÓN-ACUSATORIO-Y-ORAL-FRONTERA-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA-RECEPCIÓN-ACUSATORIO-Y-ORAL-FRONTERA-N19.pdf)
-* [ACTA-ENTREGA-RECEPCIÓN-CUARTO-CIVIL-TORREÓN-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA-RECEPCIÓN-CUARTO-CIVIL-TORREÓN-N19.pdf)
-* [ACTA-ENTREGA-RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-O19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA-RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-O19.pdf)
-* [ACTA-ENTREGA-RECEPCIÓN-PRIMERO-PENAL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA-RECEPCIÓN-PRIMERO-PENAL-SALTILLO-N19.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO1.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO1.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-CIVIL-Y-FAMILIAR-PARRAS-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-CIVIL-Y-FAMILIAR-PARRAS-N19.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-N19.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-SEGUNDO-LETRADO-CIVIL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-SEGUNDO-LETRADO-CIVIL-SALTILLO-N19.pdf)
-* [ACTA-ENTREGA_RECEPCIÓN-TERCERO-FAMILIAR-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/ACTA-ENTREGA_RECEPCIÓN-TERCERO-FAMILIAR-SALTILLO-N19.pdf)
+* [Distrito Saltillo. Juzgado Primero Mercantil.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/01 2020/Distrito Saltillo. Juzgado Primero Mercantil.pdf)
+
+
+### 02 2019
+
+
+* [ACTA-ENTREGA-RECEPCIÓN-ACUSATORIO-Y-ORAL-FRONTERA-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA-RECEPCIÓN-ACUSATORIO-Y-ORAL-FRONTERA-N19.pdf)
+* [ACTA-ENTREGA-RECEPCIÓN-CUARTO-CIVIL-TORREÓN-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA-RECEPCIÓN-CUARTO-CIVIL-TORREÓN-N19.pdf)
+* [ACTA-ENTREGA-RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-O19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA-RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-O19.pdf)
+* [ACTA-ENTREGA-RECEPCIÓN-PRIMERO-PENAL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA-RECEPCIÓN-PRIMERO-PENAL-SALTILLO-N19.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO1.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-ACUSATORIO-Y-ORAL-SALTILLO1.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-CIVIL-Y-FAMILIAR-PARRAS-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-CIVIL-Y-FAMILIAR-PARRAS-N19.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-PRIMERO-MERCANTIL-SALTILLO-N19.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-SEGUNDO-LETRADO-CIVIL-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-SEGUNDO-LETRADO-CIVIL-SALTILLO-N19.pdf)
+* [ACTA-ENTREGA_RECEPCIÓN-TERCERO-FAMILIAR-SALTILLO-N19.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F32 Actas de Entrega-Recepción/02 2019/ACTA-ENTREGA_RECEPCIÓN-TERCERO-FAMILIAR-SALTILLO-N19.pdf)
 
 
  

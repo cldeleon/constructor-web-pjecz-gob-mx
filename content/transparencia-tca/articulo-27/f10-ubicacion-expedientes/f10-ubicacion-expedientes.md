@@ -14,7 +14,7 @@ II. Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le
 
 ....
 
-##### **10.**[ ](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php?d=VEUrUw%3D%3D&j=Vm10amVHUXhaSE5SYkVwUlZrUkJPUT09KzI%3D&expediente=&exampleN_length=10)**[Ubicación de los expedientes](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php?d=VEUrUw%3D%3D&j=Vm10amVHUXhaSE5SYkVwUlZrUkJPUT09KzI%3D&expediente=&exampleN_length=10)**
+#### **10.**[ ](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php?d=VEUrUw%3D%3D&j=Vm10amVHUXhaSE5SYkVwUlZrUkJPUT09KzI%3D&expediente=&exampleN_length=10)**[Ubicación de los expedientes](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php?d=VEUrUw%3D%3D&j=Vm10amVHUXhaSE5SYkVwUlZrUkJPUT09KzI%3D&expediente=&exampleN_length=10)**
 
 ### RESPONSABLE
 
@@ -22,6 +22,6 @@ Cada órgano jurisdiccional
 
 ### FECHA DE VALIDACIÓN
 
-03 de julio del 2020
+10 de agosto del 2020
 
 

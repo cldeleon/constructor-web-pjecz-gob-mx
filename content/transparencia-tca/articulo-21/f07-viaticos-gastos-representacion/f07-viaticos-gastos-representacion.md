@@ -14,11 +14,11 @@ El importe por concepto de viáticos a partir del jefe de departamento y, en su 
 
 ### RESPONSABLE
 
-C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
+C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 ### FECHA DE VALIDACIÓN
 
-03 de julio de 2020
+24 de agosto de 2020
 
 
 ### 01. 2020
@@ -30,6 +30,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Finaneros
 * [04 Viáticos Abril 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/01. 2020/04 Viáticos Abril 2020.ppt)
 * [05 Viáticos Mayo 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/01. 2020/05 Viáticos Mayo 2020.ppt)
 * [06 Viáticos Junio 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/01. 2020/06 Viáticos Junio 2020.ppt)
+* [07 Viáticos Julio 2020.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F07 Viáticos y Gastos de Representación/01. 2020/07 Viáticos Julio 2020.ppt)
 
 
 ### 02. 2019

@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
 
 
 ### Comisiones
@@ -33,6 +33,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [04 Comisiones TCA 2020 Abril.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/01. 2020/04 Comisiones TCA 2020 Abril.ppt)
 * [05 Comisiones TCA 2020 Mayo.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/01. 2020/05 Comisiones TCA 2020 Mayo.ppt)
 * [06 Comisiones TCA 2020 Junio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/01. 2020/06 Comisiones TCA 2020 Junio.ppt)
+* [07 Comisiones TCA 2020 Julio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Comisiones/01. 2020/07 Comisiones TCA 2020 Julio.ppt)
 
 
 #### 02. 2019
@@ -98,6 +99,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [04 TCA Licencias 2020 Abril.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/01. 2020/04 TCA Licencias 2020 Abril.ppt)
 * [05 TCA Licencias 2020 Mayo.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/01. 2020/05 TCA Licencias 2020 Mayo.ppt)
 * [06 TCA Licencias 2020 Junio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/01. 2020/06 TCA Licencias 2020 Junio.ppt)
+* [07 TCA Licencias 2020 Julio.ppt](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F04 Nombramientos, Comisiones y Licencias/Licencias/01. 2020/07 TCA Licencias 2020 Julio.ppt)
 
 
 #### 02. 2019

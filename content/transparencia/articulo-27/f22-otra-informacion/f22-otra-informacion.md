@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 ##### [Tabla de Aplicabilidad - Artículo 21 LGTAIP](https://www.dropbox.com/s/z0mqgw0irow9vx7/Tabla%20de%20aplicabilidad%20de%20las%20Obligaciones%20de%20transparencia%20comunes%20art.%2021.docx?dl=0)
 

@@ -19,7 +19,7 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ##### [Calendario de días inhábiles](https://www.dropbox.com/s/957v1gcdwisbj8o/Calendario%20d%C3%ADas%20Inh%C3%A1biles%202020.pdf?dl=0)
 

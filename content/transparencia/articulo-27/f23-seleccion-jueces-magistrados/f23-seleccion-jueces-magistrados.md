@@ -16,7 +16,7 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ##### [Selección de Jueces y Magistrados](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/proceso-de-seleccion-de-jueces-y-magistrados-distritales/)
 

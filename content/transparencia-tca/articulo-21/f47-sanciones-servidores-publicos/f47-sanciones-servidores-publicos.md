@@ -8,7 +8,7 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-**ART. 21, FRACCIÓN XLVII. SERVIDORES PÚBLICOS SANCIONADOS**
+## **ART. 21, FRACCIÓN XLVII. SERVIDORES PÚBLICOS SANCIONADOS**
 
 El listado de servidores públicos con sanciones definitivas, especificando la causa de sanción, la disposición y la sanción.
 
@@ -18,7 +18,7 @@ Secretaría de Acuerdo y Trámite del Consejo de la Judicatura.
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 A la fecha de actualización del presente rubro, no hay servidores públicos del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, sancionados mediante procedimiento disciplinario. Para acceder a la información respecto de servidores públicos sancionados del Poder Judicial, puede ingresar en el siguiente enlace:
 

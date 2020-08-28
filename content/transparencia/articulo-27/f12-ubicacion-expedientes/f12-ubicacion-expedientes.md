@@ -14,11 +14,11 @@ Las y los abogados litigantes pueden registrarse en el Juzgado Civil, Mercantil 
 
 ### RESPONSABLE
 
-Órganos Jurisdiccionales 
+Órganos Jurisdiccionales
 
 ### FECHA DE VALIDACIÓN
 
-1 de Julio del 2020
+07 de agosto de 2020
 
 ## [Ubicación de Expedientes](https://www.poderjudicialcoahuila.gob.mx/intranet/sentencias/consultaUbicacion2.php)
 

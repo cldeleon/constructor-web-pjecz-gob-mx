@@ -18,12 +18,12 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 De conformidad con el artículo 60 fracción VII de la Ley de Acceso a la Información Pública del Estado de Coahuila de Zaragoza, se clasifica como información reservada, aplicable al Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza: “Los expedientes judiciales o de los procedimientos administrativos seguidos en forma de juicio en tanto la sentencia no haya causado ejecutoria. Una vez que dicha resolución cause ejecutoria los expedientes serán públicos.
 
 A continuación se proporciona el enlace a las versiones públicas de las sentencias que han causado ejecutoria:
 
-[Versión pública de sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
+###### [Versión pública de sentencias](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 

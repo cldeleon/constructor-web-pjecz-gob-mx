@@ -16,7 +16,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Cualquier otra información que sea de utilidad o resulte relevante para el conocimiento y evaluación de las funciones responsabilidad del sujeto obligado.
 

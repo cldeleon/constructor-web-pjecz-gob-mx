@@ -18,7 +18,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 
 ## Descargar

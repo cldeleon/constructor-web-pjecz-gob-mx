@@ -18,11 +18,11 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos del Tribunal de Conc
 
 ### FECHA DE VALIDACIÓN
 
-02 de julio de 2020
+10 de agosto de 2020
 
 TRIBUNAL DE CONCILIACIÓN Y ARBITRAJE
 
-El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del Pleno del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en la que se emitió mediante Acuerdo No. 004/2010, en su parte conducente, lo siguiente: "Se aprueba el Calendario de Sesiones Ordinarias del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en el sentido de que las Sesiones Ordinarias se llevarán a cabo los días miércoles hábiles de cada semana, sin perjuicio de las sesiones extraordinarias a que convoque el Presidente de éste órgano jurisdiccional. Lo anterior en cumplimiento a los dispuesto por los artículos 185 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y, 25-O-1, 25-O-3 fracciones III, IV, XI y xv, 25-O-4 fracciones II, III, IV y V de la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza."
+El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del Pleno del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en la que se emitió mediante Acuerdo No. 004/2010, en su parte conducente, lo siguiente: "Se aprueba el Calendario de Sesiones Ordinarias del Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, en el sentido de que las Sesiones Ordinarias se llevarán a cabo los días miércoles hábiles de cada semana, sin perjuicio de las sesiones extraordinarias a que convoque el Presidente de éste órgano jurisdiccional. Lo anterior en cumplimiento a los dispuesto por los artículos 185 del Estatuto Jurídico para los Trabajadores al Servicio del Estado de Coahuila y, 25-O-1, 25-O-3 fracciones III, IV, XI y XV, 25-O-4 fracciones II, III, IV y V de la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza."
 
 
 ### 01. 2020
@@ -34,6 +34,7 @@ El 03 de febrero de 2010, tuvo lugar la celebración de la Primera Audiencia del
 * [04 Reuniones públicas TCA Abril 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/01. 2020/04 Reuniones públicas TCA Abril 2020.pdf)
 * [05 Reuniones públicas TCA Mayo 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/01. 2020/05 Reuniones públicas TCA Mayo 2020.pdf)
 * [06 Reuniones púbicas TCA Junio 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/01. 2020/06 Reuniones púbicas TCA Junio 2020.pdf)
+* [07 Reuniones Públicas TCA Julio 2020.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F21 Calendariación de Reuniones Públicas/01. 2020/07 Reuniones Públicas TCA Julio 2020.pdf)
 
 
 ### 02. 2019

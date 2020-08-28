@@ -18,7 +18,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 No Aplica lo dispuesto en la fracción XVII del artículo 21 de la ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "Los padrones de beneficiarios de los programas sociales".
 

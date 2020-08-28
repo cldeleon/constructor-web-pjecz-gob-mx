@@ -8,7 +8,7 @@ Date: 2020-04-30 09:30:00
 Modified: 2020-04-30 09:30:00
 
 
-### Art. 21, FRACCIÓN III. DIRECTORIO
+## Art. 21, FRACCIÓN III. DIRECTORIO
 
 El directorio de los servidores públicos, con nombre, cargo o nombramiento asignado, nivel tabular, fecha de alta en el cargo, fotografía, domicilio oficial, números telefónicos, y en su caso, dirección electrónica y redes sociales oficiales, con excepción de los miembros de las corporaciones policiacas.
 
@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
 
 
 ## Descargar

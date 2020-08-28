@@ -10,6 +10,8 @@ Status: draft
 
 ## 2020
 
+- [Vigésima Sexta Sesión Ordinaria](2020/vigesima-sexta-sesion-ordinaria/)
+- [Vigésima Quinta Sesión Ordinaria](2020/vigesima-quinta-sesion-ordinaria/)
 - [Vigésima Cuarta Sesión Ordinaria](2020/vigesima-cuarta-sesion-ordinaria/)
 - [Vigésima Tercera Sesión Ordinaria](2020/vigesima-tercera-sesion-ordinaria/)
 - [Vigésima Segunda Sesión Ordinaria](2020/vigesima-segunda-sesion-ordinaria/)

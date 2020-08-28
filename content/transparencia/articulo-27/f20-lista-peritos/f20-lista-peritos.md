@@ -18,7 +18,7 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 A través de las listas de auxiliares de la administración de justicia podrá encontrar profesionistas autorizados que funjan como peritos, intérpretes, personal especializado en atención a personas menores de edad, depositarios, interventores, síndicos de concursos, albaceas, partidores, liquidadores, tutores, curadores, notarios públicos y corredores.
 

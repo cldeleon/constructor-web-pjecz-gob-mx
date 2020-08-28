@@ -12,7 +12,7 @@ Modified: 2020-04-30 09:30:00
 
 **II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
-##### **8.** **[Las sentencias que hayan causado ejecutoria en su versión pública](https://www.pjecz.gob.mx/consultas/sentencias/)**[;](https://www.pjecz.gob.mx/consultas/sentencias/)
+#### **8.** **[Las sentencias que hayan causado ejecutoria en su versión pública](https://www.pjecz.gob.mx/consultas/sentencias/)**[;](https://www.pjecz.gob.mx/consultas/sentencias/)
 
 ### RESPONSABLE
 
@@ -20,6 +20,6 @@ Cada órgano jurisdiccional
 
 ### FECHA DE VALIDACIÓN
 
-03 de julio del 2020
+10 de agosto del 2020
 
 

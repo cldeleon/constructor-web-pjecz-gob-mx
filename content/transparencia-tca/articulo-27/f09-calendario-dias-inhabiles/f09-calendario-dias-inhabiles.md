@@ -16,7 +16,7 @@ Lic. Gustavo Sergio Flores Arizpe, Secretario General de Acuerdos del Pleno del 
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 
 ## Descargar

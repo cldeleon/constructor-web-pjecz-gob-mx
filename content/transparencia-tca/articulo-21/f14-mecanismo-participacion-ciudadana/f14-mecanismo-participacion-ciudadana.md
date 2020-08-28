@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 Artículo 260 Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza
 

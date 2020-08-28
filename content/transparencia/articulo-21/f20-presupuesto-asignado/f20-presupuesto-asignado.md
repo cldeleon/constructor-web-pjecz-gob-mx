@@ -16,7 +16,7 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Para los últimos tres ejercicios fiscales, la relativa al presupuesto asignado en lo general y por programa;
 

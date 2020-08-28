@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+14 de agosto de 2020
 
 ##### [Consulta del Perfil de Puestos](http://congresocoahuila.gob.mx/transparencia/03/Leyes_Coahuila/coa61.pdf)
 
@@ -50,8 +50,5 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 * [Luis Efrén Ríos Vega.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Curriculum/Sala Colegiada Penal/Luis Efrén Ríos Vega.docx)
 * [Manuel Alberto Flores Hernández.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Curriculum/Sala Colegiada Penal/Manuel Alberto Flores Hernández.docx)
 * [María Luisa Valencia García.docx](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F08 Perfil de Puestos y Currículum Vitae/Curriculum/Sala Colegiada Penal/María Luisa Valencia García.docx)
-
-
-#### Sala Regional
 
 

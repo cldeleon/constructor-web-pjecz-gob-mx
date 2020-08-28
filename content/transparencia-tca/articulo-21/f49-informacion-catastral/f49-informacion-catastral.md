@@ -18,9 +18,9 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
-No aplica lo dispuesto en la fracción XLIX del artículo21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales".
+No aplica lo dispuesto en la fracción XLIX del artículo 21 de la Ley de Acceso a la Información Pública para el Estado de Coahuila de Zaragoza, referente a "La información catastral, consistente en cartografía catastral por sector, manzana y lote, y las tablas de valores por sección, calles y avenidas, con inclusión de deméritos eventuales".
 
 Lo anterior en virtud de que los inmuebles que ocupa no son propiedad de Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza.
 

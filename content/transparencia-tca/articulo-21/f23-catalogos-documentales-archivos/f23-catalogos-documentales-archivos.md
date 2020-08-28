@@ -18,7 +18,7 @@ EL órgano jurisdiccional y unidad administrativa del Tribunal de Conciliación 
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
 
 
 ## Descargar

@@ -18,7 +18,7 @@ Lic. Rosalba Ixchel Rodíguez Villagrana, Secretaria de Acuerdo y Trámite
 
 ### FECHA DE VALIDACIÓN
 
-1 de junio del 2020
+07 de agosto de 2020
 
 **Nota Informativa:**
 

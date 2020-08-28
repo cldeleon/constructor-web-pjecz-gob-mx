@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 A la fecha de actualización en el Tribunal de Conciliación y Arbitraje del Poder Judicial del Estado de Coahuila de Zaragoza, no se han generado por la autoridad correspondiente actas de entrega - recepción.
 

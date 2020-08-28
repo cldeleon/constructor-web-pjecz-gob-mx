@@ -18,7 +18,7 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 ##### **01. Constituciones**
 
@@ -64,9 +64,9 @@ Lic. Rogelio Padilla Muñoz, Secretario General de Acuerdos y Lic. Liliana Ortiz
 
 [Ley General de Protección de Datos Personales en posesión de Sujetos Obligados](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGPDPPSO.pdf)
 
-[Ley General de Responsabilidades Administrativas](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA_191119.pdf)
+[Ley General de Responsabilidades Administrativas](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGRA_130420.pdf)
 
-[Ley General de Transparencia y Acceso a la Información Pública](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP.pdf)
+[Ley General de Transparencia y Acceso a la Información Pública](http://www.diputados.gob.mx/LeyesBiblio/pdf/LGTAIP_130820.pdf)
 
 ##### **04. Leyes Estatales**
 

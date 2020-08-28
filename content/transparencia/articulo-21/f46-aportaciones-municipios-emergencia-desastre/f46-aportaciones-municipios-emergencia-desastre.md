@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Desde la entrada en vigor de la presente Ley de Acceso a la Información Publica para el Estado de Coahuila de Zaragoza, el el Poder Judicial del Estado de Coahuila de Zaragoza no ha realizado ningún tipo de aportación a municipios o comunidades en emergencia o desastre, esto a partir del día 11/09/2015 a la fecha.
 

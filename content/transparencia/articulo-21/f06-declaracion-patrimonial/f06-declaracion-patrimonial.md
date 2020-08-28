@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+14 de agosto de 2020
 
 * [Declaraciones Patrimoniales de los Servidores Públicos](https://declaranet.sefircoahuila.gob.mx/sidp/publica/?q=E0042&q2=57)
 * [Listado de servidores públicos que no rindieron declaración patrimonial](https://www.declaranetcoahuila.gob.mx/sidp/reports/secomac/sidp/IUReporteFuncionariosPendientesEstatales.jsp)

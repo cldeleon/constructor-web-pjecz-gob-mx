@@ -18,7 +18,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 Con motivo del procedimiento seguido en el expediente 746/2015-P. C., se dictó el 30 de mayo del 2016 la sentencia de reconocimiento, graduación y prelación de créditos, en la que se reconoce, en el número 4537, al Poder Judicial como acreedor por la cantidad que en UDI'S se indica en la propia resolución dictada.
 

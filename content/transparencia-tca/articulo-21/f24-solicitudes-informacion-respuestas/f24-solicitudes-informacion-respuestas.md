@@ -18,51 +18,60 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
+
+###### **En formato *excel* podrá consultar y descargar el Reporte mensual de solicitudes, de igual se anexa una Guía para consultar las respuestas a través del [Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza](http://189.254.130.35/infocoahuila/)**
 
 
-### 01. 2020
+## Descargar
 
 
-* [01 Solicitudes de Informacion 2020 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/01 Solicitudes de Informacion 2020 Enero.xls)
-* [02 Solicitudes de Informacion 2020 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/02 Solicitudes de Informacion 2020 Febrero.xls)
-* [03 Solicitudes de Informacion 2020 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/03 Solicitudes de Informacion 2020 Marzo.xls)
-* [04 Solicitudes de Informacion 2020 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/04 Solicitudes de Informacion 2020 Abril.xls)
-* [05 Solicitudes de Informacion 2020 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/05 Solicitudes de Informacion 2020 Mayo.xls)
-* [06 Solicitudes de Informacion 2020 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/01. 2020/06 Solicitudes de Informacion 2020 Junio.xls)
+* [Guía de consulta.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/Guía de consulta.pdf)
 
 
-### 02. 2019
+### 1. 2020
 
 
-* [01 Solicitudes de Informacion 2019 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/01 Solicitudes de Informacion 2019 Enero.xls)
-* [02 Solicitudes de Informacion 2019 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/02 Solicitudes de Informacion 2019 Febrero.xls)
-* [03 Solicitudes de Informacion 2019 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/03 Solicitudes de Informacion 2019 Marzo.xls)
-* [04 Solicitudes de Informacion 2019 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/04 Solicitudes de Informacion 2019 Abril.xls)
-* [05 Solicitudes de Informacion 2019 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/05 Solicitudes de Informacion 2019 Mayo.xls)
-* [06 Solicitudes de Informacion 2019 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/06 Solicitudes de Informacion 2019 Junio.xls)
-* [07 Solicitudes de Informacion 2019 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/07 Solicitudes de Informacion 2019 Julio.xls)
-* [08 Solicitudes de Informacion 2019 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/08 Solicitudes de Informacion 2019 Agosto.xls)
-* [09 Solicitudes de Informacion 2019 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/09 Solicitudes de Informacion 2019 Septiembre.xls)
-* [10 Solicitudes de Informacion 2019 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/10 Solicitudes de Informacion 2019 Octubre.xls)
-* [11 Solicitudes de Informacion 2019 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/11 Solicitudes de Informacion 2019 Noviembre.xls)
-* [12 Solicitudes de Informacion 2019 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/02. 2019/12 Solicitudes de Informacion 2019 Diciembre.xls)
+* [01 Solicitudes de Informacion 2020 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/01 Solicitudes de Informacion 2020 Enero.xls)
+* [02 Solicitudes de Informacion 2020 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/02 Solicitudes de Informacion 2020 Febrero.xls)
+* [03 Solicitudes de Informacion 2020 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/03 Solicitudes de Informacion 2020 Marzo.xls)
+* [04 Solicitudes de Informacion 2020 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/04 Solicitudes de Informacion 2020 Abril.xls)
+* [05 Solicitudes de Informacion 2020 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/05 Solicitudes de Informacion 2020 Mayo.xls)
+* [06 Solicitudes de Informacion 2020 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/06 Solicitudes de Informacion 2020 Junio.xls)
+* [07 Solicitudes de Informacion 2020 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/1. 2020/07 Solicitudes de Informacion 2020 Julio.xls)
 
 
-### 03. 2018
+### 2. 2019
 
 
-* [01 Solicitudes de Informacion 2018 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/01 Solicitudes de Informacion 2018 Enero.xls)
-* [02 Solicitudes de Informacion 2018 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/02 Solicitudes de Informacion 2018 Febrero.xls)
-* [03 Solicitudes de Informacion 2018 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/03 Solicitudes de Informacion 2018 Marzo.xls)
-* [04 Solicitudes de Informacion 2018 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/04 Solicitudes de Informacion 2018 Abril.xls)
-* [05 Solicitudes de Informacion 2018 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/05 Solicitudes de Informacion 2018 Mayo.xls)
-* [06 Solicitudes de Informacion 2018 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/06 Solicitudes de Informacion 2018 Junio.xls)
-* [07 Solicitudes de Informacion 2018 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/07 Solicitudes de Informacion 2018 Julio.xls)
-* [08 Solicitudes de Informacion 2018 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/08 Solicitudes de Informacion 2018 Agosto.xls)
-* [09 Solicitudes de Informacion 2018 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/09 Solicitudes de Informacion 2018 Septiembre.xls)
-* [10 Solicitudes de Informacion 2018 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/10 Solicitudes de Informacion 2018 Octubre.xls)
-* [11 Solicitudes de Informacion 2018 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/11 Solicitudes de Informacion 2018 Noviembre.xls)
-* [12 Solicitudes de Informacion 2018 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/03. 2018/12 Solicitudes de Informacion 2018 Diciembre.xls)
+* [01 Solicitudes de Informacion 2019 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/01 Solicitudes de Informacion 2019 Enero.xls)
+* [02 Solicitudes de Informacion 2019 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/02 Solicitudes de Informacion 2019 Febrero.xls)
+* [03 Solicitudes de Informacion 2019 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/03 Solicitudes de Informacion 2019 Marzo.xls)
+* [04 Solicitudes de Informacion 2019 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/04 Solicitudes de Informacion 2019 Abril.xls)
+* [05 Solicitudes de Informacion 2019 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/05 Solicitudes de Informacion 2019 Mayo.xls)
+* [06 Solicitudes de Informacion 2019 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/06 Solicitudes de Informacion 2019 Junio.xls)
+* [07 Solicitudes de Informacion 2019 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/07 Solicitudes de Informacion 2019 Julio.xls)
+* [08 Solicitudes de Informacion 2019 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/08 Solicitudes de Informacion 2019 Agosto.xls)
+* [09 Solicitudes de Informacion 2019 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/09 Solicitudes de Informacion 2019 Septiembre.xls)
+* [10 Solicitudes de Informacion 2019 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/10 Solicitudes de Informacion 2019 Octubre.xls)
+* [11 Solicitudes de Informacion 2019 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/11 Solicitudes de Informacion 2019 Noviembre.xls)
+* [12 Solicitudes de Informacion 2019 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/2. 2019/12 Solicitudes de Informacion 2019 Diciembre.xls)
+
+
+### 3. 2018
+
+
+* [01 Solicitudes de Informacion 2018 Enero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/01 Solicitudes de Informacion 2018 Enero.xls)
+* [02 Solicitudes de Informacion 2018 Febrero.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/02 Solicitudes de Informacion 2018 Febrero.xls)
+* [03 Solicitudes de Informacion 2018 Marzo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/03 Solicitudes de Informacion 2018 Marzo.xls)
+* [04 Solicitudes de Informacion 2018 Abril.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/04 Solicitudes de Informacion 2018 Abril.xls)
+* [05 Solicitudes de Informacion 2018 Mayo.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/05 Solicitudes de Informacion 2018 Mayo.xls)
+* [06 Solicitudes de Informacion 2018 Junio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/06 Solicitudes de Informacion 2018 Junio.xls)
+* [07 Solicitudes de Informacion 2018 Julio.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/07 Solicitudes de Informacion 2018 Julio.xls)
+* [08 Solicitudes de Informacion 2018 Agosto.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/08 Solicitudes de Informacion 2018 Agosto.xls)
+* [09 Solicitudes de Informacion 2018 Septiembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/09 Solicitudes de Informacion 2018 Septiembre.xls)
+* [10 Solicitudes de Informacion 2018 Octubre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/10 Solicitudes de Informacion 2018 Octubre.xls)
+* [11 Solicitudes de Informacion 2018 Noviembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/11 Solicitudes de Informacion 2018 Noviembre.xls)
+* [12 Solicitudes de Informacion 2018 Diciembre.xls](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F24 Solicitudes de Información y Respuestas/3. 2018/12 Solicitudes de Informacion 2018 Diciembre.xls)
 
 

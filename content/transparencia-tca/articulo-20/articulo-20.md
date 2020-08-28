@@ -18,7 +18,7 @@ Lic. Liliana Ortiz Herrera, Titular de la Unida de Transparencia del Tribunal de
 
 FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
 
 
 ## Descargar

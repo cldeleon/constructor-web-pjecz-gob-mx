@@ -18,7 +18,7 @@ Lic. Myriam Fuentes Pedraza, Directora de Recursos Humanos
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio de 2020
+10 de agosto de 2020
 
 En el Poder Judicial del Estado de Coahuila de Zaragoza, no ha sido constituido algún sindicato de empleados adscritos al mismo, por lo que no se realiza aportación en dinero o en especie a sindicato alguno. Es importante mencionar que en el Poder Judicial, labora personal agremiado al Sindicato Único de Trabajadores del Gobierno del Estado, el cual se rige conforme al convenio laboral de prestaciones económicas y sociales para trabajadores sindicalizados al servicio del Gobierno del Estado de Coahuila de Zaragoza.
 
@@ -28,6 +28,6 @@ En el Poder Judicial del Estado de Coahuila de Zaragoza, no ha sido constituido 
 
 * [01 Convenio Laboral de Prestaciones Económicas y Sociales.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F10 Condiciones Generales de Trabajo/01 Convenio Laboral de Prestaciones Económicas y Sociales.pdf)
 * [02 Reglamento de Condiciones Generales de Trabajo para el Gobierno del Estado.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F10 Condiciones Generales de Trabajo/02 Reglamento de Condiciones Generales de Trabajo para el Gobierno del Estado.pdf)
-* [03 Estatuto Jurídico para los Trabajadores al Servicio del Estado De Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F10 Condiciones Generales de Trabajo/03 Estatuto Jurídico para los Trabajadores al Servicio del Estado De Coahuila.pdf)
+* [03 Estatuto Jurídico para los trabajadores al servicio del Estado de Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia TCA/Artículo 21/F10 Condiciones Generales de Trabajo/03 Estatuto Jurídico para los trabajadores al servicio del Estado de Coahuila.pdf)
 
 

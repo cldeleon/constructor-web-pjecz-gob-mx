@@ -18,31 +18,41 @@ Lic. Liliana Ortiz Herrera, Titular de la Unidad de Transparencia del Tribunal d
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
 [Mensajes y Ponencias del Magistrado Presidente Miguel Felipe Mery Ayup](https://www.pjecz.gob.mx/conocenos/quienes-somos/bienvenida/)
 
 [Abogados registrados ante el Tribunal Superior de Justicia](https://www.pjecz.gob.mx/consultas/abogados-registrados/)
 
+[Acuerdos del Consejo de la Judicatura](https://www.pjecz.gob.mx/category/acuerdos-del-consejo.html)
+
 [Armonización Contable](https://www.pjecz.gob.mx/armonizacion-contable/)
 
 [Aviso de Privacidad](https://www.pjecz.gob.mx/aviso-de-privacidad/)
 
-[Informe de Labores](https://www.pjecz.gob.mx/transparencia/articulo-21/f40-informe-anual-actividades/)
+[Buzón electrónico](https://www.pjecz.gob.mx/buzon-electronico/)
 
 [Calendario de Labores](https://www.pjecz.gob.mx/consultas/calendario-de-labores/)
+
+[Comunicados](https://www.pjecz.gob.mx/category/comunicados.html)
 
 [Conócenos](https://www.pjecz.gob.mx/conocenos/)
 
 [Consulta de Boletas](https://www.pjecz.gob.mx/consultas/boletas/)
 
+[Informe de Labores](https://www.pjecz.gob.mx/transparencia/articulo-21/f40-informe-anual-actividades/)
+
 [Instituto Estatal de Defensorí­a Pública](https://www.pjecz.gob.mx/conocenos/estructura/tribunal-superior-de-justicia/organos-no-jurisdiccionales/instituto-estatal-de-defensoria-publica/)
+
+[Edictos Declaración de Ausencia](https://www.pjecz.gob.mx/edictos-de-declaracion-de-ausencia/)
 
 [Edictos en Línea](https://www.pjecz.gob.mx/consultas/edictos/)
 
 [Expediente Virtual](https://www.pjecz.gob.mx/consultas/expediente-virtual/)
 
 [Listas Especiales](https://www.pjecz.gob.mx/consultas/listas-especiales/)
+
+[Observatorio Judicial](https://www.pjecz.gob.mx/observatorio-judicial/)
 
 [Peritos Auxiliares de la Administración de Justicia](https://www.pjecz.gob.mx/transparencia/articulo-27/f20-lista-peritos/)
 

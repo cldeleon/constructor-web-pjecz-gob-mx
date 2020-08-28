@@ -10,8 +10,7 @@ Modified: 2020-04-30 09:30:00
 
 ## Artículo 21
 
-Los sujetos obligados, deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
-
+##### Los sujetos obligados, deberán mantener impresa para consulta directa y difundir, además de la contenida en el artículo 70 de la Ley General, a través de los sitios de internet y de la Plataforma Nacional de Transparencia, la siguiente información adicional de interés público:
 
 
 ## Fracciones
@@ -69,8 +68,5 @@ Los sujetos obligados, deberán mantener impresa para consulta directa y difundi
 50. [Proceso Catastral de Valuación](f50-proceso-catastral-valuacion/)
 51. [Mecanismos que midan el impacto ambiental, social, demográfico y económico](f51-mecanismos-midan-impacto-ambiental-social-demografico-economico/)
 52. [Otra Información](f52-otra-informacion/)
-
-
- 
 
 

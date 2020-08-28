@@ -14,11 +14,11 @@ Las listas de acuerdos de todos los órganos jurisdiccionales, las sentencias re
 
 #### RESPONSABLE
 
-Órganos Jurisdiccionales 
+Órganos Jurisdiccionales
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ##### [Consulta de Listas de Acuerdos](https://www.pjecz.gob.mx/consultas/listas-de-acuerdos//)
 

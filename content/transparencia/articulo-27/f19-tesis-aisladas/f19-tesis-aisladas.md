@@ -18,7 +18,7 @@ Consejo de la Judicatura
 
 ### FECHA DE VALIDACIÓN
 
-1 de julio del 2020
+07 de agosto de 2020
 
 ##### 
 

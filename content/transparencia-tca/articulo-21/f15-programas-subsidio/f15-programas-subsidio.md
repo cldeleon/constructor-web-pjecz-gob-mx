@@ -18,10 +18,10 @@ C.P. Silvia Gabriela Saucedo Muñoz, Directora de Recursos Financieros.
 
 ### FECHA DE VALIDACIÓN
 
-01 de julio del 2020
+10 de agosto del 2020
 
-No Aplica lo dispuesto en la fracción XV del artículo 21 de la ley de Acceso a la Informacion Pública paa el Estado de Cohuila de Zaragoza, referente a "Los programas de subsidio, estímulo y apoyos que ofrece, incluyendo el diseño, ejecución, montos asignados, criterios y requisitos para acceder a éstos, en su caso, las reglas de operación, así como el área responsable de la entrega".
+No Aplica lo dispuesto en la fracción XV del artículo 21 de la ley de Acceso a la Información Pública para el Estado de Cohuila de Zaragoza, referente a "Los programas de subsidio, estímulo y apoyos que ofrece, incluyendo el diseño, ejecución, montos asignados, criterios y requisitos para acceder a éstos, en su caso, las reglas de operación, así como el área responsable de la entrega".
 
-Lo anterior en virtud de que de conformidad con la Constitución Política del Estado de Coahuila de Zaragoza y con la Ley Orgánia del Poder Judicial del Esatdo de Coahuila de Zaragoza, no se establecen programas de subsidios, estímulos o apoyos a ejecutrar por parte del Tribunal de Conciliación y Arbitraje del Poder Judicial.
+Lo anterior en virtud de que de conformidad con la Constitución Política del Estado de Coahuila de Zaragoza y con la Ley Orgánica del Poder Judicial del Estado de Coahuila de Zaragoza, no se establecen programas de subsidios, estímulos o apoyos a ejecutar por parte del Tribunal de Conciliación y Arbitraje del Poder Judicial.
 
 

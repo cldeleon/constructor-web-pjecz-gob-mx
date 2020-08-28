@@ -18,7 +18,11 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
+
+**En formato *excel* podrá consultar y descargar el Reporte mensual de solicitudes, de igual se anexa una Guía para consultar las respuestas a través del [Sistema de Solicitudes de Información del Estado de Coahuila de Zaragoza ](http://189.254.130.35/infocoahuila/)**
+
+**[Aquí puedes descargar la guía de consulta dando un click](https://www.dropbox.com/s/t2cl0jibeo1kttz/Gu%C3%ADa%20de%20consulta%20Poder%20Judicial.pdf?dl=0)** 
 
 
 ### 01 Solicitudes 2020

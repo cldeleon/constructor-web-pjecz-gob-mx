@@ -18,7 +18,7 @@ Consejo de la Judicatura del Poder Poder Judicial del Estado de Coahuila de Zara
 
 #### FECHA DE VALIDACIÓN
 
-1 de julio de 2020
+07 de agosto de 2020
 
 ##### [Sanciones a Servidores Públicos](https://www.pjecz.gob.mx/conocenos/estructura/consejo-de-la-judicatura/sanciones-a-servidores-publicos/)
 

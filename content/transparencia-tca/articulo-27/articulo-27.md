@@ -10,6 +10,9 @@ Modified: 2020-04-30 09:30:00
 
 ## Artículo 27
 
+Además de lo señalado en el artículo 73 de la Ley General y el artículo 21 del presente ordenamiento, el Poder Judicial del Estado, deberá publicar la siguiente información:
+
+**II.** Por conducto del Tribunal de Conciliación y Arbitraje, además de lo que le resulte aplicable del artículo 73 de la Ley General:
 
 
 ## Fracciones
