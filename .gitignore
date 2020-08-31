@@ -12,6 +12,7 @@ __pycache__
 *.xlsx
 *.zip
 output/
+content/acuerdos-del-consejo
 content/armonizacion-contable/
 content/comunicados/
 content/conocenos/

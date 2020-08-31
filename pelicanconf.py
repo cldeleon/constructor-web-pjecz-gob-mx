@@ -24,7 +24,7 @@ PATH = 'content'
 
 # Directorios que tienen los articulos
 ARTICLE_PATHS = [
-    'acuerdos',
+    'acuerdos-del-consejo',
     'comunicados',
     'sesiones',
 ]
@@ -50,7 +50,7 @@ PAGE_PATHS = [
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
-    'acuerdos',
+    'acuerdos-del-consejo',
     'armonizacion-contable',
     'buzon-electronico',
     'citas',
@@ -61,6 +61,7 @@ STATIC_PATHS = [
     'derechos-humanos',
     'json',
     'observatorio-judicial',
+    'sesiones',
     'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
