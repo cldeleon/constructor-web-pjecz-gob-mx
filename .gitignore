@@ -1,4 +1,5 @@
 .directory
+.vscode
 .~lock.*
 *.egg-info
 *.pyc
@@ -12,10 +13,11 @@ __pycache__
 *.xlsx
 *.zip
 output/
-content/acuerdos-del-consejo
+content/acuerdos-del-consejo/
 content/armonizacion-contable/
+content/boletines-judiciales/
 content/comunicados/
 content/conocenos/
 content/derechos-humanos-e-igualdad-de-genero/
 content/observatorio-judicial/
-content/sesiones
+content/sesiones/
