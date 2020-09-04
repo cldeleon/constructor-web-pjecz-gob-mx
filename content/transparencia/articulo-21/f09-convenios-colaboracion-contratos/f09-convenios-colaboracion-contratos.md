@@ -33,6 +33,7 @@ Maestro Rodrigo González Morales, Secretario Técnico y de Transparencia
 * [Convenio UNIVIM.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/01 Convenios 2020/Convenio UNIVIM.pdf)
 * [Convenio Universidad Autónoma de Coahuila.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/01 Convenios 2020/Convenio Universidad Autónoma de Coahuila.pdf)
 * [Convenio Universidad Vizcaya de las Américas.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/01 Convenios 2020/Convenio Universidad Vizcaya de las Américas.pdf)
+* [Convenio con la Secretaría de Fiscalización.pdf](https://storage.googleapis.com/pjecz-gob-mx/Transparencia/Artículo 21/F09 Convenios de Colaboración y Contratos/01 Convenios 2020/Convenio con la Secretaría de Fiscalización.pdf)
 
 
 ### 02 Convenios 2019

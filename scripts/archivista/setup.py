@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name='Archivista',
-    version='0.3',
+    version='0.2',
     py_modules=['archivista'],
     install_requires=[
         'Click',
