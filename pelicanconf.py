@@ -106,7 +106,7 @@ OUTPUT_RETENTION = ['.git', '.gitignore']
 # Paginacion
 #DEFAULT_PAGINATION = False
 DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 12
+DEFAULT_PAGINATION = 8
 DEFAULT_ORPHANS = 2
 
 # Para desarrollo BORRAR todo el directorio de salida
