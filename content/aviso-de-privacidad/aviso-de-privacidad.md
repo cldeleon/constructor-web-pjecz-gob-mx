@@ -1,6 +1,6 @@
 Title: Aviso de Privacidad
 Slug: aviso-de-privacidad
-Summary: .
+Summary:
 URL: aviso-de-privacidad/
 Save_As: aviso-de-privacidad/index.html
 Date: 2020-04-15 15:32
