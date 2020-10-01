@@ -42,6 +42,7 @@ PAGE_PATHS = [
     'edictos-de-declaracion-de-ausencia',
     'licencias',
     'observatorio-judicial',
+    'podcasts',
     'politicas-de-uso',
     'tramites-y-servicios',
     'transparencia',
