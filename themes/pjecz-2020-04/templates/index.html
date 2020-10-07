@@ -4,7 +4,6 @@
 
 {% block meta_tags %}
     <meta name="description" content="{{ SITEDESCRIPTION }}">
-    <meta name="keywords" content="{{ SITEKEYWORDS }}">
     <meta name="author" content="{{ AUTHOR }}">
     <!-- Facebook open graph configuration -->
     <meta property="og:title" content="{{ SITENAME }}">
@@ -12,13 +11,13 @@
     <meta property="og:url" content="{{ SITEURL }}/{{ output_file }}">
     <meta property="og:description" content="{{ SITEDESCRIPTION }}">
     <meta property="og:site_name" content="{{ SITENAME }}">
-    <meta property="og:image" content="{{ SITELOGO }}">
+    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
     <!-- Twitter card configuration -->
     <meta name="twitter:card" content="summary_large_image">
     <meta name="twitter:site" content="{{ SITETWITTER }}">
     <meta name="twitter:title" content="{{ SITENAME }}">
     <meta name="twitter:description" content="{{ SITEDESCRIPTION }}">
-    <meta name="twitter:image" content="{{ SITELOGO }}">
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ SITELOGO }}">
     <!-- schema.org metadata -->
     <script type="application/ld+json">
     {

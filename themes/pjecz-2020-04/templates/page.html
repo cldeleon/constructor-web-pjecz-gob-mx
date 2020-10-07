@@ -4,8 +4,20 @@
 
 {% block meta_tags %}
     <meta name="description" content="{{ page.summary|striptags }}">
-    <meta name="keywords" content="{{ page.tags|join(', ') }}">
     <meta name="author" content="{{ page.author.name }}">
+    <!-- Facebook open graph configuration -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}">
+    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:description" content="{{ page.summary|striptags }}">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+    <!-- Twitter card configuration -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.summary|striptags }}">
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ SITELOGO }}">
 {% endblock %}
 
 {% block header %}
@@ -25,6 +37,29 @@
 {% block content %}
     <!-- Contenido -->
 	<article>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ SITENAME }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                    },
+                    "url": "{{ SITEURL }}"
+                },
+                "author": "{{ page.author }}",
+                "name": "{{ page.title }}",
+                "headline": "{{ page.title }}",
+                "description": "{{ page.summary|striptags }}",
+                "dateCreated": "{{ page.date }}",
+                "datePublished": "{{ page.date }}",
+                "dateModified": "{{ page.modified }}",
+                "url": "{{ SITEURL }}/{{ page.url }}"
+            }
+        </script>
 		<div class="container py-4">
 {{ page.content }}
 		</div>
