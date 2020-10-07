@@ -1,6 +1,5 @@
 Title: Monclova
 Slug: edictos-de-declaracion-de-ausencia-monclova
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/monclova/
 Save_As: edictos-de-declaracion-de-ausencia/monclova/index.html
@@ -8,7 +7,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
- 
+
 
 
 

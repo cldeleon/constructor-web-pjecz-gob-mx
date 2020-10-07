@@ -1,6 +1,5 @@
 Title: Términos de Uso de la Información
 Slug: terminos-de-uso-de-la-informacion
-Summary: .
 URL: politicas-de-uso/terminos-de-uso-de-la-informacion/
 Save_As: politicas-de-uso/terminos-de-uso-de-la-informacion/index.html
 Date: 2020-04-27 17:02

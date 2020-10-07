@@ -1,6 +1,5 @@
 Title: Términos del Uso del Sitio Web
 Slug: terminos-del-uso-del-sitio-web
-Summary: .
 URL: politicas-de-uso/terminos-de-uso-del-sitio-web/
 Save_As: politicas-de-uso/terminos-de-uso-del-sitio-web/index.html
 Date: 2018-03-15 12:40

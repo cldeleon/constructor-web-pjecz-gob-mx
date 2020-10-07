@@ -1,6 +1,5 @@
 Title: Edictos de Declaración de Ausencia
 Slug: edictos-de-declaracion-de-ausencia
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/
 Save_As: edictos-de-declaracion-de-ausencia/index.html

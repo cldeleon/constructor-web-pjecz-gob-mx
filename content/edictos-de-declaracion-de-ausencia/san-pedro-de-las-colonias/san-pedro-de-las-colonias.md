@@ -1,6 +1,5 @@
 Title: San Pedro de las Colonias
 Slug: edictos-de-declaracion-de-ausencia-san-pedro-de-las-colonias
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/san-pedro-de-las-colonias/
 Save_As: edictos-de-declaracion-de-ausencia/san-pedro-de-las-colonias/index.html
@@ -8,7 +7,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
- 
+
 
 
 

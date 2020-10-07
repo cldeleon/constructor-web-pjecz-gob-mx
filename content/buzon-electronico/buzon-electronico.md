@@ -74,7 +74,7 @@ Esta importante herramienta de innovación reducirá la afluencia a los órganos
 
 ## Documentos
 
-- [Acuerdo Buzón Electrónico de Demandas y Promociones](/acuerdos/2020/2020-07-03-1300-acuerdo-buzon-electronico-de-demandas-y-promociones/)
+- [Acuerdo Buzón Electrónico de Demandas y Promociones](../acuerdos-del-consejo/2020/2020-07-03-1300-acuerdo-buzon-electronico-de-demandas-y-promociones/)
 - [Manual del Buzón Electrónico para Abogados v2](https://storage.googleapis.com/pjecz-gob-mx/Consultas/Buz%C3%B3n%20Electr%C3%B3nico/Manual%20del%20Buz%C3%B3n%20Electr%C3%B3nico%20abogados%20v2.pdf)
 
 ## Agende su cita para registrarse

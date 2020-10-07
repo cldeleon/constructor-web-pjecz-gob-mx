@@ -1,6 +1,5 @@
 Title: Versión Pública de Sentencias
 Slug: consultas-sentencias
-Summary: .
 URL: consultas/sentencias/
 Save_As: consultas/sentencias/index.html
 Date: 2020-05-11 16:00

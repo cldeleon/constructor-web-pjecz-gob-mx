@@ -1,6 +1,5 @@
 Title: Acuña
 Slug: edictos-de-declaracion-de-ausencia-acuna
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/acuna/
 Save_As: edictos-de-declaracion-de-ausencia/acuna/index.html
@@ -8,7 +7,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
- 
+
 
 
 

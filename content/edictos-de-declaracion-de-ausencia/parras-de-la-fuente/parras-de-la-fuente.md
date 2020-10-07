@@ -1,6 +1,5 @@
 Title: Parras de la Fuente
 Slug: edictos-de-declaracion-de-ausencia-parras-de-la-fuente
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/parras-de-la-fuente/
 Save_As: edictos-de-declaracion-de-ausencia/parras-de-la-fuente/index.html
@@ -8,7 +7,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
- 
+
 
 
 

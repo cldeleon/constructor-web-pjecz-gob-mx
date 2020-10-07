@@ -1,6 +1,5 @@
 Title: Río Grande
 Slug: edictos-de-declaracion-de-ausencia-rio-grande
-Summary: .
 Category: Edictos de Declaración de Ausencia
 URL: edictos-de-declaracion-de-ausencia/rio-grande/
 Save_As: edictos-de-declaracion-de-ausencia/rio-grande/index.html
@@ -8,7 +7,7 @@ Date: 2020-05-04 09:12
 Modified: 2020-05-04 09:12
 
 
- 
+
 
 
 

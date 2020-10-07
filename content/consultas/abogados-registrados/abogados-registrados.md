@@ -1,6 +1,5 @@
 Title: Abogados Registrados
 Slug: consultas-abogados-registrados
-Summary: .
 URL: consultas/abogados-registrados/
 Save_As: consultas/abogados-registrados/index.html
 Date: 2020-06-17 10:42
