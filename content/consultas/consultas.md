@@ -14,9 +14,11 @@ Modified: 2020-06-01 16:29
 
 ### [Edictos](edictos/)
 
+### [Edictos de Declaración de Ausencia](../edictos-de-declaracion-de-ausencia/)
+
 ### [Expediente Virtual](expediente-virtual/)
 
-### [Lista de Peritos](/transparencia/articulo-27/f20-lista-de-peritos/)
+### [Lista de Peritos](../transparencia/articulo-27/f20-lista-de-peritos/)
 
 ### [Listas de Acuerdos](listas-de-acuerdos/)
 
