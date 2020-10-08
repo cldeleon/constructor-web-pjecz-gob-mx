@@ -1,6 +1,6 @@
 Title: Buzón Electrónico
-Slug: buzon-electronico
 Summary: Plataforma en línea para el envío de demandas iniciales y promociones al Poder Judicial del Estado de Coahuila de Zaragoza.
+Slug: buzon-electronico
 URL: buzon-electronico/
 Save_As: buzon-electronico/index.html
 Date: 2020-07-06 08:30

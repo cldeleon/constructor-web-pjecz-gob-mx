@@ -1,6 +1,6 @@
 Title: Expediente Virtual
-Slug: consultas-expediente-virtual
 Summary: Consulta de expedientes en línea.
+Slug: consultas-expediente-virtual
 URL: consultas/expediente-virtual/
 Save_As: consultas/expediente-virtual/index.html
 Date: 2020-04-29 20:00

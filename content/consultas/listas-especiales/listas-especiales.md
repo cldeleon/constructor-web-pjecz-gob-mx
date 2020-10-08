@@ -1,4 +1,5 @@
 Title: Listas Especiales
+Summary:
 Slug: consultas-listas-especiales
 URL: consultas/listas-especiales/
 Save_As: consultas/listas-especiales/index.html

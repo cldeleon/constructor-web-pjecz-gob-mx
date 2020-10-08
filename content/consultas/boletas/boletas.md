@@ -1,4 +1,5 @@
 Title: Consulta de Boletas
+Summary:
 Slug: consultas-boletas
 URL: consultas/botelas/
 Save_As: consultas/boletas/index.html
