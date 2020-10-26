@@ -1,0 +1,67 @@
+{% extends "base.html" %}
+
+{% block title %}{{ page.title }} - {{ SITENAME }}{% endblock %}
+
+{% block meta_tags %}
+    <meta name="description" content="{{ page.summary|striptags }}">
+    <meta name="author" content="{{ page.author.name }}">
+    <!-- Facebook open graph configuration -->
+    <meta property="og:title" content="{{ page.title }}">
+    <meta property="og:type" content="article">
+    <meta property="og:url" content="{{ SITEURL }}/{{ page.url }}">
+    <meta property="og:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+    <meta property="og:description" content="{{ page.summary|striptags }}">
+    <meta property="og:site_name" content="{{ SITENAME }}">
+    <!-- Twitter card configuration -->
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:site" content="{{ SITETWITTER }}">
+    <meta name="twitter:title" content="{{ page.title }}">
+    <meta name="twitter:description" content="{{ page.summary|striptags }}">
+    <meta name="twitter:image" content="{{ SITEURL }}/{{ SITELOGO }}">
+{% endblock %}
+
+{% block header %}
+    <!-- Encabezado -->
+    <header class="py-2">
+        <div class="container h-100">
+            <div class="row h-100 align-items-center">
+                <div class="col-lg-12">
+                    <h1 class="display-4 mt-5 mb-2">{{ page.title }}</h1>
+                    {% if page.summary|striptags != '' %}<p class="lead mb-5">{{ page.summary|striptags }}</p>{% endif %}
+                </div>
+            </div>
+        </div>
+    </header>
+{% endblock %}
+
+{% block content %}
+    <!-- Contenido -->
+	<article>
+        <script type="application/ld+json">
+            {
+                "@context": "http://schema.org",
+                "@type": "BlogPosting",
+                "publisher": {
+                    "@type": "Organization",
+                    "name": "{{ SITENAME }}",
+                    "logo": {
+                        "@type": "ImageObject",
+                        "url": "{{ SITEURL }}/{{ SITELOGO }}"
+                    },
+                    "url": "{{ SITEURL }}"
+                },
+                "author": "{{ page.author }}",
+                "name": "{{ page.title }}",
+                "headline": "{{ page.title }}",
+                "description": "{{ page.summary|striptags }}",
+                "dateCreated": "{{ page.date }}",
+                "datePublished": "{{ page.date }}",
+                "dateModified": "{{ page.modified }}",
+                "url": "{{ SITEURL }}/{{ page.url }}"
+            }
+        </script>
+		<div class="container py-4">
+{{ page.content }}
+		</div>
+	</article>
+{% endblock %}
