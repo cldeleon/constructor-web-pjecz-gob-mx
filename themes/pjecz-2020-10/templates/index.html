@@ -32,23 +32,27 @@
 
 {% block header %}
     <!-- Encabezado -->
+{% if output_file == 'index.html' %}
+    <header class="hidden" style="display:none">
+        <h1>{{ SITENAME }}</h1>
+        <p>{{ SITEDESCRIPTION }}</p>
+    </header>
+{% else %}
     <header class="py-2">
         <div class="container h-100">
             <div class="row h-100 align-items-center">
                 <div class="col-lg-12">
-{% if output_file == 'index.html' %}
-                    <h1 class="display-4 mt-5 mb-2">{{ SITENAME }}</h1>
-                    <p class="lead mb-5">{{ SITEDESCRIPTION }}</p>
-{% elif articles %}
+{%   if articles %}
                     <h1 class="display-4 mt-5 mb-2">{% block heading_title %}{% endblock %}</h1>
-{% else %}
+{%   else %}
                     <h1 class="display-4 mt-5 mb-2">{{ SITENAME }}</h1>
                     <p class="lead mb-5">{{ SITEDESCRIPTION }}</p>
-{% endif %}
+{%   endif %}
                 </div>
             </div>
         </div>
     </header>
+{% endif %}
 {% endblock %}
 
 {% block content %}
