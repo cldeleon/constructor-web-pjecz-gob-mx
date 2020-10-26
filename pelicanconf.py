@@ -3,7 +3,6 @@
 from __future__ import unicode_literals
 
 # Tema
-#THEME = 'themes/startbootstrap-business-frontpage'
 THEME = 'themes/pjecz-2020-04'
 
 # Para desarrollo
@@ -24,42 +23,56 @@ PATH = 'content'
 
 # Directorios que tienen los articulos
 ARTICLE_PATHS = [
-    'acuerdos',
+    'acuerdos-del-consejo',
     'comunicados',
     'sesiones',
-    ]
+]
 
 # Directorios que tienen páginas fijas, no artículos
 PAGE_PATHS = [
     'armonizacion-contable',
     'aviso-de-privacidad',
+    'boletines-judiciales',
+    'buzon-electronico',
+    'calendario-de-labores',
     'citas',
     'conocenos',
     'consultas',
+    'derechos-humanos-e-igualdad-de-genero',
+    'edictos-de-declaracion-de-ausencia',
     'licencias',
+    'observatorio-judicial',
+    'podcasts',
     'politicas-de-uso',
     'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
-    ]
+]
 
 # Directorios y archivos que son fijos
 # Agregue también los directorios que tienen archivos para artículos y páginas
 STATIC_PATHS = [
-    'acuerdos',
+    'acuerdos-del-consejo',
     'armonizacion-contable',
+    'boletines-judiciales',
+    'buzon-electronico',
+    'calendario-de-labores',
     'citas',
     'comunicados',
     'conocenos',
     'consultas',
+    'edictos-de-declaracion-de-ausencia',
+    'derechos-humanos-e-igualdad-de-genero',
     'json',
+    'observatorio-judicial',
+    'sesiones',
     'tramites-y-servicios',
     'transparencia',
     'transparencia-tca',
     'CNAME',
     'favicon.ico',
     'robots.txt',
-    ]
+]
 
 # NO usar el directorio como la categoria
 USE_FOLDER_AS_CATEGORY = False
@@ -70,8 +83,8 @@ ARTICLE_SAVE_AS = '{category}/{date:%Y}/{slug}/index.html'
 
 # En cada pagina debe haber metadatos url y save_as
 # por lo que no necesitamos esto
-#PAGE_URL = 'directorio/directorio/'
-#PAGE_SAVE_AS = 'directorio/directorio/index.html'
+# PAGE_URL = 'directorio/directorio/'
+# PAGE_SAVE_AS = 'directorio/directorio/index.html'
 
 # Lenguaje y zona horaria
 DEFAULT_LANG = 'es'
@@ -93,9 +106,9 @@ TRANSLATION_FEED_RSS = None
 OUTPUT_RETENTION = ['.git', '.gitignore']
 
 # Paginacion
-#DEFAULT_PAGINATION = False
+# DEFAULT_PAGINATION = False
 DEFAULT_PAGINATION = True
-DEFAULT_PAGINATION = 12
+DEFAULT_PAGINATION = 8
 DEFAULT_ORPHANS = 2
 
 # Para desarrollo BORRAR todo el directorio de salida

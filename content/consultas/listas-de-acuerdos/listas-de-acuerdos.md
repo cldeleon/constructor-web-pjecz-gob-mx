@@ -1,6 +1,6 @@
 Title: Listas de Acuerdos
-Slug: consultas-listas-de-acuerdos
 Summary: Actuaciones que realiza diariamente el Poder Judicial del Estado de Coahuila de Zaragoza y que por ley de acuerdo al Código Procesal Civil deben de ser publicadas; en donde se incluyen autos, acuerdos, sentencias, exhortos y audiencias.
+Slug: consultas-listas-de-acuerdos
 URL: consultas/listas-de-acuerdos/
 Save_As: consultas/listas-de-acuerdos/index.html
 Date: 2020-05-11 16:00

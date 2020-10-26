@@ -12,7 +12,6 @@ from pelicanconf import *
 
 # Para producción los URLs son absolutos
 SITEURL = 'https://www.pjecz.gob.mx'
-SITELOGO = 'https://www.pjecz.gob.mx/theme/images/pjecz.png'
 RELATIVE_URLS = False
 
 # Para producción se activa la generacion de feeds

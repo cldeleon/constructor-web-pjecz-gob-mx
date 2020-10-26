@@ -1,6 +1,6 @@
 Title: Edictos en Línea
-Slug: consultas-edictos
 Summary: Comunicaciones oficiales públicas que tienen como fin promulgar una disposición, hacer pública una resolución, dar noticia de la celebración de un acto o citar a alguien.
+Slug: consultas-edictos
 URL: consultas/edictos/
 Save_As: consultas/edictos/index.html
 Date: 2020-05-19 22:22

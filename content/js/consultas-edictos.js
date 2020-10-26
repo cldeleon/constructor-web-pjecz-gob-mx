@@ -41,6 +41,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%205%20Acu%C3%B1a/lista.json">Notaria Pública 5 Acuña</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%206%20Acu%C3%B1a/lista.json">Notaria Pública 6 Acuña</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%208%20Acu%C3%B1a/lista.json">Notaria Pública 8 Acuña</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%2010%20Acu%C3%B1a/lista.json">Notaria Pública 10 Acuña</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%2014%20Acu%C3%B1a/lista.json">Notaria Pública 14 Acuña</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Acu%C3%B1a/Notaria%20P%C3%BAblica%2017%20Acu%C3%B1a/lista.json">Notaria Pública 17 Acuña</option>',
 
@@ -64,9 +65,12 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2024%20Monclova/lista.json">Notaria Pública 24 Monclova</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2029%20Monclova/lista.json">Notaria Pública 29 Monclova</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2032%20Monclova/lista.json">Notaria Pública 32 Monclova</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2035%20Monclova/lista.json">Notaria Pública 35 Monclova</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2036%20Monclova/lista.json">Notaria Pública 36 Monclova</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2039%20Monclova/lista.json">Notaria Pública 39 Monclova</option>' +
-        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2041%20Monclova/lista.json">Notaria Pública 41 Monclova</option>',
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2041%20Monclova/lista.json">Notaria Pública 41 Monclova</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2042%20Monclova/lista.json">Notaria Pública 42 Monclova</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Monclova/Notaria%20P%C3%BAblica%2044%20Monclova/lista.json">Notaria Pública 44 Monclova</option>',
 
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Parras%20de%20la%20Fuente/Juzgado%20de%20Primera%20Instancia%20en%20Materia%20Civil%20y%20Familiar%20Parras/lista.json">Juzgado de Primera Instancia en Materia Civil y Familiar Parras</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Parras%20de%20la%20Fuente/Juzgado%20de%20Primera%20Instancia%20en%20Materia%20Familiar%20Oral%20de%20Parras/lista.json">Juzgado de Primera Instancia en Materia Familiar Oral de Parras</option>',
@@ -90,6 +94,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2018%20Piedras%20Negras/lista.json">Notaria Pública 18 Piedras Negras</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2019%20Nava/lista.json">Notaria Pública 19 Nava</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2022%20Nava/lista.json">Notaria Pública 22 Nava</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2023%20Morelos/lista.json">Notaria Pública 23 Morelos</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2024%20Piedras%20Negras/lista.json">Notaria Pública 24 Piedras Negras</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Rio%20Grande/Notaria%20P%C3%BAblica%2025%20Piedras%20Negras/lista.json">Notaria Pública 25 Piedras Negras</option>',
 
@@ -148,6 +153,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2041%20Saltillo/lista.json">Notaria Pública 41 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2042%20Saltillo/lista.json">Notaria Pública 42 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2044%20Saltillo/lista.json">Notaria Pública 44 Saltillo</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2045%20Saltillo/lista.json">Notaria Pública 45 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2047%20Saltillo/lista.json">Notaria Pública 47 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2049%20Saltillo/lista.json">Notaria Pública 49 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2050%20Saltillo/lista.json">Notaria Pública 50 Saltillo</option>' +
@@ -180,6 +186,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2083%20Saltillo/lista.json">Notaria Pública 83 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2084%20Saltillo/lista.json">Notaria Pública 84 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2085%20Saltillo/lista.json">Notaria Pública 85 Saltillo</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2086%20Saltillo/lista.json">Notaria Pública 86 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2087%20Saltillo/lista.json">Notaria Pública 87 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2088%20Saltillo/lista.json">Notaria Pública 88 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%2089%20Saltillo/lista.json">Notaria Pública 89 Saltillo</option>' +
@@ -205,7 +212,8 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20119%20Saltillo/lista.json">Notaria Pública 119 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20122%20Saltillo/lista.json">Notaria Pública 122 Saltillo</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20123%20Saltillo/lista.json">Notaria Pública 123 Saltillo</option>' +
-        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20127%20Saltillo/lista.json">Notaria Pública 127 Saltillo</option>',
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20127%20Saltillo/lista.json">Notaria Pública 127 Saltillo</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Saltillo/Notaria%20P%C3%BAblica%20129%20Saltillo/lista.json">Notaria Pública 129 Saltillo</option>',
 
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20San%20Pedro%20de%20las%20Colonias/Juzgado%20de%20Primera%20Instancia%20en%20Materia%20Civil%20San%20Pedro/lista.json">Juzgado de Primera Instancia en Materia Civil San Pedro</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20San%20Pedro%20de%20las%20Colonias/Juzgado%20de%20Primera%20Instancia%20en%20Materia%20Familiar%20Oral%20San%20Pedro/lista.json">Juzgado de Primera Instancia en Materia Familiar Oral San Pedro</option>' +
@@ -254,6 +262,7 @@ $(document).ready(function() {
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2041%20Torreon/lista.json">Notaria Pública 41 Torreón</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2044%20Torreon/lista.json">Notaria Pública 44 Torreón</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2045%20Torreon/lista.json">Notaria Pública 45 Torreón</option>' +
+        '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2046%20Torreon/lista.json">Notaria Pública 46 Torreón</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2047%20Torreon/lista.json">Notaria Pública 47 Torreón</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2049%20Torreon/lista.json">Notaria Pública 49 Torreón</option>' +
         '<option value="https://storage.googleapis.com/pjecz-consultas/Edictos/Distrito%20de%20Torreon/Notaria%20Publica%2053%20Torreon/lista.json">Notaria Pública 53 Torreón</option>' +

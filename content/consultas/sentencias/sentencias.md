@@ -1,6 +1,6 @@
 Title: Versión Pública de Sentencias
+Summary:
 Slug: consultas-sentencias
-Summary: .
 URL: consultas/sentencias/
 Save_As: consultas/sentencias/index.html
 Date: 2020-05-11 16:00
@@ -18,7 +18,7 @@ JavaScripts: consultas-sentencias.js
 
 <table id="listaDeSentencias" class="table" style="width:100%">
 <thead>
-<th>Fecha</th>
+<th>Fecha de Publicación</th>
 <th>Sentencia</th>
 <th>Expediente</th>
 <th>P. Género</th>

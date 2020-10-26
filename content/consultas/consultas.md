@@ -1,22 +1,28 @@
 Title: Consultas
+Summary:
 Slug: consultas
-Summary: .
 URL: consultas/
 Save_As: consultas/index.html
 Date: 2020-04-22 16:30
 Modified: 2020-06-01 16:29
 
 
-## [Agenda de Audiencias](agenda-audiencias/)
+### [Abogados Registrados](abogados-registrados/)
 
-## [Consulta de Boletas](boletas/)
+### [Agenda de Audiencias](agenda-audiencias/)
 
-## [Edictos](edictos/)
+### [Consulta de Boletas](boletas/)
 
-## [Expediente Virtual](expediente-virtual/)
+### [Edictos](edictos/)
 
-## [Listas de Acuerdos](listas-de-acuerdos/)
+### [Edictos de Declaración de Ausencia](../edictos-de-declaracion-de-ausencia/)
 
-## [Listas Especiales](listas-especiales/)
+### [Expediente Virtual](expediente-virtual/)
 
-## [Versión Pública de Sentencias](sentencias/)
+### [Lista de Peritos](../transparencia/articulo-27/f20-lista-de-peritos/)
+
+### [Listas de Acuerdos](listas-de-acuerdos/)
+
+### [Listas Especiales](listas-especiales/)
+
+### [Versión Pública de Sentencias](sentencias/)
